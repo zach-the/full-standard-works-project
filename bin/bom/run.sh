@@ -13,7 +13,7 @@ OUTDIR="$ROOT/out/bom"
 mkdir -p "$OUTDIR"
 
 echo "Step 1: inserting verse markers..."
-python3 "$ROOT/bin/bom/verse_insert.py" "$TXT" "$JSON" "$OUTDIR/bom-step1"
+python3 "$ROOT/bin/verse_insert.py" "$TXT" "$JSON" "$OUTDIR/bom-step1"
 
 echo "Step 2: inserting chapter headings..."
 python3 "$ROOT/bin/chapter_insertion.py" "$OUTDIR/bom-step1.md" "$JSON" "$OUTDIR/bom-step2.md"
