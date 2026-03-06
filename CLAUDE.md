@@ -6,35 +6,44 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This repo processes LDS scripture texts — annotating plain-text editions with verse and chapter markers derived from structured JSON data, then verifying alignment. The output is Markdown with `<sub>N</sub>` verse markers and `<h1>Book Chapter</h1>` headings suitable for downstream rendering.
 
-## Scripts and Usage
+## Core Scripts (`bin/`)
 
-All scripts live in `bin/` and are run directly with Python 3. No build step or dependencies beyond the standard library.
+All scripts are run directly with Python 3. No build step or dependencies beyond the standard library.
 
-### Step 1: Insert verse markers
-
+### `bin/chapter_insertion.py`
+Scans an annotated MD file for `<sub>1</sub>` markers (verse 1 of each chapter) and inserts `<h1>Book Chapter</h1>` immediately before them.
 ```bash
-python3 bin/verse_insertion.py <input.txt> <input.json> <output_basename>
-# Produces: <output_basename>.md  (annotated text)
-#           <output_basename>.error  (unmatched verses, if any)
+python3 bin/chapter_insertion.py <annotated.md> <input.json> <output.md>
 ```
 
-Fuzzy token-matches each verse from the JSON into the text and inserts `<sub>N</sub>` before the matched position. Uses 8 threads (`max_workers`). Matching threshold: `min_match_tokens = 5`.
-
-### Step 2: Insert chapter headings
-
-```bash
-python3 bin/chapter_insertion_fixed.py <annotated.md> <input.json> <output.md>
-```
-
-Scans the annotated MD for `<sub>1</sub>` markers (verse 1 of each chapter) and inserts `<h1>Book Chapter</h1>` immediately before them. **Use `chapter_insertion_fixed.py`, not `chapter_insertion.py`** — the original has a positional index bug.
-
-### Step 3: Verify alignment
-
+### `bin/checker.py` *(do not modify)*
+Verifies alignment between an annotated MD and the JSON. Samples words at fixed positions (0%, 25%, 50%, 75%, 100%) within each verse range and reports mismatches.
 ```bash
 python3 bin/checker.py <annotated.md> <input.json> [differences.txt]
 ```
 
-Samples words at fixed positions (0%, 25%, 50%, 75%, 100%) within each verse range and reports mismatches. Default output file: `differences_found.txt`.
+### `bin/verse_insertion.py`
+General-purpose fuzzy verse insertion (O(N×M), slow). Suitable for small texts or as a fallback. Not used in the BOM pipeline.
+
+## Book of Mormon Pipeline (`bin/bom/`)
+
+Run the full pipeline:
+```bash
+bash bin/bom/run.sh
+# Output: out/bom/bom.md
+```
+
+Or step by step:
+```bash
+# Step 1: insert verse markers (sequential scan, ~0.6s for 6604 verses)
+python3 bin/bom/verse_insert.py in/txt/readers-edition-eng-bofm.txt in/json/book-of-mormon-flat.json out/bom/bom-step1
+
+# Step 2: insert chapter headings
+python3 bin/chapter_insertion.py out/bom/bom-step1.md in/json/book-of-mormon-flat.json out/bom/bom-step2.md
+
+# Step 3: verify (should report no differences)
+python3 bin/checker.py out/bom/bom-step2.md in/json/book-of-mormon-flat.json out/bom/differences.txt
+```
 
 ## Data Layout
 
@@ -56,6 +65,7 @@ References follow the pattern `"Book Name Chapter:Verse"`. The `rsplit(":", 1)` 
 
 ## Architecture Notes
 
-- **verse_insertion.py** pre-tokenizes the entire book text once, then matches each verse by sliding a token window and computing exact-token overlap ratio. Results are inserted back-to-front to avoid index shifting.
-- **chapter_insertion_fixed.py** advances a sequential pointer through `<sub>` matches, looking only for `<sub>1</sub>` to locate chapter starts — avoiding the off-by-one error in the original.
-- **checker.py** zips JSON verses with extracted MD verse ranges (text between consecutive `<sub>` tags) and does sampled word comparison rather than full-text diff, to handle minor formatting differences.
+- **Primary goal**: preserve the paragraphed structure of the input text files. All insertions are into the original text — no text is replaced or reworded. Casing and punctuation from the text files take precedence over the JSON.
+- **`bin/bom/verse_insert.py`** pre-tokenizes the book text once, then for each verse (in order) scans forward from the last matched position using the verse's leading 8 tokens as a fingerprint. After a match, `search_pos` advances by the full verse token count (not just the fingerprint) to prevent phrases embedded within a verse from being falsely matched as the start of the next verse. Results are inserted back-to-front to avoid index shifting.
+- **`bin/chapter_insertion.py`** advances a sequential pointer through `<sub>` matches, looking only for `<sub>1</sub>` to locate chapter starts.
+- **`bin/checker.py`** zips JSON verses with extracted MD verse ranges (text between consecutive `<sub>` tags) and does sampled word comparison rather than full-text diff, to handle minor formatting differences.

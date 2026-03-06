@@ -1,0 +1,36 @@
+Reference: Mosiah 2:10
+JSON Text: I have not commanded you to come up hither that ye should fear me, or that ye should think that I of myself am more than a mortal man.
+MD Text: I have not commanded you to come up hither to trifle with the words which I shall speak, but that you should hearken unto me, and open your ears that ye may hear, and your hearts that ye may understand, and your minds that the mysteries of God may be unfolded to your view. I have not commanded you to come up hither that ye should fear me, or that ye should think that I of myself am more than a mortal man.
+Mismatched Words (index, json, md):
+  14: or != which
+  21: of != should
+  28: man != ears
+================================================================================
+Reference: Helaman 13:32
+JSON Text: And in the days of your poverty ye shall cry unto the Lord; and in vain shall ye cry, for your desolation is already come upon you, and your destruction is made sure; and then shall ye weep and howl in that day, saith the Lord of Hosts. And then shall ye lament, and say:
+MD Text: and in the days of your poverty ye cannot retain them.
+
+And in the days of your poverty ye shall cry unto the Lord; and in vain shall ye cry, for your desolation is already come upon you, and your destruction is made sure; and then shall ye weep and howl in that day, saith the Lord of Hosts. And then shall ye lament, and say:
+Mismatched Words (index, json, md):
+  13: and != the
+  27: and != shall
+  41: that != is
+  54: say != saith
+================================================================================
+Reference: 3 Nephi 29:6
+JSON Text: Yea, wo unto him that shall deny the revelations of the Lord, and that shall say the Lord no longer worketh by revelation, or by prophecy, or by gifts, or by tongues, or by healings, or by the power of the Holy Ghost!
+MD Text: yea, wo unto him that shall deny the Christ and his works! Yea, wo unto him that shall deny the revelations of the Lord, and that shall say the Lord no longer worketh by revelation, or by prophecy, or by gifts, or by tongues, or by healings, or by the power of the Holy Ghost!
+Mismatched Words (index, json, md):
+  10: the != his
+  21: by != of
+  32: or != worketh
+  42: ghost != by
+================================================================================
+Reference: Mormon 8:27
+JSON Text: And it shall come in a day when the blood of saints shall cry unto the Lord, because of secret combinations and the works of darkness.
+MD Text: and it shall come in a day when it shall be said that miracles are done away; and it shall come even as if one should speak from the dead. And it shall come in a day when the blood of saints shall cry unto the Lord, because of secret combinations and the works of darkness.
+Mismatched Words (index, json, md):
+  13: cry != miracles
+  19: secret != shall
+  25: darkness != should
+================================================================================
