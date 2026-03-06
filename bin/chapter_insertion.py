@@ -28,32 +28,40 @@ if not sub_matches:
     print("❌ No <sub> tags found in the markdown file.")
     sys.exit(1)
 
-# --- Determine chapter boundaries from JSON ---
-chapter_starts = []  # (index_in_md, "Book Chapter")
+# --- Track position in markdown as we go ---
+chapter_starts = []
 current_chapter = None
-verse_index = 0
+sub_index = 0  # where we are in the markdown
 
 for verse in verses:
-    ref = verse["reference"]  # e.g. "1 Nephi 1:1"
+    ref = verse.get("reference")
+    if not ref:
+        continue
+
     try:
         book_chapter, verse_num = ref.rsplit(":", 1)
     except ValueError:
         continue
 
+    # new chapter boundary
     if book_chapter != current_chapter:
         current_chapter = book_chapter
-        # Find corresponding <sub> in the markdown
-        if verse_index < len(sub_matches):
-            sub_match = sub_matches[verse_index]
-            chapter_starts.append((sub_match.start(), book_chapter))
-    verse_index += 1
 
-# --- Insert <h1>chapter_name</h1> before those <sub> locations ---
-# We go from the end of the text backward so indices don't shift
+        # find the next <sub>1</sub> *after our current index*
+        found_pos = None
+        for i in range(sub_index, len(sub_matches)):
+            if sub_matches[i].group(1) == "1":
+                found_pos = sub_matches[i].start()
+                sub_index = i + 1
+                break
+
+        if found_pos is not None:
+            chapter_starts.append((found_pos, book_chapter))
+
+# --- Insert <h1> tags in reverse order ---
 new_text = md_text
 for pos, chapter_name in reversed(chapter_starts):
-    insertion = f"<h1>{chapter_name}</h1>"
-    new_text = new_text[:pos] + insertion + new_text[pos:]
+    new_text = new_text[:pos] + f"<h1>{chapter_name}</h1>" + new_text[pos:]
 
 # --- Write output ---
 with open(output_file, "w", encoding="utf-8") as f:
