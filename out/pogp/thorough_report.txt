@@ -1,0 +1,201 @@
+══════════════════════════════════════════════════════════════════════════════
+THOROUGH CHECKER REPORT
+══════════════════════════════════════════════════════════════════════════════
+MD:   out/pogp/pogp.md
+JSON: in/json/pearl-of-great-price-flat.json
+JSON verses: 635  |  MD <sub> tags: 635
+
+──────────────────────────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────────────────────────
+  Verse count match:        ✓
+  Verse number mismatches:  0
+  Missing chapter headings: 0 / 16
+  Verses with word errors:  16 / 635  (2.52%)
+    Total word-level diffs: 137
+    Substitutions:          0
+    Extra words (MD only):  137
+    Missing words (MD):     0
+  Verses clean:             619 / 635
+
+──────────────────────────────────────────────────────────────────────────────
+WORD MISMATCHES  (16 verses affected)
+──────────────────────────────────────────────────────────────────────────────
+  Pattern breakdown:
+    Only extra words in MD:   16
+    Only missing words in MD: 0
+    Mixed / substitutions:    0
+
+  First 80 affected verses:
+
+  Ref: Moses 1:42
+  JSON (41 w): these words were spoken unto moses in the mount the name of which shall not be known among the children of men and now t…
+  MD   (45 w): these words were spoken unto moses in the mount the name of which shall not be known among the children of men and now t…
+  Diffs (4):
+    [  41]  json='<MISSING>'                md='moses'
+    [  41]  json='<MISSING>'                md='2'
+    [  41]  json='<MISSING>'                md='juneoctober'
+    [  41]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 2:31
+  JSON (30 w): and i god saw everything that i had made and behold all things which i had made were very good and the evening and the m…
+  MD   (34 w): and i god saw everything that i had made and behold all things which i had made were very good and the evening and the m…
+  Diffs (4):
+    [  30]  json='<MISSING>'                md='moses'
+    [  30]  json='<MISSING>'                md='3'
+    [  30]  json='<MISSING>'                md='juneoctober'
+    [  30]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 3:25
+  JSON (14 w): and they were both naked the man and his wife and were not ashamed
+  MD   (18 w): and they were both naked the man and his wife and were not ashamed moses 4 juneoctober 1830
+  Diffs (4):
+    [  14]  json='<MISSING>'                md='moses'
+    [  14]  json='<MISSING>'                md='4'
+    [  14]  json='<MISSING>'                md='juneoctober'
+    [  14]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 4:32
+  JSON (44 w): and these are the words which i spake unto my servant moses and they are true even as i will and i have spoken them unto…
+  MD   (48 w): and these are the words which i spake unto my servant moses and they are true even as i will and i have spoken them unto…
+  Diffs (4):
+    [  44]  json='<MISSING>'                md='moses'
+    [  44]  json='<MISSING>'                md='5'
+    [  44]  json='<MISSING>'                md='juneoctober'
+    [  44]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 5:59
+  JSON (37 w): and thus all things were confirmed unto adam by an holy ordinance and the gospel preached and a decree sent forth that i…
+  MD   (41 w): and thus all things were confirmed unto adam by an holy ordinance and the gospel preached and a decree sent forth that i…
+  Diffs (4):
+    [  37]  json='<MISSING>'                md='moses'
+    [  37]  json='<MISSING>'                md='6'
+    [  37]  json='<MISSING>'                md='novemberdecember'
+    [  37]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 6:68
+  JSON (18 w): behold thou art one in me a son of god and thus may all become my sons amen
+  MD   (22 w): behold thou art one in me a son of god and thus may all become my sons amen moses 7 december 1830
+  Diffs (4):
+    [  18]  json='<MISSING>'                md='moses'
+    [  18]  json='<MISSING>'                md='7'
+    [  18]  json='<MISSING>'                md='december'
+    [  18]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 7:69
+  JSON (45 w): and enoch and all his people walked with god and he dwelt in the midst of zion and it came to pass that zion was not for…
+  MD   (49 w): and enoch and all his people walked with god and he dwelt in the midst of zion and it came to pass that zion was not for…
+  Diffs (4):
+    [  45]  json='<MISSING>'                md='moses'
+    [  45]  json='<MISSING>'                md='8'
+    [  45]  json='<MISSING>'                md='february'
+    [  45]  json='<MISSING>'                md='1831'
+
+  Ref: Moses 8:30
+  JSON (32 w): and god said unto noah the end of all flesh is come before me for the earth is filled with violence and behold i will de…
+  MD   (83 w): and god said unto noah the end of all flesh is come before me for the earth is filled with violence and behold i will de…
+  Diffs (51):
+    [  32]  json='<MISSING>'                md='the'
+    [  32]  json='<MISSING>'                md='book'
+    [  32]  json='<MISSING>'                md='of'
+    [  32]  json='<MISSING>'                md='abraham'
+    [  32]  json='<MISSING>'                md='translated'
+    [  32]  json='<MISSING>'                md='from'
+    [  32]  json='<MISSING>'                md='the'
+    [  32]  json='<MISSING>'                md='papyrus'
+    [  32]  json='<MISSING>'                md='by'
+    [  32]  json='<MISSING>'                md='joseph'
+    [  32]  json='<MISSING>'                md='smith'
+    [  32]  json='<MISSING>'                md='a'
+    ... and 39 more diffs in this verse
+
+  Ref: Abraham 1:31
+  JSON (80 w): but the records of the fathers even the patriarchs concerning the right of priesthood the lord my god preserved in mine …
+  MD   (82 w): but the records of the fathers even the patriarchs concerning the right of priesthood the lord my god preserved in mine …
+  Diffs (2):
+    [  80]  json='<MISSING>'                md='abraham'
+    [  80]  json='<MISSING>'                md='2'
+
+  Ref: Abraham 2:25
+  JSON (48 w): and it came to pass that i abraham told sarai my wife all that the lord had said unto metherefore say unto them i pray t…
+  MD   (50 w): and it came to pass that i abraham told sarai my wife all that the lord had said unto metherefore say unto them i pray t…
+  Diffs (2):
+    [  48]  json='<MISSING>'                md='abraham'
+    [  48]  json='<MISSING>'                md='3'
+
+  Ref: Abraham 3:28
+  JSON (19 w): and the second was angry and kept not his first estate and at that day many followed after him
+  MD   (21 w): and the second was angry and kept not his first estate and at that day many followed after him abraham 4
+  Diffs (2):
+    [  19]  json='<MISSING>'                md='abraham'
+    [  19]  json='<MISSING>'                md='4'
+
+  Ref: Abraham 4:31
+  JSON (59 w): and the gods said we will do everything that we have said and organize them and behold they shall be very obedient and i…
+  MD   (61 w): and the gods said we will do everything that we have said and organize them and behold they shall be very obedient and i…
+  Diffs (2):
+    [  59]  json='<MISSING>'                md='abraham'
+    [  59]  json='<MISSING>'                md='5'
+
+  Ref: Abraham 5:21
+  JSON (30 w): and adam gave names to all cattle to the fowl of the air to every beast of the field and for adam there was found an hel…
+  MD   (54 w): and adam gave names to all cattle to the fowl of the air to every beast of the field and for adam there was found an hel…
+  Diffs (24):
+    [  30]  json='<MISSING>'                md='joseph'
+    [  30]  json='<MISSING>'                md='smithmatthew'
+    [  30]  json='<MISSING>'                md='an'
+    [  30]  json='<MISSING>'                md='extract'
+    [  30]  json='<MISSING>'                md='from'
+    [  30]  json='<MISSING>'                md='the'
+    [  30]  json='<MISSING>'                md='translation'
+    [  30]  json='<MISSING>'                md='of'
+    [  30]  json='<MISSING>'                md='the'
+    [  30]  json='<MISSING>'                md='bible'
+    [  30]  json='<MISSING>'                md='as'
+    [  30]  json='<MISSING>'                md='revealed'
+    ... and 12 more diffs in this verse
+
+  Ref: Joseph Smith—Matthew 1:55
+  JSON (37 w): and thus cometh the end of the wicked according to the prophecy of moses saying they shall be cut off from among the peo…
+  MD   (48 w): and thus cometh the end of the wicked according to the prophecy of moses saying they shall be cut off from among the peo…
+  Diffs (11):
+    [  37]  json='<MISSING>'                md='joseph'
+    [  37]  json='<MISSING>'                md='smithhistory'
+    [  37]  json='<MISSING>'                md='extracts'
+    [  37]  json='<MISSING>'                md='from'
+    [  37]  json='<MISSING>'                md='the'
+    [  37]  json='<MISSING>'                md='history'
+    [  37]  json='<MISSING>'                md='of'
+    [  37]  json='<MISSING>'                md='joseph'
+    [  37]  json='<MISSING>'                md='smith'
+    [  37]  json='<MISSING>'                md='the'
+    [  37]  json='<MISSING>'                md='prophet'
+
+  Ref: Joseph Smith—History 1:75
+  JSON (84 w): we had been threatened with being mobbed from time to time and this too by professors of religion and their intentions o…
+  MD   (97 w): we had been threatened with being mobbed from time to time and this too by professors of religion and their intentions o…
+  Diffs (13):
+    [  84]  json='<MISSING>'                md='the'
+    [  84]  json='<MISSING>'                md='articles'
+    [  84]  json='<MISSING>'                md='of'
+    [  84]  json='<MISSING>'                md='faith'
+    [  84]  json='<MISSING>'                md='of'
+    [  84]  json='<MISSING>'                md='the'
+    [  84]  json='<MISSING>'                md='church'
+    [  84]  json='<MISSING>'                md='of'
+    [  84]  json='<MISSING>'                md='jesus'
+    [  84]  json='<MISSING>'                md='christ'
+    [  84]  json='<MISSING>'                md='of'
+    [  84]  json='<MISSING>'                md='latterday'
+    ... and 1 more diffs in this verse
+
+  Ref: Articles of Faith 1:13
+  JSON (65 w): we believe in being honest true chaste benevolent virtuous and in doing good to all men indeed we may say that we follow…
+  MD   (67 w): we believe in being honest true chaste benevolent virtuous and in doing good to all men indeed we may say that we follow…
+  Diffs (2):
+    [  65]  json='<MISSING>'                md='joseph'
+    [  65]  json='<MISSING>'                md='smith'
+
+══════════════════════════════════════════════════════════════════════════════
+RESULT: ✗ FAILURES DETECTED
+══════════════════════════════════════════════════════════════════════════════

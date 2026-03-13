@@ -1,0 +1,23 @@
+══════════════════════════════════════════════════════════════════════════════
+THOROUGH CHECKER REPORT
+══════════════════════════════════════════════════════════════════════════════
+MD:   out/nt/nt.md
+JSON: in/json/new-testament-flat.json
+JSON verses: 7957  |  MD <sub> tags: 7957
+
+──────────────────────────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────────────────────────
+  Verse count match:        ✓
+  Verse number mismatches:  0
+  Missing chapter headings: 0 / 260
+  Verses with word errors:  0 / 7957  (0.00%)
+    Total word-level diffs: 0
+    Substitutions:          0
+    Extra words (MD only):  0
+    Missing words (MD):     0
+  Verses clean:             7957 / 7957
+
+══════════════════════════════════════════════════════════════════════════════
+RESULT: ✅ ALL CHECKS PASSED
+══════════════════════════════════════════════════════════════════════════════

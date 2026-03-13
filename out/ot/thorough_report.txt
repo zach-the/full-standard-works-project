@@ -1,0 +1,1137 @@
+══════════════════════════════════════════════════════════════════════════════
+THOROUGH CHECKER REPORT
+══════════════════════════════════════════════════════════════════════════════
+MD:   out/ot/ot.md
+JSON: in/json/old-testament-flat.json
+JSON verses: 23145  |  MD <sub> tags: 23145
+
+──────────────────────────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────────────────────────
+  Verse count match:        ✓
+  Verse number mismatches:  0
+  Missing chapter headings: 0 / 929
+  Verses with word errors:  117 / 23145  (0.51%)
+    Total word-level diffs: 1035
+    Substitutions:          0
+    Extra words (MD only):  1035
+    Missing words (MD):     0
+  Verses clean:             23028 / 23145
+
+──────────────────────────────────────────────────────────────────────────────
+WORD MISMATCHES  (117 verses affected)
+──────────────────────────────────────────────────────────────────────────────
+  Pattern breakdown:
+    Only extra words in MD:   117
+    Only missing words in MD: 0
+    Mixed / substitutions:    0
+
+  First 80 affected verses:
+
+  Ref: Psalms 2:12
+  JSON (31 w): kiss the son lest he be angry and ye perish from the way when his wrath is kindled but a little blessed are all they tha…
+  MD   (42 w): kiss the son lest he be angry and ye perish from the way when his wrath is kindled but a little blessed are all they tha…
+  Diffs (11):
+    [  31]  json='<MISSING>'                md='a'
+    [  31]  json='<MISSING>'                md='psalm'
+    [  31]  json='<MISSING>'                md='of'
+    [  31]  json='<MISSING>'                md='david'
+    [  31]  json='<MISSING>'                md='when'
+    [  31]  json='<MISSING>'                md='he'
+    [  31]  json='<MISSING>'                md='fled'
+    [  31]  json='<MISSING>'                md='from'
+    [  31]  json='<MISSING>'                md='absalom'
+    [  31]  json='<MISSING>'                md='his'
+    [  31]  json='<MISSING>'                md='son'
+
+  Ref: Psalms 3:8
+  JSON (12 w): salvation belongeth unto the lord thy blessing is upon thy people selah
+  MD   (22 w): salvation belongeth unto the lord thy blessing is upon thy people selah to the chief musician on neginoth a psalm of dav…
+  Diffs (10):
+    [  12]  json='<MISSING>'                md='to'
+    [  12]  json='<MISSING>'                md='the'
+    [  12]  json='<MISSING>'                md='chief'
+    [  12]  json='<MISSING>'                md='musician'
+    [  12]  json='<MISSING>'                md='on'
+    [  12]  json='<MISSING>'                md='neginoth'
+    [  12]  json='<MISSING>'                md='a'
+    [  12]  json='<MISSING>'                md='psalm'
+    [  12]  json='<MISSING>'                md='of'
+    [  12]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 4:8
+  JSON (19 w): i will both lay me down in peace and sleep for thou lord only makest me dwell in safety
+  MD   (29 w): i will both lay me down in peace and sleep for thou lord only makest me dwell in safety to the chief musician upon nehil…
+  Diffs (10):
+    [  19]  json='<MISSING>'                md='to'
+    [  19]  json='<MISSING>'                md='the'
+    [  19]  json='<MISSING>'                md='chief'
+    [  19]  json='<MISSING>'                md='musician'
+    [  19]  json='<MISSING>'                md='upon'
+    [  19]  json='<MISSING>'                md='nehiloth'
+    [  19]  json='<MISSING>'                md='a'
+    [  19]  json='<MISSING>'                md='psalm'
+    [  19]  json='<MISSING>'                md='of'
+    [  19]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 5:12
+  JSON (17 w): for thou lord wilt bless the righteous with favour wilt thou compass him as with a shield
+  MD   (29 w): for thou lord wilt bless the righteous with favour wilt thou compass him as with a shield to the chief musician on negin…
+  Diffs (12):
+    [  17]  json='<MISSING>'                md='to'
+    [  17]  json='<MISSING>'                md='the'
+    [  17]  json='<MISSING>'                md='chief'
+    [  17]  json='<MISSING>'                md='musician'
+    [  17]  json='<MISSING>'                md='on'
+    [  17]  json='<MISSING>'                md='neginoth'
+    [  17]  json='<MISSING>'                md='upon'
+    [  17]  json='<MISSING>'                md='sheminith'
+    [  17]  json='<MISSING>'                md='a'
+    [  17]  json='<MISSING>'                md='psalm'
+    [  17]  json='<MISSING>'                md='of'
+    [  17]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 6:10
+  JSON (16 w): let all mine enemies be ashamed and sore vexed let them return and be ashamed suddenly
+  MD   (32 w): let all mine enemies be ashamed and sore vexed let them return and be ashamed suddenly shiggaion of david which he sang …
+  Diffs (16):
+    [  16]  json='<MISSING>'                md='shiggaion'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='david'
+    [  16]  json='<MISSING>'                md='which'
+    [  16]  json='<MISSING>'                md='he'
+    [  16]  json='<MISSING>'                md='sang'
+    [  16]  json='<MISSING>'                md='unto'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='lord'
+    [  16]  json='<MISSING>'                md='concerning'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='words'
+    ... and 4 more diffs in this verse
+
+  Ref: Psalms 7:17
+  JSON (21 w): i will praise the lord according to his righteousness and will sing praise to the name of the lord most high
+  MD   (31 w): i will praise the lord according to his righteousness and will sing praise to the name of the lord most high to the chie…
+  Diffs (10):
+    [  21]  json='<MISSING>'                md='to'
+    [  21]  json='<MISSING>'                md='the'
+    [  21]  json='<MISSING>'                md='chief'
+    [  21]  json='<MISSING>'                md='musician'
+    [  21]  json='<MISSING>'                md='upon'
+    [  21]  json='<MISSING>'                md='gittith'
+    [  21]  json='<MISSING>'                md='a'
+    [  21]  json='<MISSING>'                md='psalm'
+    [  21]  json='<MISSING>'                md='of'
+    [  21]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 8:9
+  JSON (13 w): o lord our lord how excellent is thy name in all the earth
+  MD   (23 w): o lord our lord how excellent is thy name in all the earth to the chief musician upon muthlabben a psalm of david
+  Diffs (10):
+    [  13]  json='<MISSING>'                md='to'
+    [  13]  json='<MISSING>'                md='the'
+    [  13]  json='<MISSING>'                md='chief'
+    [  13]  json='<MISSING>'                md='musician'
+    [  13]  json='<MISSING>'                md='upon'
+    [  13]  json='<MISSING>'                md='muthlabben'
+    [  13]  json='<MISSING>'                md='a'
+    [  13]  json='<MISSING>'                md='psalm'
+    [  13]  json='<MISSING>'                md='of'
+    [  13]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 10:18
+  JSON (17 w): to judge the fatherless and the oppressed that the man of the earth may no more oppress
+  MD   (25 w): to judge the fatherless and the oppressed that the man of the earth may no more oppress to the chief musician a psalm of…
+  Diffs (8):
+    [  17]  json='<MISSING>'                md='to'
+    [  17]  json='<MISSING>'                md='the'
+    [  17]  json='<MISSING>'                md='chief'
+    [  17]  json='<MISSING>'                md='musician'
+    [  17]  json='<MISSING>'                md='a'
+    [  17]  json='<MISSING>'                md='psalm'
+    [  17]  json='<MISSING>'                md='of'
+    [  17]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 11:7
+  JSON (12 w): for the righteous lord loveth righteousness his countenance doth behold the upright
+  MD   (22 w): for the righteous lord loveth righteousness his countenance doth behold the upright to the chief musician upon sheminith…
+  Diffs (10):
+    [  12]  json='<MISSING>'                md='to'
+    [  12]  json='<MISSING>'                md='the'
+    [  12]  json='<MISSING>'                md='chief'
+    [  12]  json='<MISSING>'                md='musician'
+    [  12]  json='<MISSING>'                md='upon'
+    [  12]  json='<MISSING>'                md='sheminith'
+    [  12]  json='<MISSING>'                md='a'
+    [  12]  json='<MISSING>'                md='psalm'
+    [  12]  json='<MISSING>'                md='of'
+    [  12]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 12:8
+  JSON (12 w): the wicked walk on every side when the vilest men are exalted
+  MD   (20 w): the wicked walk on every side when the vilest men are exalted to the chief musician a psalm of david
+  Diffs (8):
+    [  12]  json='<MISSING>'                md='to'
+    [  12]  json='<MISSING>'                md='the'
+    [  12]  json='<MISSING>'                md='chief'
+    [  12]  json='<MISSING>'                md='musician'
+    [  12]  json='<MISSING>'                md='a'
+    [  12]  json='<MISSING>'                md='psalm'
+    [  12]  json='<MISSING>'                md='of'
+    [  12]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 13:6
+  JSON (13 w): i will sing unto the lord because he hath dealt bountifully with me
+  MD   (21 w): i will sing unto the lord because he hath dealt bountifully with me to the chief musician a psalm of david
+  Diffs (8):
+    [  13]  json='<MISSING>'                md='to'
+    [  13]  json='<MISSING>'                md='the'
+    [  13]  json='<MISSING>'                md='chief'
+    [  13]  json='<MISSING>'                md='musician'
+    [  13]  json='<MISSING>'                md='a'
+    [  13]  json='<MISSING>'                md='psalm'
+    [  13]  json='<MISSING>'                md='of'
+    [  13]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 14:7
+  JSON (29 w): oh that the salvation of israel were come out of zion when the lord bringeth back the captivity of his people jacob shal…
+  MD   (33 w): oh that the salvation of israel were come out of zion when the lord bringeth back the captivity of his people jacob shal…
+  Diffs (4):
+    [  29]  json='<MISSING>'                md='a'
+    [  29]  json='<MISSING>'                md='psalm'
+    [  29]  json='<MISSING>'                md='of'
+    [  29]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 15:5
+  JSON (24 w): he that putteth not out his money to usury nor taketh reward against the innocent he that doeth these things shall never…
+  MD   (27 w): he that putteth not out his money to usury nor taketh reward against the innocent he that doeth these things shall never…
+  Diffs (3):
+    [  24]  json='<MISSING>'                md='michtam'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 16:11
+  JSON (24 w): thou wilt shew me the path of life in thy presence is fulness of joy at thy right hand there are pleasures for evermore
+  MD   (28 w): thou wilt shew me the path of life in thy presence is fulness of joy at thy right hand there are pleasures for evermore …
+  Diffs (4):
+    [  24]  json='<MISSING>'                md='a'
+    [  24]  json='<MISSING>'                md='prayer'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 17:15
+  JSON (20 w): as for me i will behold thy face in righteousness i shall be satisfied when i awake with thy likeness
+  MD   (67 w): as for me i will behold thy face in righteousness i shall be satisfied when i awake with thy likeness to the chief music…
+  Diffs (47):
+    [  20]  json='<MISSING>'                md='to'
+    [  20]  json='<MISSING>'                md='the'
+    [  20]  json='<MISSING>'                md='chief'
+    [  20]  json='<MISSING>'                md='musician'
+    [  20]  json='<MISSING>'                md='a'
+    [  20]  json='<MISSING>'                md='psalm'
+    [  20]  json='<MISSING>'                md='of'
+    [  20]  json='<MISSING>'                md='david'
+    [  20]  json='<MISSING>'                md='the'
+    [  20]  json='<MISSING>'                md='servant'
+    [  20]  json='<MISSING>'                md='of'
+    [  20]  json='<MISSING>'                md='the'
+    ... and 35 more diffs in this verse
+
+  Ref: Psalms 18:50
+  JSON (21 w): great deliverance giveth he to his king and sheweth mercy to his anointed to david and to his seed for evermore
+  MD   (29 w): great deliverance giveth he to his king and sheweth mercy to his anointed to david and to his seed for evermore to the c…
+  Diffs (8):
+    [  21]  json='<MISSING>'                md='to'
+    [  21]  json='<MISSING>'                md='the'
+    [  21]  json='<MISSING>'                md='chief'
+    [  21]  json='<MISSING>'                md='musician'
+    [  21]  json='<MISSING>'                md='a'
+    [  21]  json='<MISSING>'                md='psalm'
+    [  21]  json='<MISSING>'                md='of'
+    [  21]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 19:14
+  JSON (24 w): let the words of my mouth and the meditation of my heart be acceptable in thy sight o lord my strength and my redeemer
+  MD   (32 w): let the words of my mouth and the meditation of my heart be acceptable in thy sight o lord my strength and my redeemer t…
+  Diffs (8):
+    [  24]  json='<MISSING>'                md='to'
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='chief'
+    [  24]  json='<MISSING>'                md='musician'
+    [  24]  json='<MISSING>'                md='a'
+    [  24]  json='<MISSING>'                md='psalm'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 20:9
+  JSON (10 w): save lord let the king hear us when we call
+  MD   (18 w): save lord let the king hear us when we call to the chief musician a psalm of david
+  Diffs (8):
+    [  10]  json='<MISSING>'                md='to'
+    [  10]  json='<MISSING>'                md='the'
+    [  10]  json='<MISSING>'                md='chief'
+    [  10]  json='<MISSING>'                md='musician'
+    [  10]  json='<MISSING>'                md='a'
+    [  10]  json='<MISSING>'                md='psalm'
+    [  10]  json='<MISSING>'                md='of'
+    [  10]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 21:13
+  JSON (16 w): be thou exalted lord in thine own strength so will we sing and praise thy power
+  MD   (27 w): be thou exalted lord in thine own strength so will we sing and praise thy power to the chief musician upon aijeleth shah…
+  Diffs (11):
+    [  16]  json='<MISSING>'                md='to'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='chief'
+    [  16]  json='<MISSING>'                md='musician'
+    [  16]  json='<MISSING>'                md='upon'
+    [  16]  json='<MISSING>'                md='aijeleth'
+    [  16]  json='<MISSING>'                md='shahar'
+    [  16]  json='<MISSING>'                md='a'
+    [  16]  json='<MISSING>'                md='psalm'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 22:31
+  JSON (20 w): they shall come and shall declare his righteousness unto a people that shall be born that he hath done this
+  MD   (24 w): they shall come and shall declare his righteousness unto a people that shall be born that he hath done this a psalm of d…
+  Diffs (4):
+    [  20]  json='<MISSING>'                md='a'
+    [  20]  json='<MISSING>'                md='psalm'
+    [  20]  json='<MISSING>'                md='of'
+    [  20]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 23:6
+  JSON (25 w): surely goodness and mercy shall follow me all the days of my life and i will dwell in the house of the lord for ever
+  MD   (29 w): surely goodness and mercy shall follow me all the days of my life and i will dwell in the house of the lord for ever a p…
+  Diffs (4):
+    [  25]  json='<MISSING>'                md='a'
+    [  25]  json='<MISSING>'                md='psalm'
+    [  25]  json='<MISSING>'                md='of'
+    [  25]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 24:10
+  JSON (17 w): who is this king of glory the lord of hosts he is the king of glory selah
+  MD   (21 w): who is this king of glory the lord of hosts he is the king of glory selah a psalm of david
+  Diffs (4):
+    [  17]  json='<MISSING>'                md='a'
+    [  17]  json='<MISSING>'                md='psalm'
+    [  17]  json='<MISSING>'                md='of'
+    [  17]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 25:22
+  JSON (9 w): redeem israel o god out of all his troubles
+  MD   (13 w): redeem israel o god out of all his troubles a psalm of david
+  Diffs (4):
+    [   9]  json='<MISSING>'                md='a'
+    [   9]  json='<MISSING>'                md='psalm'
+    [   9]  json='<MISSING>'                md='of'
+    [   9]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 26:12
+  JSON (15 w): my foot standeth in an even place in the congregations will i bless the lord
+  MD   (19 w): my foot standeth in an even place in the congregations will i bless the lord a psalm of david
+  Diffs (4):
+    [  15]  json='<MISSING>'                md='a'
+    [  15]  json='<MISSING>'                md='psalm'
+    [  15]  json='<MISSING>'                md='of'
+    [  15]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 27:14
+  JSON (20 w): wait on the lord be of good courage and he shall strengthen thine heart wait i say on the lord
+  MD   (24 w): wait on the lord be of good courage and he shall strengthen thine heart wait i say on the lord a psalm of david
+  Diffs (4):
+    [  20]  json='<MISSING>'                md='a'
+    [  20]  json='<MISSING>'                md='psalm'
+    [  20]  json='<MISSING>'                md='of'
+    [  20]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 28:9
+  JSON (16 w): save thy people and bless thine inheritance feed them also and lift them up for ever
+  MD   (20 w): save thy people and bless thine inheritance feed them also and lift them up for ever a psalm of david
+  Diffs (4):
+    [  16]  json='<MISSING>'                md='a'
+    [  16]  json='<MISSING>'                md='psalm'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 29:11
+  JSON (16 w): the lord will give strength unto his people the lord will bless his people with peace
+  MD   (28 w): the lord will give strength unto his people the lord will bless his people with peace a psalm and song at the dedication…
+  Diffs (12):
+    [  16]  json='<MISSING>'                md='a'
+    [  16]  json='<MISSING>'                md='psalm'
+    [  16]  json='<MISSING>'                md='and'
+    [  16]  json='<MISSING>'                md='song'
+    [  16]  json='<MISSING>'                md='at'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='dedication'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='house'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 30:12
+  JSON (27 w): to the end that my glory may sing praise to thee and not be silent o lord my god i will give thanks unto thee for ever
+  MD   (35 w): to the end that my glory may sing praise to thee and not be silent o lord my god i will give thanks unto thee for ever t…
+  Diffs (8):
+    [  27]  json='<MISSING>'                md='to'
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='chief'
+    [  27]  json='<MISSING>'                md='musician'
+    [  27]  json='<MISSING>'                md='a'
+    [  27]  json='<MISSING>'                md='psalm'
+    [  27]  json='<MISSING>'                md='of'
+    [  27]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 31:24
+  JSON (17 w): be of good courage and he shall strengthen your heart all ye that hope in the lord
+  MD   (22 w): be of good courage and he shall strengthen your heart all ye that hope in the lord a psalm of david maschil
+  Diffs (5):
+    [  17]  json='<MISSING>'                md='a'
+    [  17]  json='<MISSING>'                md='psalm'
+    [  17]  json='<MISSING>'                md='of'
+    [  17]  json='<MISSING>'                md='david'
+    [  17]  json='<MISSING>'                md='maschil'
+
+  Ref: Psalms 33:22
+  JSON (14 w): let thy mercy o lord be upon us according as we hope in thee
+  MD   (32 w): let thy mercy o lord be upon us according as we hope in thee a psalm of david when he changed his behaviour before abime…
+  Diffs (18):
+    [  14]  json='<MISSING>'                md='a'
+    [  14]  json='<MISSING>'                md='psalm'
+    [  14]  json='<MISSING>'                md='of'
+    [  14]  json='<MISSING>'                md='david'
+    [  14]  json='<MISSING>'                md='when'
+    [  14]  json='<MISSING>'                md='he'
+    [  14]  json='<MISSING>'                md='changed'
+    [  14]  json='<MISSING>'                md='his'
+    [  14]  json='<MISSING>'                md='behaviour'
+    [  14]  json='<MISSING>'                md='before'
+    [  14]  json='<MISSING>'                md='abimelech'
+    [  14]  json='<MISSING>'                md='who'
+    ... and 6 more diffs in this verse
+
+  Ref: Psalms 34:22
+  JSON (19 w): the lord redeemeth the soul of his servants and none of them that trust in him shall be desolate
+  MD   (23 w): the lord redeemeth the soul of his servants and none of them that trust in him shall be desolate a psalm of david
+  Diffs (4):
+    [  19]  json='<MISSING>'                md='a'
+    [  19]  json='<MISSING>'                md='psalm'
+    [  19]  json='<MISSING>'                md='of'
+    [  19]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 35:28
+  JSON (16 w): and my tongue shall speak of thy righteousness and of thy praise all the day long
+  MD   (29 w): and my tongue shall speak of thy righteousness and of thy praise all the day long to the chief musician a psalm of david…
+  Diffs (13):
+    [  16]  json='<MISSING>'                md='to'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='chief'
+    [  16]  json='<MISSING>'                md='musician'
+    [  16]  json='<MISSING>'                md='a'
+    [  16]  json='<MISSING>'                md='psalm'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='david'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='servant'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='the'
+    ... and 1 more diffs in this verse
+
+  Ref: Psalms 36:12
+  JSON (18 w): there are the workers of iniquity fallen they are cast down and shall not be able to rise
+  MD   (22 w): there are the workers of iniquity fallen they are cast down and shall not be able to rise a psalm of david
+  Diffs (4):
+    [  18]  json='<MISSING>'                md='a'
+    [  18]  json='<MISSING>'                md='psalm'
+    [  18]  json='<MISSING>'                md='of'
+    [  18]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 37:40
+  JSON (24 w): and the lord shall help them and deliver them he shall deliver them from the wicked and save them because they trust in …
+  MD   (32 w): and the lord shall help them and deliver them he shall deliver them from the wicked and save them because they trust in …
+  Diffs (8):
+    [  24]  json='<MISSING>'                md='a'
+    [  24]  json='<MISSING>'                md='psalm'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='david'
+    [  24]  json='<MISSING>'                md='to'
+    [  24]  json='<MISSING>'                md='bring'
+    [  24]  json='<MISSING>'                md='to'
+    [  24]  json='<MISSING>'                md='remembrance'
+
+  Ref: Psalms 38:22
+  JSON (9 w): make haste to help me o lord my salvation
+  MD   (20 w): make haste to help me o lord my salvation to the chief musician even to jeduthun a psalm of david
+  Diffs (11):
+    [   9]  json='<MISSING>'                md='to'
+    [   9]  json='<MISSING>'                md='the'
+    [   9]  json='<MISSING>'                md='chief'
+    [   9]  json='<MISSING>'                md='musician'
+    [   9]  json='<MISSING>'                md='even'
+    [   9]  json='<MISSING>'                md='to'
+    [   9]  json='<MISSING>'                md='jeduthun'
+    [   9]  json='<MISSING>'                md='a'
+    [   9]  json='<MISSING>'                md='psalm'
+    [   9]  json='<MISSING>'                md='of'
+    [   9]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 39:13
+  JSON (16 w): o spare me that i may recover strength before i go hence and be no more
+  MD   (24 w): o spare me that i may recover strength before i go hence and be no more to the chief musician a psalm of david
+  Diffs (8):
+    [  16]  json='<MISSING>'                md='to'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='chief'
+    [  16]  json='<MISSING>'                md='musician'
+    [  16]  json='<MISSING>'                md='a'
+    [  16]  json='<MISSING>'                md='psalm'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 40:17
+  JSON (25 w): but i am poor and needy yet the lord thinketh upon me thou art my help and my deliverer make no tarrying o my god
+  MD   (33 w): but i am poor and needy yet the lord thinketh upon me thou art my help and my deliverer make no tarrying o my god to the…
+  Diffs (8):
+    [  25]  json='<MISSING>'                md='to'
+    [  25]  json='<MISSING>'                md='the'
+    [  25]  json='<MISSING>'                md='chief'
+    [  25]  json='<MISSING>'                md='musician'
+    [  25]  json='<MISSING>'                md='a'
+    [  25]  json='<MISSING>'                md='psalm'
+    [  25]  json='<MISSING>'                md='of'
+    [  25]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 41:13
+  JSON (15 w): blessed be the lord god of israel from everlasting and to everlasting amen and amen
+  MD   (25 w): blessed be the lord god of israel from everlasting and to everlasting amen and amen to the chief musician maschil for th…
+  Diffs (10):
+    [  15]  json='<MISSING>'                md='to'
+    [  15]  json='<MISSING>'                md='the'
+    [  15]  json='<MISSING>'                md='chief'
+    [  15]  json='<MISSING>'                md='musician'
+    [  15]  json='<MISSING>'                md='maschil'
+    [  15]  json='<MISSING>'                md='for'
+    [  15]  json='<MISSING>'                md='the'
+    [  15]  json='<MISSING>'                md='sons'
+    [  15]  json='<MISSING>'                md='of'
+    [  15]  json='<MISSING>'                md='korah'
+
+  Ref: Psalms 43:5
+  JSON (34 w): why art thou cast down o my soul and why art thou disquieted within me hope in god for i shall yet praise him who is the…
+  MD   (44 w): why art thou cast down o my soul and why art thou disquieted within me hope in god for i shall yet praise him who is the…
+  Diffs (10):
+    [  34]  json='<MISSING>'                md='to'
+    [  34]  json='<MISSING>'                md='the'
+    [  34]  json='<MISSING>'                md='chief'
+    [  34]  json='<MISSING>'                md='musician'
+    [  34]  json='<MISSING>'                md='for'
+    [  34]  json='<MISSING>'                md='the'
+    [  34]  json='<MISSING>'                md='sons'
+    [  34]  json='<MISSING>'                md='of'
+    [  34]  json='<MISSING>'                md='korah'
+    [  34]  json='<MISSING>'                md='maschil'
+
+  Ref: Psalms 44:26
+  JSON (11 w): arise for our help and redeem us for thy mercies sake
+  MD   (27 w): arise for our help and redeem us for thy mercies sake to the chief musician upon shoshannim for the sons of korah maschi…
+  Diffs (16):
+    [  11]  json='<MISSING>'                md='to'
+    [  11]  json='<MISSING>'                md='the'
+    [  11]  json='<MISSING>'                md='chief'
+    [  11]  json='<MISSING>'                md='musician'
+    [  11]  json='<MISSING>'                md='upon'
+    [  11]  json='<MISSING>'                md='shoshannim'
+    [  11]  json='<MISSING>'                md='for'
+    [  11]  json='<MISSING>'                md='the'
+    [  11]  json='<MISSING>'                md='sons'
+    [  11]  json='<MISSING>'                md='of'
+    [  11]  json='<MISSING>'                md='korah'
+    [  11]  json='<MISSING>'                md='maschil'
+    ... and 4 more diffs in this verse
+
+  Ref: Psalms 45:17
+  JSON (21 w): i will make thy name to be remembered in all generations therefore shall the people praise thee for ever and ever
+  MD   (34 w): i will make thy name to be remembered in all generations therefore shall the people praise thee for ever and ever to the…
+  Diffs (13):
+    [  21]  json='<MISSING>'                md='to'
+    [  21]  json='<MISSING>'                md='the'
+    [  21]  json='<MISSING>'                md='chief'
+    [  21]  json='<MISSING>'                md='musician'
+    [  21]  json='<MISSING>'                md='for'
+    [  21]  json='<MISSING>'                md='the'
+    [  21]  json='<MISSING>'                md='sons'
+    [  21]  json='<MISSING>'                md='of'
+    [  21]  json='<MISSING>'                md='korah'
+    [  21]  json='<MISSING>'                md='a'
+    [  21]  json='<MISSING>'                md='song'
+    [  21]  json='<MISSING>'                md='upon'
+    ... and 1 more diffs in this verse
+
+  Ref: Psalms 46:11
+  JSON (15 w): the lord of hosts is with us the god of jacob is our refuge selah
+  MD   (26 w): the lord of hosts is with us the god of jacob is our refuge selah to the chief musician a psalm for the sons of korah
+  Diffs (11):
+    [  15]  json='<MISSING>'                md='to'
+    [  15]  json='<MISSING>'                md='the'
+    [  15]  json='<MISSING>'                md='chief'
+    [  15]  json='<MISSING>'                md='musician'
+    [  15]  json='<MISSING>'                md='a'
+    [  15]  json='<MISSING>'                md='psalm'
+    [  15]  json='<MISSING>'                md='for'
+    [  15]  json='<MISSING>'                md='the'
+    [  15]  json='<MISSING>'                md='sons'
+    [  15]  json='<MISSING>'                md='of'
+    [  15]  json='<MISSING>'                md='korah'
+
+  Ref: Psalms 47:9
+  JSON (29 w): the princes of the people are gathered together even the people of the god of abraham for the shields of the earth belon…
+  MD   (38 w): the princes of the people are gathered together even the people of the god of abraham for the shields of the earth belon…
+  Diffs (9):
+    [  29]  json='<MISSING>'                md='a'
+    [  29]  json='<MISSING>'                md='song'
+    [  29]  json='<MISSING>'                md='and'
+    [  29]  json='<MISSING>'                md='psalm'
+    [  29]  json='<MISSING>'                md='for'
+    [  29]  json='<MISSING>'                md='the'
+    [  29]  json='<MISSING>'                md='sons'
+    [  29]  json='<MISSING>'                md='of'
+    [  29]  json='<MISSING>'                md='korah'
+
+  Ref: Psalms 48:14
+  JSON (18 w): for this god is our god for ever and ever he will be our guide even unto death
+  MD   (29 w): for this god is our god for ever and ever he will be our guide even unto death to the chief musician a psalm for the son…
+  Diffs (11):
+    [  18]  json='<MISSING>'                md='to'
+    [  18]  json='<MISSING>'                md='the'
+    [  18]  json='<MISSING>'                md='chief'
+    [  18]  json='<MISSING>'                md='musician'
+    [  18]  json='<MISSING>'                md='a'
+    [  18]  json='<MISSING>'                md='psalm'
+    [  18]  json='<MISSING>'                md='for'
+    [  18]  json='<MISSING>'                md='the'
+    [  18]  json='<MISSING>'                md='sons'
+    [  18]  json='<MISSING>'                md='of'
+    [  18]  json='<MISSING>'                md='korah'
+
+  Ref: Psalms 49:20
+  JSON (14 w): man that is in honour and understandeth not is like the beasts that perish
+  MD   (18 w): man that is in honour and understandeth not is like the beasts that perish a psalm of asaph
+  Diffs (4):
+    [  14]  json='<MISSING>'                md='a'
+    [  14]  json='<MISSING>'                md='psalm'
+    [  14]  json='<MISSING>'                md='of'
+    [  14]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 50:23
+  JSON (20 w): whoso offereth praise glorifieth me and to him that ordereth his conversation aright will i shew the salvation of god
+  MD   (42 w): whoso offereth praise glorifieth me and to him that ordereth his conversation aright will i shew the salvation of god to…
+  Diffs (22):
+    [  20]  json='<MISSING>'                md='to'
+    [  20]  json='<MISSING>'                md='the'
+    [  20]  json='<MISSING>'                md='chief'
+    [  20]  json='<MISSING>'                md='musician'
+    [  20]  json='<MISSING>'                md='a'
+    [  20]  json='<MISSING>'                md='psalm'
+    [  20]  json='<MISSING>'                md='of'
+    [  20]  json='<MISSING>'                md='david'
+    [  20]  json='<MISSING>'                md='when'
+    [  20]  json='<MISSING>'                md='nathan'
+    [  20]  json='<MISSING>'                md='the'
+    [  20]  json='<MISSING>'                md='prophet'
+    ... and 10 more diffs in this verse
+
+  Ref: Psalms 51:19
+  JSON (25 w): then shalt thou be pleased with the sacrifices of righteousness with burnt offering and whole burnt offering then shall …
+  MD   (54 w): then shalt thou be pleased with the sacrifices of righteousness with burnt offering and whole burnt offering then shall …
+  Diffs (29):
+    [  25]  json='<MISSING>'                md='to'
+    [  25]  json='<MISSING>'                md='the'
+    [  25]  json='<MISSING>'                md='chief'
+    [  25]  json='<MISSING>'                md='musician'
+    [  25]  json='<MISSING>'                md='maschil'
+    [  25]  json='<MISSING>'                md='a'
+    [  25]  json='<MISSING>'                md='psalm'
+    [  25]  json='<MISSING>'                md='of'
+    [  25]  json='<MISSING>'                md='david'
+    [  25]  json='<MISSING>'                md='when'
+    [  25]  json='<MISSING>'                md='doeg'
+    [  25]  json='<MISSING>'                md='the'
+    ... and 17 more diffs in this verse
+
+  Ref: Psalms 52:9
+  JSON (25 w): i will praise thee for ever because thou hast done it and i will wait on thy name for it is good before thy saints
+  MD   (36 w): i will praise thee for ever because thou hast done it and i will wait on thy name for it is good before thy saints to th…
+  Diffs (11):
+    [  25]  json='<MISSING>'                md='to'
+    [  25]  json='<MISSING>'                md='the'
+    [  25]  json='<MISSING>'                md='chief'
+    [  25]  json='<MISSING>'                md='musician'
+    [  25]  json='<MISSING>'                md='upon'
+    [  25]  json='<MISSING>'                md='mahalath'
+    [  25]  json='<MISSING>'                md='maschil'
+    [  25]  json='<MISSING>'                md='a'
+    [  25]  json='<MISSING>'                md='psalm'
+    [  25]  json='<MISSING>'                md='of'
+    [  25]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 53:6
+  JSON (28 w): oh that the salvation of israel were come out of zion when god bringeth back the captivity of his people jacob shall rej…
+  MD   (54 w): oh that the salvation of israel were come out of zion when god bringeth back the captivity of his people jacob shall rej…
+  Diffs (26):
+    [  28]  json='<MISSING>'                md='to'
+    [  28]  json='<MISSING>'                md='the'
+    [  28]  json='<MISSING>'                md='chief'
+    [  28]  json='<MISSING>'                md='musician'
+    [  28]  json='<MISSING>'                md='on'
+    [  28]  json='<MISSING>'                md='neginoth'
+    [  28]  json='<MISSING>'                md='maschil'
+    [  28]  json='<MISSING>'                md='a'
+    [  28]  json='<MISSING>'                md='psalm'
+    [  28]  json='<MISSING>'                md='of'
+    [  28]  json='<MISSING>'                md='david'
+    [  28]  json='<MISSING>'                md='when'
+    ... and 14 more diffs in this verse
+
+  Ref: Psalms 54:7
+  JSON (19 w): for he hath delivered me out of all trouble and mine eye hath seen his desire upon mine enemies
+  MD   (30 w): for he hath delivered me out of all trouble and mine eye hath seen his desire upon mine enemies to the chief musician on…
+  Diffs (11):
+    [  19]  json='<MISSING>'                md='to'
+    [  19]  json='<MISSING>'                md='the'
+    [  19]  json='<MISSING>'                md='chief'
+    [  19]  json='<MISSING>'                md='musician'
+    [  19]  json='<MISSING>'                md='on'
+    [  19]  json='<MISSING>'                md='neginoth'
+    [  19]  json='<MISSING>'                md='maschil'
+    [  19]  json='<MISSING>'                md='a'
+    [  19]  json='<MISSING>'                md='psalm'
+    [  19]  json='<MISSING>'                md='of'
+    [  19]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 55:23
+  JSON (30 w): but thou o god shalt bring them down into the pit of destruction bloody and deceitful men shall not live out half their …
+  MD   (46 w): but thou o god shalt bring them down into the pit of destruction bloody and deceitful men shall not live out half their …
+  Diffs (16):
+    [  30]  json='<MISSING>'                md='to'
+    [  30]  json='<MISSING>'                md='the'
+    [  30]  json='<MISSING>'                md='chief'
+    [  30]  json='<MISSING>'                md='musician'
+    [  30]  json='<MISSING>'                md='upon'
+    [  30]  json='<MISSING>'                md='jonathelemrechokim'
+    [  30]  json='<MISSING>'                md='michtam'
+    [  30]  json='<MISSING>'                md='of'
+    [  30]  json='<MISSING>'                md='david'
+    [  30]  json='<MISSING>'                md='when'
+    [  30]  json='<MISSING>'                md='the'
+    [  30]  json='<MISSING>'                md='philistines'
+    ... and 4 more diffs in this verse
+
+  Ref: Psalms 56:13
+  JSON (28 w): for thou hast delivered my soul from death wilt not thou deliver my feet from falling that i may walk before god in the …
+  MD   (44 w): for thou hast delivered my soul from death wilt not thou deliver my feet from falling that i may walk before god in the …
+  Diffs (16):
+    [  28]  json='<MISSING>'                md='to'
+    [  28]  json='<MISSING>'                md='the'
+    [  28]  json='<MISSING>'                md='chief'
+    [  28]  json='<MISSING>'                md='musician'
+    [  28]  json='<MISSING>'                md='altaschith'
+    [  28]  json='<MISSING>'                md='michtam'
+    [  28]  json='<MISSING>'                md='of'
+    [  28]  json='<MISSING>'                md='david'
+    [  28]  json='<MISSING>'                md='when'
+    [  28]  json='<MISSING>'                md='he'
+    [  28]  json='<MISSING>'                md='fled'
+    [  28]  json='<MISSING>'                md='from'
+    ... and 4 more diffs in this verse
+
+  Ref: Psalms 57:11
+  JSON (16 w): be thou exalted o god above the heavens let thy glory be above all the earth
+  MD   (24 w): be thou exalted o god above the heavens let thy glory be above all the earth to the chief musician altaschith michtam of…
+  Diffs (8):
+    [  16]  json='<MISSING>'                md='to'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='chief'
+    [  16]  json='<MISSING>'                md='musician'
+    [  16]  json='<MISSING>'                md='altaschith'
+    [  16]  json='<MISSING>'                md='michtam'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 58:11
+  JSON (24 w): so that a man shall say verily there is a reward for the righteous verily he is a god that judgeth in the earth
+  MD   (43 w): so that a man shall say verily there is a reward for the righteous verily he is a god that judgeth in the earth to the c…
+  Diffs (19):
+    [  24]  json='<MISSING>'                md='to'
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='chief'
+    [  24]  json='<MISSING>'                md='musician'
+    [  24]  json='<MISSING>'                md='altaschith'
+    [  24]  json='<MISSING>'                md='michtam'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='david'
+    [  24]  json='<MISSING>'                md='when'
+    [  24]  json='<MISSING>'                md='saul'
+    [  24]  json='<MISSING>'                md='sent'
+    [  24]  json='<MISSING>'                md='and'
+    ... and 7 more diffs in this verse
+
+  Ref: Psalms 59:17
+  JSON (19 w): unto thee o my strength will i sing for god is my defence and the god of my mercy
+  MD   (52 w): unto thee o my strength will i sing for god is my defence and the god of my mercy to the chief musician upon shushanedut…
+  Diffs (33):
+    [  19]  json='<MISSING>'                md='to'
+    [  19]  json='<MISSING>'                md='the'
+    [  19]  json='<MISSING>'                md='chief'
+    [  19]  json='<MISSING>'                md='musician'
+    [  19]  json='<MISSING>'                md='upon'
+    [  19]  json='<MISSING>'                md='shushaneduth'
+    [  19]  json='<MISSING>'                md='michtam'
+    [  19]  json='<MISSING>'                md='of'
+    [  19]  json='<MISSING>'                md='david'
+    [  19]  json='<MISSING>'                md='to'
+    [  19]  json='<MISSING>'                md='teach'
+    [  19]  json='<MISSING>'                md='when'
+    ... and 21 more diffs in this verse
+
+  Ref: Psalms 60:12
+  JSON (16 w): through god we shall do valiantly for he it is that shall tread down our enemies
+  MD   (26 w): through god we shall do valiantly for he it is that shall tread down our enemies to the chief musician upon neginah a ps…
+  Diffs (10):
+    [  16]  json='<MISSING>'                md='to'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='chief'
+    [  16]  json='<MISSING>'                md='musician'
+    [  16]  json='<MISSING>'                md='upon'
+    [  16]  json='<MISSING>'                md='neginah'
+    [  16]  json='<MISSING>'                md='a'
+    [  16]  json='<MISSING>'                md='psalm'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 61:8
+  JSON (17 w): so will i sing praise unto thy name for ever that i may daily perform my vows
+  MD   (27 w): so will i sing praise unto thy name for ever that i may daily perform my vows to the chief musician to jeduthun a psalm …
+  Diffs (10):
+    [  17]  json='<MISSING>'                md='to'
+    [  17]  json='<MISSING>'                md='the'
+    [  17]  json='<MISSING>'                md='chief'
+    [  17]  json='<MISSING>'                md='musician'
+    [  17]  json='<MISSING>'                md='to'
+    [  17]  json='<MISSING>'                md='jeduthun'
+    [  17]  json='<MISSING>'                md='a'
+    [  17]  json='<MISSING>'                md='psalm'
+    [  17]  json='<MISSING>'                md='of'
+    [  17]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 62:12
+  JSON (17 w): also unto thee o lord belongeth mercy for thou renderest to every man according to his work
+  MD   (29 w): also unto thee o lord belongeth mercy for thou renderest to every man according to his work a psalm of david when he was…
+  Diffs (12):
+    [  17]  json='<MISSING>'                md='a'
+    [  17]  json='<MISSING>'                md='psalm'
+    [  17]  json='<MISSING>'                md='of'
+    [  17]  json='<MISSING>'                md='david'
+    [  17]  json='<MISSING>'                md='when'
+    [  17]  json='<MISSING>'                md='he'
+    [  17]  json='<MISSING>'                md='was'
+    [  17]  json='<MISSING>'                md='in'
+    [  17]  json='<MISSING>'                md='the'
+    [  17]  json='<MISSING>'                md='wilderness'
+    [  17]  json='<MISSING>'                md='of'
+    [  17]  json='<MISSING>'                md='judah'
+
+  Ref: Psalms 63:11
+  JSON (26 w): but the king shall rejoice in god every one that sweareth by him shall glory but the mouth of them that speak lies shall…
+  MD   (34 w): but the king shall rejoice in god every one that sweareth by him shall glory but the mouth of them that speak lies shall…
+  Diffs (8):
+    [  26]  json='<MISSING>'                md='to'
+    [  26]  json='<MISSING>'                md='the'
+    [  26]  json='<MISSING>'                md='chief'
+    [  26]  json='<MISSING>'                md='musician'
+    [  26]  json='<MISSING>'                md='a'
+    [  26]  json='<MISSING>'                md='psalm'
+    [  26]  json='<MISSING>'                md='of'
+    [  26]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 64:10
+  JSON (21 w): the righteous shall be glad in the lord and shall trust in him and all the upright in heart shall glory
+  MD   (31 w): the righteous shall be glad in the lord and shall trust in him and all the upright in heart shall glory to the chief mus…
+  Diffs (10):
+    [  21]  json='<MISSING>'                md='to'
+    [  21]  json='<MISSING>'                md='the'
+    [  21]  json='<MISSING>'                md='chief'
+    [  21]  json='<MISSING>'                md='musician'
+    [  21]  json='<MISSING>'                md='a'
+    [  21]  json='<MISSING>'                md='psalm'
+    [  21]  json='<MISSING>'                md='and'
+    [  21]  json='<MISSING>'                md='song'
+    [  21]  json='<MISSING>'                md='of'
+    [  21]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 65:13
+  JSON (21 w): the pastures are clothed with flocks the valleys also are covered over with corn they shout for joy they also sing
+  MD   (29 w): the pastures are clothed with flocks the valleys also are covered over with corn they shout for joy they also sing to th…
+  Diffs (8):
+    [  21]  json='<MISSING>'                md='to'
+    [  21]  json='<MISSING>'                md='the'
+    [  21]  json='<MISSING>'                md='chief'
+    [  21]  json='<MISSING>'                md='musician'
+    [  21]  json='<MISSING>'                md='a'
+    [  21]  json='<MISSING>'                md='song'
+    [  21]  json='<MISSING>'                md='or'
+    [  21]  json='<MISSING>'                md='psalm'
+
+  Ref: Psalms 66:20
+  JSON (15 w): blessed be god which hath not turned away my prayer nor his mercy from me
+  MD   (25 w): blessed be god which hath not turned away my prayer nor his mercy from me to the chief musician on neginoth a psalm or s…
+  Diffs (10):
+    [  15]  json='<MISSING>'                md='to'
+    [  15]  json='<MISSING>'                md='the'
+    [  15]  json='<MISSING>'                md='chief'
+    [  15]  json='<MISSING>'                md='musician'
+    [  15]  json='<MISSING>'                md='on'
+    [  15]  json='<MISSING>'                md='neginoth'
+    [  15]  json='<MISSING>'                md='a'
+    [  15]  json='<MISSING>'                md='psalm'
+    [  15]  json='<MISSING>'                md='or'
+    [  15]  json='<MISSING>'                md='song'
+
+  Ref: Psalms 67:7
+  JSON (14 w): god shall bless us and all the ends of the earth shall fear him
+  MD   (24 w): god shall bless us and all the ends of the earth shall fear him to the chief musician a psalm or song of david
+  Diffs (10):
+    [  14]  json='<MISSING>'                md='to'
+    [  14]  json='<MISSING>'                md='the'
+    [  14]  json='<MISSING>'                md='chief'
+    [  14]  json='<MISSING>'                md='musician'
+    [  14]  json='<MISSING>'                md='a'
+    [  14]  json='<MISSING>'                md='psalm'
+    [  14]  json='<MISSING>'                md='or'
+    [  14]  json='<MISSING>'                md='song'
+    [  14]  json='<MISSING>'                md='of'
+    [  14]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 68:35
+  JSON (27 w): o god thou art terrible out of thy holy places the god of israel is he that giveth strength and power unto his people bl…
+  MD   (37 w): o god thou art terrible out of thy holy places the god of israel is he that giveth strength and power unto his people bl…
+  Diffs (10):
+    [  27]  json='<MISSING>'                md='to'
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='chief'
+    [  27]  json='<MISSING>'                md='musician'
+    [  27]  json='<MISSING>'                md='upon'
+    [  27]  json='<MISSING>'                md='shoshannim'
+    [  27]  json='<MISSING>'                md='a'
+    [  27]  json='<MISSING>'                md='psalm'
+    [  27]  json='<MISSING>'                md='of'
+    [  27]  json='<MISSING>'                md='david'
+
+  Ref: Psalms 69:36
+  JSON (18 w): the seed also of his servants shall inherit it and they that love his name shall dwell therein
+  MD   (30 w): the seed also of his servants shall inherit it and they that love his name shall dwell therein to the chief musician a p…
+  Diffs (12):
+    [  18]  json='<MISSING>'                md='to'
+    [  18]  json='<MISSING>'                md='the'
+    [  18]  json='<MISSING>'                md='chief'
+    [  18]  json='<MISSING>'                md='musician'
+    [  18]  json='<MISSING>'                md='a'
+    [  18]  json='<MISSING>'                md='psalm'
+    [  18]  json='<MISSING>'                md='of'
+    [  18]  json='<MISSING>'                md='david'
+    [  18]  json='<MISSING>'                md='to'
+    [  18]  json='<MISSING>'                md='bring'
+    [  18]  json='<MISSING>'                md='to'
+    [  18]  json='<MISSING>'                md='remembrance'
+
+  Ref: Psalms 71:24
+  JSON (26 w): my tongue also shall talk of thy righteousness all the day long for they are confounded for they are brought unto shame …
+  MD   (30 w): my tongue also shall talk of thy righteousness all the day long for they are confounded for they are brought unto shame …
+  Diffs (4):
+    [  26]  json='<MISSING>'                md='a'
+    [  26]  json='<MISSING>'                md='psalm'
+    [  26]  json='<MISSING>'                md='for'
+    [  26]  json='<MISSING>'                md='solomon'
+
+  Ref: Psalms 72:20
+  JSON (10 w): the prayers of david the son of jesse are ended
+  MD   (14 w): the prayers of david the son of jesse are ended a psalm of asaph
+  Diffs (4):
+    [  10]  json='<MISSING>'                md='a'
+    [  10]  json='<MISSING>'                md='psalm'
+    [  10]  json='<MISSING>'                md='of'
+    [  10]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 73:28
+  JSON (27 w): but it is good for me to draw near to god i have put my trust in the lord god that i may declare all thy works
+  MD   (30 w): but it is good for me to draw near to god i have put my trust in the lord god that i may declare all thy works maschil o…
+  Diffs (3):
+    [  27]  json='<MISSING>'                md='maschil'
+    [  27]  json='<MISSING>'                md='of'
+    [  27]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 74:23
+  JSON (18 w): forget not the voice of thine enemies the tumult of those that rise up against thee increaseth continually
+  MD   (29 w): forget not the voice of thine enemies the tumult of those that rise up against thee increaseth continually to the chief …
+  Diffs (11):
+    [  18]  json='<MISSING>'                md='to'
+    [  18]  json='<MISSING>'                md='the'
+    [  18]  json='<MISSING>'                md='chief'
+    [  18]  json='<MISSING>'                md='musician'
+    [  18]  json='<MISSING>'                md='altaschith'
+    [  18]  json='<MISSING>'                md='a'
+    [  18]  json='<MISSING>'                md='psalm'
+    [  18]  json='<MISSING>'                md='or'
+    [  18]  json='<MISSING>'                md='song'
+    [  18]  json='<MISSING>'                md='of'
+    [  18]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 75:10
+  JSON (20 w): all the horns of the wicked also will i cut off but the horns of the righteous shall be exalted
+  MD   (32 w): all the horns of the wicked also will i cut off but the horns of the righteous shall be exalted to the chief musician on…
+  Diffs (12):
+    [  20]  json='<MISSING>'                md='to'
+    [  20]  json='<MISSING>'                md='the'
+    [  20]  json='<MISSING>'                md='chief'
+    [  20]  json='<MISSING>'                md='musician'
+    [  20]  json='<MISSING>'                md='on'
+    [  20]  json='<MISSING>'                md='neginoth'
+    [  20]  json='<MISSING>'                md='a'
+    [  20]  json='<MISSING>'                md='psalm'
+    [  20]  json='<MISSING>'                md='or'
+    [  20]  json='<MISSING>'                md='song'
+    [  20]  json='<MISSING>'                md='of'
+    [  20]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 76:12
+  JSON (17 w): he shall cut off the spirit of princes he is terrible to the kings of the earth
+  MD   (27 w): he shall cut off the spirit of princes he is terrible to the kings of the earth to the chief musician to jeduthun a psal…
+  Diffs (10):
+    [  17]  json='<MISSING>'                md='to'
+    [  17]  json='<MISSING>'                md='the'
+    [  17]  json='<MISSING>'                md='chief'
+    [  17]  json='<MISSING>'                md='musician'
+    [  17]  json='<MISSING>'                md='to'
+    [  17]  json='<MISSING>'                md='jeduthun'
+    [  17]  json='<MISSING>'                md='a'
+    [  17]  json='<MISSING>'                md='psalm'
+    [  17]  json='<MISSING>'                md='of'
+    [  17]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 77:20
+  JSON (14 w): thou leddest thy people like a flock by the hand of moses and aaron
+  MD   (17 w): thou leddest thy people like a flock by the hand of moses and aaron maschil of asaph
+  Diffs (3):
+    [  14]  json='<MISSING>'                md='maschil'
+    [  14]  json='<MISSING>'                md='of'
+    [  14]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 78:72
+  JSON (20 w): so he fed them according to the integrity of his heart and guided them by the skilfulness of his hands
+  MD   (24 w): so he fed them according to the integrity of his heart and guided them by the skilfulness of his hands a psalm of asaph
+  Diffs (4):
+    [  20]  json='<MISSING>'                md='a'
+    [  20]  json='<MISSING>'                md='psalm'
+    [  20]  json='<MISSING>'                md='of'
+    [  20]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 79:13
+  JSON (24 w): so we thy people and sheep of thy pasture will give thee thanks for ever we will shew forth thy praise to all generation…
+  MD   (34 w): so we thy people and sheep of thy pasture will give thee thanks for ever we will shew forth thy praise to all generation…
+  Diffs (10):
+    [  24]  json='<MISSING>'                md='to'
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='chief'
+    [  24]  json='<MISSING>'                md='musician'
+    [  24]  json='<MISSING>'                md='upon'
+    [  24]  json='<MISSING>'                md='shoshannimeduth'
+    [  24]  json='<MISSING>'                md='a'
+    [  24]  json='<MISSING>'                md='psalm'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 80:19
+  JSON (18 w): turn us again o lord god of hosts cause thy face to shine and we shall be saved
+  MD   (28 w): turn us again o lord god of hosts cause thy face to shine and we shall be saved to the chief musician upon gittith a psa…
+  Diffs (10):
+    [  18]  json='<MISSING>'                md='to'
+    [  18]  json='<MISSING>'                md='the'
+    [  18]  json='<MISSING>'                md='chief'
+    [  18]  json='<MISSING>'                md='musician'
+    [  18]  json='<MISSING>'                md='upon'
+    [  18]  json='<MISSING>'                md='gittith'
+    [  18]  json='<MISSING>'                md='a'
+    [  18]  json='<MISSING>'                md='psalm'
+    [  18]  json='<MISSING>'                md='of'
+    [  18]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 81:16
+  JSON (24 w): he should have fed them also with the finest of the wheat and with honey out of the rock should i have satisfied thee
+  MD   (28 w): he should have fed them also with the finest of the wheat and with honey out of the rock should i have satisfied thee a …
+  Diffs (4):
+    [  24]  json='<MISSING>'                md='a'
+    [  24]  json='<MISSING>'                md='psalm'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 82:8
+  JSON (12 w): arise o god judge the earth for thou shalt inherit all nations
+  MD   (18 w): arise o god judge the earth for thou shalt inherit all nations a song or psalm of asaph
+  Diffs (6):
+    [  12]  json='<MISSING>'                md='a'
+    [  12]  json='<MISSING>'                md='song'
+    [  12]  json='<MISSING>'                md='or'
+    [  12]  json='<MISSING>'                md='psalm'
+    [  12]  json='<MISSING>'                md='of'
+    [  12]  json='<MISSING>'                md='asaph'
+
+  Ref: Psalms 83:18
+  JSON (19 w): that men may know that thou whose name alone is jehovah art the most high over all the earth
+  MD   (32 w): that men may know that thou whose name alone is jehovah art the most high over all the earth to the chief musician upon …
+  Diffs (13):
+    [  19]  json='<MISSING>'                md='to'
+    [  19]  json='<MISSING>'                md='the'
+    [  19]  json='<MISSING>'                md='chief'
+    [  19]  json='<MISSING>'                md='musician'
+    [  19]  json='<MISSING>'                md='upon'
+    [  19]  json='<MISSING>'                md='gittith'
+    [  19]  json='<MISSING>'                md='a'
+    [  19]  json='<MISSING>'                md='psalm'
+    [  19]  json='<MISSING>'                md='for'
+    [  19]  json='<MISSING>'                md='the'
+    [  19]  json='<MISSING>'                md='sons'
+    [  19]  json='<MISSING>'                md='of'
+    ... and 1 more diffs in this verse
+
+  Ref: Psalms 84:12
+  JSON (12 w): o lord of hosts blessed is the man that trusteth in thee
+  MD   (23 w): o lord of hosts blessed is the man that trusteth in thee to the chief musician a psalm for the sons of korah
+  Diffs (11):
+    [  12]  json='<MISSING>'                md='to'
+    [  12]  json='<MISSING>'                md='the'
+    [  12]  json='<MISSING>'                md='chief'
+    [  12]  json='<MISSING>'                md='musician'
+    [  12]  json='<MISSING>'                md='a'
+    [  12]  json='<MISSING>'                md='psalm'
+    [  12]  json='<MISSING>'                md='for'
+    [  12]  json='<MISSING>'                md='the'
+    [  12]  json='<MISSING>'                md='sons'
+    [  12]  json='<MISSING>'                md='of'
+    [  12]  json='<MISSING>'                md='korah'
+
+  Ref: Psalms 85:13
+  JSON (15 w): righteousness shall go before him and shall set us in the way of his steps
+  MD   (19 w): righteousness shall go before him and shall set us in the way of his steps a prayer of david
+  Diffs (4):
+    [  15]  json='<MISSING>'                md='a'
+    [  15]  json='<MISSING>'                md='prayer'
+    [  15]  json='<MISSING>'                md='of'
+    [  15]  json='<MISSING>'                md='david'
+
+  ... and 37 more affected verses (not shown)
+
+══════════════════════════════════════════════════════════════════════════════
+RESULT: ✗ FAILURES DETECTED
+══════════════════════════════════════════════════════════════════════════════

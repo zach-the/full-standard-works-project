@@ -1,0 +1,1475 @@
+══════════════════════════════════════════════════════════════════════════════
+THOROUGH CHECKER REPORT
+══════════════════════════════════════════════════════════════════════════════
+MD:   out/dc/dc.md
+JSON: in/json/doctrine-and-covenants-flat.json
+JSON verses: 3654  |  MD <sub> tags: 3654
+
+──────────────────────────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────────────────────────
+  Verse count match:        ✓
+  Verse number mismatches:  0
+  Missing chapter headings: 0 / 138
+  Verses with word errors:  141 / 3654  (3.86%)
+    Total word-level diffs: 9870
+    Substitutions:          0
+    Extra words (MD only):  9824
+    Missing words (MD):     46
+  Verses clean:             3513 / 3654
+
+──────────────────────────────────────────────────────────────────────────────
+WORD MISMATCHES  (141 verses affected)
+──────────────────────────────────────────────────────────────────────────────
+  Pattern breakdown:
+    Only extra words in MD:   140
+    Only missing words in MD: 0
+    Mixed / substitutions:    1
+
+  First 80 affected verses:
+
+  Ref: D&C 1:39
+  JSON (26 w): for behold and lo the lord is god and the spirit beareth record and the record is true and the truth abideth forever and…
+  MD   (104 w): for behold and lo the lord is god and the spirit beareth record and the record is true and the truth abideth forever and…
+  Diffs (78):
+    [  26]  json='<MISSING>'                md='hearts'
+    [  26]  json='<MISSING>'                md='of'
+    [  26]  json='<MISSING>'                md='the'
+    [  26]  json='<MISSING>'                md='children'
+    [  26]  json='<MISSING>'                md='section'
+    [  26]  json='<MISSING>'                md='2'
+    [  26]  json='<MISSING>'                md='an'
+    [  26]  json='<MISSING>'                md='extract'
+    [  26]  json='<MISSING>'                md='from'
+    [  26]  json='<MISSING>'                md='joseph'
+    [  26]  json='<MISSING>'                md='smiths'
+    [  26]  json='<MISSING>'                md='history'
+    ... and 66 more diffs in this verse
+
+  Ref: D&C 2:3
+  JSON (15 w): if it were not so the whole earth would be utterly wasted at his coming
+  MD   (104 w): if it were not so the whole earth would be utterly wasted at his coming thou wast chosen section 3 revelation given to j…
+  Diffs (89):
+    [  15]  json='<MISSING>'                md='thou'
+    [  15]  json='<MISSING>'                md='wast'
+    [  15]  json='<MISSING>'                md='chosen'
+    [  15]  json='<MISSING>'                md='section'
+    [  15]  json='<MISSING>'                md='3'
+    [  15]  json='<MISSING>'                md='revelation'
+    [  15]  json='<MISSING>'                md='given'
+    [  15]  json='<MISSING>'                md='to'
+    [  15]  json='<MISSING>'                md='joseph'
+    [  15]  json='<MISSING>'                md='smith'
+    [  15]  json='<MISSING>'                md='the'
+    [  15]  json='<MISSING>'                md='prophet'
+    ... and 77 more diffs in this verse
+
+  Ref: D&C 3:20
+  JSON (55 w): and that the lamanites might come to the knowledge of their fathers and that they might know the promises of the lord an…
+  MD   (77 w): and that the lamanites might come to the knowledge of their fathers and that they might know the promises of the lord an…
+  Diffs (22):
+    [  55]  json='<MISSING>'                md='evil'
+    [  55]  json='<MISSING>'                md='designs'
+    [  55]  json='<MISSING>'                md='section'
+    [  55]  json='<MISSING>'                md='4'
+    [  55]  json='<MISSING>'                md='revelation'
+    [  55]  json='<MISSING>'                md='given'
+    [  55]  json='<MISSING>'                md='through'
+    [  55]  json='<MISSING>'                md='joseph'
+    [  55]  json='<MISSING>'                md='smith'
+    [  55]  json='<MISSING>'                md='the'
+    [  55]  json='<MISSING>'                md='prophet'
+    [  55]  json='<MISSING>'                md='to'
+    ... and 10 more diffs in this verse
+
+  Ref: D&C 4:7
+  JSON (14 w): ask and ye shall receive knock and it shall be opened unto you amen
+  MD   (36 w): ask and ye shall receive knock and it shall be opened unto you amen three witnesses section 5 revelation given through j…
+  Diffs (22):
+    [  14]  json='<MISSING>'                md='three'
+    [  14]  json='<MISSING>'                md='witnesses'
+    [  14]  json='<MISSING>'                md='section'
+    [  14]  json='<MISSING>'                md='5'
+    [  14]  json='<MISSING>'                md='revelation'
+    [  14]  json='<MISSING>'                md='given'
+    [  14]  json='<MISSING>'                md='through'
+    [  14]  json='<MISSING>'                md='joseph'
+    [  14]  json='<MISSING>'                md='smith'
+    [  14]  json='<MISSING>'                md='the'
+    [  14]  json='<MISSING>'                md='prophet'
+    [  14]  json='<MISSING>'                md='at'
+    ... and 10 more diffs in this verse
+
+  Ref: D&C 5:35
+  JSON (19 w): and if thou art faithful in keeping my commandments thou shalt be lifted up at the last day amen
+  MD   (99 w): and if thou art faithful in keeping my commandments thou shalt be lifted up at the last day amen peace to your mind sect…
+  Diffs (80):
+    [  19]  json='<MISSING>'                md='peace'
+    [  19]  json='<MISSING>'                md='to'
+    [  19]  json='<MISSING>'                md='your'
+    [  19]  json='<MISSING>'                md='mind'
+    [  19]  json='<MISSING>'                md='section'
+    [  19]  json='<MISSING>'                md='6'
+    [  19]  json='<MISSING>'                md='revelation'
+    [  19]  json='<MISSING>'                md='given'
+    [  19]  json='<MISSING>'                md='to'
+    [  19]  json='<MISSING>'                md='joseph'
+    [  19]  json='<MISSING>'                md='smith'
+    [  19]  json='<MISSING>'                md='the'
+    ... and 68 more diffs in this verse
+
+  Ref: D&C 6:37
+  JSON (33 w): behold the wounds which pierced my side and also the prints of the nails in my hands and feet be faithful keep my comman…
+  MD   (95 w): behold the wounds which pierced my side and also the prints of the nails in my hands and feet be faithful keep my comman…
+  Diffs (62):
+    [  33]  json='<MISSING>'                md='keys'
+    [  33]  json='<MISSING>'                md='of'
+    [  33]  json='<MISSING>'                md='this'
+    [  33]  json='<MISSING>'                md='ministry'
+    [  33]  json='<MISSING>'                md='section'
+    [  33]  json='<MISSING>'                md='7'
+    [  33]  json='<MISSING>'                md='revelation'
+    [  33]  json='<MISSING>'                md='given'
+    [  33]  json='<MISSING>'                md='to'
+    [  33]  json='<MISSING>'                md='joseph'
+    [  33]  json='<MISSING>'                md='smith'
+    [  33]  json='<MISSING>'                md='the'
+    ... and 50 more diffs in this verse
+
+  Ref: D&C 7:8
+  JSON (23 w): verily i say unto you ye shall both have according to your desires for ye both joy in that which ye have desired
+  MD   (85 w): verily i say unto you ye shall both have according to your desires for ye both joy in that which ye have desired mind an…
+  Diffs (62):
+    [  23]  json='<MISSING>'                md='mind'
+    [  23]  json='<MISSING>'                md='and'
+    [  23]  json='<MISSING>'                md='heart'
+    [  23]  json='<MISSING>'                md='section'
+    [  23]  json='<MISSING>'                md='8'
+    [  23]  json='<MISSING>'                md='revelation'
+    [  23]  json='<MISSING>'                md='given'
+    [  23]  json='<MISSING>'                md='through'
+    [  23]  json='<MISSING>'                md='joseph'
+    [  23]  json='<MISSING>'                md='smith'
+    [  23]  json='<MISSING>'                md='the'
+    [  23]  json='<MISSING>'                md='prophet'
+    ... and 50 more diffs in this verse
+
+  Ref: D&C 8:12
+  JSON (21 w): behold it is i that have spoken it and i am the same that spake unto you from the beginning amen
+  MD   (71 w): behold it is i that have spoken it and i am the same that spake unto you from the beginning amen study it out section 9 …
+  Diffs (50):
+    [  21]  json='<MISSING>'                md='study'
+    [  21]  json='<MISSING>'                md='it'
+    [  21]  json='<MISSING>'                md='out'
+    [  21]  json='<MISSING>'                md='section'
+    [  21]  json='<MISSING>'                md='9'
+    [  21]  json='<MISSING>'                md='revelation'
+    [  21]  json='<MISSING>'                md='given'
+    [  21]  json='<MISSING>'                md='through'
+    [  21]  json='<MISSING>'                md='joseph'
+    [  21]  json='<MISSING>'                md='smith'
+    [  21]  json='<MISSING>'                md='the'
+    [  21]  json='<MISSING>'                md='prophet'
+    ... and 38 more diffs in this verse
+
+  Ref: D&C 9:14
+  JSON (31 w): stand fast in the work wherewith i have called you and a hair of your head shall not be lost and you shall be lifted up …
+  MD   (192 w): stand fast in the work wherewith i have called you and a hair of your head shall not be lost and you shall be lifted up …
+  Diffs (161):
+    [  31]  json='<MISSING>'                md='obtain'
+    [  31]  json='<MISSING>'                md='my'
+    [  31]  json='<MISSING>'                md='word'
+    [  31]  json='<MISSING>'                md='section'
+    [  31]  json='<MISSING>'                md='10'
+    [  31]  json='<MISSING>'                md='revelation'
+    [  31]  json='<MISSING>'                md='given'
+    [  31]  json='<MISSING>'                md='to'
+    [  31]  json='<MISSING>'                md='joseph'
+    [  31]  json='<MISSING>'                md='smith'
+    [  31]  json='<MISSING>'                md='the'
+    [  31]  json='<MISSING>'                md='prophet'
+    ... and 149 more diffs in this verse
+
+  Ref: D&C 10:70
+  JSON (24 w): and now remember the words of him who is the life and light of the world your redeemer your lord and your god amen
+  MD   (78 w): and now remember the words of him who is the life and light of the world your redeemer your lord and your god amen a mar…
+  Diffs (54):
+    [  24]  json='<MISSING>'                md='a'
+    [  24]  json='<MISSING>'                md='marvelous'
+    [  24]  json='<MISSING>'                md='work'
+    [  24]  json='<MISSING>'                md='section'
+    [  24]  json='<MISSING>'                md='11'
+    [  24]  json='<MISSING>'                md='revelation'
+    [  24]  json='<MISSING>'                md='given'
+    [  24]  json='<MISSING>'                md='through'
+    [  24]  json='<MISSING>'                md='joseph'
+    [  24]  json='<MISSING>'                md='smith'
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='prophet'
+    ... and 42 more diffs in this verse
+
+  Ref: D&C 11:30
+  JSON (34 w): but verily verily i say unto you that as many as receive me to them will i give power to become the sons of god even to …
+  MD   (113 w): but verily verily i say unto you that as many as receive me to them will i give power to become the sons of god even to …
+  Diffs (79):
+    [  34]  json='<MISSING>'                md='full'
+    [  34]  json='<MISSING>'                md='of'
+    [  34]  json='<MISSING>'                md='love'
+    [  34]  json='<MISSING>'                md='section'
+    [  34]  json='<MISSING>'                md='12'
+    [  34]  json='<MISSING>'                md='revelation'
+    [  34]  json='<MISSING>'                md='given'
+    [  34]  json='<MISSING>'                md='through'
+    [  34]  json='<MISSING>'                md='joseph'
+    [  34]  json='<MISSING>'                md='smith'
+    [  34]  json='<MISSING>'                md='the'
+    [  34]  json='<MISSING>'                md='prophet'
+    ... and 67 more diffs in this verse
+
+  Ref: D&C 12:9
+  JSON (27 w): behold i am the light and the life of the world that speak these words therefore give heed with your might and then you …
+  MD   (141 w): behold i am the light and the life of the world that speak these words therefore give heed with your might and then you …
+  Diffs (114):
+    [  27]  json='<MISSING>'                md='priesthood'
+    [  27]  json='<MISSING>'                md='of'
+    [  27]  json='<MISSING>'                md='aaron'
+    [  27]  json='<MISSING>'                md='section'
+    [  27]  json='<MISSING>'                md='13'
+    [  27]  json='<MISSING>'                md='an'
+    [  27]  json='<MISSING>'                md='extract'
+    [  27]  json='<MISSING>'                md='from'
+    [  27]  json='<MISSING>'                md='joseph'
+    [  27]  json='<MISSING>'                md='smiths'
+    [  27]  json='<MISSING>'                md='history'
+    [  27]  json='<MISSING>'                md='recounting'
+    ... and 102 more diffs in this verse
+
+  Ref: D&C 13:1
+  JSON (66 w): upon you my fellow servants in the name of messiah i confer the priesthood of aaron which holds the keys of the minister…
+  MD   (198 w): upon you my fellow servants in the name of messiah i confer the priesthood of aaron which holds the keys of the minister…
+  Diffs (132):
+    [  66]  json='<MISSING>'                md='thou'
+    [  66]  json='<MISSING>'                md='art'
+    [  66]  json='<MISSING>'                md='david'
+    [  66]  json='<MISSING>'                md='section'
+    [  66]  json='<MISSING>'                md='14'
+    [  66]  json='<MISSING>'                md='revelation'
+    [  66]  json='<MISSING>'                md='given'
+    [  66]  json='<MISSING>'                md='through'
+    [  66]  json='<MISSING>'                md='joseph'
+    [  66]  json='<MISSING>'                md='smith'
+    [  66]  json='<MISSING>'                md='the'
+    [  66]  json='<MISSING>'                md='prophet'
+    ... and 120 more diffs in this verse
+
+  Ref: D&C 14:11
+  JSON (34 w): and behold thou art david and thou art called to assist which thing if ye do and are faithful ye shall be blessed both s…
+  MD   (97 w): and behold thou art david and thou art called to assist which thing if ye do and are faithful ye shall be blessed both s…
+  Diffs (63):
+    [  34]  json='<MISSING>'                md='my'
+    [  34]  json='<MISSING>'                md='servant'
+    [  34]  json='<MISSING>'                md='john'
+    [  34]  json='<MISSING>'                md='section'
+    [  34]  json='<MISSING>'                md='15'
+    [  34]  json='<MISSING>'                md='revelation'
+    [  34]  json='<MISSING>'                md='given'
+    [  34]  json='<MISSING>'                md='through'
+    [  34]  json='<MISSING>'                md='joseph'
+    [  34]  json='<MISSING>'                md='smith'
+    [  34]  json='<MISSING>'                md='the'
+    [  34]  json='<MISSING>'                md='prophet'
+    ... and 51 more diffs in this verse
+
+  Ref: D&C 15:6
+  JSON (47 w): and now behold i say unto you that the thing which will be of the most worth unto you will be to declare repentance unto…
+  MD   (90 w): and now behold i say unto you that the thing which will be of the most worth unto you will be to declare repentance unto…
+  Diffs (43):
+    [  47]  json='<MISSING>'                md='my'
+    [  47]  json='<MISSING>'                md='servant'
+    [  47]  json='<MISSING>'                md='peter'
+    [  47]  json='<MISSING>'                md='section'
+    [  47]  json='<MISSING>'                md='16'
+    [  47]  json='<MISSING>'                md='revelation'
+    [  47]  json='<MISSING>'                md='given'
+    [  47]  json='<MISSING>'                md='through'
+    [  47]  json='<MISSING>'                md='joseph'
+    [  47]  json='<MISSING>'                md='smith'
+    [  47]  json='<MISSING>'                md='the'
+    [  47]  json='<MISSING>'                md='prophet'
+    ... and 31 more diffs in this verse
+
+  Ref: D&C 16:6
+  JSON (47 w): and now behold i say unto you that the thing which will be of the most worth unto you will be to declare repentance unto…
+  MD   (158 w): and now behold i say unto you that the thing which will be of the most worth unto you will be to declare repentance unto…
+  Diffs (111):
+    [  47]  json='<MISSING>'                md='a'
+    [  47]  json='<MISSING>'                md='view'
+    [  47]  json='<MISSING>'                md='of'
+    [  47]  json='<MISSING>'                md='the'
+    [  47]  json='<MISSING>'                md='plates'
+    [  47]  json='<MISSING>'                md='section'
+    [  47]  json='<MISSING>'                md='17'
+    [  47]  json='<MISSING>'                md='revelation'
+    [  47]  json='<MISSING>'                md='given'
+    [  47]  json='<MISSING>'                md='through'
+    [  47]  json='<MISSING>'                md='joseph'
+    [  47]  json='<MISSING>'                md='smith'
+    ... and 99 more diffs in this verse
+
+  Ref: D&C 17:9
+  JSON (28 w): and i jesus christ your lord and your god have spoken it unto you that i might bring about my righteous purposes unto th…
+  MD   (76 w): and i jesus christ your lord and your god have spoken it unto you that i might bring about my righteous purposes unto th…
+  Diffs (48):
+    [  28]  json='<MISSING>'                md='twelve'
+    [  28]  json='<MISSING>'                md='disciples'
+    [  28]  json='<MISSING>'                md='section'
+    [  28]  json='<MISSING>'                md='18'
+    [  28]  json='<MISSING>'                md='revelation'
+    [  28]  json='<MISSING>'                md='to'
+    [  28]  json='<MISSING>'                md='joseph'
+    [  28]  json='<MISSING>'                md='smith'
+    [  28]  json='<MISSING>'                md='the'
+    [  28]  json='<MISSING>'                md='prophet'
+    [  28]  json='<MISSING>'                md='oliver'
+    [  28]  json='<MISSING>'                md='cowdery'
+    ... and 36 more diffs in this verse
+
+  Ref: D&C 18:47
+  JSON (22 w): behold i jesus christ your lord and your god and your redeemer by the power of my spirit have spoken it amen
+  MD   (67 w): behold i jesus christ your lord and your god and your redeemer by the power of my spirit have spoken it amen alpha and o…
+  Diffs (45):
+    [  22]  json='<MISSING>'                md='alpha'
+    [  22]  json='<MISSING>'                md='and'
+    [  22]  json='<MISSING>'                md='omega'
+    [  22]  json='<MISSING>'                md='section'
+    [  22]  json='<MISSING>'                md='19'
+    [  22]  json='<MISSING>'                md='revelation'
+    [  22]  json='<MISSING>'                md='given'
+    [  22]  json='<MISSING>'                md='through'
+    [  22]  json='<MISSING>'                md='joseph'
+    [  22]  json='<MISSING>'                md='smith'
+    [  22]  json='<MISSING>'                md='at'
+    [  22]  json='<MISSING>'                md='manchester'
+    ... and 33 more diffs in this verse
+
+  Ref: D&C 19:41
+  JSON (20 w): or canst thou be humble and meek and conduct thyself wisely before me yea come unto me thy savior amen
+  MD   (138 w): or canst thou be humble and meek and conduct thyself wisely before me yea come unto me thy savior amen the church of chr…
+  Diffs (118):
+    [  20]  json='<MISSING>'                md='the'
+    [  20]  json='<MISSING>'                md='church'
+    [  20]  json='<MISSING>'                md='of'
+    [  20]  json='<MISSING>'                md='christ'
+    [  20]  json='<MISSING>'                md='section'
+    [  20]  json='<MISSING>'                md='20'
+    [  20]  json='<MISSING>'                md='revelation'
+    [  20]  json='<MISSING>'                md='on'
+    [  20]  json='<MISSING>'                md='church'
+    [  20]  json='<MISSING>'                md='organization'
+    [  20]  json='<MISSING>'                md='and'
+    [  20]  json='<MISSING>'                md='government'
+    ... and 106 more diffs in this verse
+
+  Ref: D&C 20:84
+  JSON (70 w): all members removing from the church where they reside if going to a church where they are not known may take a letter c…
+  MD   (212 w): all members removing from the church where they reside if going to a church where they are not known may take a letter c…
+  Diffs (142):
+    [  70]  json='<MISSING>'                md='the'
+    [  70]  json='<MISSING>'                md='first'
+    [  70]  json='<MISSING>'                md='preacher'
+    [  70]  json='<MISSING>'                md='section'
+    [  70]  json='<MISSING>'                md='21'
+    [  70]  json='<MISSING>'                md='revelation'
+    [  70]  json='<MISSING>'                md='given'
+    [  70]  json='<MISSING>'                md='to'
+    [  70]  json='<MISSING>'                md='joseph'
+    [  70]  json='<MISSING>'                md='smith'
+    [  70]  json='<MISSING>'                md='the'
+    [  70]  json='<MISSING>'                md='prophet'
+    ... and 130 more diffs in this verse
+
+  Ref: D&C 21:12
+  JSON (32 w): and the first preacher of this church unto the church and before the world yea before the gentiles yea and thus saith th…
+  MD   (74 w): and the first preacher of this church unto the church and before the world yea before the gentiles yea and thus saith th…
+  Diffs (42):
+    [  32]  json='<MISSING>'                md='old'
+    [  32]  json='<MISSING>'                md='covenants'
+    [  32]  json='<MISSING>'                md='section'
+    [  32]  json='<MISSING>'                md='22'
+    [  32]  json='<MISSING>'                md='revelation'
+    [  32]  json='<MISSING>'                md='given'
+    [  32]  json='<MISSING>'                md='through'
+    [  32]  json='<MISSING>'                md='joseph'
+    [  32]  json='<MISSING>'                md='smith'
+    [  32]  json='<MISSING>'                md='the'
+    [  32]  json='<MISSING>'                md='prophet'
+    [  32]  json='<MISSING>'                md='at'
+    ... and 30 more diffs in this verse
+
+  Ref: D&C 22:4
+  JSON (19 w): wherefore enter ye in at the gate as i have commanded and seek not to counsel your god amen
+  MD   (88 w): wherefore enter ye in at the gate as i have commanded and seek not to counsel your god amen no condemnation section 23 a…
+  Diffs (69):
+    [  19]  json='<MISSING>'                md='no'
+    [  19]  json='<MISSING>'                md='condemnation'
+    [  19]  json='<MISSING>'                md='section'
+    [  19]  json='<MISSING>'                md='23'
+    [  19]  json='<MISSING>'                md='a'
+    [  19]  json='<MISSING>'                md='series'
+    [  19]  json='<MISSING>'                md='of'
+    [  19]  json='<MISSING>'                md='five'
+    [  19]  json='<MISSING>'                md='revelations'
+    [  19]  json='<MISSING>'                md='given'
+    [  19]  json='<MISSING>'                md='through'
+    [  19]  json='<MISSING>'                md='joseph'
+    ... and 57 more diffs in this verse
+
+  Ref: D&C 23:7
+  JSON (29 w): and behold it is your duty to unite with the true church and give your language to exhortation continually that you may …
+  MD   (88 w): and behold it is your duty to unite with the true church and give your language to exhortation continually that you may …
+  Diffs (59):
+    [  29]  json='<MISSING>'                md='deliverance'
+    [  29]  json='<MISSING>'                md='section'
+    [  29]  json='<MISSING>'                md='24'
+    [  29]  json='<MISSING>'                md='revelation'
+    [  29]  json='<MISSING>'                md='given'
+    [  29]  json='<MISSING>'                md='to'
+    [  29]  json='<MISSING>'                md='joseph'
+    [  29]  json='<MISSING>'                md='smith'
+    [  29]  json='<MISSING>'                md='the'
+    [  29]  json='<MISSING>'                md='prophet'
+    [  29]  json='<MISSING>'                md='and'
+    [  29]  json='<MISSING>'                md='oliver'
+    ... and 47 more diffs in this verse
+
+  Ref: D&C 24:19
+  JSON (37 w): for thou art called to prune my vineyard with a mighty pruning yea even for the last time yea and also all those whom th…
+  MD   (74 w): for thou art called to prune my vineyard with a mighty pruning yea even for the last time yea and also all those whom th…
+  Diffs (37):
+    [  37]  json='<MISSING>'                md='an'
+    [  37]  json='<MISSING>'                md='elect'
+    [  37]  json='<MISSING>'                md='lady'
+    [  37]  json='<MISSING>'                md='section'
+    [  37]  json='<MISSING>'                md='25'
+    [  37]  json='<MISSING>'                md='revelation'
+    [  37]  json='<MISSING>'                md='given'
+    [  37]  json='<MISSING>'                md='through'
+    [  37]  json='<MISSING>'                md='joseph'
+    [  37]  json='<MISSING>'                md='smith'
+    [  37]  json='<MISSING>'                md='the'
+    [  37]  json='<MISSING>'                md='prophet'
+    ... and 25 more diffs in this verse
+
+  Ref: D&C 25:16
+  JSON (15 w): and verily verily i say unto you that this is my voice unto all amen
+  MD   (43 w): and verily verily i say unto you that this is my voice unto all amen by common consent section 26 revelation given to jo…
+  Diffs (28):
+    [  15]  json='<MISSING>'                md='by'
+    [  15]  json='<MISSING>'                md='common'
+    [  15]  json='<MISSING>'                md='consent'
+    [  15]  json='<MISSING>'                md='section'
+    [  15]  json='<MISSING>'                md='26'
+    [  15]  json='<MISSING>'                md='revelation'
+    [  15]  json='<MISSING>'                md='given'
+    [  15]  json='<MISSING>'                md='to'
+    [  15]  json='<MISSING>'                md='joseph'
+    [  15]  json='<MISSING>'                md='smith'
+    [  15]  json='<MISSING>'                md='the'
+    [  15]  json='<MISSING>'                md='prophet'
+    ... and 16 more diffs in this verse
+
+  Ref: D&C 26:2
+  JSON (26 w): and all things shall be done by common consent in the church by much prayer and faith for all things you shall receive b…
+  MD   (107 w): and all things shall be done by common consent in the church by much prayer and faith for all things you shall receive b…
+  Diffs (81):
+    [  26]  json='<MISSING>'                md='the'
+    [  26]  json='<MISSING>'                md='sacrament'
+    [  26]  json='<MISSING>'                md='section'
+    [  26]  json='<MISSING>'                md='27'
+    [  26]  json='<MISSING>'                md='revelation'
+    [  26]  json='<MISSING>'                md='given'
+    [  26]  json='<MISSING>'                md='to'
+    [  26]  json='<MISSING>'                md='joseph'
+    [  26]  json='<MISSING>'                md='smith'
+    [  26]  json='<MISSING>'                md='the'
+    [  26]  json='<MISSING>'                md='prophet'
+    [  26]  json='<MISSING>'                md='at'
+    ... and 69 more diffs in this verse
+
+  Ref: D&C 27:18
+  JSON (60 w): and take the helmet of salvation and the sword of my spirit which i will pour out upon you and my word which i reveal un…
+  MD   (148 w): and take the helmet of salvation and the sword of my spirit which i will pour out upon you and my word which i reveal un…
+  Diffs (88):
+    [  60]  json='<MISSING>'                md='sound'
+    [  60]  json='<MISSING>'                md='of'
+    [  60]  json='<MISSING>'                md='rejoicing'
+    [  60]  json='<MISSING>'                md='section'
+    [  60]  json='<MISSING>'                md='28'
+    [  60]  json='<MISSING>'                md='revelation'
+    [  60]  json='<MISSING>'                md='given'
+    [  60]  json='<MISSING>'                md='through'
+    [  60]  json='<MISSING>'                md='joseph'
+    [  60]  json='<MISSING>'                md='smith'
+    [  60]  json='<MISSING>'                md='the'
+    [  60]  json='<MISSING>'                md='prophet'
+    ... and 76 more diffs in this verse
+
+  Ref: D&C 28:16
+  JSON (18 w): and thou must open thy mouth at all times declaring my gospel with the sound of rejoicing amen
+  MD   (57 w): and thou must open thy mouth at all times declaring my gospel with the sound of rejoicing amen a trump shall sound secti…
+  Diffs (39):
+    [  18]  json='<MISSING>'                md='a'
+    [  18]  json='<MISSING>'                md='trump'
+    [  18]  json='<MISSING>'                md='shall'
+    [  18]  json='<MISSING>'                md='sound'
+    [  18]  json='<MISSING>'                md='section'
+    [  18]  json='<MISSING>'                md='29'
+    [  18]  json='<MISSING>'                md='revelation'
+    [  18]  json='<MISSING>'                md='given'
+    [  18]  json='<MISSING>'                md='through'
+    [  18]  json='<MISSING>'                md='joseph'
+    [  18]  json='<MISSING>'                md='smith'
+    [  18]  json='<MISSING>'                md='the'
+    ... and 27 more diffs in this verse
+
+  Ref: D&C 29:50
+  JSON (29 w): and he that hath no understanding it remaineth in me to do according as it is written and now i declare no more unto you…
+  MD   (98 w): and he that hath no understanding it remaineth in me to do according as it is written and now i declare no more unto you…
+  Diffs (69):
+    [  29]  json='<MISSING>'                md='i'
+    [  29]  json='<MISSING>'                md='am'
+    [  29]  json='<MISSING>'                md='with'
+    [  29]  json='<MISSING>'                md='you'
+    [  29]  json='<MISSING>'                md='section'
+    [  29]  json='<MISSING>'                md='30'
+    [  29]  json='<MISSING>'                md='revelation'
+    [  29]  json='<MISSING>'                md='given'
+    [  29]  json='<MISSING>'                md='through'
+    [  29]  json='<MISSING>'                md='joseph'
+    [  29]  json='<MISSING>'                md='smith'
+    [  29]  json='<MISSING>'                md='the'
+    ... and 57 more diffs in this verse
+
+  Ref: D&C 30:11
+  JSON (36 w): and your whole labor shall be in zion with all your soul from henceforth yea you shall ever open your mouth in my cause …
+  MD   (93 w): and your whole labor shall be in zion with all your soul from henceforth yea you shall ever open your mouth in my cause …
+  Diffs (57):
+    [  36]  json='<MISSING>'                md='a'
+    [  36]  json='<MISSING>'                md='physician'
+    [  36]  json='<MISSING>'                md='section'
+    [  36]  json='<MISSING>'                md='31'
+    [  36]  json='<MISSING>'                md='revelation'
+    [  36]  json='<MISSING>'                md='given'
+    [  36]  json='<MISSING>'                md='through'
+    [  36]  json='<MISSING>'                md='joseph'
+    [  36]  json='<MISSING>'                md='smith'
+    [  36]  json='<MISSING>'                md='the'
+    [  36]  json='<MISSING>'                md='prophet'
+    [  36]  json='<MISSING>'                md='to'
+    ... and 45 more diffs in this verse
+
+  Ref: D&C 31:13
+  JSON (35 w): be faithful unto the end and lo i am with you these words are not of man nor of men but of me even jesus christ your red…
+  MD   (118 w): be faithful unto the end and lo i am with you these words are not of man nor of men but of me even jesus christ your red…
+  Diffs (83):
+    [  35]  json='<MISSING>'                md='meek'
+    [  35]  json='<MISSING>'                md='and'
+    [  35]  json='<MISSING>'                md='lowly'
+    [  35]  json='<MISSING>'                md='section'
+    [  35]  json='<MISSING>'                md='32'
+    [  35]  json='<MISSING>'                md='revelation'
+    [  35]  json='<MISSING>'                md='given'
+    [  35]  json='<MISSING>'                md='through'
+    [  35]  json='<MISSING>'                md='joseph'
+    [  35]  json='<MISSING>'                md='smith'
+    [  35]  json='<MISSING>'                md='the'
+    [  35]  json='<MISSING>'                md='prophet'
+    ... and 71 more diffs in this verse
+
+  Ref: D&C 32:5
+  JSON (17 w): and they shall give heed unto these words and trifle not and i will bless them amen
+  MD   (63 w): and they shall give heed unto these words and trifle not and i will bless them amen the eleventh hour section 33 revelat…
+  Diffs (46):
+    [  17]  json='<MISSING>'                md='the'
+    [  17]  json='<MISSING>'                md='eleventh'
+    [  17]  json='<MISSING>'                md='hour'
+    [  17]  json='<MISSING>'                md='section'
+    [  17]  json='<MISSING>'                md='33'
+    [  17]  json='<MISSING>'                md='revelation'
+    [  17]  json='<MISSING>'                md='given'
+    [  17]  json='<MISSING>'                md='through'
+    [  17]  json='<MISSING>'                md='joseph'
+    [  17]  json='<MISSING>'                md='smith'
+    [  17]  json='<MISSING>'                md='the'
+    [  17]  json='<MISSING>'                md='prophet'
+    ... and 34 more diffs in this verse
+
+  Ref: D&C 33:18
+  JSON (15 w): for behold verily verily i say unto you that i come quickly even so amen
+  MD   (83 w): for behold verily verily i say unto you that i come quickly even so amen power and great glory section 34 revelation giv…
+  Diffs (68):
+    [  15]  json='<MISSING>'                md='power'
+    [  15]  json='<MISSING>'                md='and'
+    [  15]  json='<MISSING>'                md='great'
+    [  15]  json='<MISSING>'                md='glory'
+    [  15]  json='<MISSING>'                md='section'
+    [  15]  json='<MISSING>'                md='34'
+    [  15]  json='<MISSING>'                md='revelation'
+    [  15]  json='<MISSING>'                md='given'
+    [  15]  json='<MISSING>'                md='through'
+    [  15]  json='<MISSING>'                md='joseph'
+    [  15]  json='<MISSING>'                md='smith'
+    [  15]  json='<MISSING>'                md='the'
+    ... and 56 more diffs in this verse
+
+  Ref: D&C 34:12
+  JSON (20 w): and verily verily i say unto you i come quickly i am your lord and your redeemer even so amen
+  MD   (151 w): and verily verily i say unto you i come quickly i am your lord and your redeemer even so amen one eternal round section …
+  Diffs (131):
+    [  20]  json='<MISSING>'                md='one'
+    [  20]  json='<MISSING>'                md='eternal'
+    [  20]  json='<MISSING>'                md='round'
+    [  20]  json='<MISSING>'                md='section'
+    [  20]  json='<MISSING>'                md='35'
+    [  20]  json='<MISSING>'                md='revelation'
+    [  20]  json='<MISSING>'                md='given'
+    [  20]  json='<MISSING>'                md='to'
+    [  20]  json='<MISSING>'                md='joseph'
+    [  20]  json='<MISSING>'                md='smith'
+    [  20]  json='<MISSING>'                md='the'
+    [  20]  json='<MISSING>'                md='prophet'
+    ... and 119 more diffs in this verse
+
+  Ref: D&C 35:27
+  JSON (18 w): fear not little flock the kingdom is yours until i come behold i come quickly even so amen
+  MD   (66 w): fear not little flock the kingdom is yours until i come behold i come quickly even so amen out of the fire section 36 re…
+  Diffs (48):
+    [  18]  json='<MISSING>'                md='out'
+    [  18]  json='<MISSING>'                md='of'
+    [  18]  json='<MISSING>'                md='the'
+    [  18]  json='<MISSING>'                md='fire'
+    [  18]  json='<MISSING>'                md='section'
+    [  18]  json='<MISSING>'                md='36'
+    [  18]  json='<MISSING>'                md='revelation'
+    [  18]  json='<MISSING>'                md='given'
+    [  18]  json='<MISSING>'                md='through'
+    [  18]  json='<MISSING>'                md='joseph'
+    [  18]  json='<MISSING>'                md='smith'
+    [  18]  json='<MISSING>'                md='the'
+    ... and 36 more diffs in this verse
+
+  Ref: D&C 36:8
+  JSON (24 w): i am jesus christ the son of god wherefore gird up your loins and i will suddenly come to my temple even so amen
+  MD   (56 w): i am jesus christ the son of god wherefore gird up your loins and i will suddenly come to my temple even so amen the ene…
+  Diffs (32):
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='enemy'
+    [  24]  json='<MISSING>'                md='section'
+    [  24]  json='<MISSING>'                md='37'
+    [  24]  json='<MISSING>'                md='revelation'
+    [  24]  json='<MISSING>'                md='given'
+    [  24]  json='<MISSING>'                md='to'
+    [  24]  json='<MISSING>'                md='joseph'
+    [  24]  json='<MISSING>'                md='smith'
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='prophet'
+    [  24]  json='<MISSING>'                md='and'
+    ... and 20 more diffs in this verse
+
+  Ref: D&C 37:4
+  JSON (17 w): behold here is wisdom and let every man choose for himself until i come even so amen
+  MD   (43 w): behold here is wisdom and let every man choose for himself until i come even so amen secret chambers section 38 revelati…
+  Diffs (26):
+    [  17]  json='<MISSING>'                md='secret'
+    [  17]  json='<MISSING>'                md='chambers'
+    [  17]  json='<MISSING>'                md='section'
+    [  17]  json='<MISSING>'                md='38'
+    [  17]  json='<MISSING>'                md='revelation'
+    [  17]  json='<MISSING>'                md='given'
+    [  17]  json='<MISSING>'                md='through'
+    [  17]  json='<MISSING>'                md='joseph'
+    [  17]  json='<MISSING>'                md='smith'
+    [  17]  json='<MISSING>'                md='the'
+    [  17]  json='<MISSING>'                md='prophet'
+    [  17]  json='<MISSING>'                md='at'
+    ... and 14 more diffs in this verse
+
+  Ref: D&C 38:42
+  JSON (23 w): and go ye out from among the wicked save yourselves be ye clean that bear the vessels of the lord even so amen
+  MD   (78 w): and go ye out from among the wicked save yourselves be ye clean that bear the vessels of the lord even so amen eternity …
+  Diffs (55):
+    [  23]  json='<MISSING>'                md='eternity'
+    [  23]  json='<MISSING>'                md='to'
+    [  23]  json='<MISSING>'                md='eternity'
+    [  23]  json='<MISSING>'                md='section'
+    [  23]  json='<MISSING>'                md='39'
+    [  23]  json='<MISSING>'                md='revelation'
+    [  23]  json='<MISSING>'                md='given'
+    [  23]  json='<MISSING>'                md='through'
+    [  23]  json='<MISSING>'                md='joseph'
+    [  23]  json='<MISSING>'                md='smith'
+    [  23]  json='<MISSING>'                md='the'
+    [  23]  json='<MISSING>'                md='prophet'
+    ... and 43 more diffs in this verse
+
+  Ref: D&C 39:24
+  JSON (7 w): behold i come quickly even so amen
+  MD   (71 w): behold i come quickly even so amen cares of the world section 40 revelation given to joseph smith the prophet and sidney…
+  Diffs (64):
+    [   7]  json='<MISSING>'                md='cares'
+    [   7]  json='<MISSING>'                md='of'
+    [   7]  json='<MISSING>'                md='the'
+    [   7]  json='<MISSING>'                md='world'
+    [   7]  json='<MISSING>'                md='section'
+    [   7]  json='<MISSING>'                md='40'
+    [   7]  json='<MISSING>'                md='revelation'
+    [   7]  json='<MISSING>'                md='given'
+    [   7]  json='<MISSING>'                md='to'
+    [   7]  json='<MISSING>'                md='joseph'
+    [   7]  json='<MISSING>'                md='smith'
+    [   7]  json='<MISSING>'                md='the'
+    ... and 52 more diffs in this verse
+
+  Ref: D&C 40:3
+  JSON (19 w): wherefore he broke my covenant and it remaineth with me to do with him as seemeth me good amen
+  MD   (115 w): wherefore he broke my covenant and it remaineth with me to do with him as seemeth me good amen the heaviest cursing sect…
+  Diffs (96):
+    [  19]  json='<MISSING>'                md='the'
+    [  19]  json='<MISSING>'                md='heaviest'
+    [  19]  json='<MISSING>'                md='cursing'
+    [  19]  json='<MISSING>'                md='section'
+    [  19]  json='<MISSING>'                md='41'
+    [  19]  json='<MISSING>'                md='revelation'
+    [  19]  json='<MISSING>'                md='given'
+    [  19]  json='<MISSING>'                md='through'
+    [  19]  json='<MISSING>'                md='joseph'
+    [  19]  json='<MISSING>'                md='smith'
+    [  19]  json='<MISSING>'                md='the'
+    [  19]  json='<MISSING>'                md='prophet'
+    ... and 84 more diffs in this verse
+
+  Ref: D&C 41:12
+  JSON (35 w): these words are given unto you and they are pure before me wherefore beware how you hold them for they are to be answere…
+  MD   (116 w): these words are given unto you and they are pure before me wherefore beware how you hold them for they are to be answere…
+  Diffs (81):
+    [  35]  json='<MISSING>'                md='two'
+    [  35]  json='<MISSING>'                md='by'
+    [  35]  json='<MISSING>'                md='two'
+    [  35]  json='<MISSING>'                md='section'
+    [  35]  json='<MISSING>'                md='42'
+    [  35]  json='<MISSING>'                md='revelation'
+    [  35]  json='<MISSING>'                md='given'
+    [  35]  json='<MISSING>'                md='in'
+    [  35]  json='<MISSING>'                md='two'
+    [  35]  json='<MISSING>'                md='parts'
+    [  35]  json='<MISSING>'                md='through'
+    [  35]  json='<MISSING>'                md='joseph'
+    ... and 69 more diffs in this verse
+
+  Ref: D&C 42:93
+  JSON (8 w): and thus shall ye conduct in all things
+  MD   (89 w): and thus shall ye conduct in all things the ends of the earth section 43 revelation given through joseph smith the proph…
+  Diffs (81):
+    [   8]  json='<MISSING>'                md='the'
+    [   8]  json='<MISSING>'                md='ends'
+    [   8]  json='<MISSING>'                md='of'
+    [   8]  json='<MISSING>'                md='the'
+    [   8]  json='<MISSING>'                md='earth'
+    [   8]  json='<MISSING>'                md='section'
+    [   8]  json='<MISSING>'                md='43'
+    [   8]  json='<MISSING>'                md='revelation'
+    [   8]  json='<MISSING>'                md='given'
+    [   8]  json='<MISSING>'                md='through'
+    [   8]  json='<MISSING>'                md='joseph'
+    [   8]  json='<MISSING>'                md='smith'
+    ... and 69 more diffs in this verse
+
+  Ref: D&C 43:35
+  JSON (9 w): be sober keep all my commandments even so amen
+  MD   (58 w): be sober keep all my commandments even so amen many shall be converted section 44 revelation given to joseph smith the p…
+  Diffs (49):
+    [   9]  json='<MISSING>'                md='many'
+    [   9]  json='<MISSING>'                md='shall'
+    [   9]  json='<MISSING>'                md='be'
+    [   9]  json='<MISSING>'                md='converted'
+    [   9]  json='<MISSING>'                md='section'
+    [   9]  json='<MISSING>'                md='44'
+    [   9]  json='<MISSING>'                md='revelation'
+    [   9]  json='<MISSING>'                md='given'
+    [   9]  json='<MISSING>'                md='to'
+    [   9]  json='<MISSING>'                md='joseph'
+    [   9]  json='<MISSING>'                md='smith'
+    [   9]  json='<MISSING>'                md='the'
+    ... and 37 more diffs in this verse
+
+  Ref: D&C 44:6
+  JSON (39 w): behold i say unto you that ye must visit the poor and the needy and administer to their relief that they may be kept unt…
+  MD   (109 w): behold i say unto you that ye must visit the poor and the needy and administer to their relief that they may be kept unt…
+  Diffs (70):
+    [  39]  json='<MISSING>'                md='rumors'
+    [  39]  json='<MISSING>'                md='of'
+    [  39]  json='<MISSING>'                md='wars'
+    [  39]  json='<MISSING>'                md='section'
+    [  39]  json='<MISSING>'                md='45'
+    [  39]  json='<MISSING>'                md='revelation'
+    [  39]  json='<MISSING>'                md='given'
+    [  39]  json='<MISSING>'                md='through'
+    [  39]  json='<MISSING>'                md='joseph'
+    [  39]  json='<MISSING>'                md='smith'
+    [  39]  json='<MISSING>'                md='the'
+    [  39]  json='<MISSING>'                md='prophet'
+    ... and 58 more diffs in this verse
+
+  Ref: D&C 45:75
+  JSON (22 w): and all nations shall be afraid because of the terror of the lord and the power of his might even so amen
+  MD   (113 w): and all nations shall be afraid because of the terror of the lord and the power of his might even so amen the best gifts…
+  Diffs (91):
+    [  22]  json='<MISSING>'                md='the'
+    [  22]  json='<MISSING>'                md='best'
+    [  22]  json='<MISSING>'                md='gifts'
+    [  22]  json='<MISSING>'                md='section'
+    [  22]  json='<MISSING>'                md='46'
+    [  22]  json='<MISSING>'                md='revelation'
+    [  22]  json='<MISSING>'                md='given'
+    [  22]  json='<MISSING>'                md='through'
+    [  22]  json='<MISSING>'                md='joseph'
+    [  22]  json='<MISSING>'                md='smith'
+    [  22]  json='<MISSING>'                md='the'
+    [  22]  json='<MISSING>'                md='prophet'
+    ... and 79 more diffs in this verse
+
+  Ref: D&C 46:33
+  JSON (13 w): and ye must practice virtue and holiness before me continually even so amen
+  MD   (108 w): and ye must practice virtue and holiness before me continually even so amen the historian section 47 revelation given th…
+  Diffs (95):
+    [  13]  json='<MISSING>'                md='the'
+    [  13]  json='<MISSING>'                md='historian'
+    [  13]  json='<MISSING>'                md='section'
+    [  13]  json='<MISSING>'                md='47'
+    [  13]  json='<MISSING>'                md='revelation'
+    [  13]  json='<MISSING>'                md='given'
+    [  13]  json='<MISSING>'                md='through'
+    [  13]  json='<MISSING>'                md='joseph'
+    [  13]  json='<MISSING>'                md='smith'
+    [  13]  json='<MISSING>'                md='the'
+    [  13]  json='<MISSING>'                md='prophet'
+    [  13]  json='<MISSING>'                md='at'
+    ... and 83 more diffs in this verse
+
+  Ref: D&C 47:4
+  JSON (21 w): wherefore it shall be given him inasmuch as he is faithful by the comforter to write these things even so amen
+  MD   (98 w): wherefore it shall be given him inasmuch as he is faithful by the comforter to write these things even so amen land for …
+  Diffs (77):
+    [  21]  json='<MISSING>'                md='land'
+    [  21]  json='<MISSING>'                md='for'
+    [  21]  json='<MISSING>'                md='an'
+    [  21]  json='<MISSING>'                md='inheritance'
+    [  21]  json='<MISSING>'                md='section'
+    [  21]  json='<MISSING>'                md='48'
+    [  21]  json='<MISSING>'                md='revelation'
+    [  21]  json='<MISSING>'                md='given'
+    [  21]  json='<MISSING>'                md='through'
+    [  21]  json='<MISSING>'                md='joseph'
+    [  21]  json='<MISSING>'                md='smith'
+    [  21]  json='<MISSING>'                md='the'
+    ... and 65 more diffs in this verse
+
+  Ref: D&C 48:6
+  JSON (76 w): and they shall be appointed to purchase the lands and to make a commencement to lay the foundation of the city and then …
+  MD   (256 w): and they shall be appointed to purchase the lands and to make a commencement to lay the foundation of the city and then …
+  Diffs (180):
+    [  76]  json='<MISSING>'                md='the'
+    [  76]  json='<MISSING>'                md='shakers'
+    [  76]  json='<MISSING>'                md='section'
+    [  76]  json='<MISSING>'                md='49'
+    [  76]  json='<MISSING>'                md='revelation'
+    [  76]  json='<MISSING>'                md='given'
+    [  76]  json='<MISSING>'                md='through'
+    [  76]  json='<MISSING>'                md='joseph'
+    [  76]  json='<MISSING>'                md='smith'
+    [  76]  json='<MISSING>'                md='the'
+    [  76]  json='<MISSING>'                md='prophet'
+    [  76]  json='<MISSING>'                md='to'
+    ... and 168 more diffs in this verse
+
+  Ref: D&C 49:28
+  JSON (12 w): behold i am jesus christ and i come quickly even so amen
+  MD   (84 w): behold i am jesus christ and i come quickly even so amen the spirits section 50 revelation given through joseph smith th…
+  Diffs (72):
+    [  12]  json='<MISSING>'                md='the'
+    [  12]  json='<MISSING>'                md='spirits'
+    [  12]  json='<MISSING>'                md='section'
+    [  12]  json='<MISSING>'                md='50'
+    [  12]  json='<MISSING>'                md='revelation'
+    [  12]  json='<MISSING>'                md='given'
+    [  12]  json='<MISSING>'                md='through'
+    [  12]  json='<MISSING>'                md='joseph'
+    [  12]  json='<MISSING>'                md='smith'
+    [  12]  json='<MISSING>'                md='the'
+    [  12]  json='<MISSING>'                md='prophet'
+    [  12]  json='<MISSING>'                md='at'
+    ... and 60 more diffs in this verse
+
+  Ref: D&C 50:46
+  JSON (10 w): watch therefore that ye may be ready even so amen
+  MD   (78 w): watch therefore that ye may be ready even so amen a wise steward section 51 revelation given through joseph smith the pr…
+  Diffs (68):
+    [  10]  json='<MISSING>'                md='a'
+    [  10]  json='<MISSING>'                md='wise'
+    [  10]  json='<MISSING>'                md='steward'
+    [  10]  json='<MISSING>'                md='section'
+    [  10]  json='<MISSING>'                md='51'
+    [  10]  json='<MISSING>'                md='revelation'
+    [  10]  json='<MISSING>'                md='given'
+    [  10]  json='<MISSING>'                md='through'
+    [  10]  json='<MISSING>'                md='joseph'
+    [  10]  json='<MISSING>'                md='smith'
+    [  10]  json='<MISSING>'                md='the'
+    [  10]  json='<MISSING>'                md='prophet'
+    ... and 56 more diffs in this verse
+
+  Ref: D&C 51:20
+  JSON (21 w): verily i say unto you i am jesus christ who cometh quickly in an hour you think not even so amen
+  MD   (90 w): verily i say unto you i am jesus christ who cometh quickly in an hour you think not even so amen called and chosen secti…
+  Diffs (69):
+    [  21]  json='<MISSING>'                md='called'
+    [  21]  json='<MISSING>'                md='and'
+    [  21]  json='<MISSING>'                md='chosen'
+    [  21]  json='<MISSING>'                md='section'
+    [  21]  json='<MISSING>'                md='52'
+    [  21]  json='<MISSING>'                md='revelation'
+    [  21]  json='<MISSING>'                md='given'
+    [  21]  json='<MISSING>'                md='through'
+    [  21]  json='<MISSING>'                md='joseph'
+    [  21]  json='<MISSING>'                md='smith'
+    [  21]  json='<MISSING>'                md='the'
+    [  21]  json='<MISSING>'                md='prophet'
+    ... and 57 more diffs in this verse
+
+  Ref: D&C 52:44
+  JSON (22 w): behold i am jesus christ the son of god and i will lift them up at the last day even so amen
+  MD   (64 w): behold i am jesus christ the son of god and i will lift them up at the last day even so amen forsake the world section 5…
+  Diffs (42):
+    [  22]  json='<MISSING>'                md='forsake'
+    [  22]  json='<MISSING>'                md='the'
+    [  22]  json='<MISSING>'                md='world'
+    [  22]  json='<MISSING>'                md='section'
+    [  22]  json='<MISSING>'                md='53'
+    [  22]  json='<MISSING>'                md='revelation'
+    [  22]  json='<MISSING>'                md='given'
+    [  22]  json='<MISSING>'                md='through'
+    [  22]  json='<MISSING>'                md='joseph'
+    [  22]  json='<MISSING>'                md='smith'
+    [  22]  json='<MISSING>'                md='the'
+    [  22]  json='<MISSING>'                md='prophet'
+    ... and 30 more diffs in this verse
+
+  Ref: D&C 53:7
+  JSON (21 w): and again i would that ye should learn that he only is saved who endureth unto the end even so amen
+  MD   (151 w): and again i would that ye should learn that he only is saved who endureth unto the end even so amen regions westward sec…
+  Diffs (130):
+    [  21]  json='<MISSING>'                md='regions'
+    [  21]  json='<MISSING>'                md='westward'
+    [  21]  json='<MISSING>'                md='section'
+    [  21]  json='<MISSING>'                md='54'
+    [  21]  json='<MISSING>'                md='revelation'
+    [  21]  json='<MISSING>'                md='given'
+    [  21]  json='<MISSING>'                md='through'
+    [  21]  json='<MISSING>'                md='joseph'
+    [  21]  json='<MISSING>'                md='smith'
+    [  21]  json='<MISSING>'                md='the'
+    [  21]  json='<MISSING>'                md='prophet'
+    [  21]  json='<MISSING>'                md='to'
+    ... and 118 more diffs in this verse
+
+  Ref: D&C 54:10
+  JSON (36 w): and again be patient in tribulation until i come and behold i come quickly and my reward is with me and they who have so…
+  MD   (82 w): and again be patient in tribulation until i come and behold i come quickly and my reward is with me and they who have so…
+  Diffs (46):
+    [  36]  json='<MISSING>'                md='the'
+    [  36]  json='<MISSING>'                md='work'
+    [  36]  json='<MISSING>'                md='of'
+    [  36]  json='<MISSING>'                md='printing'
+    [  36]  json='<MISSING>'                md='section'
+    [  36]  json='<MISSING>'                md='55'
+    [  36]  json='<MISSING>'                md='revelation'
+    [  36]  json='<MISSING>'                md='given'
+    [  36]  json='<MISSING>'                md='through'
+    [  36]  json='<MISSING>'                md='joseph'
+    [  36]  json='<MISSING>'                md='smith'
+    [  36]  json='<MISSING>'                md='the'
+    ... and 34 more diffs in this verse
+
+  Ref: D&C 55:6
+  JSON (25 w): and again let my servant joseph coe also take his journey with them the residue shall be made known hereafter even as i …
+  MD   (98 w): and again let my servant joseph coe also take his journey with them the residue shall be made known hereafter even as i …
+  Diffs (73):
+    [  25]  json='<MISSING>'                md='the'
+    [  25]  json='<MISSING>'                md='rebellious'
+    [  25]  json='<MISSING>'                md='section'
+    [  25]  json='<MISSING>'                md='56'
+    [  25]  json='<MISSING>'                md='revelation'
+    [  25]  json='<MISSING>'                md='given'
+    [  25]  json='<MISSING>'                md='through'
+    [  25]  json='<MISSING>'                md='joseph'
+    [  25]  json='<MISSING>'                md='smith'
+    [  25]  json='<MISSING>'                md='the'
+    [  25]  json='<MISSING>'                md='prophet'
+    [  25]  json='<MISSING>'                md='at'
+    ... and 61 more diffs in this verse
+
+  Ref: D&C 56:20
+  JSON (27 w): and their generations shall inherit the earth from generation to generation forever and ever and now i make an end of sp…
+  MD   (124 w): and their generations shall inherit the earth from generation to generation forever and ever and now i make an end of sp…
+  Diffs (97):
+    [  27]  json='<MISSING>'                md='missouri'
+    [  27]  json='<MISSING>'                md='section'
+    [  27]  json='<MISSING>'                md='57'
+    [  27]  json='<MISSING>'                md='revelation'
+    [  27]  json='<MISSING>'                md='given'
+    [  27]  json='<MISSING>'                md='through'
+    [  27]  json='<MISSING>'                md='joseph'
+    [  27]  json='<MISSING>'                md='smith'
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='prophet'
+    [  27]  json='<MISSING>'                md='in'
+    [  27]  json='<MISSING>'                md='zion'
+    ... and 85 more diffs in this verse
+
+  Ref: D&C 57:16
+  JSON (18 w): and unto the residue of both elders and members further directions shall be given hereafter even so amen
+  MD   (107 w): and unto the residue of both elders and members further directions shall be given hereafter even so amen supper of the l…
+  Diffs (89):
+    [  18]  json='<MISSING>'                md='supper'
+    [  18]  json='<MISSING>'                md='of'
+    [  18]  json='<MISSING>'                md='the'
+    [  18]  json='<MISSING>'                md='lord'
+    [  18]  json='<MISSING>'                md='section'
+    [  18]  json='<MISSING>'                md='58'
+    [  18]  json='<MISSING>'                md='revelation'
+    [  18]  json='<MISSING>'                md='given'
+    [  18]  json='<MISSING>'                md='through'
+    [  18]  json='<MISSING>'                md='joseph'
+    [  18]  json='<MISSING>'                md='smith'
+    [  18]  json='<MISSING>'                md='the'
+    ... and 77 more diffs in this verse
+
+  Ref: D&C 58:65
+  JSON (8 w): and behold the son of man cometh amen
+  MD   (93 w): and behold the son of man cometh amen the lords day section 59 revelation given through joseph smith the prophet in zion…
+  Diffs (85):
+    [   8]  json='<MISSING>'                md='the'
+    [   8]  json='<MISSING>'                md='lords'
+    [   8]  json='<MISSING>'                md='day'
+    [   8]  json='<MISSING>'                md='section'
+    [   8]  json='<MISSING>'                md='59'
+    [   8]  json='<MISSING>'                md='revelation'
+    [   8]  json='<MISSING>'                md='given'
+    [   8]  json='<MISSING>'                md='through'
+    [   8]  json='<MISSING>'                md='joseph'
+    [   8]  json='<MISSING>'                md='smith'
+    [   8]  json='<MISSING>'                md='the'
+    [   8]  json='<MISSING>'                md='prophet'
+    ... and 73 more diffs in this verse
+
+  Ref: D&C 59:24
+  JSON (12 w): i the lord have spoken it and the spirit beareth record amen
+  MD   (63 w): i the lord have spoken it and the spirit beareth record amen fear of man section 60 revelation given through joseph smit…
+  Diffs (51):
+    [  12]  json='<MISSING>'                md='fear'
+    [  12]  json='<MISSING>'                md='of'
+    [  12]  json='<MISSING>'                md='man'
+    [  12]  json='<MISSING>'                md='section'
+    [  12]  json='<MISSING>'                md='60'
+    [  12]  json='<MISSING>'                md='revelation'
+    [  12]  json='<MISSING>'                md='given'
+    [  12]  json='<MISSING>'                md='through'
+    [  12]  json='<MISSING>'                md='joseph'
+    [  12]  json='<MISSING>'                md='smith'
+    [  12]  json='<MISSING>'                md='the'
+    [  12]  json='<MISSING>'                md='prophet'
+    ... and 39 more diffs in this verse
+
+  Ref: D&C 60:17
+  JSON (27 w): and by the mouth of my servant joseph smith jun it shall be made known concerning sidney rigdon and oliver cowdery the r…
+  MD   (100 w): and by the mouth of my servant joseph smith jun it shall be made known concerning sidney rigdon and oliver cowdery the r…
+  Diffs (73):
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='waters'
+    [  27]  json='<MISSING>'                md='section'
+    [  27]  json='<MISSING>'                md='61'
+    [  27]  json='<MISSING>'                md='revelation'
+    [  27]  json='<MISSING>'                md='given'
+    [  27]  json='<MISSING>'                md='through'
+    [  27]  json='<MISSING>'                md='joseph'
+    [  27]  json='<MISSING>'                md='smith'
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='prophet'
+    [  27]  json='<MISSING>'                md='on'
+    ... and 61 more diffs in this verse
+
+  Ref: D&C 61:39
+  JSON (26 w): pray always that you enter not into temptation that you may abide the day of his coming whether in life or in death even…
+  MD   (87 w): pray always that you enter not into temptation that you may abide the day of his coming whether in life or in death even…
+  Diffs (61):
+    [  26]  json='<MISSING>'                md='the'
+    [  26]  json='<MISSING>'                md='advocate'
+    [  26]  json='<MISSING>'                md='section'
+    [  26]  json='<MISSING>'                md='62'
+    [  26]  json='<MISSING>'                md='revelation'
+    [  26]  json='<MISSING>'                md='given'
+    [  26]  json='<MISSING>'                md='through'
+    [  26]  json='<MISSING>'                md='joseph'
+    [  26]  json='<MISSING>'                md='smith'
+    [  26]  json='<MISSING>'                md='the'
+    [  26]  json='<MISSING>'                md='prophet'
+    [  26]  json='<MISSING>'                md='on'
+    ... and 49 more diffs in this verse
+
+  Ref: D&C 62:9
+  JSON (18 w): behold the kingdom is yours and behold and lo i am with the faithful always even so amen
+  MD   (128 w): behold the kingdom is yours and behold and lo i am with the faithful always even so amen signs and wonders section 63 re…
+  Diffs (110):
+    [  18]  json='<MISSING>'                md='signs'
+    [  18]  json='<MISSING>'                md='and'
+    [  18]  json='<MISSING>'                md='wonders'
+    [  18]  json='<MISSING>'                md='section'
+    [  18]  json='<MISSING>'                md='63'
+    [  18]  json='<MISSING>'                md='revelation'
+    [  18]  json='<MISSING>'                md='given'
+    [  18]  json='<MISSING>'                md='through'
+    [  18]  json='<MISSING>'                md='joseph'
+    [  18]  json='<MISSING>'                md='smith'
+    [  18]  json='<MISSING>'                md='the'
+    [  18]  json='<MISSING>'                md='prophet'
+    ... and 98 more diffs in this verse
+
+  Ref: D&C 63:66
+  JSON (24 w): these things remain to overcome through patience that such may receive a more exceeding and eternal weight of glory othe…
+  MD   (109 w): these things remain to overcome through patience that such may receive a more exceeding and eternal weight of glory othe…
+  Diffs (85):
+    [  24]  json='<MISSING>'                md='day'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='sacrifice'
+    [  24]  json='<MISSING>'                md='section'
+    [  24]  json='<MISSING>'                md='64'
+    [  24]  json='<MISSING>'                md='revelation'
+    [  24]  json='<MISSING>'                md='given'
+    [  24]  json='<MISSING>'                md='through'
+    [  24]  json='<MISSING>'                md='joseph'
+    [  24]  json='<MISSING>'                md='smith'
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='prophet'
+    ... and 73 more diffs in this verse
+
+  Ref: D&C 64:43
+  JSON (30 w): and the day shall come when the nations of the earth shall tremble because of her and shall fear because of her terrible…
+  MD   (51 w): and the day shall come when the nations of the earth shall tremble because of her and shall fear because of her terrible…
+  Diffs (21):
+    [  30]  json='<MISSING>'                md='supper'
+    [  30]  json='<MISSING>'                md='of'
+    [  30]  json='<MISSING>'                md='the'
+    [  30]  json='<MISSING>'                md='lamb'
+    [  30]  json='<MISSING>'                md='section'
+    [  30]  json='<MISSING>'                md='65'
+    [  30]  json='<MISSING>'                md='revelation'
+    [  30]  json='<MISSING>'                md='on'
+    [  30]  json='<MISSING>'                md='prayer'
+    [  30]  json='<MISSING>'                md='given'
+    [  30]  json='<MISSING>'                md='through'
+    [  30]  json='<MISSING>'                md='joseph'
+    ... and 9 more diffs in this verse
+
+  Ref: D&C 65:6
+  JSON (45 w): wherefore may the kingdom of god go forth that the kingdom of heaven may come that thou o god mayest be glorified in hea…
+  MD   (103 w): wherefore may the kingdom of god go forth that the kingdom of heaven may come that thou o god mayest be glorified in hea…
+  Diffs (58):
+    [  45]  json='<MISSING>'                md='clean'
+    [  45]  json='<MISSING>'                md='but'
+    [  45]  json='<MISSING>'                md='not'
+    [  45]  json='<MISSING>'                md='all'
+    [  45]  json='<MISSING>'                md='section'
+    [  45]  json='<MISSING>'                md='66'
+    [  45]  json='<MISSING>'                md='revelation'
+    [  45]  json='<MISSING>'                md='given'
+    [  45]  json='<MISSING>'                md='through'
+    [  45]  json='<MISSING>'                md='joseph'
+    [  45]  json='<MISSING>'                md='smith'
+    [  45]  json='<MISSING>'                md='the'
+    ... and 46 more diffs in this verse
+
+  Ref: D&C 66:13
+  JSON (13 w): verily thus saith the lord your god your redeemer even jesus christ amen
+  MD   (164 w): verily thus saith the lord your god your redeemer even jesus christ amen the riches of eternity section 67 revelation gi…
+  Diffs (151):
+    [  13]  json='<MISSING>'                md='the'
+    [  13]  json='<MISSING>'                md='riches'
+    [  13]  json='<MISSING>'                md='of'
+    [  13]  json='<MISSING>'                md='eternity'
+    [  13]  json='<MISSING>'                md='section'
+    [  13]  json='<MISSING>'                md='67'
+    [  13]  json='<MISSING>'                md='revelation'
+    [  13]  json='<MISSING>'                md='given'
+    [  13]  json='<MISSING>'                md='through'
+    [  13]  json='<MISSING>'                md='joseph'
+    [  13]  json='<MISSING>'                md='smith'
+    [  13]  json='<MISSING>'                md='the'
+    ... and 139 more diffs in this verse
+
+  Ref: D&C 67:14
+  JSON (37 w): let not your minds turn back and when ye are worthy in mine own due time ye shall see and know that which was conferred …
+  MD   (124 w): let not your minds turn back and when ye are worthy in mine own due time ye shall see and know that which was conferred …
+  Diffs (87):
+    [  37]  json='<MISSING>'                md='the'
+    [  37]  json='<MISSING>'                md='voice'
+    [  37]  json='<MISSING>'                md='of'
+    [  37]  json='<MISSING>'                md='the'
+    [  37]  json='<MISSING>'                md='lord'
+    [  37]  json='<MISSING>'                md='section'
+    [  37]  json='<MISSING>'                md='68'
+    [  37]  json='<MISSING>'                md='revelation'
+    [  37]  json='<MISSING>'                md='given'
+    [  37]  json='<MISSING>'                md='through'
+    [  37]  json='<MISSING>'                md='joseph'
+    [  37]  json='<MISSING>'                md='smith'
+    ... and 75 more diffs in this verse
+
+  Ref: D&C 68:35
+  JSON (11 w): behold i am alpha and omega and i come quickly amen
+  MD   (133 w): behold i am alpha and omega and i come quickly amen making a history section 69 revelation given through joseph smith th…
+  Diffs (122):
+    [  11]  json='<MISSING>'                md='making'
+    [  11]  json='<MISSING>'                md='a'
+    [  11]  json='<MISSING>'                md='history'
+    [  11]  json='<MISSING>'                md='section'
+    [  11]  json='<MISSING>'                md='69'
+    [  11]  json='<MISSING>'                md='revelation'
+    [  11]  json='<MISSING>'                md='given'
+    [  11]  json='<MISSING>'                md='through'
+    [  11]  json='<MISSING>'                md='joseph'
+    [  11]  json='<MISSING>'                md='smith'
+    [  11]  json='<MISSING>'                md='the'
+    [  11]  json='<MISSING>'                md='prophet'
+    ... and 110 more diffs in this verse
+
+  Ref: D&C 69:8
+  JSON (44 w): preaching and expounding writing copying selecting and obtaining all things which shall be for the good of the church an…
+  MD   (172 w): preaching and expounding writing copying selecting and obtaining all things which shall be for the good of the church an…
+  Diffs (128):
+    [  44]  json='<MISSING>'                md='stewardships'
+    [  44]  json='<MISSING>'                md='section'
+    [  44]  json='<MISSING>'                md='70'
+    [  44]  json='<MISSING>'                md='revelation'
+    [  44]  json='<MISSING>'                md='given'
+    [  44]  json='<MISSING>'                md='through'
+    [  44]  json='<MISSING>'                md='joseph'
+    [  44]  json='<MISSING>'                md='smith'
+    [  44]  json='<MISSING>'                md='the'
+    [  44]  json='<MISSING>'                md='prophet'
+    [  44]  json='<MISSING>'                md='at'
+    [  44]  json='<MISSING>'                md='hiram'
+    ... and 116 more diffs in this verse
+
+  Ref: D&C 70:18
+  JSON (23 w): behold i the lord am merciful and will bless them and they shall enter into the joy of these things even so amen
+  MD   (118 w): behold i the lord am merciful and will bless them and they shall enter into the joy of these things even so amen go ye f…
+  Diffs (95):
+    [  23]  json='<MISSING>'                md='go'
+    [  23]  json='<MISSING>'                md='ye'
+    [  23]  json='<MISSING>'                md='forth'
+    [  23]  json='<MISSING>'                md='section'
+    [  23]  json='<MISSING>'                md='71'
+    [  23]  json='<MISSING>'                md='revelation'
+    [  23]  json='<MISSING>'                md='given'
+    [  23]  json='<MISSING>'                md='to'
+    [  23]  json='<MISSING>'                md='joseph'
+    [  23]  json='<MISSING>'                md='smith'
+    [  23]  json='<MISSING>'                md='the'
+    [  23]  json='<MISSING>'                md='prophet'
+    ... and 83 more diffs in this verse
+
+  Ref: D&C 71:11
+  JSON (12 w): wherefore keep my commandments they are true and faithful even so amen
+  MD   (116 w): wherefore keep my commandments they are true and faithful even so amen the bishop of zion section 72 revelation given th…
+  Diffs (104):
+    [  12]  json='<MISSING>'                md='the'
+    [  12]  json='<MISSING>'                md='bishop'
+    [  12]  json='<MISSING>'                md='of'
+    [  12]  json='<MISSING>'                md='zion'
+    [  12]  json='<MISSING>'                md='section'
+    [  12]  json='<MISSING>'                md='72'
+    [  12]  json='<MISSING>'                md='revelation'
+    [  12]  json='<MISSING>'                md='given'
+    [  12]  json='<MISSING>'                md='through'
+    [  12]  json='<MISSING>'                md='joseph'
+    [  12]  json='<MISSING>'                md='smith'
+    [  12]  json='<MISSING>'                md='the'
+    ... and 92 more diffs in this verse
+
+  Ref: D&C 72:26
+  JSON (25 w): otherwise he who shall go up unto the land of zion shall not be accounted as a wise steward this is also an ensample ame…
+  MD   (88 w): otherwise he who shall go up unto the land of zion shall not be accounted as a wise steward this is also an ensample ame…
+  Diffs (63):
+    [  25]  json='<MISSING>'                md='the'
+    [  25]  json='<MISSING>'                md='work'
+    [  25]  json='<MISSING>'                md='of'
+    [  25]  json='<MISSING>'                md='translation'
+    [  25]  json='<MISSING>'                md='section'
+    [  25]  json='<MISSING>'                md='73'
+    [  25]  json='<MISSING>'                md='revelation'
+    [  25]  json='<MISSING>'                md='given'
+    [  25]  json='<MISSING>'                md='to'
+    [  25]  json='<MISSING>'                md='joseph'
+    [  25]  json='<MISSING>'                md='smith'
+    [  25]  json='<MISSING>'                md='the'
+    ... and 51 more diffs in this verse
+
+  Ref: D&C 73:6
+  JSON (20 w): now i give no more unto you at this time gird up your loins and be sober even so amen
+  MD   (89 w): now i give no more unto you at this time gird up your loins and be sober even so amen the unbelieving husband section 74…
+  Diffs (69):
+    [  20]  json='<MISSING>'                md='the'
+    [  20]  json='<MISSING>'                md='unbelieving'
+    [  20]  json='<MISSING>'                md='husband'
+    [  20]  json='<MISSING>'                md='section'
+    [  20]  json='<MISSING>'                md='74'
+    [  20]  json='<MISSING>'                md='revelation'
+    [  20]  json='<MISSING>'                md='given'
+    [  20]  json='<MISSING>'                md='to'
+    [  20]  json='<MISSING>'                md='joseph'
+    [  20]  json='<MISSING>'                md='smith'
+    [  20]  json='<MISSING>'                md='the'
+    [  20]  json='<MISSING>'                md='prophet'
+    ... and 57 more diffs in this verse
+
+  Ref: D&C 74:7
+  JSON (20 w): but little children are holy being sanctified through the atonement of jesus christ and this is what the scriptures mean
+  MD   (96 w): but little children are holy being sanctified through the atonement of jesus christ and this is what the scriptures mean…
+  Diffs (76):
+    [  20]  json='<MISSING>'                md='united'
+    [  20]  json='<MISSING>'                md='in'
+    [  20]  json='<MISSING>'                md='the'
+    [  20]  json='<MISSING>'                md='ministry'
+    [  20]  json='<MISSING>'                md='section'
+    [  20]  json='<MISSING>'                md='75'
+    [  20]  json='<MISSING>'                md='revelation'
+    [  20]  json='<MISSING>'                md='given'
+    [  20]  json='<MISSING>'                md='through'
+    [  20]  json='<MISSING>'                md='joseph'
+    [  20]  json='<MISSING>'                md='smith'
+    [  20]  json='<MISSING>'                md='the'
+    ... and 64 more diffs in this verse
+
+  Ref: D&C 75:36
+  JSON (16 w): and also my servant micah b welton and also my servant eden smith even so amen
+  MD   (156 w): and also my servant micah b welton and also my servant eden smith even so amen the vision section 76 a vision given to j…
+  Diffs (140):
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='vision'
+    [  16]  json='<MISSING>'                md='section'
+    [  16]  json='<MISSING>'                md='76'
+    [  16]  json='<MISSING>'                md='a'
+    [  16]  json='<MISSING>'                md='vision'
+    [  16]  json='<MISSING>'                md='given'
+    [  16]  json='<MISSING>'                md='to'
+    [  16]  json='<MISSING>'                md='joseph'
+    [  16]  json='<MISSING>'                md='smith'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='prophet'
+    ... and 128 more diffs in this verse
+
+  Ref: D&C 76:119
+  JSON (16 w): and to god and the lamb be glory and honor and dominion forever and ever amen
+  MD   (56 w): and to god and the lamb be glory and honor and dominion forever and ever amen questions answers section 77 revelation gi…
+  Diffs (40):
+    [  16]  json='<MISSING>'                md='questions'
+    [  16]  json='<MISSING>'                md='answers'
+    [  16]  json='<MISSING>'                md='section'
+    [  16]  json='<MISSING>'                md='77'
+    [  16]  json='<MISSING>'                md='revelation'
+    [  16]  json='<MISSING>'                md='given'
+    [  16]  json='<MISSING>'                md='to'
+    [  16]  json='<MISSING>'                md='joseph'
+    [  16]  json='<MISSING>'                md='smith'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='prophet'
+    [  16]  json='<MISSING>'                md='at'
+    ... and 28 more diffs in this verse
+
+  Ref: D&C 77:15
+  JSON (64 w): q what is to be understood by the two witnesses in the eleventh chapter of revelation a they are two prophets that are t…
+  MD   (197 w): q what is to be understood by the two witnesses in the eleventh chapter of revelation a they are two prophets that are t…
+  Diffs (133):
+    [  64]  json='<MISSING>'                md='heavenly'
+    [  64]  json='<MISSING>'                md='things'
+    [  64]  json='<MISSING>'                md='section'
+    [  64]  json='<MISSING>'                md='78'
+    [  64]  json='<MISSING>'                md='revelation'
+    [  64]  json='<MISSING>'                md='given'
+    [  64]  json='<MISSING>'                md='through'
+    [  64]  json='<MISSING>'                md='joseph'
+    [  64]  json='<MISSING>'                md='smith'
+    [  64]  json='<MISSING>'                md='the'
+    [  64]  json='<MISSING>'                md='prophet'
+    [  64]  json='<MISSING>'                md='at'
+    ... and 121 more diffs in this verse
+
+  Ref: D&C 78:22
+  JSON (14 w): and he that is a faithful and wise steward shall inherit all things amen
+  MD   (31 w): and he that is a faithful and wise steward shall inherit all things amen the comforter section 79 revelation given throu…
+  Diffs (17):
+    [  14]  json='<MISSING>'                md='the'
+    [  14]  json='<MISSING>'                md='comforter'
+    [  14]  json='<MISSING>'                md='section'
+    [  14]  json='<MISSING>'                md='79'
+    [  14]  json='<MISSING>'                md='revelation'
+    [  14]  json='<MISSING>'                md='given'
+    [  14]  json='<MISSING>'                md='through'
+    [  14]  json='<MISSING>'                md='joseph'
+    [  14]  json='<MISSING>'                md='smith'
+    [  14]  json='<MISSING>'                md='the'
+    [  14]  json='<MISSING>'                md='prophet'
+    [  14]  json='<MISSING>'                md='at'
+    ... and 5 more diffs in this verse
+
+  Ref: D&C 79:4
+  JSON (20 w): wherefore let your heart be glad my servant jared carter and fear not saith your lord even jesus christ amen
+  MD   (42 w): wherefore let your heart be glad my servant jared carter and fear not saith your lord even jesus christ amen ye cannot g…
+  Diffs (22):
+    [  20]  json='<MISSING>'                md='ye'
+    [  20]  json='<MISSING>'                md='cannot'
+    [  20]  json='<MISSING>'                md='go'
+    [  20]  json='<MISSING>'                md='amiss'
+    [  20]  json='<MISSING>'                md='section'
+    [  20]  json='<MISSING>'                md='80'
+    [  20]  json='<MISSING>'                md='revelation'
+    [  20]  json='<MISSING>'                md='given'
+    [  20]  json='<MISSING>'                md='through'
+    [  20]  json='<MISSING>'                md='joseph'
+    [  20]  json='<MISSING>'                md='smith'
+    [  20]  json='<MISSING>'                md='the'
+    ... and 10 more diffs in this verse
+
+  Ref: D&C 80:5
+  JSON (17 w): behold this is the will of him who hath called you your redeemer even jesus christ amen
+  MD   (169 w): behold this is the will of him who hath called you your redeemer even jesus christ amen land of the living section 81 re…
+  Diffs (152):
+    [  17]  json='<MISSING>'                md='land'
+    [  17]  json='<MISSING>'                md='of'
+    [  17]  json='<MISSING>'                md='the'
+    [  17]  json='<MISSING>'                md='living'
+    [  17]  json='<MISSING>'                md='section'
+    [  17]  json='<MISSING>'                md='81'
+    [  17]  json='<MISSING>'                md='revelation'
+    [  17]  json='<MISSING>'                md='given'
+    [  17]  json='<MISSING>'                md='through'
+    [  17]  json='<MISSING>'                md='joseph'
+    [  17]  json='<MISSING>'                md='smith'
+    [  17]  json='<MISSING>'                md='the'
+    ... and 140 more diffs in this verse
+
+  ... and 61 more affected verses (not shown)
+
+══════════════════════════════════════════════════════════════════════════════
+RESULT: ✗ FAILURES DETECTED
+══════════════════════════════════════════════════════════════════════════════
