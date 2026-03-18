@@ -1,0 +1,842 @@
+Outlying text report: out/bom/bom-step2.md
+Total outlying blocks: 109
+Total outlying words:  2162
+================================================================================
+
+[Block    1]  words= 1053  kind=non_verse_gap
+  Chapter: (before first chapter)
+  After:   START
+  Before:  <h1>1 Nephi 1</h1>
+  Text:    The Book of Mormon
+
+
+Another Testament of Jesus Christ
+
+
+Reader’s Edition
+
+
+
+
+
+Reader’s edition © 2018 by Benjamin Crowder. All rights reserved.
+
+Text of the Book of Mormon © 2018 by Intellectual Reserve, Inc. All rights reserved.
+
+The text of this reader’s edition is licensed from The Church of Jesus Christ of Latter-day Saints with the following disclaimer: The Product offered by Benjamin Cro...
+
+[Block    2]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 1 Nephi 5
+  After:   <sub>22</sub>
+  Before:  <h1>1 Nephi 6</h1>
+  Text:    1 Nephi 2
+
+[Block    3]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 1 Nephi 9
+  After:   <sub>6</sub>
+  Before:  <h1>1 Nephi 10</h1>
+  Text:    1 Nephi 3
+
+[Block    4]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 1 Nephi 14
+  After:   <sub>30</sub>
+  Before:  <h1>1 Nephi 15</h1>
+  Text:    1 Nephi 4
+
+[Block    5]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 1 Nephi 15
+  After:   <sub>36</sub>
+  Before:  <h1>1 Nephi 16</h1>
+  Text:    1 Nephi 5
+
+[Block    6]  words=   58  kind=chapter_boundary_trailing
+  Chapter: 1 Nephi 17
+  After:   <sub>55</sub>
+  Before:  <h1>1 Nephi 18</h1>
+  Text:    And they fell down before me, and were about to worship me, but I would not suffer them, saying: I am thy brother, yea, even thy younger brother; wherefore, worship the Lord thy God, and honor thy father and thy mother, that thy days may be long in the land which the Lord thy God shall give thee.
+
+[Block    7]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 1 Nephi 21
+  After:   <sub>26</sub>
+  Before:  <h1>1 Nephi 22</h1>
+  Text:    1 Nephi 7
+
+[Block    8]  words=   37  kind=chapter_boundary_trailing
+  Chapter: 1 Nephi 22
+  After:   <sub>31</sub>
+  Before:  <h1>2 Nephi 1</h1>
+  Text:    The Second Book of Nephi
+
+
+An account of the death of Lehi. Nephi’s brethren rebel against him. The Lord warns Nephi to depart into the wilderness. His journeyings in the wilderness, and so forth.
+
+
+
+
+
+2 Nephi 1
+
+[Block    9]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 2
+  After:   <sub>30</sub>
+  Before:  <h1>2 Nephi 3</h1>
+  Text:    2 Nephi 2
+
+[Block   10]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 3
+  After:   <sub>25</sub>
+  Before:  <h1>2 Nephi 4</h1>
+  Text:    2 Nephi 3
+
+[Block   11]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 4
+  After:   <sub>35</sub>
+  Before:  <h1>2 Nephi 5</h1>
+  Text:    2 Nephi 4
+
+[Block   12]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 5
+  After:   <sub>34</sub>
+  Before:  <h1>2 Nephi 6</h1>
+  Text:    2 Nephi 5
+
+[Block   13]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 8
+  After:   <sub>25</sub>
+  Before:  <h1>2 Nephi 9</h1>
+  Text:    2 Nephi 6
+
+[Block   14]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 9
+  After:   <sub>54</sub>
+  Before:  <h1>2 Nephi 10</h1>
+  Text:    2 Nephi 7
+
+[Block   15]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 10
+  After:   <sub>25</sub>
+  Before:  <h1>2 Nephi 11</h1>
+  Text:    2 Nephi 8
+
+[Block   16]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 15
+  After:   <sub>30</sub>
+  Before:  <h1>2 Nephi 16</h1>
+  Text:    2 Nephi 9
+
+[Block   17]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 22
+  After:   <sub>6</sub>
+  Before:  <h1>2 Nephi 23</h1>
+  Text:    2 Nephi 10
+
+[Block   18]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 24
+  After:   <sub>32</sub>
+  Before:  <h1>2 Nephi 25</h1>
+  Text:    2 Nephi 11
+
+[Block   19]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 27
+  After:   <sub>35</sub>
+  Before:  <h1>2 Nephi 28</h1>
+  Text:    2 Nephi 12
+
+[Block   20]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 30
+  After:   <sub>18</sub>
+  Before:  <h1>2 Nephi 31</h1>
+  Text:    2 Nephi 13
+
+[Block   21]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 31
+  After:   <sub>21</sub>
+  Before:  <h1>2 Nephi 32</h1>
+  Text:    2 Nephi 14
+
+[Block   22]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 32
+  After:   <sub>9</sub>
+  Before:  <h1>2 Nephi 33</h1>
+  Text:    2 Nephi 15
+
+[Block   23]  words=   41  kind=chapter_boundary_trailing
+  Chapter: 2 Nephi 33
+  After:   <sub>15</sub>
+  Before:  <h1>Jacob 1</h1>
+  Text:    The Book of Jacob the Brother of Nephi
+
+
+The words of his preaching unto his brethren. He confoundeth a man who seeketh to overthrow the doctrine of Christ. A few words concerning the history of the people of Nephi.
+
+
+
+
+
+Jacob 1
+
+[Block   24]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Jacob 1
+  After:   <sub>19</sub>
+  Before:  <h1>Jacob 2</h1>
+  Text:    Jacob 2
+
+[Block   25]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Jacob 3
+  After:   <sub>14</sub>
+  Before:  <h1>Jacob 4</h1>
+  Text:    Jacob 3
+
+[Block   26]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Jacob 5
+  After:   <sub>77</sub>
+  Before:  <h1>Jacob 6</h1>
+  Text:    Jacob 4
+
+[Block   27]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Jacob 6
+  After:   <sub>13</sub>
+  Before:  <h1>Jacob 7</h1>
+  Text:    Jacob 5
+
+[Block   28]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Jacob 7
+  After:   <sub>27</sub>
+  Before:  <h1>Enos 1</h1>
+  Text:    The Book of Enos
+
+[Block   29]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Enos 1
+  After:   <sub>27</sub>
+  Before:  <h1>Jarom 1</h1>
+  Text:    The Book of Jarom
+
+[Block   30]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Jarom 1
+  After:   <sub>15</sub>
+  Before:  <h1>Omni 1</h1>
+  Text:    The Book of Omni
+
+[Block   31]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Omni 1
+  After:   <sub>30</sub>
+  Before:  <h1>Words of Mormon 1</h1>
+  Text:    The Words of Mormon
+
+[Block   32]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mosiah 3
+  After:   <sub>27</sub>
+  Before:  <h1>Mosiah 4</h1>
+  Text:    Mosiah 2
+
+[Block   33]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mosiah 4
+  After:   <sub>30</sub>
+  Before:  <h1>Mosiah 5</h1>
+  Text:    Mosiah 3
+
+[Block   34]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mosiah 5
+  After:   <sub>15</sub>
+  Before:  <h1>Mosiah 6</h1>
+  Text:    Mosiah 4
+
+[Block   35]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mosiah 6
+  After:   <sub>7</sub>
+  Before:  <h1>Mosiah 7</h1>
+  Text:    Mosiah 5
+
+[Block   36]  words=   33  kind=chapter_boundary_trailing
+  Chapter: Mosiah 8
+  After:   <sub>21</sub>
+  Before:  <h1>Mosiah 9</h1>
+  Text:    The Record of Zeniff—An account of his people, from the time they left the land of Zarahemla until the time that they were delivered out of the hands of the Lamanites.
+
+
+
+
+
+Mosiah 6
+
+[Block   37]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mosiah 10
+  After:   <sub>22</sub>
+  Before:  <h1>Mosiah 11</h1>
+  Text:    Mosiah 7
+
+[Block   38]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mosiah 16
+  After:   <sub>15</sub>
+  Before:  <h1>Mosiah 17</h1>
+  Text:    Mosiah 9
+
+[Block   39]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mosiah 21
+  After:   <sub>36</sub>
+  Before:  <h1>Mosiah 22</h1>
+  Text:    Mosiah 10
+
+[Block   40]  words=   24  kind=chapter_boundary_trailing
+  Chapter: Mosiah 22
+  After:   <sub>16</sub>
+  Before:  <h1>Mosiah 23</h1>
+  Text:    An account of Alma and the people of the Lord, who were driven into the wilderness by the people of King Noah.
+
+
+
+
+
+Mosiah 11
+
+[Block   41]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mosiah 27
+  After:   <sub>37</sub>
+  Before:  <h1>Mosiah 28</h1>
+  Text:    Mosiah 12
+
+[Block   42]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mosiah 28
+  After:   <sub>20</sub>
+  Before:  <h1>Mosiah 29</h1>
+  Text:    Mosiah 13
+
+[Block   43]  words=   78  kind=chapter_boundary_trailing
+  Chapter: Mosiah 29
+  After:   <sub>47</sub>
+  Before:  <h1>Alma 1</h1>
+  Text:    The Book of Alma the Son of Alma
+
+
+The account of Alma, who was the son of Alma, the first and chief judge over the people of Nephi, and also the high priest over the Church. An account of the reign of the judges, and the wars and contentions among the people. And also an account of a war between the Nephites and the Lamanites, according to the record of Alma, the first and chief judge.
+
+
+
+
+
+Al...
+
+[Block   44]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 3
+  After:   <sub>27</sub>
+  Before:  <h1>Alma 4</h1>
+  Text:    Alma 2
+
+[Block   45]  words=   28  kind=chapter_boundary_trailing
+  Chapter: Alma 4
+  After:   <sub>20</sub>
+  Before:  <h1>Alma 5</h1>
+  Text:    The words which Alma, the High Priest according to the holy order of God, delivered to the people in their cities and villages throughout the land.
+
+
+
+
+
+Alma 3
+
+[Block   46]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 5
+  After:   <sub>62</sub>
+  Before:  <h1>Alma 6</h1>
+  Text:    Alma 4
+
+[Block   47]  words=   19  kind=chapter_boundary_trailing
+  Chapter: Alma 6
+  After:   <sub>8</sub>
+  Before:  <h1>Alma 7</h1>
+  Text:    The words of Alma which he delivered to the people in Gideon, according to his own record.
+
+
+
+
+
+Alma 5
+
+[Block   48]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 7
+  After:   <sub>27</sub>
+  Before:  <h1>Alma 8</h1>
+  Text:    Alma 6
+
+[Block   49]  words=   50  kind=chapter_boundary_trailing
+  Chapter: Alma 8
+  After:   <sub>32</sub>
+  Before:  <h1>Alma 9</h1>
+  Text:    The words of Alma, and also the words of Amulek, which were declared unto the people who were in the land of Ammonihah. And also they are cast into prison, and delivered by the miraculous power of God which was in them, according to the record of Alma.
+
+
+
+
+
+Alma 7
+
+[Block   50]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 9
+  After:   <sub>34</sub>
+  Before:  <h1>Alma 10</h1>
+  Text:    Alma 8
+
+[Block   51]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 11
+  After:   <sub>46</sub>
+  Before:  <h1>Alma 12</h1>
+  Text:    Alma 9
+
+[Block   52]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 15
+  After:   <sub>19</sub>
+  Before:  <h1>Alma 16</h1>
+  Text:    Alma 11
+
+[Block   53]  words=   43  kind=chapter_boundary_trailing
+  Chapter: Alma 16
+  After:   <sub>21</sub>
+  Before:  <h1>Alma 17</h1>
+  Text:    An account of the sons of Mosiah, who rejected their rights to the kingdom for the word of God, and went up to the land of Nephi to preach to the Lamanites; their sufferings and deliverance—according to the record of Alma.
+
+
+
+
+
+Alma 12
+
+[Block   54]  words=   17  kind=chapter_boundary_trailing
+  Chapter: Alma 20
+  After:   <sub>30</sub>
+  Before:  <h1>Alma 21</h1>
+  Text:    An account of the preaching of Aaron, and Muloki, and their brethren, to the Lamanites.
+
+
+
+
+
+Alma 13
+
+[Block   55]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 22
+  After:   <sub>35</sub>
+  Before:  <h1>Alma 23</h1>
+  Text:    Alma 14
+
+[Block   56]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 26
+  After:   <sub>37</sub>
+  Before:  <h1>Alma 27</h1>
+  Text:    Alma 15
+
+[Block   57]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 29
+  After:   <sub>17</sub>
+  Before:  <h1>Alma 30</h1>
+  Text:    Alma 16
+
+[Block   58]  words=   10  kind=chapter_boundary_trailing
+  Chapter: Alma 35
+  After:   <sub>16</sub>
+  Before:  <h1>Alma 36</h1>
+  Text:    The commandments of Alma to his son Helaman.
+
+
+
+
+
+Alma 17
+
+[Block   59]  words=   10  kind=chapter_boundary_trailing
+  Chapter: Alma 37
+  After:   <sub>47</sub>
+  Before:  <h1>Alma 38</h1>
+  Text:    The commandments of Alma to his son Shiblon.
+
+
+
+
+
+Alma 18
+
+[Block   60]  words=   10  kind=chapter_boundary_trailing
+  Chapter: Alma 38
+  After:   <sub>15</sub>
+  Before:  <h1>Alma 39</h1>
+  Text:    The commandments of Alma to his son Corianton.
+
+
+
+
+
+Alma 19
+
+[Block   61]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 42
+  After:   <sub>31</sub>
+  Before:  <h1>Alma 43</h1>
+  Text:    Alma 20
+
+[Block   62]  words=   31  kind=chapter_boundary_trailing
+  Chapter: Alma 44
+  After:   <sub>24</sub>
+  Before:  <h1>Alma 45</h1>
+  Text:    The account of the people of Nephi, and their wars and dissensions, in the days of Helaman, according to the record of Helaman, which he kept in his days.
+
+
+
+
+
+Alma 21
+
+[Block   63]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 49
+  After:   <sub>30</sub>
+  Before:  <h1>Alma 50</h1>
+  Text:    Alma 22
+
+[Block   64]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 50
+  After:   <sub>40</sub>
+  Before:  <h1>Alma 51</h1>
+  Text:    Alma 23
+
+[Block   65]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 51
+  After:   <sub>37</sub>
+  Before:  <h1>Alma 52</h1>
+  Text:    Alma 24
+
+[Block   66]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 53
+  After:   <sub>23</sub>
+  Before:  <h1>Alma 54</h1>
+  Text:    Alma 25
+
+[Block   67]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 55
+  After:   <sub>35</sub>
+  Before:  <h1>Alma 56</h1>
+  Text:    Alma 26
+
+[Block   68]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 58
+  After:   <sub>41</sub>
+  Before:  <h1>Alma 59</h1>
+  Text:    Alma 27
+
+[Block   69]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 60
+  After:   <sub>36</sub>
+  Before:  <h1>Alma 61</h1>
+  Text:    Alma 28
+
+[Block   70]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 61
+  After:   <sub>21</sub>
+  Before:  <h1>Alma 62</h1>
+  Text:    Alma 29
+
+[Block   71]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Alma 62
+  After:   <sub>52</sub>
+  Before:  <h1>Alma 63</h1>
+  Text:    Alma 30
+
+[Block   72]  words=  114  kind=chapter_boundary_trailing
+  Chapter: Alma 63
+  After:   <sub>17</sub>
+  Before:  <h1>Helaman 1</h1>
+  Text:    The Book of Helaman
+
+
+An account of the Nephites. Their wars and contentions, and their dissensions. And also the prophecies of many holy prophets, before the coming of Christ, according to the records of Helaman, who was the son of Helaman, and also according to the records of his sons, even down to the coming of Christ. And also many of the Lamanites are converted. An account of their convers...
+
+[Block   73]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Helaman 2
+  After:   <sub>14</sub>
+  Before:  <h1>Helaman 3</h1>
+  Text:    Helaman 2
+
+[Block   74]  words=   54  kind=chapter_boundary_trailing
+  Chapter: Helaman 6
+  After:   <sub>41</sub>
+  Before:  <h1>Helaman 7</h1>
+  Text:    The Prophecy of Nephi, the Son of Helaman—God threatens the people of Nephi that he will visit them in his anger, to their utter destruction except they repent of their wickedness. God smiteth the people of Nephi with pestilence; they repent and turn unto him. Samuel, a Lamanite, prophesies unto the Nephites.
+
+
+
+
+
+Helaman 3
+
+[Block   75]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Helaman 10
+  After:   <sub>19</sub>
+  Before:  <h1>Helaman 11</h1>
+  Text:    Helaman 4
+
+[Block   76]  words=   11  kind=chapter_boundary_trailing
+  Chapter: Helaman 12
+  After:   <sub>26</sub>
+  Before:  <h1>Helaman 13</h1>
+  Text:    The prophecy of Samuel, the Lamanite, to the Nephites.
+
+
+
+
+
+Helaman 5
+
+[Block   77]  words=   67  kind=chapter_boundary_trailing
+  Chapter: Helaman 16
+  After:   <sub>25</sub>
+  Before:  <h1>3 Nephi 1</h1>
+  Text:    Third Nephi
+
+
+The Book of Nephi
+
+
+the Son of Nephi, Who Was the Son of Helaman
+
+
+And Helaman was the son of Helaman, who was the son of Alma, who was the son of Alma, being a descendant of Nephi who was the son of Lehi, who came out of Jerusalem in the first year of the reign of Zedekiah, the king of Judah.
+
+
+
+
+
+3 Nephi 1
+
+[Block   78]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 2
+  After:   <sub>19</sub>
+  Before:  <h1>3 Nephi 3</h1>
+  Text:    3 Nephi 2
+
+[Block   79]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 5
+  After:   <sub>26</sub>
+  Before:  <h1>3 Nephi 6</h1>
+  Text:    3 Nephi 3
+
+[Block   80]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 7
+  After:   <sub>26</sub>
+  Before:  <h1>3 Nephi 8</h1>
+  Text:    3 Nephi 4
+
+[Block   81]  words=   38  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 10
+  After:   <sub>19</sub>
+  Before:  <h1>3 Nephi 11</h1>
+  Text:    Jesus Christ did show himself unto the people of Nephi, as the multitude were gathered together in the land Bountiful, and did minister unto them; and on this wise did he show himself unto them.
+
+
+
+
+
+3 Nephi 5
+
+[Block   82]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 14
+  After:   <sub>27</sub>
+  Before:  <h1>3 Nephi 15</h1>
+  Text:    3 Nephi 7
+
+[Block   83]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 16
+  After:   <sub>20</sub>
+  Before:  <h1>3 Nephi 17</h1>
+  Text:    3 Nephi 8
+
+[Block   84]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 18
+  After:   <sub>39</sub>
+  Before:  <h1>3 Nephi 19</h1>
+  Text:    3 Nephi 9
+
+[Block   85]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 21
+  After:   <sub>29</sub>
+  Before:  <h1>3 Nephi 22</h1>
+  Text:    3 Nephi 10
+
+[Block   86]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 27
+  After:   <sub>33</sub>
+  Before:  <h1>3 Nephi 28</h1>
+  Text:    3 Nephi 13
+
+[Block   87]  words=    3  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 29
+  After:   <sub>9</sub>
+  Before:  <h1>3 Nephi 30</h1>
+  Text:    3 Nephi 14
+
+[Block   88]  words=   29  kind=chapter_boundary_trailing
+  Chapter: 3 Nephi 30
+  After:   <sub>2</sub>
+  Before:  <h1>4 Nephi 1</h1>
+  Text:    Fourth Nephi
+
+
+The Book of Nephi
+
+
+Who Is the Son of Nephi—One of the Disciples of Jesus Christ
+
+
+An account of the people of Nephi, according to his record.
+
+[Block   89]  words=    6  kind=chapter_boundary_trailing
+  Chapter: 4 Nephi 1
+  After:   <sub>49</sub>
+  Before:  <h1>Mormon 1</h1>
+  Text:    The Book of Mormon
+
+
+
+
+
+Mormon 1
+
+[Block   90]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mormon 3
+  After:   <sub>22</sub>
+  Before:  <h1>Mormon 4</h1>
+  Text:    Mormon 2
+
+[Block   91]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mormon 5
+  After:   <sub>24</sub>
+  Before:  <h1>Mormon 6</h1>
+  Text:    Mormon 3
+
+[Block   92]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Mormon 7
+  After:   <sub>10</sub>
+  Before:  <h1>Mormon 8</h1>
+  Text:    Mormon 4
+
+[Block   93]  words=   28  kind=chapter_boundary_trailing
+  Chapter: Mormon 9
+  After:   <sub>37</sub>
+  Before:  <h1>Ether 1</h1>
+  Text:    The Book of Ether
+
+
+The record of the Jaredites, taken from the twenty-four plates found by the people of Limhi in the days of King Mosiah.
+
+
+
+
+
+Ether 1
+
+[Block   94]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Ether 4
+  After:   <sub>19</sub>
+  Before:  <h1>Ether 5</h1>
+  Text:    Ether 2
+
+[Block   95]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Ether 5
+  After:   <sub>6</sub>
+  Before:  <h1>Ether 6</h1>
+  Text:    Ether 3
+
+[Block   96]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Ether 8
+  After:   <sub>26</sub>
+  Before:  <h1>Ether 9</h1>
+  Text:    Ether 4
+
+[Block   97]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Ether 11
+  After:   <sub>23</sub>
+  Before:  <h1>Ether 12</h1>
+  Text:    Ether 5
+
+[Block   98]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Ether 12
+  After:   <sub>41</sub>
+  Before:  <h1>Ether 13</h1>
+  Text:    Ether 6
+
+[Block   99]  words=    6  kind=chapter_boundary_trailing
+  Chapter: Ether 15
+  After:   <sub>34</sub>
+  Before:  <h1>Moroni 1</h1>
+  Text:    The Book of Moroni
+
+
+
+
+
+Moroni 1
+
+[Block  100]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Moroni 1
+  After:   <sub>4</sub>
+  Before:  <h1>Moroni 2</h1>
+  Text:    Moroni 2
+
+[Block  101]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Moroni 2
+  After:   <sub>3</sub>
+  Before:  <h1>Moroni 3</h1>
+  Text:    Moroni 3
+
+[Block  102]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Moroni 3
+  After:   <sub>4</sub>
+  Before:  <h1>Moroni 4</h1>
+  Text:    Moroni 4
+
+[Block  103]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Moroni 4
+  After:   <sub>3</sub>
+  Before:  <h1>Moroni 5</h1>
+  Text:    Moroni 5
+
+[Block  104]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Moroni 5
+  After:   <sub>2</sub>
+  Before:  <h1>Moroni 6</h1>
+  Text:    Moroni 6
+
+[Block  105]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Moroni 6
+  After:   <sub>9</sub>
+  Before:  <h1>Moroni 7</h1>
+  Text:    Moroni 7
+
+[Block  106]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Moroni 7
+  After:   <sub>48</sub>
+  Before:  <h1>Moroni 8</h1>
+  Text:    Moroni 8
+
+[Block  107]  words=   11  kind=chapter_boundary_trailing
+  Chapter: Moroni 8
+  After:   <sub>30</sub>
+  Before:  <h1>Moroni 9</h1>
+  Text:    The second epistle of Mormon to his son Moroni.
+
+
+
+
+
+Moroni 9
+
+[Block  108]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Moroni 9
+  After:   <sub>26</sub>
+  Before:  <h1>Moroni 10</h1>
+  Text:    Moroni 10
+
+[Block  109]  words=   56  kind=trailing_end
+  Chapter: Moroni 10
+  After:   <sub>34</sub>
+  Before:  END
+  Text:    And now I bid unto all, farewell. I soon go to rest in the paradise of God, until my spirit and body shall again reunite, and I am brought forth triumphant through the air, to meet you before the pleasing bar of the great Jehovah, the Eternal Judge of both quick and dead. Amen.
+
+The End
+

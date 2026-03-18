@@ -1,0 +1,161 @@
+Outlying text report: out/pogp/pogp.md
+Total outlying blocks: 17
+Total outlying words:  356
+================================================================================
+
+[Block    1]  words=  154  kind=non_verse_gap
+  Chapter: (before first chapter)
+  After:   START
+  Before:  <h1>Moses 1</h1>
+  Text:    The Pearl of Great Price
+
+
+Reader’s Edition
+
+
+
+
+
+This reader’s edition © 2017 by Benjamin Crowder. All rights reserved.
+
+Text of the Pearl of Great Price © 2017 by Intellectual Reserve, Inc. All rights reserved.
+
+The text of this reader’s edition is licensed from The Church of Jesus Christ of Latter-day Saints with the following disclaimer: The Product offered by Benjamin Crowder is neither mad...
+
+[Block    2]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Moses 1
+  After:   <sub>42</sub>
+  Before:  <h1>Moses 2</h1>
+  Text:    Moses 2
+
+
+(June–October 1830)
+
+[Block    3]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Moses 2
+  After:   <sub>31</sub>
+  Before:  <h1>Moses 3</h1>
+  Text:    Moses 3
+
+
+(June–October 1830)
+
+[Block    4]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Moses 3
+  After:   <sub>25</sub>
+  Before:  <h1>Moses 4</h1>
+  Text:    Moses 4
+
+
+(June–October 1830)
+
+[Block    5]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Moses 4
+  After:   <sub>32</sub>
+  Before:  <h1>Moses 5</h1>
+  Text:    Moses 5
+
+
+(June–October 1830)
+
+[Block    6]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Moses 5
+  After:   <sub>59</sub>
+  Before:  <h1>Moses 6</h1>
+  Text:    Moses 6
+
+
+(November–December 1830)
+
+[Block    7]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Moses 6
+  After:   <sub>68</sub>
+  Before:  <h1>Moses 7</h1>
+  Text:    Moses 7
+
+
+(December 1830)
+
+[Block    8]  words=    4  kind=chapter_boundary_trailing
+  Chapter: Moses 7
+  After:   <sub>69</sub>
+  Before:  <h1>Moses 8</h1>
+  Text:    Moses 8
+
+
+(February 1831)
+
+[Block    9]  words=   51  kind=chapter_boundary_trailing
+  Chapter: Moses 8
+  After:   <sub>30</sub>
+  Before:  <h1>Abraham 1</h1>
+  Text:    The Book of Abraham
+
+
+Translated from the Papyrus, by Joseph Smith
+
+
+A Translation of some ancient Records that have fallen into our hands from the catacombs of Egypt. The writings of Abraham while he was in Egypt, called the Book of Abraham, written by his own hand, upon papyrus.
+
+
+
+
+
+Abraham 1
+
+[Block   10]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Abraham 1
+  After:   <sub>31</sub>
+  Before:  <h1>Abraham 2</h1>
+  Text:    Abraham 2
+
+[Block   11]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Abraham 2
+  After:   <sub>25</sub>
+  Before:  <h1>Abraham 3</h1>
+  Text:    Abraham 3
+
+[Block   12]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Abraham 3
+  After:   <sub>28</sub>
+  Before:  <h1>Abraham 4</h1>
+  Text:    Abraham 4
+
+[Block   13]  words=    2  kind=chapter_boundary_trailing
+  Chapter: Abraham 4
+  After:   <sub>31</sub>
+  Before:  <h1>Abraham 5</h1>
+  Text:    Abraham 5
+
+[Block   14]  words=   24  kind=chapter_boundary_trailing
+  Chapter: Abraham 5
+  After:   <sub>21</sub>
+  Before:  <h1>Joseph Smith—Matthew 1</h1>
+  Text:    Joseph Smith—Matthew
+
+
+An extract from the translation of the Bible as revealed to Joseph Smith the Prophet in 1831: Matthew 23:39 and chapter 24.
+
+[Block   15]  words=   11  kind=chapter_boundary_trailing
+  Chapter: Joseph Smith—Matthew 1
+  After:   <sub>55</sub>
+  Before:  <h1>Joseph Smith—History 1</h1>
+  Text:    Joseph Smith—History
+
+
+Extracts from the History of Joseph Smith, the Prophet
+
+[Block   16]  words=   13  kind=chapter_boundary_trailing
+  Chapter: Joseph Smith—History 1
+  After:   <sub>75</sub>
+  Before:  <h1>Articles of Faith 1</h1>
+  Text:    The Articles of Faith of The Church of Jesus Christ of Latter-day Saints
+
+[Block   17]  words=   67  kind=trailing_end
+  Chapter: Articles of Faith 1
+  After:   <sub>13</sub>
+  Before:  END
+  Text:    We believe in being honest, true, chaste, benevolent, virtuous, and in doing good to all men; indeed, we may say that we follow the admonition of Paul—We believe all things, we hope all things, we have endured many things, and hope to be able to endure all things. If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things.
+
+Joseph Smith.
+

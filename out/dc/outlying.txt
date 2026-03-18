@@ -1,0 +1,1705 @@
+Outlying text report: out/dc/dc.md
+Total outlying blocks: 139
+Total outlying words:  9966
+================================================================================
+
+[Block    1]  words=  228  kind=non_verse_gap
+  Chapter: (before first chapter)
+  After:   START
+  Before:  <h1>D&C 1</h1>
+  Text:    The Doctrine and Covenants of The Church of Jesus Christ of Latter-day Saints
+
+
+Containing Revelations Given to Joseph Smith, the Prophet with Some Additions by His Successors in the Presidency of the Church
+
+
+Reader’s Edition
+
+
+
+
+
+Reader’s edition © 2017 by Benjamin Crowder. All rights reserved.
+
+Text of the Doctrine and Covenants © 2017 by Intellectual Reserve, Inc. All rights reserved.
+
+The ...
+
+[Block    2]  words=   78  kind=chapter_boundary_trailing
+  Chapter: D&C 1
+  After:   <sub>39</sub>
+  Before:  <h1>D&C 2</h1>
+  Text:    Hearts of the Children
+
+
+Section 2
+
+
+An extract from Joseph Smith’s history relating the words of the angel Moroni to Joseph Smith the Prophet, while in the house of the Prophet’s father at Manchester, New York, on the evening of September 21, 1823. Moroni was the last of a long line of historians who had made the record that is now before the world as the Book of Mormon. (Compare Malachi 4:5–6...
+
+[Block    3]  words=   89  kind=chapter_boundary_trailing
+  Chapter: D&C 2
+  After:   <sub>3</sub>
+  Before:  <h1>D&C 3</h1>
+  Text:    Thou Wast Chosen
+
+
+Section 3
+
+
+Revelation given to Joseph Smith the Prophet, at Harmony, Pennsylvania, July 1828, relating to the loss of 116 pages of manuscript translated from the first part of the Book of Mormon, which was called the book of Lehi. The Prophet had reluctantly allowed these pages to pass from his custody to that of Martin Harris, who had served for a brief period as scribe in ...
+
+[Block    4]  words=   22  kind=chapter_boundary_trailing
+  Chapter: D&C 3
+  After:   <sub>20</sub>
+  Before:  <h1>D&C 4</h1>
+  Text:    Evil Designs
+
+
+Section 4
+
+
+Revelation given through Joseph Smith the Prophet to his father, Joseph Smith Sr., at Harmony, Pennsylvania, February 1829.
+
+[Block    5]  words=   22  kind=chapter_boundary_trailing
+  Chapter: D&C 4
+  After:   <sub>7</sub>
+  Before:  <h1>D&C 5</h1>
+  Text:    Three Witnesses
+
+
+Section 5
+
+
+Revelation given through Joseph Smith the Prophet, at Harmony, Pennsylvania, March 1829, at the request of Martin Harris.
+
+[Block    6]  words=   80  kind=chapter_boundary_trailing
+  Chapter: D&C 5
+  After:   <sub>35</sub>
+  Before:  <h1>D&C 6</h1>
+  Text:    Peace to Your Mind
+
+
+Section 6
+
+
+Revelation given to Joseph Smith the Prophet and Oliver Cowdery, at Harmony, Pennsylvania, April 1829. Oliver Cowdery began his labors as scribe in the translation of the Book of Mormon, April 7, 1829. He had already received a divine manifestation of the truth of the Prophet’s testimony respecting the plates on which was engraved the Book of Mormon record. The ...
+
+[Block    7]  words=   62  kind=chapter_boundary_trailing
+  Chapter: D&C 6
+  After:   <sub>37</sub>
+  Before:  <h1>D&C 7</h1>
+  Text:    Keys of This Ministry
+
+
+Section 7
+
+
+Revelation given to Joseph Smith the Prophet and Oliver Cowdery, at Harmony, Pennsylvania, April 1829, when they inquired through the Urim and Thummim as to whether John, the beloved disciple, tarried in the flesh or had died. The revelation is a translated version of the record made on parchment by John and hidden up by himself.
+
+[Block    8]  words=   62  kind=chapter_boundary_trailing
+  Chapter: D&C 7
+  After:   <sub>8</sub>
+  Before:  <h1>D&C 8</h1>
+  Text:    Mind and Heart
+
+
+Section 8
+
+
+Revelation given through Joseph Smith the Prophet to Oliver Cowdery, at Harmony, Pennsylvania, April 1829. In the course of the translation of the Book of Mormon, Oliver, who continued to serve as scribe, writing at the Prophet’s dictation, desired to be endowed with the gift of translation. The Lord responded to his supplication by granting this revelation.
+
+[Block    9]  words=   50  kind=chapter_boundary_trailing
+  Chapter: D&C 8
+  After:   <sub>12</sub>
+  Before:  <h1>D&C 9</h1>
+  Text:    Study It Out
+
+
+Section 9
+
+
+Revelation given through Joseph Smith the Prophet to Oliver Cowdery, at Harmony, Pennsylvania, April 1829. Oliver is admonished to be patient and is urged to be content to write, for the time being, at the dictation of the translator, rather than to attempt to translate.
+
+[Block   10]  words=  161  kind=chapter_boundary_trailing
+  Chapter: D&C 9
+  After:   <sub>14</sub>
+  Before:  <h1>D&C 10</h1>
+  Text:    Obtain My Word
+
+
+Section 10
+
+
+Revelation given to Joseph Smith the Prophet, at Harmony, Pennsylvania, likely around April 1829, though portions may have been received as early as the summer of 1828. Herein the Lord informs Joseph of alterations made by wicked men in the 116 manuscript pages from the translation of the book of Lehi, in the Book of Mormon. These manuscript pages had been lost fro...
+
+[Block   11]  words=   54  kind=chapter_boundary_trailing
+  Chapter: D&C 10
+  After:   <sub>70</sub>
+  Before:  <h1>D&C 11</h1>
+  Text:    A Marvelous Work
+
+
+Section 11
+
+
+Revelation given through Joseph Smith the Prophet to his brother Hyrum Smith, at Harmony, Pennsylvania, May 1829. This revelation was received through the Urim and Thummim in answer to Joseph’s supplication and inquiry. Joseph Smith’s history suggests that this revelation was received after the restoration of the Aaronic Priesthood.
+
+[Block   12]  words=   79  kind=chapter_boundary_trailing
+  Chapter: D&C 11
+  After:   <sub>30</sub>
+  Before:  <h1>D&C 12</h1>
+  Text:    Full of Love
+
+
+Section 12
+
+
+Revelation given through Joseph Smith the Prophet to Joseph Knight Sr., at Harmony, Pennsylvania, May 1829. Joseph Knight believed the declarations of Joseph Smith concerning his possession of the Book of Mormon plates and the work of translation then in progress and several times had given material assistance to Joseph Smith and his scribe, which enabled them to con...
+
+[Block   13]  words=  114  kind=chapter_boundary_trailing
+  Chapter: D&C 12
+  After:   <sub>9</sub>
+  Before:  <h1>D&C 13</h1>
+  Text:    Priesthood of Aaron
+
+
+Section 13
+
+
+An extract from Joseph Smith’s history recounting the ordination of the Prophet and Oliver Cowdery to the Aaronic Priesthood near Harmony, Pennsylvania, May 15, 1829. The ordination was done by the hands of an angel who announced himself as John, the same that is called John the Baptist in the New Testament. The angel explained that he was acting under the dir...
+
+[Block   14]  words=  132  kind=chapter_boundary_trailing
+  Chapter: D&C 13
+  After:   <sub>1</sub>
+  Before:  <h1>D&C 14</h1>
+  Text:    Thou Art David
+
+
+Section 14
+
+
+Revelation given through Joseph Smith the Prophet to David Whitmer, at Fayette, New York, June 1829. The Whitmer family had become greatly interested in the translating of the Book of Mormon. The Prophet established his residence at the home of Peter Whitmer Sr., where he dwelt until the work of translation was carried to completion and the copyright on the forthco...
+
+[Block   15]  words=   63  kind=chapter_boundary_trailing
+  Chapter: D&C 14
+  After:   <sub>11</sub>
+  Before:  <h1>D&C 15</h1>
+  Text:    My Servant John
+
+
+Section 15
+
+
+Revelation given through Joseph Smith the Prophet to John Whitmer, at Fayette, New York, June 1829 (see the heading to section 14). The message is intimately and impressively personal in that the Lord tells of what was known only to John Whitmer and Himself. John Whitmer later became one of the Eight Witnesses to the Book of Mormon.
+
+[Block   16]  words=   43  kind=chapter_boundary_trailing
+  Chapter: D&C 15
+  After:   <sub>6</sub>
+  Before:  <h1>D&C 16</h1>
+  Text:    My Servant Peter
+
+
+Section 16
+
+
+Revelation given through Joseph Smith the Prophet to Peter Whitmer Jr., at Fayette, New York, June 1829 (see the heading to section 14). Peter Whitmer Jr. later became one of the Eight Witnesses to the Book of Mormon.
+
+[Block   17]  words=  111  kind=chapter_boundary_trailing
+  Chapter: D&C 16
+  After:   <sub>6</sub>
+  Before:  <h1>D&C 17</h1>
+  Text:    A View of the Plates
+
+
+Section 17
+
+
+Revelation given through Joseph Smith the Prophet to Oliver Cowdery, David Whitmer, and Martin Harris, at Fayette, New York, June 1829, prior to their viewing the engraved plates that contained the Book of Mormon record. Joseph and his scribe, Oliver Cowdery, had learned from the translation of the Book of Mormon plates that three special witnesses would be d...
+
+[Block   18]  words=   48  kind=chapter_boundary_trailing
+  Chapter: D&C 17
+  After:   <sub>9</sub>
+  Before:  <h1>D&C 18</h1>
+  Text:    Twelve Disciples
+
+
+Section 18
+
+
+Revelation to Joseph Smith the Prophet, Oliver Cowdery, and David Whitmer, given at Fayette, New York, June 1829. According to the Prophet, this revelation made known “the calling of twelve apostles in these last days, and also instructions relative to building up the Church.”
+
+[Block   19]  words=   45  kind=chapter_boundary_trailing
+  Chapter: D&C 18
+  After:   <sub>47</sub>
+  Before:  <h1>D&C 19</h1>
+  Text:    Alpha and Omega
+
+
+Section 19
+
+
+Revelation given through Joseph Smith, at Manchester, New York, likely in the summer of 1829. In his history, the Prophet introduces it as “a commandment of God and not of man, to Martin Harris, given by him who is Eternal.”
+
+[Block   20]  words=  118  kind=chapter_boundary_trailing
+  Chapter: D&C 19
+  After:   <sub>41</sub>
+  Before:  <h1>D&C 20</h1>
+  Text:    The Church of Christ
+
+
+Section 20
+
+
+Revelation on Church organization and government, given through Joseph Smith the Prophet, at or near Fayette, New York. Portions of this revelation may have been given as early as summer 1829. The complete revelation, known at the time as the Articles and Covenants, was likely recorded soon after April 6, 1830 (the day the Church was organized). The Prophet w...
+
+[Block   21]  words=  142  kind=chapter_boundary_trailing
+  Chapter: D&C 20
+  After:   <sub>84</sub>
+  Before:  <h1>D&C 21</h1>
+  Text:    The First Preacher
+
+
+Section 21
+
+
+Revelation given to Joseph Smith the Prophet, at Fayette, New York, April 6, 1830. This revelation was given at the organization of the Church, on the date named, in the home of Peter Whitmer Sr. Six men, who had previously been baptized, participated. By unanimous vote these persons expressed their desire and determination to organize, according to the command...
+
+[Block   22]  words=   42  kind=chapter_boundary_trailing
+  Chapter: D&C 21
+  After:   <sub>12</sub>
+  Before:  <h1>D&C 22</h1>
+  Text:    Old Covenants
+
+
+Section 22
+
+
+Revelation given through Joseph Smith the Prophet, at Manchester, New York, April 16, 1830. This revelation was given to the Church in consequence of some who had previously been baptized desiring to unite with the Church without rebaptism.
+
+[Block   23]  words=   69  kind=chapter_boundary_trailing
+  Chapter: D&C 22
+  After:   <sub>4</sub>
+  Before:  <h1>D&C 23</h1>
+  Text:    No Condemnation
+
+
+Section 23
+
+
+A series of five revelations given through Joseph Smith the Prophet, at Manchester, New York, April 1830, to Oliver Cowdery, Hyrum Smith, Samuel H. Smith, Joseph Smith Sr., and Joseph Knight Sr. As the result of earnest desire on the part of the five persons named to know of their respective duties, the Prophet inquired of the Lord and received a revelation for ea...
+
+[Block   24]  words=   59  kind=chapter_boundary_trailing
+  Chapter: D&C 23
+  After:   <sub>7</sub>
+  Before:  <h1>D&C 24</h1>
+  Text:    Deliverance
+
+
+Section 24
+
+
+Revelation given to Joseph Smith the Prophet and Oliver Cowdery, at Harmony, Pennsylvania, July 1830. Though less than four months had elapsed since the Church was organized, persecution had become intense, and the leaders had to seek safety in partial seclusion. The following three revelations were given at this time to strengthen, encourage, and instruct them.
+
+[Block   25]  words=   37  kind=chapter_boundary_trailing
+  Chapter: D&C 24
+  After:   <sub>19</sub>
+  Before:  <h1>D&C 25</h1>
+  Text:    An Elect Lady
+
+
+Section 25
+
+
+Revelation given through Joseph Smith the Prophet, at Harmony, Pennsylvania, July 1830 (see the heading to section 24). This revelation manifests the will of the Lord to Emma Smith, the Prophet’s wife.
+
+[Block   26]  words=   28  kind=chapter_boundary_trailing
+  Chapter: D&C 25
+  After:   <sub>16</sub>
+  Before:  <h1>D&C 26</h1>
+  Text:    By Common Consent
+
+
+Section 26
+
+
+Revelation given to Joseph Smith the Prophet, Oliver Cowdery, and John Whitmer, at Harmony, Pennsylvania, July 1830 (see the heading to section 24).
+
+[Block   27]  words=   81  kind=chapter_boundary_trailing
+  Chapter: D&C 26
+  After:   <sub>2</sub>
+  Before:  <h1>D&C 27</h1>
+  Text:    The Sacrament
+
+
+Section 27
+
+
+Revelation given to Joseph Smith the Prophet, at Harmony, Pennsylvania, August 1830. In preparation for a religious service at which the sacrament of bread and wine was to be administered, Joseph set out to procure wine. He was met by a heavenly messenger and received this revelation, a portion of which was written at the time and the remainder in the September foll...
+
+[Block   28]  words=   88  kind=chapter_boundary_trailing
+  Chapter: D&C 27
+  After:   <sub>18</sub>
+  Before:  <h1>D&C 28</h1>
+  Text:    Sound of Rejoicing
+
+
+Section 28
+
+
+Revelation given through Joseph Smith the Prophet to Oliver Cowdery, at Fayette, New York, September 1830. Hiram Page, a member of the Church, had a certain stone and professed to be receiving revelations by its aid concerning the upbuilding of Zion and the order of the Church. Several members had been deceived by these claims, and even Oliver Cowdery was wrong...
+
+[Block   29]  words=   39  kind=chapter_boundary_trailing
+  Chapter: D&C 28
+  After:   <sub>16</sub>
+  Before:  <h1>D&C 29</h1>
+  Text:    A Trump Shall Sound
+
+
+Section 29
+
+
+Revelation given through Joseph Smith the Prophet, in the presence of six elders, at Fayette, New York, September 1830. This revelation was given some days prior to the conference, beginning September 26, 1830.
+
+[Block   30]  words=   69  kind=chapter_boundary_trailing
+  Chapter: D&C 29
+  After:   <sub>50</sub>
+  Before:  <h1>D&C 30</h1>
+  Text:    I Am With You
+
+
+Section 30
+
+
+Revelation given through Joseph Smith the Prophet to David Whitmer, Peter Whitmer Jr., and John Whitmer, at Fayette, New York, September 1830, following the three-day conference at Fayette, but before the elders of the Church had separated. Originally this material was published as three revelations; it was combined into one section by the Prophet for the 1835 editi...
+
+[Block   31]  words=   57  kind=chapter_boundary_trailing
+  Chapter: D&C 30
+  After:   <sub>11</sub>
+  Before:  <h1>D&C 31</h1>
+  Text:    A Physician
+
+
+Section 31
+
+
+Revelation given through Joseph Smith the Prophet to Thomas B. Marsh, September 1830. The occasion was immediately following a conference of the Church (see the heading to section 30). Thomas B. Marsh had been baptized earlier in the month and had been ordained an elder in the Church before this revelation was given.
+
+[Block   32]  words=  107  kind=chapter_boundary_trailing
+  Chapter: D&C 31
+  After:   <sub>13</sub>
+  Before:  <h1>D&C 32</h1>
+  Text:    These words are not of man nor of men, but of me, even Jesus Christ, your Redeemer, by the will of the Father. Amen.
+
+
+
+
+
+Meek and Lowly
+
+
+Section 32
+
+
+Revelation given through Joseph Smith the Prophet to Parley P. Pratt and Ziba Peterson, in Manchester, New York, early October 1830. Great interest and desires were felt by the elders respecting the Lamanites, of whose predicted blessings the Ch...
+
+[Block   33]  words=   47  kind=chapter_boundary_trailing
+  Chapter: D&C 32
+  After:   <sub>5</sub>
+  Before:  <h1>D&C 33</h1>
+  Text:    The Eleventh Hour
+
+
+Section 33
+
+
+Revelation given through Joseph Smith the Prophet to Ezra Thayre and Northrop Sweet, at Fayette, New York, October 1830. In introducing this revelation, Joseph Smith’s history affirms that “the Lord … is ever ready to instruct such as diligently seek in faith.”
+
+[Block   34]  words=   68  kind=chapter_boundary_trailing
+  Chapter: D&C 33
+  After:   <sub>18</sub>
+  Before:  <h1>D&C 34</h1>
+  Text:    Power and Great Glory
+
+
+Section 34
+
+
+Revelation given through Joseph Smith the Prophet to Orson Pratt, at Fayette, New York, November 4, 1830. Brother Pratt was nineteen years old at the time. He had been converted and baptized when he first heard the preaching of the restored gospel by his older brother, Parley P. Pratt, six weeks before. This revelation was received in the Peter Whitmer Sr. h...
+
+[Block   35]  words=  132  kind=chapter_boundary_trailing
+  Chapter: D&C 34
+  After:   <sub>12</sub>
+  Before:  <h1>D&C 35</h1>
+  Text:    One Eternal Round
+
+
+Section 35
+
+
+Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at or near Fayette, New York, December 7, 1830. At this time, the Prophet was engaged almost daily in making a translation of the Bible. The translation was begun as early as June 1830, and both Oliver Cowdery and John Whitmer had served as scribes. Since they had now been called to other duties, Si...
+
+[Block   36]  words=   48  kind=chapter_boundary_trailing
+  Chapter: D&C 35
+  After:   <sub>27</sub>
+  Before:  <h1>D&C 36</h1>
+  Text:    Out of the Fire
+
+
+Section 36
+
+
+Revelation given through Joseph Smith the Prophet to Edward Partridge, near Fayette, New York, December 9, 1830 (see the heading to section 35). Joseph Smith’s history states that Edward Partridge “was a pattern of piety, and one of the Lord’s great men.”
+
+[Block   37]  words=   32  kind=chapter_boundary_trailing
+  Chapter: D&C 36
+  After:   <sub>8</sub>
+  Before:  <h1>D&C 37</h1>
+  Text:    The Enemy
+
+
+Section 37
+
+
+Revelation given to Joseph Smith the Prophet and Sidney Rigdon, near Fayette, New York, December 1830. Herein is given the first commandment concerning a gathering in this dispensation.
+
+[Block   38]  words=   26  kind=chapter_boundary_trailing
+  Chapter: D&C 37
+  After:   <sub>4</sub>
+  Before:  <h1>D&C 38</h1>
+  Text:    Secret Chambers
+
+
+Section 38
+
+
+Revelation given through Joseph Smith the Prophet, at Fayette, New York, January 2, 1831. The occasion was a conference of the Church.
+
+[Block   39]  words=   55  kind=chapter_boundary_trailing
+  Chapter: D&C 38
+  After:   <sub>42</sub>
+  Before:  <h1>D&C 39</h1>
+  Text:    Eternity to Eternity
+
+
+Section 39
+
+
+Revelation given through Joseph Smith the Prophet to James Covel, at Fayette, New York, January 5, 1831. James Covel, who had been a Methodist minister for about forty years, covenanted with the Lord that he would obey any command that the Lord would give to him through Joseph the Prophet.
+
+[Block   40]  words=   64  kind=chapter_boundary_trailing
+  Chapter: D&C 39
+  After:   <sub>24</sub>
+  Before:  <h1>D&C 40</h1>
+  Text:    Cares of the World
+
+
+Section 40
+
+
+Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Fayette, New York, January 6, 1831. Preceding the record of this revelation, the Prophet’s history states, “As James [Covel] rejected the word of the Lord, and returned to his former principles and people, the Lord gave unto me and Sidney Rigdon the following revelation” (see section 39).
+
+[Block   41]  words=   97  kind=chapter_boundary_trailing
+  Chapter: D&C 40
+  After:   <sub>3</sub>
+  Before:  <h1>D&C 41</h1>
+  Text:    The Heaviest Cursing
+
+
+Section 41
+
+
+Revelation given through Joseph Smith the Prophet to the Church, at Kirtland, Ohio, February 4, 1831. This revelation instructs the Prophet and Church elders to pray to receive God’s “law” (see section 42). Joseph Smith had just arrived in Kirtland from New York, and Leman Copley, a Church member in nearby Thompson, Ohio, “requested Brother Joseph and Sidney ...
+
+[Block   42]  words=   81  kind=chapter_boundary_trailing
+  Chapter: D&C 41
+  After:   <sub>12</sub>
+  Before:  <h1>D&C 42</h1>
+  Text:    Two by Two
+
+
+Section 42
+
+
+Revelation given in two parts through Joseph Smith the Prophet, at Kirtland, Ohio, February 9 and 23, 1831. The first part, consisting of verses 1 through 72, was received in the presence of twelve elders and in fulfillment of the Lord’s promise previously made that the “law” would be given in Ohio (see section 38:32). The second portion consists of verses 73 through 9...
+
+[Block   43]  words=   81  kind=chapter_boundary_trailing
+  Chapter: D&C 42
+  After:   <sub>93</sub>
+  Before:  <h1>D&C 43</h1>
+  Text:    The Ends of the Earth
+
+
+Section 43
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, in February 1831. At this time some members of the Church were disturbed by people making false claims as revelators. The Prophet inquired of the Lord and received this communication addressed to the elders of the Church. The first part deals with matters of Church polity; the latter part ...
+
+[Block   44]  words=   49  kind=chapter_boundary_trailing
+  Chapter: D&C 43
+  After:   <sub>35</sub>
+  Before:  <h1>D&C 44</h1>
+  Text:    Many Shall Be Converted
+
+
+Section 44
+
+
+Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Kirtland, Ohio, in the latter part of February 1831. In compliance with the requirement herein set forth, the Church appointed a conference to be held early in the month of June following.
+
+[Block   45]  words=   76  kind=chapter_boundary_trailing
+  Chapter: D&C 44
+  After:   <sub>6</sub>
+  Before:  <h1>D&C 45</h1>
+  Text:    Rumors of Wars
+
+
+Section 45
+
+
+Revelation given through Joseph Smith the Prophet to the Church, at Kirtland, Ohio, March 7, 1831. Prefacing the record of this revelation, Joseph Smith’s history states that “at this age of the Church … many false reports … and foolish stories, were published … and circulated, … to prevent people from investigating the work, or embracing the faith. … But to the jo...
+
+[Block   46]  words=   91  kind=chapter_boundary_trailing
+  Chapter: D&C 45
+  After:   <sub>75</sub>
+  Before:  <h1>D&C 46</h1>
+  Text:    The Best Gifts
+
+
+Section 46
+
+
+Revelation given through Joseph Smith the Prophet to the Church, at Kirtland, Ohio, March 8, 1831. In this early time of the Church, a unified pattern for the conducting of Church services had not yet developed. However, a custom of admitting only members and earnest investigators to the sacrament meetings and other assemblies of the Church had become somewhat gene...
+
+[Block   47]  words=   95  kind=chapter_boundary_trailing
+  Chapter: D&C 46
+  After:   <sub>33</sub>
+  Before:  <h1>D&C 47</h1>
+  Text:    The Historian
+
+
+Section 47
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 8, 1831. John Whitmer, who had already served as a clerk to the Prophet, initially hesitated when he was asked to serve as the Church historian and recorder, replacing Oliver Cowdery. He wrote, “I would rather not do it but observed that the will of the Lord be done, and if he desires it, I ...
+
+[Block   48]  words=   77  kind=chapter_boundary_trailing
+  Chapter: D&C 47
+  After:   <sub>4</sub>
+  Before:  <h1>D&C 48</h1>
+  Text:    Land for an Inheritance
+
+
+Section 48
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 10, 1831. The Prophet had inquired of the Lord as to the mode of procedure in procuring lands for the settlement of the Saints. This was an important matter in view of the migration of members of the Church from the eastern United States, in obedience to the Lord’s command that the...
+
+[Block   49]  words=  180  kind=chapter_boundary_trailing
+  Chapter: D&C 48
+  After:   <sub>6</sub>
+  Before:  <h1>D&C 49</h1>
+  Text:    The Shakers
+
+
+Section 49
+
+
+Revelation given through Joseph Smith the Prophet to Sidney Rigdon, Parley P. Pratt, and Leman Copley, at Kirtland, Ohio, May 7, 1831. Leman Copley had embraced the gospel but still held to some of the teachings of the Shakers (United Society of Believers in Christ’s Second Appearing), to which he had formerly belonged. Some of the beliefs of the Shakers were that Chr...
+
+[Block   50]  words=   72  kind=chapter_boundary_trailing
+  Chapter: D&C 49
+  After:   <sub>28</sub>
+  Before:  <h1>D&C 50</h1>
+  Text:    The Spirits
+
+
+Section 50
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, May 9, 1831. Joseph Smith’s history states that some of the elders did not understand the manifestations of different spirits abroad in the earth and that this revelation was given in response to his special inquiry on the matter. So-called spiritual phenomena were not uncommon among the members, so...
+
+[Block   51]  words=   68  kind=chapter_boundary_trailing
+  Chapter: D&C 50
+  After:   <sub>46</sub>
+  Before:  <h1>D&C 51</h1>
+  Text:    A Wise Steward
+
+
+Section 51
+
+
+Revelation given through Joseph Smith the Prophet, at Thompson, Ohio, May 20, 1831. At this time the Saints migrating from the eastern states began to arrive in Ohio, and it became necessary to make definite arrangements for their settlement. As this undertaking belonged particularly to the bishop’s office, Bishop Edward Partridge sought instruction on the matter, ...
+
+[Block   52]  words=   69  kind=chapter_boundary_trailing
+  Chapter: D&C 51
+  After:   <sub>20</sub>
+  Before:  <h1>D&C 52</h1>
+  Text:    Called and Chosen
+
+
+Section 52
+
+
+Revelation given through Joseph Smith the Prophet to the elders of the Church, at Kirtland, Ohio, June 6, 1831. A conference had been held at Kirtland, beginning on the 3rd and closing on the 6th of June. At this conference the first distinctive ordinations to the office of high priest were made, and certain manifestations of false and deceiving spirits were dis...
+
+[Block   53]  words=   42  kind=chapter_boundary_trailing
+  Chapter: D&C 52
+  After:   <sub>44</sub>
+  Before:  <h1>D&C 53</h1>
+  Text:    Forsake the World
+
+
+Section 53
+
+
+Revelation given through Joseph Smith the Prophet to Algernon Sidney Gilbert, at Kirtland, Ohio, June 8, 1831. At Sidney Gilbert’s request, the Prophet inquired of the Lord as to Brother Gilbert’s work and appointment in the Church.
+
+[Block   54]  words=  130  kind=chapter_boundary_trailing
+  Chapter: D&C 53
+  After:   <sub>7</sub>
+  Before:  <h1>D&C 54</h1>
+  Text:    Regions Westward
+
+
+Section 54
+
+
+Revelation given through Joseph Smith the Prophet to Newel Knight, at Kirtland, Ohio, June 10, 1831. Members of the Church living in Thompson, Ohio, were divided on questions having to do with the consecration of properties. Selfishness and greed were manifest. Following his mission to the Shakers (see the heading to section 49), Leman Copley had broken his coven...
+
+[Block   55]  words=   46  kind=chapter_boundary_trailing
+  Chapter: D&C 54
+  After:   <sub>10</sub>
+  Before:  <h1>D&C 55</h1>
+  Text:    The Work of Printing
+
+
+Section 55
+
+
+Revelation given through Joseph Smith the Prophet to William W. Phelps, at Kirtland, Ohio, June 14, 1831. William W. Phelps, a printer, and his family had just arrived at Kirtland, and the Prophet sought the Lord for information concerning him.
+
+[Block   56]  words=   73  kind=chapter_boundary_trailing
+  Chapter: D&C 55
+  After:   <sub>6</sub>
+  Before:  <h1>D&C 56</h1>
+  Text:    The Rebellious
+
+
+Section 56
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, June 15, 1831. This revelation chastises Ezra Thayre for not obeying a former revelation (the “commandment” referred to in verse 8), which Joseph Smith had received for him, instructing Thayre concerning his duties on Frederick G. Williams’ farm, where he lived. The following revelation also revo...
+
+[Block   57]  words=   97  kind=chapter_boundary_trailing
+  Chapter: D&C 56
+  After:   <sub>20</sub>
+  Before:  <h1>D&C 57</h1>
+  Text:    Missouri
+
+
+Section 57
+
+
+Revelation given through Joseph Smith the Prophet, in Zion, Jackson County, Missouri, July 20, 1831. In compliance with the Lord’s command to travel to Missouri, where He would reveal “the land of your inheritance” (section 52), the elders had journeyed from Ohio to Missouri’s western border. Joseph Smith contemplated the state of the Lamanites and wondered: “When will t...
+
+[Block   58]  words=   89  kind=chapter_boundary_trailing
+  Chapter: D&C 57
+  After:   <sub>16</sub>
+  Before:  <h1>D&C 58</h1>
+  Text:    Supper of the Lord
+
+
+Section 58
+
+
+Revelation given through Joseph Smith the Prophet, in Zion, Jackson County, Missouri, August 1, 1831. Earlier, on the first Sabbath after the arrival of the Prophet and his party in Jackson County, Missouri, a religious service had been held, and two members had been received by baptism. During that week, some of the Colesville Saints from the Thompson Branch a...
+
+[Block   59]  words=   85  kind=chapter_boundary_trailing
+  Chapter: D&C 58
+  After:   <sub>65</sub>
+  Before:  <h1>D&C 59</h1>
+  Text:    The Lord’s Day
+
+
+Section 59
+
+
+Revelation given through Joseph Smith the Prophet, in Zion, Jackson County, Missouri, August 7, 1831. Preceding this revelation, the land was consecrated, as the Lord had directed, and the site for the future temple was dedicated. On the day this revelation was received, Polly Knight, the wife of Joseph Knight Sr., died, the first Church member to die in Zion. Earl...
+
+[Block   60]  words=   51  kind=chapter_boundary_trailing
+  Chapter: D&C 59
+  After:   <sub>24</sub>
+  Before:  <h1>D&C 60</h1>
+  Text:    Fear of Man
+
+
+Section 60
+
+
+Revelation given through Joseph Smith the Prophet, in Independence, Jackson County, Missouri, August 8, 1831. On this occasion the elders who had traveled to Jackson County and participated in the dedication of the land and the temple site desired to know what they were to do.
+
+[Block   61]  words=   73  kind=chapter_boundary_trailing
+  Chapter: D&C 60
+  After:   <sub>17</sub>
+  Before:  <h1>D&C 61</h1>
+  Text:    The Waters
+
+
+Section 61
+
+
+Revelation given through Joseph Smith the Prophet, on the bank of the Missouri River, McIlwaine’s Bend, August 12, 1831. On their return trip to Kirtland, the Prophet and ten elders had traveled down the Missouri River in canoes. On the third day of the journey, many dangers were experienced. Elder William W. Phelps, in a daylight vision, saw the destroyer riding in po...
+
+[Block   62]  words=   61  kind=chapter_boundary_trailing
+  Chapter: D&C 61
+  After:   <sub>39</sub>
+  Before:  <h1>D&C 62</h1>
+  Text:    The Advocate
+
+
+Section 62
+
+
+Revelation given through Joseph Smith the Prophet, on the bank of the Missouri River at Chariton, Missouri, August 13, 1831. On this day the Prophet and his group, who were on their way from Independence to Kirtland, met several elders who were on their way to the land of Zion, and, after joyful salutations, received this revelation.
+
+[Block   63]  words=  110  kind=chapter_boundary_trailing
+  Chapter: D&C 62
+  After:   <sub>9</sub>
+  Before:  <h1>D&C 63</h1>
+  Text:    Signs and Wonders
+
+
+Section 63
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 30, 1831. The Prophet, Sidney Rigdon, and Oliver Cowdery had arrived in Kirtland on August 27 from their visit to Missouri. Joseph Smith’s history describes this revelation: “In these infant days of the Church, there was a great anxiety to obtain the word of the Lord upon every subject ...
+
+[Block   64]  words=   85  kind=chapter_boundary_trailing
+  Chapter: D&C 63
+  After:   <sub>66</sub>
+  Before:  <h1>D&C 64</h1>
+  Text:    Day of Sacrifice
+
+
+Section 64
+
+
+Revelation given through Joseph Smith the Prophet to the elders of the Church, at Kirtland, Ohio, September 11, 1831. The Prophet was preparing to move to Hiram, Ohio, to renew his work on the translation of the Bible, which had been laid aside while he had been in Missouri. A company of brethren who had been commanded to journey to Zion (Missouri) was earnestly ...
+
+[Block   65]  words=   21  kind=chapter_boundary_trailing
+  Chapter: D&C 64
+  After:   <sub>43</sub>
+  Before:  <h1>D&C 65</h1>
+  Text:    Supper of the Lamb
+
+
+Section 65
+
+
+Revelation on prayer given through Joseph Smith the Prophet, at Hiram, Ohio, October 30, 1831.
+
+[Block   66]  words=   58  kind=chapter_boundary_trailing
+  Chapter: D&C 65
+  After:   <sub>6</sub>
+  Before:  <h1>D&C 66</h1>
+  Text:    Clean, But Not All
+
+
+Section 66
+
+
+Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, October 29, 1831. William E. McLellin had petitioned the Lord in secret to make known through the Prophet the answer to five questions, which were unknown to Joseph Smith. At McLellin’s request, the Prophet inquired of the Lord and received this revelation.
+
+[Block   67]  words=  151  kind=chapter_boundary_trailing
+  Chapter: D&C 66
+  After:   <sub>13</sub>
+  Before:  <h1>D&C 67</h1>
+  Text:    The Riches of Eternity
+
+
+Section 67
+
+
+Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, early November 1831. The occasion was that of a special conference, and the publication of the revelations already received from the Lord through the Prophet was considered and acted upon (see the heading to section 1). William W. Phelps had recently established the Church printing press in ...
+
+[Block   68]  words=   87  kind=chapter_boundary_trailing
+  Chapter: D&C 67
+  After:   <sub>14</sub>
+  Before:  <h1>D&C 68</h1>
+  Text:    The Voice of the Lord
+
+
+Section 68
+
+
+Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 1, 1831, in response to prayer that the mind of the Lord be made known concerning Orson Hyde, Luke S. Johnson, Lyman E. Johnson, and William E. McLellin. Although part of this revelation was directed toward these four men, much of the content pertains to the whole Church. This revela...
+
+[Block   69]  words=  122  kind=chapter_boundary_trailing
+  Chapter: D&C 68
+  After:   <sub>35</sub>
+  Before:  <h1>D&C 69</h1>
+  Text:    Making a History
+
+
+Section 69
+
+
+Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 11, 1831. The compilation of revelations intended for early publication had been passed upon at the special conference of November 1–2. On November 3, the revelation herein appearing as section 133, later called the Appendix, was added. Oliver Cowdery had previously been appointed to carr...
+
+[Block   70]  words=  128  kind=chapter_boundary_trailing
+  Chapter: D&C 69
+  After:   <sub>8</sub>
+  Before:  <h1>D&C 70</h1>
+  Text:    Stewardships
+
+
+Section 70
+
+
+Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 12, 1831. The Prophet’s history states that four special conferences were held from the 1st to the 12th of November, inclusive. In the last of these assemblies, the great importance of the revelations that would later be published as the Book of Commandments and then the Doctrine and Covenant...
+
+[Block   71]  words=   95  kind=chapter_boundary_trailing
+  Chapter: D&C 70
+  After:   <sub>18</sub>
+  Before:  <h1>D&C 71</h1>
+  Text:    Go Ye Forth
+
+
+Section 71
+
+
+Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Hiram, Ohio, December 1, 1831. The Prophet had continued to translate the Bible with Sidney Rigdon as his scribe until this revelation was received, at which time it was temporarily laid aside so as to enable them to fulfill the instruction given herein. The brethren were to go forth to preach in order...
+
+[Block   72]  words=  104  kind=chapter_boundary_trailing
+  Chapter: D&C 71
+  After:   <sub>11</sub>
+  Before:  <h1>D&C 72</h1>
+  Text:    The Bishop of Zion
+
+
+Section 72
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, December 4, 1831. Several elders and members had assembled to learn their duty and to be further edified in the teachings of the Church. This section is a compilation of three revelations received on the same day. Verses 1 through 8 make known the calling of Newel K. Whitney as a bishop. He w...
+
+[Block   73]  words=   63  kind=chapter_boundary_trailing
+  Chapter: D&C 72
+  After:   <sub>26</sub>
+  Before:  <h1>D&C 73</h1>
+  Text:    The Work of Translation
+
+
+Section 73
+
+
+Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Hiram, Ohio, January 10, 1832. Since the early part of the preceding December, the Prophet and Sidney had been engaged in preaching, and by this means much was accomplished in diminishing the unfavorable feelings that had arisen against the Church (see the heading to section 71).
+
+[Block   74]  words=   69  kind=chapter_boundary_trailing
+  Chapter: D&C 73
+  After:   <sub>6</sub>
+  Before:  <h1>D&C 74</h1>
+  Text:    The Unbelieving Husband
+
+
+Section 74
+
+
+Revelation given to Joseph Smith the Prophet, at Wayne County, New York, in 1830. Even before the organization of the Church, questions had arisen about the proper mode of baptism, leading the Prophet to seek answers on the subject. Joseph Smith’s history states that this revelation is an explanation of 1 Corinthians 7:14, a scripture that had often been u...
+
+[Block   75]  words=   76  kind=chapter_boundary_trailing
+  Chapter: D&C 74
+  After:   <sub>7</sub>
+  Before:  <h1>D&C 75</h1>
+  Text:    United in the Ministry
+
+
+Section 75
+
+
+Revelation given through Joseph Smith the Prophet, at Amherst, Ohio, January 25, 1832. This section comprises two separate revelations (the first in verses 1 through 22 and the second in verses 23 through 36) given on the same day. The occasion was a conference at which Joseph Smith was sustained and ordained President of the High Priesthood. Certain elders...
+
+[Block   76]  words=  141  kind=chapter_boundary_trailing
+  Chapter: D&C 75
+  After:   <sub>36</sub>
+  Before:  <h1>D&C 76</h1>
+  Text:    The Vision
+
+
+Section 76
+
+
+A vision given to Joseph Smith the Prophet and Sidney Rigdon, at Hiram, Ohio, February 16, 1832. Prefacing the record of this vision, Joseph Smith’s history states: “Upon my return from Amherst conference, I resumed the translation of the Scriptures. From sundry revelations which had been received, it was apparent that many important points touching the salvation of ma...
+
+[Block   77]  words=   41  kind=chapter_boundary_trailing
+  Chapter: D&C 76
+  After:   <sub>119</sub>
+  Before:  <h1>D&C 77</h1>
+  Text:    Questions & Answers
+
+
+Section 77
+
+
+Revelation given to Joseph Smith the Prophet, at Hiram, Ohio, about March 1832. Joseph Smith’s history states, “In connection with the translation of the Scriptures, I received the following explanation of the Revelation of St. John.”
+
+[Block   78]  words=  133  kind=chapter_boundary_trailing
+  Chapter: D&C 77
+  After:   <sub>15</sub>
+  Before:  <h1>D&C 78</h1>
+  Text:    Heavenly Things
+
+
+Section 78
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 1, 1832. On that day, the Prophet and other leaders had assembled to discuss Church business. This revelation originally instructed the Prophet, Sidney Rigdon, and Newel K. Whitney to travel to Missouri and organize the Church’s mercantile and publishing endeavors by creating a “firm” that...
+
+[Block   79]  words=   17  kind=chapter_boundary_trailing
+  Chapter: D&C 78
+  After:   <sub>22</sub>
+  Before:  <h1>D&C 79</h1>
+  Text:    The Comforter
+
+
+Section 79
+
+
+Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, March 12, 1832.
+
+[Block   80]  words=   22  kind=chapter_boundary_trailing
+  Chapter: D&C 79
+  After:   <sub>4</sub>
+  Before:  <h1>D&C 80</h1>
+  Text:    Ye Cannot Go Amiss
+
+
+Section 80
+
+
+Revelation given through Joseph Smith the Prophet to Stephen Burnett, at Hiram, Ohio, March 7, 1832.
+
+[Block   81]  words=  152  kind=chapter_boundary_trailing
+  Chapter: D&C 80
+  After:   <sub>5</sub>
+  Before:  <h1>D&C 81</h1>
+  Text:    Land of the Living
+
+
+Section 81
+
+
+Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, March 15, 1832. Frederick G. Williams is called to be a high priest and a counselor in the Presidency of the High Priesthood. The historical records show that when this revelation was received in March 1832, it called Jesse Gause to the office of counselor to Joseph Smith in the Presidency. Howe...
+
+[Block   82]  words=  112  kind=chapter_boundary_trailing
+  Chapter: D&C 81
+  After:   <sub>7</sub>
+  Before:  <h1>D&C 82</h1>
+  Text:    Beauty and Holiness
+
+
+Section 82
+
+
+Revelation given to Joseph Smith the Prophet, in Independence, Jackson County, Missouri, April 26, 1832. The occasion was a council of high priests and elders of the Church. At the council, Joseph Smith was sustained as the President of the High Priesthood, to which office he had previously been ordained at a conference of high priests, elders, and members, at...
+
+[Block   83]  words=   31  kind=chapter_boundary_trailing
+  Chapter: D&C 82
+  After:   <sub>24</sub>
+  Before:  <h1>D&C 83</h1>
+  Text:    Women and Children
+
+
+Section 83
+
+
+Revelation given through Joseph Smith the Prophet, at Independence, Missouri, April 30, 1832. This revelation was received as the Prophet sat in council with his brethren.
+
+[Block   84]  words=   68  kind=chapter_boundary_trailing
+  Chapter: D&C 83
+  After:   <sub>6</sub>
+  Before:  <h1>D&C 84</h1>
+  Text:    Eastern Countries
+
+
+Section 84
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, September 22 and 23, 1832. During the month of September, elders had begun to return from their missions in the eastern states and to make reports of their labors. It was while they were together in this season of joy that the following communication was received. The Prophet designated it a r...
+
+[Block   85]  words=   76  kind=chapter_boundary_trailing
+  Chapter: D&C 84
+  After:   <sub>120</sub>
+  Before:  <h1>D&C 85</h1>
+  Text:    The Lord’s Clerk
+
+
+Section 85
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, November 27, 1832. This section is an extract from a letter of the Prophet to William W. Phelps, who was living in Independence, Missouri. It answers questions about those Saints who had moved to Zion but who had not followed the commandment to consecrate their properties and had thus not recei...
+
+[Block   86]  words=   37  kind=chapter_boundary_trailing
+  Chapter: D&C 85
+  After:   <sub>12</sub>
+  Before:  <h1>D&C 86</h1>
+  Text:    Wheat and Tares
+
+
+Section 86
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, December 6, 1832. This revelation was received while the Prophet was reviewing and editing the manuscript of the translation of the Bible.
+
+[Block   87]  words=   75  kind=chapter_boundary_trailing
+  Chapter: D&C 86
+  After:   <sub>11</sub>
+  Before:  <h1>D&C 87</h1>
+  Text:    South Carolina
+
+
+Section 87
+
+
+Revelation and prophecy on war, given through Joseph Smith the Prophet, at or near Kirtland, Ohio, December 25, 1832. At this time disputes in the United States over slavery and South Carolina’s nullification of federal tariffs were prevalent. Joseph Smith’s history states that “appearances of troubles among the nations” were becoming “more visible” to the Prophet ...
+
+[Block   88]  words=   74  kind=chapter_boundary_trailing
+  Chapter: D&C 87
+  After:   <sub>8</sub>
+  Before:  <h1>D&C 88</h1>
+  Text:    The Olive Leaf
+
+
+Section 88
+
+
+Revelation given through Joseph Smith the Prophet at Kirtland, Ohio, December 27 and 28, 1832, and January 3, 1833. The Prophet designated it as the “‘olive leaf’ … plucked from the Tree of Paradise, the Lord’s message of peace to us.” The revelation was given after high priests at a conference prayed “separately and vocally to the Lord to reveal his will unto us c...
+
+[Block   89]  words=   59  kind=chapter_boundary_trailing
+  Chapter: D&C 88
+  After:   <sub>141</sub>
+  Before:  <h1>D&C 89</h1>
+  Text:    The Word of Wisdom
+
+
+Section 89
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, February 27, 1833. As a consequence of the early brethren using tobacco in their meetings, the Prophet was led to ponder upon the matter; consequently, he inquired of the Lord concerning it. This revelation, known as the Word of Wisdom, was the result.
+
+[Block   90]  words=   51  kind=chapter_boundary_trailing
+  Chapter: D&C 89
+  After:   <sub>21</sub>
+  Before:  <h1>D&C 90</h1>
+  Text:    Keys of the Kingdom
+
+
+Section 90
+
+
+Revelation to Joseph Smith the Prophet, given at Kirtland, Ohio, March 8, 1833. This revelation is a continuing step in the establishment of the First Presidency (see the heading to section 81); as a consequence thereof, the counselors mentioned were ordained on March 18, 1833.
+
+[Block   91]  words=   52  kind=chapter_boundary_trailing
+  Chapter: D&C 90
+  After:   <sub>37</sub>
+  Before:  <h1>D&C 91</h1>
+  Text:    The Apocrypha
+
+
+Section 91
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 9, 1833. The Prophet was at this time engaged in the translation of the Old Testament. Having come to that portion of the ancient writings called the Apocrypha, he inquired of the Lord and received this instruction.
+
+[Block   92]  words=   49  kind=chapter_boundary_trailing
+  Chapter: D&C 91
+  After:   <sub>6</sub>
+  Before:  <h1>D&C 92</h1>
+  Text:    The United Order
+
+
+Section 92
+
+
+Revelation given to Joseph Smith the Prophet, at Kirtland, Ohio, March 15, 1833. The revelation instructs Frederick G. Williams, who had recently been appointed a counselor to Joseph Smith, on his duties in the United Firm (see the headings to sections 78 and 82).
+
+[Block   93]  words=   18  kind=chapter_boundary_trailing
+  Chapter: D&C 92
+  After:   <sub>2</sub>
+  Before:  <h1>D&C 93</h1>
+  Text:    The True Light
+
+
+Section 93
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, May 6, 1833.
+
+[Block   94]  words=   31  kind=chapter_boundary_trailing
+  Chapter: D&C 93
+  After:   <sub>53</sub>
+  Before:  <h1>D&C 94</h1>
+  Text:    The City
+
+
+Section 94
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 2, 1833. Hyrum Smith, Reynolds Cahoon, and Jared Carter are appointed as a Church building committee.
+
+[Block   95]  words=   40  kind=chapter_boundary_trailing
+  Chapter: D&C 94
+  After:   <sub>17</sub>
+  Before:  <h1>D&C 95</h1>
+  Text:    Chastisement
+
+
+Section 95
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, June 1, 1833. This revelation is a continuation of divine directions to build a house for worship and instruction, the house of the Lord (see section 88:119–36).
+
+[Block   96]  words=   91  kind=chapter_boundary_trailing
+  Chapter: D&C 95
+  After:   <sub>17</sub>
+  Before:  <h1>D&C 96</h1>
+  Text:    The Strength of Zion
+
+
+Section 96
+
+
+Revelation given to Joseph Smith the Prophet, showing the order of the city or stake of Zion at Kirtland, Ohio, June 4, 1833, as an example to the Saints in Kirtland. The occasion was a conference of high priests, and the chief subject of consideration was the disposal of certain lands, known as the French farm, possessed by the Church near Kirtland. Since th...
+
+[Block   97]  words=   73  kind=chapter_boundary_trailing
+  Chapter: D&C 96
+  After:   <sub>9</sub>
+  Before:  <h1>D&C 97</h1>
+  Text:    Every Sacrifice
+
+
+Section 97
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 2, 1833. This revelation deals particularly with the affairs of the Saints in Zion, Jackson County, Missouri, in response to the Prophet’s inquiry of the Lord for information. Members of the Church in Missouri were at this time subjected to severe persecution and, on July 23, 1833, had be...
+
+[Block   98]  words=  115  kind=chapter_boundary_trailing
+  Chapter: D&C 97
+  After:   <sub>28</sub>
+  Before:  <h1>D&C 98</h1>
+  Text:    Trespasses
+
+
+Section 98
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 6, 1833. This revelation came in consequence of the persecution upon the Saints in Missouri. Increased settlement of Church members in Missouri troubled some other settlers, who felt threatened by the Saints’ numbers, political and economic influence, and cultural and religious differences. In...
+
+[Block   99]  words=   50  kind=chapter_boundary_trailing
+  Chapter: D&C 98
+  After:   <sub>48</sub>
+  Before:  <h1>D&C 99</h1>
+  Text:    A Spokesman
+
+
+Section 99
+
+
+Revelation given through Joseph Smith the Prophet to John Murdock, August 29, 1832, at Hiram, Ohio. For over a year, John Murdock had been preaching the gospel while his children—motherless after the death of his wife, Julia Clapp, in April 1831—resided with other families in Ohio.
+
+[Block  100]  words=   39  kind=chapter_boundary_trailing
+  Chapter: D&C 99
+  After:   <sub>8</sub>
+  Before:  <h1>D&C 100</h1>
+  Text:    Oath and Covenant
+
+
+Section 100
+
+
+Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Perrysburg, New York, October 12, 1833. The two brethren, having been absent from their families for several days, felt some concern about them.
+
+[Block  101]  words=  113  kind=chapter_boundary_trailing
+  Chapter: D&C 100
+  After:   <sub>17</sub>
+  Before:  <h1>D&C 101</h1>
+  Text:    Lord of the Vineyard
+
+
+Section 101
+
+
+Revelation given to Joseph Smith the Prophet, at Kirtland, Ohio, December 16 and 17, 1833. At this time the Saints who had gathered in Missouri were suffering great persecution. Mobs had driven them from their homes in Jackson County; and some of the Saints had tried to establish themselves in Van Buren, Lafayette, and Ray Counties, but persecution followed ...
+
+[Block  102]  words=  102  kind=chapter_boundary_trailing
+  Chapter: D&C 101
+  After:   <sub>101</sub>
+  Before:  <h1>D&C 102</h1>
+  Text:    High Councils
+
+
+Section 102
+
+
+Minutes of the organization of the first high council of the Church, at Kirtland, Ohio, February 17, 1834. The original minutes were recorded by Elders Oliver Cowdery and Orson Hyde. The Prophet revised the minutes the following day, and the next day the corrected minutes were unanimously accepted by the high council as “a form and constitution of the high council”...
+
+[Block  103]  words=   65  kind=chapter_boundary_trailing
+  Chapter: D&C 102
+  After:   <sub>34</sub>
+  Before:  <h1>D&C 103</h1>
+  Text:    Oliver Cowdery,
+
+Orson Hyde,
+
+Clerks
+
+
+
+
+
+Saviors of Men
+
+
+Section 103
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, February 24, 1834. This revelation was received after the arrival in Kirtland, Ohio, of Parley P. Pratt and Lyman Wight, who had come from Missouri to counsel with the Prophet as to the relief and restoration of the Saints to their lands in Jackson County.
+
+[Block  104]  words=  112  kind=chapter_boundary_trailing
+  Chapter: D&C 103
+  After:   <sub>40</sub>
+  Before:  <h1>D&C 104</h1>
+  Text:    An Everlasting Order
+
+
+Section 104
+
+
+Revelation given to Joseph Smith the Prophet, at or near Kirtland, Ohio, April 23, 1834, concerning the United Firm (see the headings to sections 78 and 82). The occasion was likely that of a council meeting of members of the United Firm, which discussed the pressing temporal needs of the Church. An earlier meeting of the firm on April 10 had resolved that t...
+
+[Block  105]  words=   97  kind=chapter_boundary_trailing
+  Chapter: D&C 104
+  After:   <sub>86</sub>
+  Before:  <h1>D&C 105</h1>
+  Text:    The Redemption of Zion
+
+
+Section 105
+
+
+Revelation given through Joseph Smith the Prophet, on Fishing River, Missouri, June 22, 1834. Under the leadership of the Prophet, Saints from Ohio and other areas marched to Missouri in an expedition later known as Zion’s Camp. Their purpose was to escort the expelled Missouri Saints back to their lands in Jackson County. Missourians who had previously pe...
+
+[Block  106]  words=   33  kind=chapter_boundary_trailing
+  Chapter: D&C 105
+  After:   <sub>41</sub>
+  Before:  <h1>D&C 106</h1>
+  Text:    High and Holy Calling
+
+
+Section 106
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, November 25, 1834. This revelation is directed to Warren A. Cowdery, an older brother of Oliver Cowdery.
+
+[Block  107]  words=   90  kind=chapter_boundary_trailing
+  Chapter: D&C 106
+  After:   <sub>8</sub>
+  Before:  <h1>D&C 107</h1>
+  Text:    Two Priesthoods
+
+
+Section 107
+
+
+Revelation on the priesthood, given through Joseph Smith the Prophet, at Kirtland, Ohio, about April 1835. Although this section was recorded in 1835, the historical records affirm that most of verses 60 through 100 incorporate a revelation given through Joseph Smith on November 11, 1831. This section was associated with the organization of the Quorum of the Twel...
+
+[Block  108]  words=   53  kind=chapter_boundary_trailing
+  Chapter: D&C 107
+  After:   <sub>100</sub>
+  Before:  <h1>D&C 108</h1>
+  Text:    Resist No More
+
+
+Section 108
+
+
+Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, December 26, 1835. This section was received at the request of Lyman Sherman, who had previously been ordained a seventy and who had come to the Prophet with a request for a revelation to make known his duty.
+
+[Block  109]  words=   33  kind=chapter_boundary_trailing
+  Chapter: D&C 108
+  After:   <sub>8</sub>
+  Before:  <h1>D&C 109</h1>
+  Text:    The Celestial Kingdom
+
+
+Section 109
+
+
+Prayer offered at the dedication of the temple at Kirtland, Ohio, March 27, 1836. According to the Prophet’s written statement, this prayer was given to him by revelation.
+
+[Block  110]  words=  111  kind=chapter_boundary_trailing
+  Chapter: D&C 109
+  After:   <sub>80</sub>
+  Before:  <h1>D&C 110</h1>
+  Text:    The House Accepted
+
+
+Section 110
+
+
+Visions manifested to Joseph Smith the Prophet and Oliver Cowdery in the temple at Kirtland, Ohio, April 3, 1836. The occasion was that of a Sabbath day meeting. Joseph Smith’s history states: “In the afternoon, I assisted the other Presidents in distributing the Lord’s Supper to the Church, receiving it from the Twelve, whose privilege it was to officiate at ...
+
+[Block  111]  words=  116  kind=chapter_boundary_trailing
+  Chapter: D&C 110
+  After:   <sub>16</sub>
+  Before:  <h1>D&C 111</h1>
+  Text:    More Treasures
+
+
+Section 111
+
+
+Revelation given through Joseph Smith the Prophet, at Salem, Massachusetts, August 6, 1836. At this time the leaders of the Church were heavily in debt due to their labors in the ministry. Hearing that a large amount of money would be available to them in Salem, the Prophet, Sidney Rigdon, Hyrum Smith, and Oliver Cowdery traveled there from Kirtland, Ohio, to inve...
+
+[Block  112]  words=   64  kind=chapter_boundary_trailing
+  Chapter: D&C 111
+  After:   <sub>11</sub>
+  Before:  <h1>D&C 112</h1>
+  Text:    Be Thou Humble
+
+
+Section 112
+
+
+Revelation given through Joseph Smith the Prophet to Thomas B. Marsh, at Kirtland, Ohio, July 23, 1837, concerning the Twelve Apostles of the Lamb. This revelation was received on the day Elders Heber C. Kimball and Orson Hyde first preached the gospel in England. Thomas B. Marsh was at this time President of the Quorum of the Twelve Apostles.
+
+[Block  113]  words=   28  kind=chapter_boundary_trailing
+  Chapter: D&C 112
+  After:   <sub>34</sub>
+  Before:  <h1>D&C 113</h1>
+  Text:    Stem of Jesse
+
+
+Section 113
+
+
+Answers to certain questions on the writings of Isaiah, given by Joseph Smith the Prophet, at or near Far West, Missouri, March 1838.
+
+[Block  114]  words=   18  kind=chapter_boundary_trailing
+  Chapter: D&C 113
+  After:   <sub>10</sub>
+  Before:  <h1>D&C 114</h1>
+  Text:    Glad Tidings
+
+
+Section 114
+
+
+Revelation given through Joseph Smith the Prophet, at Far West, Missouri, April 11, 1838.
+
+[Block  115]  words=   52  kind=chapter_boundary_trailing
+  Chapter: D&C 114
+  After:   <sub>2</sub>
+  Before:  <h1>D&C 115</h1>
+  Text:    A House unto Me
+
+
+Section 115
+
+
+Revelation given through Joseph Smith the Prophet, at Far West, Missouri, April 26, 1838, making known the will of God concerning the building up of that place and of the Lord’s house. This revelation is addressed to the presiding officers and the members of the Church.
+
+[Block  116]  words=   25  kind=chapter_boundary_trailing
+  Chapter: D&C 115
+  After:   <sub>19</sub>
+  Before:  <h1>D&C 116</h1>
+  Text:    Adam-ondi-Ahman
+
+
+Section 116
+
+
+Revelation given to Joseph Smith the Prophet, near Wight’s Ferry, at a place called Spring Hill, Daviess County, Missouri, May 19, 1838.
+
+[Block  117]  words=   32  kind=chapter_boundary_trailing
+  Chapter: D&C 116
+  After:   <sub>1</sub>
+  Before:  <h1>D&C 117</h1>
+  Text:    More Weighty Matters
+
+
+Section 117
+
+
+Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8, 1838, concerning the immediate duties of William Marks, Newel K. Whitney, and Oliver Granger.
+
+[Block  118]  words=   34  kind=chapter_boundary_trailing
+  Chapter: D&C 117
+  After:   <sub>16</sub>
+  Before:  <h1>D&C 118</h1>
+  Text:    Over the Great Waters
+
+
+Section 118
+
+
+Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8, 1838, in response to the supplication, “Show us thy will, O Lord, concerning the Twelve.”
+
+[Block  119]  words=  176  kind=chapter_boundary_trailing
+  Chapter: D&C 118
+  After:   <sub>6</sub>
+  Before:  <h1>D&C 119</h1>
+  Text:    The Tithing of My People
+
+
+Section 119
+
+
+Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8, 1838, in answer to his supplication: “O Lord! Show unto thy servants how much thou requirest of the properties of thy people for a tithing.” The law of tithing, as understood today, had not been given to the Church previous to this revelation. The term tithing in the prayer...
+
+[Block  120]  words=   35  kind=chapter_boundary_trailing
+  Chapter: D&C 119
+  After:   <sub>7</sub>
+  Before:  <h1>D&C 120</h1>
+  Text:    Disposition of Tithes
+
+
+Section 120
+
+
+Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8, 1838, making known the disposition of the properties tithed as named in the preceding revelation, section 119.
+
+[Block  121]  words=   65  kind=chapter_boundary_trailing
+  Chapter: D&C 120
+  After:   <sub>1</sub>
+  Before:  <h1>D&C 121</h1>
+  Text:    O God, Where Art Thou?
+
+
+Section 121
+
+
+Prayer and prophecies written by Joseph Smith the Prophet in an epistle to the Church while he was a prisoner in the jail at Liberty, Missouri, dated March 20, 1839. The Prophet and several companions had been months in prison. Their petitions and appeals directed to the executive officers and the judiciary had failed to bring them relief.
+
+[Block  122]  words=   46  kind=chapter_boundary_trailing
+  Chapter: D&C 121
+  After:   <sub>46</sub>
+  Before:  <h1>D&C 122</h1>
+  Text:    The Jaws of Hell
+
+
+Section 122
+
+
+The word of the Lord to Joseph Smith the Prophet, while a prisoner in the jail at Liberty, Missouri. This section is an excerpt from an epistle to the Church dated March 20, 1839 (see the heading to section 121).
+
+[Block  123]  words=   50  kind=chapter_boundary_trailing
+  Chapter: D&C 122
+  After:   <sub>9</sub>
+  Before:  <h1>D&C 123</h1>
+  Text:    The Facts
+
+
+Section 123
+
+
+Duty of the Saints in relation to their persecutors, as written by Joseph Smith the Prophet while a prisoner in the jail at Liberty, Missouri. This section is an excerpt from an epistle to the Church dated March 20, 1839 (see the heading to section 121).
+
+[Block  124]  words=   96  kind=chapter_boundary_trailing
+  Chapter: D&C 123
+  After:   <sub>17</sub>
+  Before:  <h1>D&C 124</h1>
+  Text:    Honor and Glory
+
+
+Section 124
+
+
+Revelation given to Joseph Smith the Prophet, at Nauvoo, Illinois, January 19, 1841. Because of increasing persecutions and illegal procedures against them by public officers, the Saints had been compelled to leave Missouri. The exterminating order issued by Lilburn W. Boggs, governor of Missouri, dated October 27, 1838, had left them no alternative. In 1841, whe...
+
+[Block  125]  words=   24  kind=chapter_boundary_trailing
+  Chapter: D&C 124
+  After:   <sub>145</sub>
+  Before:  <h1>D&C 125</h1>
+  Text:    Zarahemla, Iowa
+
+
+Section 125
+
+
+Revelation given through Joseph Smith the Prophet, at Nauvoo, Illinois, March 1841, concerning the Saints in the territory of Iowa.
+
+[Block  126]  words=   37  kind=chapter_boundary_trailing
+  Chapter: D&C 125
+  After:   <sub>4</sub>
+  Before:  <h1>D&C 126</h1>
+  Text:    Brother Brigham
+
+
+Section 126
+
+
+Revelation given through Joseph Smith the Prophet, in the house of Brigham Young, at Nauvoo, Illinois, July 9, 1841. At this time Brigham Young was President of the Quorum of the Twelve Apostles.
+
+[Block  127]  words=   32  kind=chapter_boundary_trailing
+  Chapter: D&C 126
+  After:   <sub>3</sub>
+  Before:  <h1>D&C 127</h1>
+  Text:    Bound in Heaven
+
+
+Section 127
+
+
+An epistle from Joseph Smith the Prophet to the Latter-day Saints at Nauvoo, Illinois, containing directions on baptism for the dead, dated at Nauvoo, September 1, 1842.
+
+[Block  128]  words=   39  kind=chapter_boundary_trailing
+  Chapter: D&C 127
+  After:   <sub>12</sub>
+  Before:  <h1>D&C 128</h1>
+  Text:    Joseph Smith.
+
+
+
+
+
+Baptism for the Dead
+
+
+Section 128
+
+
+An epistle from Joseph Smith the Prophet to The Church of Jesus Christ of Latter-day Saints, containing further directions on baptism for the dead, dated at Nauvoo, Illinois, September 6, 1842.
+
+[Block  129]  words=   37  kind=chapter_boundary_trailing
+  Chapter: D&C 128
+  After:   <sub>25</sub>
+  Before:  <h1>D&C 129</h1>
+  Text:    Joseph Smith.
+
+
+
+
+
+Heavenly Beings
+
+
+Section 129
+
+
+Instructions given by Joseph Smith the Prophet, at Nauvoo, Illinois, February 9, 1843, making known three grand keys by which the correct nature of ministering angels and spirits may be distinguished.
+
+[Block  130]  words=   21  kind=chapter_boundary_trailing
+  Chapter: D&C 129
+  After:   <sub>9</sub>
+  Before:  <h1>D&C 130</h1>
+  Text:    The Sea of Glass
+
+
+Section 130
+
+
+Items of instruction given by Joseph Smith the Prophet, at Ramus, Illinois, April 2, 1843.
+
+[Block  131]  words=   21  kind=chapter_boundary_trailing
+  Chapter: D&C 130
+  After:   <sub>23</sub>
+  Before:  <h1>D&C 131</h1>
+  Text:    The More Sure Word
+
+
+Section 131
+
+
+Instructions by Joseph Smith the Prophet, given at Ramus, Illinois, May 16 and 17, 1843.
+
+[Block  132]  words=   71  kind=chapter_boundary_trailing
+  Chapter: D&C 131
+  After:   <sub>8</sub>
+  Before:  <h1>D&C 132</h1>
+  Text:    The Weight of Glory
+
+
+Section 132
+
+
+Revelation given through Joseph Smith the Prophet, at Nauvoo, Illinois, recorded July 12, 1843, relating to the new and everlasting covenant, including the eternity of the marriage covenant and the principle of plural marriage. Although the revelation was recorded in 1843, evidence indicates that some of the principles involved in this revelation were known b...
+
+[Block  133]  words=  105  kind=chapter_boundary_trailing
+  Chapter: D&C 132
+  After:   <sub>66</sub>
+  Before:  <h1>D&C 133</h1>
+  Text:    Governments
+
+
+Section 133
+
+
+Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 3, 1831. Prefacing this revelation, Joseph Smith’s history states, “At this time there were many things which the Elders desired to know relative to preaching the Gospel to the inhabitants of the earth, and concerning the gathering; and in order to walk by the true light, and be instructed fr...
+
+[Block  134]  words=   95  kind=chapter_boundary_trailing
+  Chapter: D&C 133
+  After:   <sub>74</sub>
+  Before:  <h1>D&C 134</h1>
+  Text:    The Mysteries
+
+
+Section 134
+
+
+A declaration of belief regarding governments and laws in general, adopted by unanimous vote at a general assembly of the Church held at Kirtland, Ohio, August 17, 1835. Many Saints gathered together to consider the proposed contents of the first edition of the Doctrine and Covenants. At that time, this declaration was given the following preamble: “That our belief...
+
+[Block  135]  words=   55  kind=chapter_boundary_trailing
+  Chapter: D&C 134
+  After:   <sub>12</sub>
+  Before:  <h1>D&C 135</h1>
+  Text:    The Martyrdom
+
+
+Section 135
+
+
+Announcement of the martyrdom of Joseph Smith the Prophet and his brother, Hyrum Smith the Patriarch, at Carthage, Illinois, June 27, 1844. This document was included at the end of the 1844 edition of the Doctrine and Covenants, which was nearly ready for publication when Joseph and Hyrum Smith were murdered.
+
+[Block  136]  words=   38  kind=chapter_boundary_trailing
+  Chapter: D&C 135
+  After:   <sub>7</sub>
+  Before:  <h1>D&C 136</h1>
+  Text:    Word and Will
+
+
+Section 136
+
+
+The word and will of the Lord, given through President Brigham Young at Winter Quarters, the camp of Israel, Omaha Nation, on the west bank of the Missouri River, near Council Bluffs, Iowa.
+
+[Block  137]  words=   37  kind=chapter_boundary_trailing
+  Chapter: D&C 136
+  After:   <sub>42</sub>
+  Before:  <h1>D&C 137</h1>
+  Text:    Third of October
+
+
+Section 137
+
+
+A vision given to Joseph Smith the Prophet, in the temple at Kirtland, Ohio, January 21, 1836. The occasion was the administration of ordinances in preparation for the dedication of the temple.
+
+[Block  138]  words=  120  kind=chapter_boundary_trailing
+  Chapter: D&C 137
+  After:   <sub>10</sub>
+  Before:  <h1>D&C 138</h1>
+  Text:    House of the Lord
+
+
+Section 138
+
+
+A vision given to President Joseph F. Smith in Salt Lake City, Utah, on October 3, 1918. In his opening address at the 89th Semiannual General Conference of the Church, on October 4, 1918, President Smith declared that he had received several divine communications during the previous months. One of these, concerning the Savior’s visit to the spirits of the dead...
+
+[Block  139]  words=   38  kind=trailing_end
+  Chapter: D&C 138
+  After:   <sub>60</sub>
+  Before:  END
+  Text:    Thus was the vision of the redemption of the dead revealed to me, and I bear record, and I know that this record is true, through the blessing of our Lord and Savior, Jesus Christ, even so. Amen.
+

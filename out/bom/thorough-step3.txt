@@ -1,0 +1,471 @@
+══════════════════════════════════════════════════════════════════════════════
+THOROUGH CHECKER REPORT
+══════════════════════════════════════════════════════════════════════════════
+MD:   out/bom/bom-step3.md
+JSON: in/json/book-of-mormon-flat.json
+JSON verses: 6604  |  MD <sub> tags: 6604
+
+──────────────────────────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────────────────────────
+  Verse count match:        ✓
+  Verse number mismatches:  0
+  Missing chapter headings: 0 / 239
+  Verses with word errors:  29 / 6604  (0.44%)
+    Total word-level diffs: 768
+    Substitutions:          0
+    Extra words (MD only):  768
+    Missing words (MD):     0
+  Verses clean:             6575 / 6604
+
+──────────────────────────────────────────────────────────────────────────────
+WORD MISMATCHES  (29 verses affected)
+──────────────────────────────────────────────────────────────────────────────
+  Pattern breakdown:
+    Only extra words in MD:   29
+    Only missing words in MD: 0
+    Mixed / substitutions:    0
+
+  First 80 affected verses:
+
+  Ref: 1 Nephi 22:31
+  JSON (48 w): wherefore ye need not suppose that i and my father are the only ones that have testified and also taught them wherefore …
+  MD   (82 w): wherefore ye need not suppose that i and my father are the only ones that have testified and also taught them wherefore …
+  Diffs (34):
+    [  48]  json='<MISSING>'                md='the'
+    [  48]  json='<MISSING>'                md='second'
+    [  48]  json='<MISSING>'                md='book'
+    [  48]  json='<MISSING>'                md='of'
+    [  48]  json='<MISSING>'                md='nephi'
+    [  48]  json='<MISSING>'                md='an'
+    [  48]  json='<MISSING>'                md='account'
+    [  48]  json='<MISSING>'                md='of'
+    [  48]  json='<MISSING>'                md='the'
+    [  48]  json='<MISSING>'                md='death'
+    [  48]  json='<MISSING>'                md='of'
+    [  48]  json='<MISSING>'                md='lehi'
+    ... and 22 more diffs in this verse
+
+  Ref: 2 Nephi 33:15
+  JSON (27 w): for what i seal on earth shall be brought against you at the judgment bar for thus hath the lord commanded me and i must…
+  MD   (66 w): for what i seal on earth shall be brought against you at the judgment bar for thus hath the lord commanded me and i must…
+  Diffs (39):
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='book'
+    [  27]  json='<MISSING>'                md='of'
+    [  27]  json='<MISSING>'                md='jacob'
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='brother'
+    [  27]  json='<MISSING>'                md='of'
+    [  27]  json='<MISSING>'                md='nephi'
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='words'
+    [  27]  json='<MISSING>'                md='of'
+    [  27]  json='<MISSING>'                md='his'
+    ... and 27 more diffs in this verse
+
+  Ref: Jacob 7:27
+  JSON (78 w): and i jacob saw that i must soon go down to my grave wherefore i said unto my son enos take these plates and i told him …
+  MD   (82 w): and i jacob saw that i must soon go down to my grave wherefore i said unto my son enos take these plates and i told him …
+  Diffs (4):
+    [  78]  json='<MISSING>'                md='the'
+    [  78]  json='<MISSING>'                md='book'
+    [  78]  json='<MISSING>'                md='of'
+    [  78]  json='<MISSING>'                md='enos'
+
+  Ref: Enos 1:27
+  JSON (75 w): and i soon go to the place of my rest which is with my redeemer for i know that in him i shall rest and i rejoice in the…
+  MD   (79 w): and i soon go to the place of my rest which is with my redeemer for i know that in him i shall rest and i rejoice in the…
+  Diffs (4):
+    [  75]  json='<MISSING>'                md='the'
+    [  75]  json='<MISSING>'                md='book'
+    [  75]  json='<MISSING>'                md='of'
+    [  75]  json='<MISSING>'                md='jarom'
+
+  Ref: Jarom 1:15
+  JSON (24 w): and i deliver these plates into the hands of my son omni that they may be kept according to the commandments of my fathe…
+  MD   (28 w): and i deliver these plates into the hands of my son omni that they may be kept according to the commandments of my fathe…
+  Diffs (4):
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='book'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='omni'
+
+  Ref: Omni 1:30
+  JSON (42 w): and i amaleki had a brother who also went with them and i have not since known concerning them and i am about to lie dow…
+  MD   (46 w): and i amaleki had a brother who also went with them and i have not since known concerning them and i am about to lie dow…
+  Diffs (4):
+    [  42]  json='<MISSING>'                md='the'
+    [  42]  json='<MISSING>'                md='words'
+    [  42]  json='<MISSING>'                md='of'
+    [  42]  json='<MISSING>'                md='mormon'
+
+  Ref: Words of Mormon 1:11
+  JSON (76 w): and they were handed down from king benjamin from generation to generation until they have fallen into my hands and i mo…
+  MD   (82 w): and they were handed down from king benjamin from generation to generation until they have fallen into my hands and i mo…
+  Diffs (6):
+    [  76]  json='<MISSING>'                md='the'
+    [  76]  json='<MISSING>'                md='book'
+    [  76]  json='<MISSING>'                md='of'
+    [  76]  json='<MISSING>'                md='mosiah'
+    [  76]  json='<MISSING>'                md='mosiah'
+    [  76]  json='<MISSING>'                md='1'
+
+  Ref: Mosiah 8:21
+  JSON (26 w): yea they are as a wild flock which fleeth from the shepherd and scattereth and are driven and are devoured by the beasts…
+  MD   (57 w): yea they are as a wild flock which fleeth from the shepherd and scattereth and are driven and are devoured by the beasts…
+  Diffs (31):
+    [  26]  json='<MISSING>'                md='the'
+    [  26]  json='<MISSING>'                md='record'
+    [  26]  json='<MISSING>'                md='of'
+    [  26]  json='<MISSING>'                md='zeniffan'
+    [  26]  json='<MISSING>'                md='account'
+    [  26]  json='<MISSING>'                md='of'
+    [  26]  json='<MISSING>'                md='his'
+    [  26]  json='<MISSING>'                md='people'
+    [  26]  json='<MISSING>'                md='from'
+    [  26]  json='<MISSING>'                md='the'
+    [  26]  json='<MISSING>'                md='time'
+    [  26]  json='<MISSING>'                md='they'
+    ... and 19 more diffs in this verse
+
+  Ref: Mosiah 22:16
+  JSON (22 w): and after they had pursued them two days they could no longer follow their tracks therefore they were lost in the wilder…
+  MD   (44 w): and after they had pursued them two days they could no longer follow their tracks therefore they were lost in the wilder…
+  Diffs (22):
+    [  22]  json='<MISSING>'                md='an'
+    [  22]  json='<MISSING>'                md='account'
+    [  22]  json='<MISSING>'                md='of'
+    [  22]  json='<MISSING>'                md='alma'
+    [  22]  json='<MISSING>'                md='and'
+    [  22]  json='<MISSING>'                md='the'
+    [  22]  json='<MISSING>'                md='people'
+    [  22]  json='<MISSING>'                md='of'
+    [  22]  json='<MISSING>'                md='the'
+    [  22]  json='<MISSING>'                md='lord'
+    [  22]  json='<MISSING>'                md='who'
+    [  22]  json='<MISSING>'                md='were'
+    ... and 10 more diffs in this verse
+
+  Ref: Mosiah 29:47
+  JSON (27 w): and thus ended the reign of the kings over the people of nephi and thus ended the days of alma who was the founder of th…
+  MD   (103 w): and thus ended the reign of the kings over the people of nephi and thus ended the days of alma who was the founder of th…
+  Diffs (76):
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='book'
+    [  27]  json='<MISSING>'                md='of'
+    [  27]  json='<MISSING>'                md='alma'
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='son'
+    [  27]  json='<MISSING>'                md='of'
+    [  27]  json='<MISSING>'                md='alma'
+    [  27]  json='<MISSING>'                md='the'
+    [  27]  json='<MISSING>'                md='account'
+    [  27]  json='<MISSING>'                md='of'
+    [  27]  json='<MISSING>'                md='alma'
+    ... and 64 more diffs in this verse
+
+  Ref: Alma 4:20
+  JSON (55 w): and thus in the commencement of the ninth year of the reign of the judges over the people of nephi alma delivered up the…
+  MD   (81 w): and thus in the commencement of the ninth year of the reign of the judges over the people of nephi alma delivered up the…
+  Diffs (26):
+    [  55]  json='<MISSING>'                md='the'
+    [  55]  json='<MISSING>'                md='words'
+    [  55]  json='<MISSING>'                md='which'
+    [  55]  json='<MISSING>'                md='alma'
+    [  55]  json='<MISSING>'                md='the'
+    [  55]  json='<MISSING>'                md='high'
+    [  55]  json='<MISSING>'                md='priest'
+    [  55]  json='<MISSING>'                md='according'
+    [  55]  json='<MISSING>'                md='to'
+    [  55]  json='<MISSING>'                md='the'
+    [  55]  json='<MISSING>'                md='holy'
+    [  55]  json='<MISSING>'                md='order'
+    ... and 14 more diffs in this verse
+
+  Ref: Alma 6:8
+  JSON (86 w): and alma went and began to declare the word of god unto the church which was established in the valley of gideon accordi…
+  MD   (103 w): and alma went and began to declare the word of god unto the church which was established in the valley of gideon accordi…
+  Diffs (17):
+    [  86]  json='<MISSING>'                md='the'
+    [  86]  json='<MISSING>'                md='words'
+    [  86]  json='<MISSING>'                md='of'
+    [  86]  json='<MISSING>'                md='alma'
+    [  86]  json='<MISSING>'                md='which'
+    [  86]  json='<MISSING>'                md='he'
+    [  86]  json='<MISSING>'                md='delivered'
+    [  86]  json='<MISSING>'                md='to'
+    [  86]  json='<MISSING>'                md='the'
+    [  86]  json='<MISSING>'                md='people'
+    [  86]  json='<MISSING>'                md='in'
+    [  86]  json='<MISSING>'                md='gideon'
+    ... and 5 more diffs in this verse
+
+  Ref: Alma 8:32
+  JSON (31 w): and it came to pass that they went forth and began to preach and to prophesy unto the people according to the spirit and…
+  MD   (79 w): and it came to pass that they went forth and began to preach and to prophesy unto the people according to the spirit and…
+  Diffs (48):
+    [  31]  json='<MISSING>'                md='the'
+    [  31]  json='<MISSING>'                md='words'
+    [  31]  json='<MISSING>'                md='of'
+    [  31]  json='<MISSING>'                md='alma'
+    [  31]  json='<MISSING>'                md='and'
+    [  31]  json='<MISSING>'                md='also'
+    [  31]  json='<MISSING>'                md='the'
+    [  31]  json='<MISSING>'                md='words'
+    [  31]  json='<MISSING>'                md='of'
+    [  31]  json='<MISSING>'                md='amulek'
+    [  31]  json='<MISSING>'                md='which'
+    [  31]  json='<MISSING>'                md='were'
+    ... and 36 more diffs in this verse
+
+  Ref: Alma 16:21
+  JSON (57 w): and now after the church had been established throughout all the landhaving got the victory over the devil and the word …
+  MD   (98 w): and now after the church had been established throughout all the landhaving got the victory over the devil and the word …
+  Diffs (41):
+    [  57]  json='<MISSING>'                md='an'
+    [  57]  json='<MISSING>'                md='account'
+    [  57]  json='<MISSING>'                md='of'
+    [  57]  json='<MISSING>'                md='the'
+    [  57]  json='<MISSING>'                md='sons'
+    [  57]  json='<MISSING>'                md='of'
+    [  57]  json='<MISSING>'                md='mosiah'
+    [  57]  json='<MISSING>'                md='who'
+    [  57]  json='<MISSING>'                md='rejected'
+    [  57]  json='<MISSING>'                md='their'
+    [  57]  json='<MISSING>'                md='rights'
+    [  57]  json='<MISSING>'                md='to'
+    ... and 29 more diffs in this verse
+
+  Ref: Alma 20:30
+  JSON (92 w): and as it happened it was their lot to have fallen into the hands of a more hardened and a more stiffnecked people there…
+  MD   (107 w): and as it happened it was their lot to have fallen into the hands of a more hardened and a more stiffnecked people there…
+  Diffs (15):
+    [  92]  json='<MISSING>'                md='an'
+    [  92]  json='<MISSING>'                md='account'
+    [  92]  json='<MISSING>'                md='of'
+    [  92]  json='<MISSING>'                md='the'
+    [  92]  json='<MISSING>'                md='preaching'
+    [  92]  json='<MISSING>'                md='of'
+    [  92]  json='<MISSING>'                md='aaron'
+    [  92]  json='<MISSING>'                md='and'
+    [  92]  json='<MISSING>'                md='muloki'
+    [  92]  json='<MISSING>'                md='and'
+    [  92]  json='<MISSING>'                md='their'
+    [  92]  json='<MISSING>'                md='brethren'
+    ... and 3 more diffs in this verse
+
+  Ref: Alma 35:16
+  JSON (45 w): therefore he caused that his sons should be gathered together that he might give unto them every one his charge separate…
+  MD   (53 w): therefore he caused that his sons should be gathered together that he might give unto them every one his charge separate…
+  Diffs (8):
+    [  45]  json='<MISSING>'                md='the'
+    [  45]  json='<MISSING>'                md='commandments'
+    [  45]  json='<MISSING>'                md='of'
+    [  45]  json='<MISSING>'                md='alma'
+    [  45]  json='<MISSING>'                md='to'
+    [  45]  json='<MISSING>'                md='his'
+    [  45]  json='<MISSING>'                md='son'
+    [  45]  json='<MISSING>'                md='helaman'
+
+  Ref: Alma 37:47
+  JSON (36 w): and now my son see that ye take care of these sacred things yea see that ye look to god and live go unto this people and…
+  MD   (44 w): and now my son see that ye take care of these sacred things yea see that ye look to god and live go unto this people and…
+  Diffs (8):
+    [  36]  json='<MISSING>'                md='the'
+    [  36]  json='<MISSING>'                md='commandments'
+    [  36]  json='<MISSING>'                md='of'
+    [  36]  json='<MISSING>'                md='alma'
+    [  36]  json='<MISSING>'                md='to'
+    [  36]  json='<MISSING>'                md='his'
+    [  36]  json='<MISSING>'                md='son'
+    [  36]  json='<MISSING>'                md='shiblon'
+
+  Ref: Alma 38:15
+  JSON (38 w): and may the lord bless your soul and receive you at the last day into his kingdom to sit down in peace now go my son and…
+  MD   (46 w): and may the lord bless your soul and receive you at the last day into his kingdom to sit down in peace now go my son and…
+  Diffs (8):
+    [  38]  json='<MISSING>'                md='the'
+    [  38]  json='<MISSING>'                md='commandments'
+    [  38]  json='<MISSING>'                md='of'
+    [  38]  json='<MISSING>'                md='alma'
+    [  38]  json='<MISSING>'                md='to'
+    [  38]  json='<MISSING>'                md='his'
+    [  38]  json='<MISSING>'                md='son'
+    [  38]  json='<MISSING>'                md='corianton'
+
+  Ref: Alma 44:24
+  JSON (32 w): and thus ended the eighteenth year of the reign of the judges over the people of nephi and thus ended the record of alma…
+  MD   (61 w): and thus ended the eighteenth year of the reign of the judges over the people of nephi and thus ended the record of alma…
+  Diffs (29):
+    [  32]  json='<MISSING>'                md='the'
+    [  32]  json='<MISSING>'                md='account'
+    [  32]  json='<MISSING>'                md='of'
+    [  32]  json='<MISSING>'                md='the'
+    [  32]  json='<MISSING>'                md='people'
+    [  32]  json='<MISSING>'                md='of'
+    [  32]  json='<MISSING>'                md='nephi'
+    [  32]  json='<MISSING>'                md='and'
+    [  32]  json='<MISSING>'                md='their'
+    [  32]  json='<MISSING>'                md='wars'
+    [  32]  json='<MISSING>'                md='and'
+    [  32]  json='<MISSING>'                md='dissensions'
+    ... and 17 more diffs in this verse
+
+  Ref: Alma 63:17
+  JSON (18 w): and thus ended the account of alma and helaman his son and also shiblon who was his son
+  MD   (130 w): and thus ended the account of alma and helaman his son and also shiblon who was his son the book of helaman an account o…
+  Diffs (112):
+    [  18]  json='<MISSING>'                md='the'
+    [  18]  json='<MISSING>'                md='book'
+    [  18]  json='<MISSING>'                md='of'
+    [  18]  json='<MISSING>'                md='helaman'
+    [  18]  json='<MISSING>'                md='an'
+    [  18]  json='<MISSING>'                md='account'
+    [  18]  json='<MISSING>'                md='of'
+    [  18]  json='<MISSING>'                md='the'
+    [  18]  json='<MISSING>'                md='nephites'
+    [  18]  json='<MISSING>'                md='their'
+    [  18]  json='<MISSING>'                md='wars'
+    [  18]  json='<MISSING>'                md='and'
+    ... and 100 more diffs in this verse
+
+  Ref: Helaman 6:41
+  JSON (24 w): and it came to pass that thus ended the sixty and eighth year of the reign of the judges over the people of nephi
+  MD   (76 w): and it came to pass that thus ended the sixty and eighth year of the reign of the judges over the people of nephi the pr…
+  Diffs (52):
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='prophecy'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='nephi'
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='son'
+    [  24]  json='<MISSING>'                md='of'
+    [  24]  json='<MISSING>'                md='helamangod'
+    [  24]  json='<MISSING>'                md='threatens'
+    [  24]  json='<MISSING>'                md='the'
+    [  24]  json='<MISSING>'                md='people'
+    [  24]  json='<MISSING>'                md='of'
+    ... and 40 more diffs in this verse
+
+  Ref: Helaman 12:26
+  JSON (40 w): yea who shall be consigned to a state of endless misery fulfilling the words which say they that have done good shall ha…
+  MD   (49 w): yea who shall be consigned to a state of endless misery fulfilling the words which say they that have done good shall ha…
+  Diffs (9):
+    [  40]  json='<MISSING>'                md='the'
+    [  40]  json='<MISSING>'                md='prophecy'
+    [  40]  json='<MISSING>'                md='of'
+    [  40]  json='<MISSING>'                md='samuel'
+    [  40]  json='<MISSING>'                md='the'
+    [  40]  json='<MISSING>'                md='lamanite'
+    [  40]  json='<MISSING>'                md='to'
+    [  40]  json='<MISSING>'                md='the'
+    [  40]  json='<MISSING>'                md='nephites'
+
+  Ref: Helaman 16:25
+  JSON (16 w): and thus ended the book of helaman according to the record of helaman and his sons
+  MD   (80 w): and thus ended the book of helaman according to the record of helaman and his sons third nephi the book of nephi the son…
+  Diffs (64):
+    [  16]  json='<MISSING>'                md='third'
+    [  16]  json='<MISSING>'                md='nephi'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='book'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='nephi'
+    [  16]  json='<MISSING>'                md='the'
+    [  16]  json='<MISSING>'                md='son'
+    [  16]  json='<MISSING>'                md='of'
+    [  16]  json='<MISSING>'                md='nephi'
+    [  16]  json='<MISSING>'                md='who'
+    [  16]  json='<MISSING>'                md='was'
+    ... and 52 more diffs in this verse
+
+  Ref: 3 Nephi 10:19
+  JSON (30 w): showing his body unto them and ministering unto them and an account of his ministry shall be given hereafter therefore f…
+  MD   (65 w): showing his body unto them and ministering unto them and an account of his ministry shall be given hereafter therefore f…
+  Diffs (35):
+    [  30]  json='<MISSING>'                md='jesus'
+    [  30]  json='<MISSING>'                md='christ'
+    [  30]  json='<MISSING>'                md='did'
+    [  30]  json='<MISSING>'                md='show'
+    [  30]  json='<MISSING>'                md='himself'
+    [  30]  json='<MISSING>'                md='unto'
+    [  30]  json='<MISSING>'                md='the'
+    [  30]  json='<MISSING>'                md='people'
+    [  30]  json='<MISSING>'                md='of'
+    [  30]  json='<MISSING>'                md='nephi'
+    [  30]  json='<MISSING>'                md='as'
+    [  30]  json='<MISSING>'                md='the'
+    ... and 23 more diffs in this verse
+
+  Ref: 3 Nephi 30:2
+  JSON (92 w): turn all ye gentiles from your wicked ways and repent of your evil doings of your lyings and deceivings and of your whor…
+  MD   (121 w): turn all ye gentiles from your wicked ways and repent of your evil doings of your lyings and deceivings and of your whor…
+  Diffs (29):
+    [  92]  json='<MISSING>'                md='fourth'
+    [  92]  json='<MISSING>'                md='nephi'
+    [  92]  json='<MISSING>'                md='the'
+    [  92]  json='<MISSING>'                md='book'
+    [  92]  json='<MISSING>'                md='of'
+    [  92]  json='<MISSING>'                md='nephi'
+    [  92]  json='<MISSING>'                md='who'
+    [  92]  json='<MISSING>'                md='is'
+    [  92]  json='<MISSING>'                md='the'
+    [  92]  json='<MISSING>'                md='son'
+    [  92]  json='<MISSING>'                md='of'
+    [  92]  json='<MISSING>'                md='nephione'
+    ... and 17 more diffs in this verse
+
+  Ref: 4 Nephi 1:49
+  JSON (42 w): and he did hide them up unto the lord that they might come again unto the remnant of the house of jacob according to the…
+  MD   (46 w): and he did hide them up unto the lord that they might come again unto the remnant of the house of jacob according to the…
+  Diffs (4):
+    [  42]  json='<MISSING>'                md='the'
+    [  42]  json='<MISSING>'                md='book'
+    [  42]  json='<MISSING>'                md='of'
+    [  42]  json='<MISSING>'                md='mormon'
+
+  Ref: Mormon 9:37
+  JSON (49 w): and may the lord jesus christ grant that their prayers may be answered according to their faith and may god the father r…
+  MD   (75 w): and may the lord jesus christ grant that their prayers may be answered according to their faith and may god the father r…
+  Diffs (26):
+    [  49]  json='<MISSING>'                md='the'
+    [  49]  json='<MISSING>'                md='book'
+    [  49]  json='<MISSING>'                md='of'
+    [  49]  json='<MISSING>'                md='ether'
+    [  49]  json='<MISSING>'                md='the'
+    [  49]  json='<MISSING>'                md='record'
+    [  49]  json='<MISSING>'                md='of'
+    [  49]  json='<MISSING>'                md='the'
+    [  49]  json='<MISSING>'                md='jaredites'
+    [  49]  json='<MISSING>'                md='taken'
+    [  49]  json='<MISSING>'                md='from'
+    [  49]  json='<MISSING>'                md='the'
+    ... and 14 more diffs in this verse
+
+  Ref: Ether 15:34
+  JSON (48 w): now the last words which are written by ether are these whether the lord will that i be translated or that i suffer the …
+  MD   (52 w): now the last words which are written by ether are these whether the lord will that i be translated or that i suffer the …
+  Diffs (4):
+    [  48]  json='<MISSING>'                md='the'
+    [  48]  json='<MISSING>'                md='book'
+    [  48]  json='<MISSING>'                md='of'
+    [  48]  json='<MISSING>'                md='moroni'
+
+  Ref: Moroni 8:30
+  JSON (15 w): farewell my son until i shall write unto you or shall meet you again amen
+  MD   (24 w): farewell my son until i shall write unto you or shall meet you again amen the second epistle of mormon to his son moroni
+  Diffs (9):
+    [  15]  json='<MISSING>'                md='the'
+    [  15]  json='<MISSING>'                md='second'
+    [  15]  json='<MISSING>'                md='epistle'
+    [  15]  json='<MISSING>'                md='of'
+    [  15]  json='<MISSING>'                md='mormon'
+    [  15]  json='<MISSING>'                md='to'
+    [  15]  json='<MISSING>'                md='his'
+    [  15]  json='<MISSING>'                md='son'
+    [  15]  json='<MISSING>'                md='moroni'
+
+══════════════════════════════════════════════════════════════════════════════
+RESULT: ✗ FAILURES DETECTED
+══════════════════════════════════════════════════════════════════════════════

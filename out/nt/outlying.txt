@@ -1,0 +1,41 @@
+Outlying text report: out/nt/nt.md
+Total outlying blocks: 5
+Total outlying words:  94
+================================================================================
+
+[Block    1]  words=    1  kind=chapter_boundary_trailing
+  Chapter: Acts 28
+  After:   <sub>31</sub>
+  Before:  <h1>Romans 1</h1>
+  Text:    .
+
+[Block    2]  words=   30  kind=non_verse_gap
+  Chapter: Revelation 18
+  After:   <poetry>
+  Before:  <sub>3</sub>
+  Text:    Babylon the great is fallen, is fallen,
+And is become the habitation of devils,
+And the hold of every foul spirit,
+And a cage of every unclean and hateful bird.
+
+[Block    3]  words=   21  kind=non_verse_gap
+  Chapter: Revelation 18
+  After:   <poetry>
+  Before:  <sub>18</sub>
+  Text:    And every shipmaster, and all the company in ships,
+And sailors, and as many as trade by sea,
+Stood afar off,
+
+[Block    4]  words=   30  kind=non_verse_gap
+  Chapter: Revelation 18
+  After:   <poetry>
+  Before:  <sub>23</sub>
+  Text:    And no craftsman, of whatsoever craft he be, shall be found any more in thee;
+And the sound of a millstone shall be heard no more at all in thee;
+
+[Block    5]  words=   12  kind=trailing_end
+  Chapter: Revelation 22
+  After:   <sub>21</sub>
+  Before:  END
+  Text:    The grace of our Lord Jesus Christ be with you all. Amen.
+

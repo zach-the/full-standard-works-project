@@ -1,0 +1,1274 @@
+Outlying text report: out/ot/ot.md
+Total outlying blocks: 196
+Total outlying words:  2474
+================================================================================
+
+[Block    1]  words=   30  kind=non_verse_gap
+  Chapter: Genesis 4
+  After:   <poetry>
+  Before:  <sub>24</sub>
+  Text:    Adah and Zillah, Hear my voice;
+Ye wives of Lamech, hearken unto my speech:
+For I have slain a man to my wounding,
+And a young man to my hurt.
+
+[Block    2]  words=   13  kind=non_verse_gap
+  Chapter: Genesis 9
+  After:   <poetry>
+  Before:  <sub>26</sub>
+  Text:    Cursed be Canaan;
+A servant of servants shall he be unto his brethren.
+
+[Block    3]  words=   35  kind=non_verse_gap
+  Chapter: Genesis 25
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    Two nations are in thy womb,
+And two manner of people shall be separated from thy bowels;
+And the one people shall be stronger than the other people;
+And the elder shall serve the younger.
+
+[Block    4]  words=   18  kind=non_verse_gap
+  Chapter: Genesis 27
+  After:   <poetry>
+  Before:  <sub>28</sub>
+  Text:    See, the smell of my son is as the smell of a field which the Lord hath blessed:
+
+[Block    5]  words=   18  kind=non_verse_gap
+  Chapter: Genesis 27
+  After:   <poetry>
+  Before:  <sub>40</sub>
+  Text:    Behold, thy dwelling shall be the fatness of the earth,
+And of the dew of heaven from above;
+
+[Block    6]  words=   21  kind=non_verse_gap
+  Chapter: Exodus 15
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    Sing ye to the Lord, for he hath triumphed gloriously;
+The horse and his rider hath he thrown into the sea.
+
+[Block    7]  words=   18  kind=non_verse_gap
+  Chapter: Numbers 10
+  After:   <poetry>
+  Before:  <sub>36</sub>
+  Text:    Rise up, Lord, and let thine enemies be scattered;
+And let them that hate thee flee before thee.
+
+[Block    8]  words=   13  kind=non_verse_gap
+  Chapter: Numbers 21
+  After:   <poetry>
+  Before:  <sub>15</sub>
+  Text:    What he did in the Red sea,
+And in the brooks of Arnon,
+
+[Block    9]  words=    8  kind=non_verse_gap
+  Chapter: Numbers 21
+  After:   <poetry>
+  Before:  <sub>18</sub>
+  Text:    Spring up, O well;
+Sing ye unto it:
+
+[Block   10]  words=    8  kind=non_verse_gap
+  Chapter: Numbers 21
+  After:   </poetry>
+  Before:  <sub>19</sub>
+  Text:    And from the wilderness they went to Mattanah:
+
+[Block   11]  words=   12  kind=non_verse_gap
+  Chapter: Numbers 21
+  After:   <poetry>
+  Before:  <sub>28</sub>
+  Text:    Come into Heshbon,
+Let the city of Sihon be built and prepared:
+
+[Block   12]  words=   26  kind=non_verse_gap
+  Chapter: Numbers 23
+  After:   <poetry>
+  Before:  <sub>8</sub>
+  Text:    Balak the king of Moab hath brought me from Aram,
+Out of the mountains of the east, saying,
+Come, curse me Jacob,
+And come, defy Israel.
+
+[Block   13]  words=   12  kind=non_verse_gap
+  Chapter: Numbers 23
+  After:   <poetry>
+  Before:  <sub>19</sub>
+  Text:    Rise up, Balak, and hear;
+Hearken unto me, thou son of Zippor:
+
+[Block   14]  words=   16  kind=non_verse_gap
+  Chapter: Numbers 24
+  After:   <poetry>
+  Before:  <sub>4</sub>
+  Text:    Balaam the son of Beor hath said,
+And the man whose eyes are open hath said:
+
+[Block   15]  words=   16  kind=non_verse_gap
+  Chapter: Numbers 24
+  After:   <poetry>
+  Before:  <sub>16</sub>
+  Text:    Balaam the son of Beor hath said,
+And the man whose eyes are open hath said:
+
+[Block   16]  words=   36  kind=non_verse_gap
+  Chapter: Deuteronomy 33
+  After:   <poetry>
+  Before:  <sub>3</sub>
+  Text:    The Lord came from Sinai,
+And rose up from Seir unto them;
+He shined forth from mount Paran,
+And he came with ten thousands of saints:
+From his right hand went a fiery law for them.
+
+[Block   17]  words=   14  kind=non_verse_gap
+  Chapter: Joshua 10
+  After:   <poetry>
+  Before:  <sub>13</sub>
+  Text:    Sun, stand thou still upon Gibeon;
+And thou, Moon, in the valley of Ajalon.
+
+[Block   18]  words=   15  kind=non_verse_gap
+  Chapter: Judges 14
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    Out of the eater came forth meat,
+And out of the strong came forth sweetness.
+
+[Block   19]  words=   10  kind=non_verse_gap
+  Chapter: Judges 14
+  After:   </poetry>
+  Before:  <sub>15</sub>
+  Text:    And they could not in three days expound the riddle.
+
+[Block   20]  words=   32  kind=non_verse_gap
+  Chapter: Judges 14
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    What is sweeter than honey?
+And what is stronger than a lion?
+And he said unto them,
+If ye had not plowed with my heifer,
+Ye had not found out my riddle.
+
+[Block   21]  words=   21  kind=non_verse_gap
+  Chapter: Judges 15
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    With the jawbone of an ass, heaps upon heaps,
+With the jaw of an ass have I slain a thousand men.
+
+[Block   22]  words=   34  kind=non_verse_gap
+  Chapter: 1 Samuel 15
+  After:   <poetry>
+  Before:  <sub>23</sub>
+  Text:    Hath the Lord as great delight in burnt offerings and sacrifices,
+As in obeying the voice of the Lord?
+Behold, to obey is better than sacrifice,
+And to hearken than the fat of rams.
+
+[Block   23]  words=   10  kind=non_verse_gap
+  Chapter: 1 Samuel 18
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    Saul hath slain his thousands,
+And David his ten thousands.
+
+[Block   24]  words=   10  kind=non_verse_gap
+  Chapter: 1 Samuel 21
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    Saul hath slain his thousands,
+And David his ten thousands?
+
+[Block   25]  words=    9  kind=non_verse_gap
+  Chapter: 1 Samuel 29
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    Saul slew his thousands,
+And David his ten thousands?
+
+[Block   26]  words=    6  kind=non_verse_gap
+  Chapter: 2 Samuel 3
+  After:   <poetry>
+  Before:  <sub>34</sub>
+  Text:    Died Abner as a fool dieth?
+
+[Block   27]  words=    8  kind=non_verse_gap
+  Chapter: 2 Samuel 3
+  After:   </poetry>
+  Before:  <sub>35</sub>
+  Text:    And all the people wept again over him.
+
+[Block   28]  words=   11  kind=non_verse_gap
+  Chapter: 2 Samuel 22
+  After:   <poetry>
+  Before:  <sub>3</sub>
+  Text:    The Lord is my rock, and my fortress, and my deliverer;
+
+[Block   29]  words=    6  kind=non_verse_gap
+  Chapter: 1 Kings 12
+  After:   </poetry>
+  Before:  <sub>17</sub>
+  Text:    So Israel departed unto their tents.
+
+[Block   30]  words=   24  kind=non_verse_gap
+  Chapter: 2 Kings 19
+  After:   <poetry>
+  Before:  <sub>22</sub>
+  Text:    The virgin the daughter of Zion hath despised thee, and laughed thee to scorn;
+The daughter of Jerusalem hath shaken her head at thee.
+
+[Block   31]  words=   28  kind=non_verse_gap
+  Chapter: 1 Chronicles 12
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    Thine are we, David,
+And on thy side, thou son of Jesse:
+Peace, peace be unto thee,
+And peace be to thine helpers;
+For thy God helpeth thee.
+
+[Block   32]  words=   11  kind=non_verse_gap
+  Chapter: 1 Chronicles 12
+  After:   </poetry>
+  Before:  <sub>19</sub>
+  Text:    Then David received them, and made them captains of the band.
+
+[Block   33]  words=   10  kind=non_verse_gap
+  Chapter: 1 Chronicles 16
+  After:   </poetry>
+  Before:  <sub>37</sub>
+  Text:    And all the people said, Amen, and praised the Lord.
+
+[Block   34]  words=    7  kind=non_verse_gap
+  Chapter: 2 Chronicles 10
+  After:   </poetry>
+  Before:  <sub>17</sub>
+  Text:    So all Israel went to their tents.
+
+[Block   35]  words=   30  kind=non_verse_gap
+  Chapter: Job 1
+  After:   <poetry>
+  Before:  <sub>22</sub>
+  Text:    Naked came I out of my mother's womb,
+And naked shall I return thither:
+The Lord gave, and the Lord hath taken away;
+Blessed be the name of the Lord.
+
+[Block   36]  words=    6  kind=non_verse_gap
+  Chapter: Job 31
+  After:   </poetry>
+  Before:  <h1>Job 32</h1>
+  Text:    The words of Job are ended.
+
+[Block   37]  words=   11  kind=non_verse_gap
+  Chapter: Psalms 3
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David, when he fled from Absalom his son.
+
+[Block   38]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 4
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician on Neginoth, A Psalm of David.
+
+[Block   39]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 5
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Nehiloth, A Psalm of David.
+
+[Block   40]  words=   12  kind=non_verse_gap
+  Chapter: Psalms 6
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician on Neginoth upon Sheminith, A Psalm of David.
+
+[Block   41]  words=   16  kind=non_verse_gap
+  Chapter: Psalms 7
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    Shiggaion of David, which he sang unto the Lord, concerning the words of Cush the Benjamite.
+
+[Block   42]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 8
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Gittith, A Psalm of David.
+
+[Block   43]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 9
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Muth-labben, A Psalm of David.
+
+[Block   44]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 11
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block   45]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 12
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Sheminith, A Psalm of David.
+
+[Block   46]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 13
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block   47]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 14
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block   48]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 15
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block   49]  words=    3  kind=non_verse_gap
+  Chapter: Psalms 16
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    Michtam of David.
+
+[Block   50]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 17
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Prayer of David.
+
+[Block   51]  words=    7  kind=non_verse_gap
+  Chapter: Psalms 17
+  After:   <poetry>
+  Before:  <sub>8</sub>
+  Text:    From those that rise up against them.
+
+[Block   52]  words=   47  kind=non_verse_gap
+  Chapter: Psalms 18
+  After:   <h1>Psalms 18</h1>
+  Before:  <poetry>
+  Text:    To the chief Musician, A Psalm of David, the servant of the Lord, who spake unto the Lord the words of this song in the day that the Lord delivered him from the hand of all his enemies, and from the hand of Saul: And he said,
+
+[Block   53]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 19
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block   54]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 20
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block   55]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 21
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block   56]  words=   11  kind=non_verse_gap
+  Chapter: Psalms 22
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Aijeleth Shahar, A Psalm of David.
+
+[Block   57]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 23
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block   58]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 24
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block   59]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 25
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block   60]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 26
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block   61]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 27
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block   62]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 28
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block   63]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 29
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block   64]  words=   12  kind=non_verse_gap
+  Chapter: Psalms 30
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm and Song at the dedication of the house of David.
+
+[Block   65]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 31
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block   66]  words=    5  kind=non_verse_gap
+  Chapter: Psalms 32
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David, Maschil.
+
+[Block   67]  words=   18  kind=non_verse_gap
+  Chapter: Psalms 34
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David, when he changed his behaviour before Abimelech; who drove him away, and he departed.
+
+[Block   68]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 35
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block   69]  words=   13  kind=non_verse_gap
+  Chapter: Psalms 36
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David the servant of the Lord.
+
+[Block   70]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 37
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block   71]  words=   15  kind=non_verse_gap
+  Chapter: Psalms 37
+  After:   <poetry>
+  Before:  <sub>29</sub>
+  Text:    They are preserved for ever:
+But the seed of the wicked shall be cut off.
+
+[Block   72]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 38
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David, to bring to remembrance.
+
+[Block   73]  words=   11  kind=non_verse_gap
+  Chapter: Psalms 39
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, even to Jeduthun, A Psalm of David.
+
+[Block   74]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 40
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block   75]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 41
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block   76]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 42
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, Maschil, for the sons of Korah.
+
+[Block   77]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 44
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician for the sons of Korah, Maschil.
+
+[Block   78]  words=   16  kind=non_verse_gap
+  Chapter: Psalms 45
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Shoshannim, for the sons of Korah, Maschil, A Song of loves.
+
+[Block   79]  words=   13  kind=non_verse_gap
+  Chapter: Psalms 46
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician for the sons of Korah, A Song upon Alamoth.
+
+[Block   80]  words=   11  kind=non_verse_gap
+  Chapter: Psalms 47
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm for the sons of Korah.
+
+[Block   81]  words=    9  kind=non_verse_gap
+  Chapter: Psalms 48
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song and Psalm for the sons of Korah.
+
+[Block   82]  words=   11  kind=non_verse_gap
+  Chapter: Psalms 49
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm for the sons of Korah.
+
+[Block   83]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 50
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of Asaph.
+
+[Block   84]  words=   22  kind=non_verse_gap
+  Chapter: Psalms 51
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bath-sheba.
+
+[Block   85]  words=    8  kind=chapter_boundary_trailing
+  Chapter: Psalms 51
+  After:   <sub>19</sub>
+  Before:  <h1>Psalms 52</h1>
+  Text:    Then shall they offer bullocks upon thine altar.
+
+[Block   86]  words=   29  kind=non_verse_gap
+  Chapter: Psalms 52
+  After:   <h1>Psalms 52</h1>
+  Before:  <poetry>
+  Text:    To the chief Musician, Maschil, A Psalm of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.
+
+[Block   87]  words=   11  kind=non_verse_gap
+  Chapter: Psalms 53
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Mahalath, Maschil, A Psalm of David.
+
+[Block   88]  words=   26  kind=non_verse_gap
+  Chapter: Psalms 54
+  After:   <h1>Psalms 54</h1>
+  Before:  <poetry>
+  Text:    To the chief Musician on Neginoth, Maschil, A Psalm of David, when the Ziphims came and said to Saul, Doth not David hide himself with us?
+
+[Block   89]  words=   11  kind=non_verse_gap
+  Chapter: Psalms 55
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician on Neginoth, Maschil, A Psalm of David.
+
+[Block   90]  words=   16  kind=non_verse_gap
+  Chapter: Psalms 56
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Jonath-elem-rechokim, Michtam of David, when the Philistines took him in Gath.
+
+[Block   91]  words=   16  kind=non_verse_gap
+  Chapter: Psalms 57
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, Al-taschith, Michtam of David, when he fled from Saul in the cave.
+
+[Block   92]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 58
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, Al-taschith, Michtam of David.
+
+[Block   93]  words=   19  kind=non_verse_gap
+  Chapter: Psalms 59
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, Al-taschith, Michtam of David; when Saul sent, and they watcht the house to kill him.
+
+[Block   94]  words=   33  kind=non_verse_gap
+  Chapter: Psalms 60
+  After:   <h1>Psalms 60</h1>
+  Before:  <poetry>
+  Text:    To the chief Musician upon Shushan-eduth, Michtam of David, to teach; when he strove with Aram-naharaim and with Aram-zobah, when Joab returned, and smote of Edom in the valley of salt twelve thousand.
+
+[Block   95]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 61
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Neginah, A Psalm of David.
+
+[Block   96]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 62
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, to Jeduthun, A Psalm of David.
+
+[Block   97]  words=   12  kind=non_verse_gap
+  Chapter: Psalms 63
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David, when he was in the wilderness of Judah.
+
+[Block   98]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 64
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block   99]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 65
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm and Song of David.
+
+[Block  100]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 66
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Song or Psalm.
+
+[Block  101]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 67
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician on Neginoth, A Psalm or Song.
+
+[Block  102]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 68
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm or Song of David.
+
+[Block  103]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 69
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Shoshannim, A Psalm of David.
+
+[Block  104]  words=   12  kind=non_verse_gap
+  Chapter: Psalms 70
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David, to bring to remembrance.
+
+[Block  105]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 72
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm for Solomon.
+
+[Block  106]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 73
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of Asaph.
+
+[Block  107]  words=    3  kind=non_verse_gap
+  Chapter: Psalms 74
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    Maschil of Asaph.
+
+[Block  108]  words=   11  kind=non_verse_gap
+  Chapter: Psalms 75
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, Al-taschith, A Psalm or Song of Asaph.
+
+[Block  109]  words=   12  kind=non_verse_gap
+  Chapter: Psalms 76
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician on Neginoth, A Psalm or Song of Asaph.
+
+[Block  110]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 77
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, to Jeduthun, A Psalm of Asaph.
+
+[Block  111]  words=    3  kind=non_verse_gap
+  Chapter: Psalms 78
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    Maschil of Asaph.
+
+[Block  112]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 79
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of Asaph.
+
+[Block  113]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 80
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Shoshannim-Eduth, A Psalm of Asaph.
+
+[Block  114]  words=   10  kind=non_verse_gap
+  Chapter: Psalms 81
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Gittith, A Psalm of Asaph.
+
+[Block  115]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 82
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of Asaph.
+
+[Block  116]  words=    6  kind=non_verse_gap
+  Chapter: Psalms 83
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song or Psalm of Asaph.
+
+[Block  117]  words=   13  kind=non_verse_gap
+  Chapter: Psalms 84
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician upon Gittith, A Psalm for the sons of Korah.
+
+[Block  118]  words=   11  kind=non_verse_gap
+  Chapter: Psalms 85
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm for the sons of Korah.
+
+[Block  119]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 86
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Prayer of David.
+
+[Block  120]  words=    9  kind=non_verse_gap
+  Chapter: Psalms 87
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm or Song for the sons of Korah.
+
+[Block  121]  words=   21  kind=non_verse_gap
+  Chapter: Psalms 88
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song or Psalm for the sons of Korah. To the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite.
+
+[Block  122]  words=    5  kind=non_verse_gap
+  Chapter: Psalms 89
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    Maschil of Ethan the Ezrahite.
+
+[Block  123]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 90
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Prayer of Moses the man of God.
+
+[Block  124]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 92
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm or Song for the sabbath day.
+
+[Block  125]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 95
+  After:   <poetry>
+  Before:  <sub>8</sub>
+  Text:    To day if ye will hear his voice,
+
+[Block  126]  words=    2  kind=non_verse_gap
+  Chapter: Psalms 98
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm.
+
+[Block  127]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 100
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of praise.
+
+[Block  128]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 101
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block  129]  words=   17  kind=non_verse_gap
+  Chapter: Psalms 102
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the Lord.
+
+[Block  130]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 103
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block  131]  words=    6  kind=non_verse_gap
+  Chapter: Psalms 108
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song or Psalm of David.
+
+[Block  132]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 109
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block  133]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 110
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block  134]  words=    1  kind=non_verse_gap
+  Chapter: Psalms 119
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    ALEPH.
+
+[Block  135]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 120
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees.
+
+[Block  136]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 121
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees.
+
+[Block  137]  words=    6  kind=non_verse_gap
+  Chapter: Psalms 122
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees of David.
+
+[Block  138]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 123
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees.
+
+[Block  139]  words=    6  kind=non_verse_gap
+  Chapter: Psalms 124
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees of David.
+
+[Block  140]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 125
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees.
+
+[Block  141]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 126
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees.
+
+[Block  142]  words=    6  kind=non_verse_gap
+  Chapter: Psalms 127
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees for Solomon.
+
+[Block  143]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 128
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees.
+
+[Block  144]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 129
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees.
+
+[Block  145]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 130
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees.
+
+[Block  146]  words=    6  kind=non_verse_gap
+  Chapter: Psalms 131
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees of David.
+
+[Block  147]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 132
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees.
+
+[Block  148]  words=    6  kind=non_verse_gap
+  Chapter: Psalms 133
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees of David.
+
+[Block  149]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 134
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Song of degrees.
+
+[Block  150]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 138
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block  151]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 139
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block  152]  words=    8  kind=non_verse_gap
+  Chapter: Psalms 140
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    To the chief Musician, A Psalm of David.
+
+[Block  153]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 141
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block  154]  words=   11  kind=non_verse_gap
+  Chapter: Psalms 142
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    Maschil of David; A Prayer when he was in the cave.
+
+[Block  155]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 143
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block  156]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 144
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    A Psalm of David.
+
+[Block  157]  words=    4  kind=non_verse_gap
+  Chapter: Psalms 145
+  After:   <poetry>
+  Before:  <sub>1</sub>
+  Text:    David’s Psalm of praise.
+
+[Block  158]  words=   16  kind=non_verse_gap
+  Chapter: Proverbs 30
+  After:   <poetry>
+  Before:  <sub>16</sub>
+  Text:    There are three things that are never satisfied,
+Yea, four things say not, It is enough:
+
+[Block  159]  words=   15  kind=non_verse_gap
+  Chapter: Solomon's Song 6
+  After:   </poetry>
+  Before:  <h1>Solomon's Song 7</h1>
+  Text:    What will ye see in the Shulamite?
+
+
+
+As it were the company of two armies.
+
+[Block  160]  words=   16  kind=non_verse_gap
+  Chapter: Solomon's Song 8
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    Thou, O Solomon, must have a thousand,
+And those that keep the fruit thereof two hundred.
+
+[Block  161]  words=   16  kind=non_verse_gap
+  Chapter: Isaiah 6
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    Holy, holy, holy, is the Lord of hosts:
+The whole earth is full of his glory.
+
+[Block  162]  words=   13  kind=non_verse_gap
+  Chapter: Isaiah 6
+  After:   <poetry>
+  Before:  <sub>10</sub>
+  Text:    Hear ye indeed, but understand not;
+And see ye indeed, but perceive not.
+
+[Block  163]  words=   32  kind=non_verse_gap
+  Chapter: Isaiah 7
+  After:   <poetry>
+  Before:  <sub>5</sub>
+  Text:    Take heed, and be quiet;
+Fear not, neither be fainthearted
+For the two tails of these smoking firebrands,
+For the fierce anger of Rezin with Syria, and of the son of Remaliah.
+
+[Block  164]  words=    9  kind=non_verse_gap
+  Chapter: Isaiah 14
+  After:   <poetry>
+  Before:  <sub>5</sub>
+  Text:    How hath the oppressor ceased! the golden city ceased!
+
+[Block  165]  words=   25  kind=non_verse_gap
+  Chapter: Isaiah 20
+  After:   <poetry>
+  Before:  <sub>3</sub>
+  Text:    Go and loose the sackcloth from off thy loins,
+And put off thy shoe from thy foot.
+And he did so, walking naked and barefoot.
+
+[Block  166]  words=   24  kind=non_verse_gap
+  Chapter: Isaiah 37
+  After:   <poetry>
+  Before:  <sub>23</sub>
+  Text:    The virgin, the daughter of Zion, hath despised thee, and laughed thee to scorn;
+The daughter of Jerusalem hath shaken her head at thee.
+
+[Block  167]  words=   22  kind=non_verse_gap
+  Chapter: Jeremiah 4
+  After:   <poetry>
+  Before:  <sub>12</sub>
+  Text:    A dry wind of the high places in the wilderness toward the daughter of my people,
+Not to fan, nor to cleanse,
+
+[Block  168]  words=   27  kind=non_verse_gap
+  Chapter: Jeremiah 4
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    The voice of the daughter of Zion, that bewaileth herself, that spreadeth her hands,
+Saying, Woe is me now! for my soul is wearied because of murderers.
+
+[Block  169]  words=   33  kind=non_verse_gap
+  Chapter: Jeremiah 14
+  After:   <poetry>
+  Before:  <sub>18</sub>
+  Text:    Let mine eyes run down with tears night and day, and let them not cease:
+For the virgin daughter of my people is broken with a great breach, with a very grievous blow.
+
+[Block  170]  words=   40  kind=non_verse_gap
+  Chapter: Jeremiah 25
+  After:   <poetry>
+  Before:  <sub>31</sub>
+  Text:    The Lord shall roar from on high,
+And utter his voice from his holy habitation;
+He shall mightily roar upon his habitation;
+He shall give a shout, as they that tread the grapes,
+Against all the inhabitants of the earth.
+
+[Block  171]  words=   25  kind=non_verse_gap
+  Chapter: Jeremiah 26
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    Zion shall be plowed like a field,
+And Jerusalem shall become heaps,
+And the mountain of the house as the high places of a forest.
+
+[Block  172]  words=   13  kind=non_verse_gap
+  Chapter: Jeremiah 30
+  After:   <poetry>
+  Before:  <sub>6</sub>
+  Text:    We have heard a voice of trembling,
+Of fear, and not of peace.
+
+[Block  173]  words=   13  kind=non_verse_gap
+  Chapter: Jeremiah 49
+  After:   <poetry>
+  Before:  <sub>29</sub>
+  Text:    Arise ye, go up to Kedar,
+And spoil the men of the east.
+
+[Block  174]  words=   28  kind=non_verse_gap
+  Chapter: Lamentations 2
+  After:   <poetry>
+  Before:  <sub>7</sub>
+  Text:    The Lord hath caused the solemn feasts and sabbaths to be forgotten in Zion,
+And hath despised in the indignation of his anger the king and the priest.
+
+[Block  175]  words=   27  kind=non_verse_gap
+  Chapter: Lamentations 2
+  After:   <poetry>
+  Before:  <sub>18</sub>
+  Text:    He hath thrown down, and hath not pitied: and he hath caused thine enemy to rejoice over thee,
+He hath set up the horn of thine adversaries.
+
+[Block  176]  words=   13  kind=non_verse_gap
+  Chapter: Lamentations 4
+  After:   <poetry>
+  Before:  <sub>7</sub>
+  Text:    That was overthrown as in a moment, and no hands stayed on her.
+
+[Block  177]  words=   11  kind=non_verse_gap
+  Chapter: Lamentations 4
+  After:   <poetry>
+  Before:  <sub>16</sub>
+  Text:    They said among the heathen, They shall no more sojourn there.
+
+[Block  178]  words=   14  kind=chapter_boundary_trailing
+  Chapter: Lamentations 4
+  After:   <sub>22</sub>
+  Before:  <h1>Lamentations 5</h1>
+  Text:    He will visit thine iniquity, O daughter of Edom; he will discover thy sins.
+
+[Block  179]  words=   16  kind=non_verse_gap
+  Chapter: Daniel 2
+  After:   <poetry>
+  Before:  <sub>21</sub>
+  Text:    Blessed be the name of God for ever and ever:
+For wisdom and might are his:
+
+[Block  180]  words=   27  kind=non_verse_gap
+  Chapter: Amos 1
+  After:   <poetry>
+  Before:  <sub>3</sub>
+  Text:    The Lord will roar from Zion,
+And utter his voice from Jerusalem;
+And the habitations of the shepherds shall mourn,
+And the top of Carmel shall wither.
+
+[Block  181]  words=   16  kind=non_verse_gap
+  Chapter: Amos 7
+  After:   <poetry>
+  Before:  <sub>3</sub>
+  Text:    O Lord God, forgive, I beseech thee:
+By whom shall Jacob arise? for he is small.
+
+[Block  182]  words=   16  kind=non_verse_gap
+  Chapter: Amos 7
+  After:   <poetry>
+  Before:  <sub>6</sub>
+  Text:    O Lord God, cease, I beseech thee:
+By whom shall Jacob arise? for he is small.
+
+[Block  183]  words=   22  kind=non_verse_gap
+  Chapter: Amos 7
+  After:   <poetry>
+  Before:  <sub>9</sub>
+  Text:    Behold, I will set a plumbline in the midst of my people Israel:
+I will not again pass by them any more:
+
+[Block  184]  words=   18  kind=non_verse_gap
+  Chapter: Amos 8
+  After:   <poetry>
+  Before:  <sub>3</sub>
+  Text:    The end is come upon my people of Israel;
+I will not again pass by them any more.
+
+[Block  185]  words=   16  kind=non_verse_gap
+  Chapter: Obadiah 1
+  After:   <poetry>
+  Before:  <sub>21</sub>
+  Text:    And the captivity of Jerusalem, which is in Sepharad,
+Shall possess the cities of the south.
+
+[Block  186]  words=   21  kind=non_verse_gap
+  Chapter: Habakkuk 2
+  After:   <poetry>
+  Before:  <sub>7</sub>
+  Text:    Woe to him that increaseth that which is not his! how long?
+And to him that ladeth himself with thick clay!
+
+[Block  187]  words=    8  kind=non_verse_gap
+  Chapter: Habakkuk 3
+  After:   </poetry>
+  Before:  <h1>Zephaniah 1</h1>
+  Text:    To the chief singer on my stringed instruments.
+
+[Block  188]  words=   30  kind=non_verse_gap
+  Chapter: Haggai 2
+  After:   <poetry>
+  Before:  <sub>15</sub>
+  Text:    So is this people, and so is this nation before me, saith the Lord;
+And so is every work of their hands;
+And that which they offer there is unclean.
+
+[Block  189]  words=    8  kind=non_verse_gap
+  Chapter: Haggai 2
+  After:   <poetry>
+  Before:  <sub>22</sub>
+  Text:    I will shake the heavens and the earth;
+
+[Block  190]  words=   18  kind=non_verse_gap
+  Chapter: Zechariah 1
+  After:   <poetry>
+  Before:  <sub>15</sub>
+  Text:    Thus saith the Lord of hosts;
+I am jealous for Jerusalem and for Zion with a great jealousy.
+
+[Block  191]  words=   16  kind=non_verse_gap
+  Chapter: Zechariah 2
+  After:   <poetry>
+  Before:  <sub>5</sub>
+  Text:    Jerusalem shall be inhabited as towns without walls
+For the multitude of men and cattle therein:
+
+[Block  192]  words=   25  kind=non_verse_gap
+  Chapter: Zechariah 3
+  After:   <poetry>
+  Before:  </poetry>
+  Text:    The Lord rebuke thee, O Satan;
+Even the Lord that hath chosen Jerusalem rebuke thee:
+Is not this a brand plucked out of the fire?
+
+[Block  193]  words=   15  kind=non_verse_gap
+  Chapter: Zechariah 4
+  After:   <poetry>
+  Before:  <sub>7</sub>
+  Text:    Not by might, nor by power, but by my spirit,
+Saith the Lord of hosts.
+
+[Block  194]  words=   46  kind=non_verse_gap
+  Chapter: Zechariah 5
+  After:   <poetry>
+  Before:  <sub>4</sub>
+  Text:    This is the curse that goeth forth over the face of the whole earth:
+For every one that stealeth shall be cut off as on this side according to it;
+And every one that sweareth shall be cut off as on that side according to it.
+
+[Block  195]  words=   26  kind=non_verse_gap
+  Chapter: Zechariah 6
+  After:   <poetry>
+  Before:  <sub>13</sub>
+  Text:    Behold the man whose name is The BRANCH;
+And he shall grow up out of his place,
+And he shall build the temple of the Lord:
+
+[Block  196]  words=   23  kind=non_verse_gap
+  Chapter: Zechariah 11
+  After:   </poetry>
+  Before:  <sub>8</sub>
+  Text:    And I took unto me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.
+

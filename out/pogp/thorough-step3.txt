@@ -1,0 +1,152 @@
+══════════════════════════════════════════════════════════════════════════════
+THOROUGH CHECKER REPORT
+══════════════════════════════════════════════════════════════════════════════
+MD:   out/pogp/pogp-step3.md
+JSON: in/json/pearl-of-great-price-flat.json
+JSON verses: 635  |  MD <sub> tags: 635
+
+──────────────────────────────────────────────────────────────────────────────
+SUMMARY
+──────────────────────────────────────────────────────────────────────────────
+  Verse count match:        ✓
+  Verse number mismatches:  0
+  Missing chapter headings: 0 / 16
+  Verses with word errors:  11 / 635  (1.73%)
+    Total word-level diffs: 111
+    Substitutions:          0
+    Extra words (MD only):  111
+    Missing words (MD):     0
+  Verses clean:             624 / 635
+
+──────────────────────────────────────────────────────────────────────────────
+WORD MISMATCHES  (11 verses affected)
+──────────────────────────────────────────────────────────────────────────────
+  Pattern breakdown:
+    Only extra words in MD:   11
+    Only missing words in MD: 0
+    Mixed / substitutions:    0
+
+  First 80 affected verses:
+
+  Ref: Moses 1:42
+  JSON (41 w): these words were spoken unto moses in the mount the name of which shall not be known among the children of men and now t…
+  MD   (43 w): these words were spoken unto moses in the mount the name of which shall not be known among the children of men and now t…
+  Diffs (2):
+    [  41]  json='<MISSING>'                md='juneoctober'
+    [  41]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 2:31
+  JSON (30 w): and i god saw everything that i had made and behold all things which i had made were very good and the evening and the m…
+  MD   (32 w): and i god saw everything that i had made and behold all things which i had made were very good and the evening and the m…
+  Diffs (2):
+    [  30]  json='<MISSING>'                md='juneoctober'
+    [  30]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 3:25
+  JSON (14 w): and they were both naked the man and his wife and were not ashamed
+  MD   (16 w): and they were both naked the man and his wife and were not ashamed juneoctober 1830
+  Diffs (2):
+    [  14]  json='<MISSING>'                md='juneoctober'
+    [  14]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 4:32
+  JSON (44 w): and these are the words which i spake unto my servant moses and they are true even as i will and i have spoken them unto…
+  MD   (46 w): and these are the words which i spake unto my servant moses and they are true even as i will and i have spoken them unto…
+  Diffs (2):
+    [  44]  json='<MISSING>'                md='juneoctober'
+    [  44]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 5:59
+  JSON (37 w): and thus all things were confirmed unto adam by an holy ordinance and the gospel preached and a decree sent forth that i…
+  MD   (39 w): and thus all things were confirmed unto adam by an holy ordinance and the gospel preached and a decree sent forth that i…
+  Diffs (2):
+    [  37]  json='<MISSING>'                md='novemberdecember'
+    [  37]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 6:68
+  JSON (18 w): behold thou art one in me a son of god and thus may all become my sons amen
+  MD   (20 w): behold thou art one in me a son of god and thus may all become my sons amen december 1830
+  Diffs (2):
+    [  18]  json='<MISSING>'                md='december'
+    [  18]  json='<MISSING>'                md='1830'
+
+  Ref: Moses 7:69
+  JSON (45 w): and enoch and all his people walked with god and he dwelt in the midst of zion and it came to pass that zion was not for…
+  MD   (47 w): and enoch and all his people walked with god and he dwelt in the midst of zion and it came to pass that zion was not for…
+  Diffs (2):
+    [  45]  json='<MISSING>'                md='february'
+    [  45]  json='<MISSING>'                md='1831'
+
+  Ref: Moses 8:30
+  JSON (32 w): and god said unto noah the end of all flesh is come before me for the earth is filled with violence and behold i will de…
+  MD   (81 w): and god said unto noah the end of all flesh is come before me for the earth is filled with violence and behold i will de…
+  Diffs (49):
+    [  32]  json='<MISSING>'                md='the'
+    [  32]  json='<MISSING>'                md='book'
+    [  32]  json='<MISSING>'                md='of'
+    [  32]  json='<MISSING>'                md='abraham'
+    [  32]  json='<MISSING>'                md='translated'
+    [  32]  json='<MISSING>'                md='from'
+    [  32]  json='<MISSING>'                md='the'
+    [  32]  json='<MISSING>'                md='papyrus'
+    [  32]  json='<MISSING>'                md='by'
+    [  32]  json='<MISSING>'                md='joseph'
+    [  32]  json='<MISSING>'                md='smith'
+    [  32]  json='<MISSING>'                md='a'
+    ... and 37 more diffs in this verse
+
+  Ref: Abraham 5:21
+  JSON (30 w): and adam gave names to all cattle to the fowl of the air to every beast of the field and for adam there was found an hel…
+  MD   (54 w): and adam gave names to all cattle to the fowl of the air to every beast of the field and for adam there was found an hel…
+  Diffs (24):
+    [  30]  json='<MISSING>'                md='joseph'
+    [  30]  json='<MISSING>'                md='smithmatthew'
+    [  30]  json='<MISSING>'                md='an'
+    [  30]  json='<MISSING>'                md='extract'
+    [  30]  json='<MISSING>'                md='from'
+    [  30]  json='<MISSING>'                md='the'
+    [  30]  json='<MISSING>'                md='translation'
+    [  30]  json='<MISSING>'                md='of'
+    [  30]  json='<MISSING>'                md='the'
+    [  30]  json='<MISSING>'                md='bible'
+    [  30]  json='<MISSING>'                md='as'
+    [  30]  json='<MISSING>'                md='revealed'
+    ... and 12 more diffs in this verse
+
+  Ref: Joseph Smith—Matthew 1:55
+  JSON (37 w): and thus cometh the end of the wicked according to the prophecy of moses saying they shall be cut off from among the peo…
+  MD   (48 w): and thus cometh the end of the wicked according to the prophecy of moses saying they shall be cut off from among the peo…
+  Diffs (11):
+    [  37]  json='<MISSING>'                md='joseph'
+    [  37]  json='<MISSING>'                md='smithhistory'
+    [  37]  json='<MISSING>'                md='extracts'
+    [  37]  json='<MISSING>'                md='from'
+    [  37]  json='<MISSING>'                md='the'
+    [  37]  json='<MISSING>'                md='history'
+    [  37]  json='<MISSING>'                md='of'
+    [  37]  json='<MISSING>'                md='joseph'
+    [  37]  json='<MISSING>'                md='smith'
+    [  37]  json='<MISSING>'                md='the'
+    [  37]  json='<MISSING>'                md='prophet'
+
+  Ref: Joseph Smith—History 1:75
+  JSON (84 w): we had been threatened with being mobbed from time to time and this too by professors of religion and their intentions o…
+  MD   (97 w): we had been threatened with being mobbed from time to time and this too by professors of religion and their intentions o…
+  Diffs (13):
+    [  84]  json='<MISSING>'                md='the'
+    [  84]  json='<MISSING>'                md='articles'
+    [  84]  json='<MISSING>'                md='of'
+    [  84]  json='<MISSING>'                md='faith'
+    [  84]  json='<MISSING>'                md='of'
+    [  84]  json='<MISSING>'                md='the'
+    [  84]  json='<MISSING>'                md='church'
+    [  84]  json='<MISSING>'                md='of'
+    [  84]  json='<MISSING>'                md='jesus'
+    [  84]  json='<MISSING>'                md='christ'
+    [  84]  json='<MISSING>'                md='of'
+    [  84]  json='<MISSING>'                md='latterday'
+    ... and 1 more diffs in this verse
+
+══════════════════════════════════════════════════════════════════════════════
+RESULT: ✗ FAILURES DETECTED
+══════════════════════════════════════════════════════════════════════════════
