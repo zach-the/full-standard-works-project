@@ -42,9 +42,11 @@ And the Lord God said unto Moses: For mine own purpose have I made these things.
 
 (<sub>42</sub> These words were spoken unto Moses in the mount, the name of which shall not be known among the children of men. And now they are spoken unto you. Show them not unto any except them that believe. Even so. Amen.)
 
+<h1>Moses 2</h1>
+
 <dateline>(June–October 1830)</dateline>
 
-<h1>Moses 2</h1><sub>1</sub> And it came to pass that the Lord spake unto Moses, saying: Behold, I reveal unto you concerning this heaven, and this earth; write the words which I speak. I am the Beginning and the End, the Almighty God; by mine Only Begotten I created these things; yea, in the beginning I created the heaven, and the earth upon which thou standest.
+<sub>1</sub> And it came to pass that the Lord spake unto Moses, saying: Behold, I reveal unto you concerning this heaven, and this earth; write the words which I speak. I am the Beginning and the End, the Almighty God; by mine Only Begotten I created these things; yea, in the beginning I created the heaven, and the earth upon which thou standest.
 
 <sub>2</sub> And the earth was without form, and void; and I caused darkness to come up upon the face of the deep; and my Spirit moved upon the face of the water; for I am God. <sub>3</sub> And I, God, said: Let there be light; and there was light. <sub>4</sub> And I, God, saw the light; and that light was good. And I, God, divided the light from the darkness. <sub>5</sub> And I, God, called the light Day; and the darkness, I called Night; and this I did by the word of my power, and it was done as I spake; and the evening and the morning were the first day.
 
@@ -66,9 +68,11 @@ And the Lord God said unto Moses: For mine own purpose have I made these things.
 
 <sub>31</sub> And I, God, saw everything that I had made, and, behold, all things which I had made were very good; and the evening and the morning were the sixth day.
 
+<h1>Moses 3</h1>
+
 <dateline>(June–October 1830)</dateline>
 
-<h1>Moses 3</h1><sub>1</sub> Thus the heaven and the earth were finished, and all the host of them. <sub>2</sub> And on the seventh day I, God, ended my work, and all things which I had made; and I rested on the seventh day from all my work, and all things which I had made were finished, and I, God, saw that they were good; <sub>3</sub> and I, God, blessed the seventh day, and sanctified it; because that in it I had rested from all my work which I, God, had created and made.
+<sub>1</sub> Thus the heaven and the earth were finished, and all the host of them. <sub>2</sub> And on the seventh day I, God, ended my work, and all things which I had made; and I rested on the seventh day from all my work, and all things which I had made were finished, and I, God, saw that they were good; <sub>3</sub> and I, God, blessed the seventh day, and sanctified it; because that in it I had rested from all my work which I, God, had created and made.
 
 <sub>4</sub> And now, behold, I say unto you, that these are the generations of the heaven and of the earth, when they were created, in the day that I, the Lord God, made the heaven and the earth, <sub>5</sub> and every plant of the field before it was in the earth, and every herb of the field before it grew. For I, the Lord God, created all things, of which I have spoken, spiritually, before they were naturally upon the face of the earth.
 
@@ -90,9 +94,11 @@ For I, the Lord God, had not caused it to rain upon the face of the earth. And I
 
 <sub>25</sub> And they were both naked, the man and his wife, and were not ashamed.
 
+<h1>Moses 4</h1>
+
 <dateline>(June–October 1830)</dateline>
 
-<h1>Moses 4</h1><sub>1</sub> And I, the Lord God, spake unto Moses, saying: That Satan, whom thou hast commanded in the name of mine Only Begotten, is the same which was from the beginning, and he came before me, saying—Behold, here am I, send me, I will be thy son, and I will redeem all mankind, that one soul shall not be lost, and surely I will do it; wherefore give me thine honor.
+<sub>1</sub> And I, the Lord God, spake unto Moses, saying: That Satan, whom thou hast commanded in the name of mine Only Begotten, is the same which was from the beginning, and he came before me, saying—Behold, here am I, send me, I will be thy son, and I will redeem all mankind, that one soul shall not be lost, and surely I will do it; wherefore give me thine honor.
 
 <sub>2</sub> But, behold, my Beloved Son, which was my Beloved and Chosen from the beginning, said unto me—Father, thy will be done, and the glory be thine forever.
 
@@ -130,9 +136,11 @@ And the woman said: The serpent beguiled me, and I did eat.
 
 (<sub>32</sub> And these are the words which I spake unto my servant Moses, and they are true even as I will; and I have spoken them unto you. See thou show them unto no man, until I command you, except to them that believe. Amen.)
 
+<h1>Moses 5</h1>
+
 <dateline>(June–October 1830)</dateline>
 
-<h1>Moses 5</h1><sub>1</sub> And it came to pass that after I, the Lord God, had driven them out, that Adam began to till the earth, and to have dominion over all the beasts of the field, and to eat his bread by the sweat of his brow, as I the Lord had commanded him. And Eve, also, his wife, did labor with him.
+<sub>1</sub> And it came to pass that after I, the Lord God, had driven them out, that Adam began to till the earth, and to have dominion over all the beasts of the field, and to eat his bread by the sweat of his brow, as I the Lord had commanded him. And Eve, also, his wife, did labor with him.
 
 <sub>2</sub> And Adam knew his wife, and she bare unto him sons and daughters, and they began to multiply and to replenish the earth. <sub>3</sub> And from that time forth, the sons and daughters of Adam began to divide two and two in the land, and to till the land, and to tend flocks, and they also begat sons and daughters.
 
@@ -200,9 +208,11 @@ And I the Lord set a mark upon Cain, lest any finding him should kill him. <sub>
 
 <sub>58</sub> And thus the Gospel began to be preached, from the beginning, being declared by holy angels sent forth from the presence of God, and by his own voice, and by the gift of the Holy Ghost. <sub>59</sub> And thus all things were confirmed unto Adam, by an holy ordinance, and the Gospel preached, and a decree sent forth, that it should be in the world, until the end thereof; and thus it was. Amen.
 
+<h1>Moses 6</h1>
+
 <dateline>(November–December 1830)</dateline>
 
-<h1>Moses 6</h1><sub>1</sub> And Adam hearkened unto the voice of God, and called upon his sons to repent. <sub>2</sub> And Adam knew his wife again, and she bare a son, and he called his name Seth. And Adam glorified the name of God; for he said: God hath appointed me another seed, instead of Abel, whom Cain slew.
+<sub>1</sub> And Adam hearkened unto the voice of God, and called upon his sons to repent. <sub>2</sub> And Adam knew his wife again, and she bare a son, and he called his name Seth. And Adam glorified the name of God; for he said: God hath appointed me another seed, instead of Abel, whom Cain slew.
 
 <sub>3</sub> And God revealed himself unto Seth, and he rebelled not, but offered an acceptable sacrifice, like unto his brother Abel. And to him also was born a son, and he called his name Enos.
 
@@ -270,9 +280,11 @@ And the Lord said unto Adam: Behold I have forgiven thee thy transgression in th
 
 <sub>66</sub> And he heard a voice out of heaven, saying: Thou art baptized with fire, and with the Holy Ghost. This is the record of the Father, and the Son, from henceforth and forever; <sub>67</sub> and thou art after the order of him who was without beginning of days or end of years, from all eternity to all eternity. <sub>68</sub> Behold, thou art one in me, a son of God; and thus may all become my sons. Amen.
 
+<h1>Moses 7</h1>
+
 <dateline>(December 1830)</dateline>
 
-<h1>Moses 7</h1><sub>1</sub> And it came to pass that Enoch continued his speech, saying: Behold, our father Adam taught these things, and many have believed and become the sons of God, and many have believed not, and have perished in their sins, and are looking forth with fear, in torment, for the fiery indignation of the wrath of God to be poured out upon them.
+<sub>1</sub> And it came to pass that Enoch continued his speech, saying: Behold, our father Adam taught these things, and many have believed and become the sons of God, and many have believed not, and have perished in their sins, and are looking forth with fear, in torment, for the fiery indignation of the wrath of God to be poured out upon them.
 
 <sub>2</sub> And from that time forth Enoch began to prophesy, saying unto the people, that: As I was journeying, and stood upon the place Mahujah, and cried unto the Lord, there came a voice out of heaven, saying—Turn ye, and get ye upon the mount Simeon. <sub>3</sub> And it came to pass that I turned and went up on the mount; and as I stood upon the mount, I beheld the heavens open, and I was clothed upon with glory; <sub>4</sub> and I saw the Lord; and he stood before my face, and he talked with me, even as a man talketh one with another, face to face; and he said unto me: Look, and I will show unto thee the world for the space of many generations. <sub>5</sub> And it came to pass that I beheld in the valley of Shum, and lo, a great people which dwelt in tents, which were the people of Shum.
 
@@ -338,9 +350,11 @@ And the Lord said unto Enoch: Behold mine abode forever. <sub>22</sub> And Enoch
 
 <sub>67</sub> And the Lord showed Enoch all things, even unto the end of the world; and he saw the day of the righteous, the hour of their redemption, and received a fulness of joy; <sub>68</sub> and all the days of Zion, in the days of Enoch, were three hundred and sixty-five years. <sub>69</sub> And Enoch and all his people walked with God, and he dwelt in the midst of Zion; and it came to pass that Zion was not, for God received it up into his own bosom; and from thence went forth the saying, Zion is Fled.
 
+<h1>Moses 8</h1>
+
 <dateline>(February 1831)</dateline>
 
-<h1>Moses 8</h1><sub>1</sub> And all the days of Enoch were four hundred and thirty years. <sub>2</sub> And it came to pass that Methuselah, the son of Enoch, was not taken, that the covenants of the Lord might be fulfilled, which he made to Enoch; for he truly covenanted with Enoch that Noah should be of the fruit of his loins. <sub>3</sub> And it came to pass that Methuselah prophesied that from his loins should spring all the kingdoms of the earth (through Noah), and he took glory unto himself.
+<sub>1</sub> And all the days of Enoch were four hundred and thirty years. <sub>2</sub> And it came to pass that Methuselah, the son of Enoch, was not taken, that the covenants of the Lord might be fulfilled, which he made to Enoch; for he truly covenanted with Enoch that Noah should be of the fruit of his loins. <sub>3</sub> And it came to pass that Methuselah prophesied that from his loins should spring all the kingdoms of the earth (through Noah), and he took glory unto himself.
 
 <sub>4</sub> And there came forth a great famine into the land, and the Lord cursed the earth with a sore curse, and many of the inhabitants thereof died.
 
@@ -368,6 +382,8 @@ And the Lord said unto Enoch: Behold mine abode forever. <sub>22</sub> And Enoch
 
 <sub>28</sub> The earth was corrupt before God, and it was filled with violence. <sub>29</sub> And God looked upon the earth, and, behold, it was corrupt, for all flesh had corrupted its way upon the earth. <sub>30</sub> And God said unto Noah: The end of all flesh is come before me, for the earth is filled with violence, and behold I will destroy all flesh from off the earth.
 
+<h1>Abraham 1</h1>
+
 <header class="book-intro">
 The Book of Abraham
 
@@ -376,7 +392,7 @@ Translated from the Papyrus, by Joseph Smith
 A Translation of some ancient Records that have fallen into our hands from the catacombs of Egypt. The writings of Abraham while he was in Egypt, called the Book of Abraham, written by his own hand, upon papyrus.
 </header>
 
-<h1>Abraham 1</h1><sub>1</sub> In the land of the Chaldeans, at the residence of my fathers, I, Abraham, saw that it was needful for me to obtain another place of residence; <sub>2</sub> and, finding there was greater happiness and peace and rest for me, I sought for the blessings of the fathers, and the right whereunto I should be ordained to administer the same; having been myself a follower of righteousness, desiring also to be one who possessed great knowledge, and to be a greater follower of righteousness, and to possess a greater knowledge, and to be a father of many nations, a prince of peace, and desiring to receive instructions, and to keep the commandments of God, I became a rightful heir, a High Priest, holding the right belonging to the fathers.
+<sub>1</sub> In the land of the Chaldeans, at the residence of my fathers, I, Abraham, saw that it was needful for me to obtain another place of residence; <sub>2</sub> and, finding there was greater happiness and peace and rest for me, I sought for the blessings of the fathers, and the right whereunto I should be ordained to administer the same; having been myself a follower of righteousness, desiring also to be one who possessed great knowledge, and to be a greater follower of righteousness, and to possess a greater knowledge, and to be a father of many nations, a prince of peace, and desiring to receive instructions, and to keep the commandments of God, I became a rightful heir, a High Priest, holding the right belonging to the fathers.
 
 <sub>3</sub> It was conferred upon me from the fathers; it came down from the fathers, from the beginning of time, yea, even from the beginning, or before the foundation of the earth, down to the present time, even the right of the firstborn, or the first man, who is Adam, or first father, through the fathers unto me. <sub>4</sub> I sought for mine appointment unto the Priesthood according to the appointment of God unto the fathers concerning the seed.
 
@@ -404,7 +420,9 @@ A Translation of some ancient Records that have fallen into our hands from the c
 
 <sub>31</sub> But the records of the fathers, even the patriarchs, concerning the right of Priesthood, the Lord my God preserved in mine own hands; therefore a knowledge of the beginning of the creation, and also of the planets, and of the stars, as they were made known unto the fathers, have I kept even unto this day, and I shall endeavor to write some of these things upon this record, for the benefit of my posterity that shall come after me.
 
-<h1>Abraham 2</h1><sub>1</sub> Now the Lord God caused the famine to wax sore in the land of Ur, insomuch that Haran, my brother, died; but Terah, my father, yet lived in the land of Ur, of the Chaldees.
+<h1>Abraham 2</h1>
+
+<sub>1</sub> Now the Lord God caused the famine to wax sore in the land of Ur, insomuch that Haran, my brother, died; but Terah, my father, yet lived in the land of Ur, of the Chaldees.
 
 <sub>2</sub> And it came to pass that I, Abraham, took Sarai to wife, and Nahor, my brother, took Milcah to wife, who was the daughter of Haran.
 
@@ -430,7 +448,9 @@ A Translation of some ancient Records that have fallen into our hands from the c
 
 <sub>25</sub> And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me—Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.
 
-<h1>Abraham 3</h1><sub>1</sub> And I, Abraham, had the Urim and Thummim, which the Lord my God had given unto me, in Ur of the Chaldees; <sub>2</sub> and I saw the stars, that they were very great, and that one of them was nearest unto the throne of God; and there were many great ones which were near unto it; <sub>3</sub> and the Lord said unto me: These are the governing ones; and the name of the great one is Kolob, because it is near unto me, for I am the Lord thy God: I have set this one to govern all those which belong to the same order as that upon which thou standest.
+<h1>Abraham 3</h1>
+
+<sub>1</sub> And I, Abraham, had the Urim and Thummim, which the Lord my God had given unto me, in Ur of the Chaldees; <sub>2</sub> and I saw the stars, that they were very great, and that one of them was nearest unto the throne of God; and there were many great ones which were near unto it; <sub>3</sub> and the Lord said unto me: These are the governing ones; and the name of the great one is Kolob, because it is near unto me, for I am the Lord thy God: I have set this one to govern all those which belong to the same order as that upon which thou standest.
 
 <sub>4</sub> And the Lord said unto me, by the Urim and Thummim, that Kolob was after the manner of the Lord, according to its times and seasons in the revolutions thereof; that one revolution was a day unto the Lord, after his manner of reckoning, it being one thousand years according to the time appointed unto that whereon thou standest. This is the reckoning of the Lord’s time, according to the reckoning of Kolob.
 
@@ -466,7 +486,9 @@ And the Lord said: I will send the first.
 
 <sub>28</sub> And the second was angry, and kept not his first estate; and, at that day, many followed after him.
 
-<h1>Abraham 4</h1><sub>1</sub> And then the Lord said: Let us go down. And they went down at the beginning, and they, that is the Gods, organized and formed the heavens and the earth.
+<h1>Abraham 4</h1>
+
+<sub>1</sub> And then the Lord said: Let us go down. And they went down at the beginning, and they, that is the Gods, organized and formed the heavens and the earth.
 
 <sub>2</sub> And the earth, after it was formed, was empty and desolate, because they had not formed anything but the earth; and darkness reigned upon the face of the deep, and the Spirit of the Gods was brooding upon the face of the waters. <sub>3</sub> And they (the Gods) said: Let there be light; and there was light. <sub>4</sub> And they (the Gods) comprehended the light, for it was bright; and they divided the light, or caused it to be divided, from the darkness. <sub>5</sub> And the Gods called the light Day, and the darkness they called Night. And it came to pass that from the evening until morning they called night; and from the morning until the evening they called day; and this was the first, or the beginning, of that which they called day and night.
 
@@ -486,7 +508,9 @@ And the Lord said: I will send the first.
 
 <sub>28</sub> And the Gods said: We will bless them. And the Gods said: We will cause them to be fruitful and multiply, and replenish the earth, and subdue it, and to have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. <sub>29</sub> And the Gods said: Behold, we will give them every herb bearing seed that shall come upon the face of all the earth, and every tree which shall have fruit upon it; yea, the fruit of the tree yielding seed to them we will give it; it shall be for their meat. <sub>30</sub> And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, behold, we will give them life, and also we will give to them every green herb for meat, and all these things shall be thus organized. <sub>31</sub> And the Gods said: We will do everything that we have said, and organize them; and behold, they shall be very obedient. And it came to pass that it was from evening until morning they called night; and it came to pass that it was from morning until evening that they called day; and they numbered the sixth time.
 
-<h1>Abraham 5</h1><sub>1</sub> And thus we will finish the heavens and the earth, and all the hosts of them. <sub>2</sub> And the Gods said among themselves: On the seventh time we will end our work, which we have counseled; and we will rest on the seventh time from all our work which we have counseled. <sub>3</sub> And the Gods concluded upon the seventh time, because that on the seventh time they would rest from all their works which they (the Gods) counseled among themselves to form; and sanctified it. And thus were their decisions at the time that they counseled among themselves to form the heavens and the earth.
+<h1>Abraham 5</h1>
+
+<sub>1</sub> And thus we will finish the heavens and the earth, and all the hosts of them. <sub>2</sub> And the Gods said among themselves: On the seventh time we will end our work, which we have counseled; and we will rest on the seventh time from all our work which we have counseled. <sub>3</sub> And the Gods concluded upon the seventh time, because that on the seventh time they would rest from all their works which they (the Gods) counseled among themselves to form; and sanctified it. And thus were their decisions at the time that they counseled among themselves to form the heavens and the earth.
 
 <sub>4</sub> And the Gods came down and formed these the generations of the heavens and of the earth, when they were formed in the day that the Gods formed the earth and the heavens, <sub>5</sub> according to all that which they had said concerning every plant of the field before it was in the earth, and every herb of the field before it grew; for the Gods had not caused it to rain upon the earth when they counseled to do them, and had not formed a man to till the ground.
 
@@ -502,13 +526,15 @@ And the Lord said: I will send the first.
 
 <sub>20</sub> And out of the ground the Gods formed every beast of the field, and every fowl of the air, and brought them unto Adam to see what he would call them; and whatsoever Adam called every living creature, that should be the name thereof. <sub>21</sub> And Adam gave names to all cattle, to the fowl of the air, to every beast of the field; and for Adam, there was found an help meet for him.
 
+<h1>Joseph Smith—Matthew 1</h1>
+
 <header class="book-intro">
 Joseph Smith—Matthew
 
 An extract from the translation of the Bible as revealed to Joseph Smith the Prophet in 1831: Matthew 23:39 and chapter 24.
 </header>
 
-<h1>Joseph Smith—Matthew 1</h1><sub>1</sub> For I say unto you, that ye shall not see me henceforth and know that I am he of whom it is written by the prophets, until ye shall say: Blessed is he who cometh in the name of the Lord, in the clouds of heaven, and all the holy angels with him.
+<sub>1</sub> For I say unto you, that ye shall not see me henceforth and know that I am he of whom it is written by the prophets, until ye shall say: Blessed is he who cometh in the name of the Lord, in the clouds of heaven, and all the holy angels with him.
 
 Then understood his disciples that he should come again on the earth, after that he was glorified and crowned on the right hand of God. <sub>2</sub> And Jesus went out, and departed from the temple; and his disciples came to him, for to hear him, saying: Master, show us concerning the buildings of the temple, as thou hast said—They shall be thrown down, and left unto you desolate.
 
@@ -548,13 +574,15 @@ Then understood his disciples that he should come again on the earth, after that
 
 <sub>51</sub> But if that evil servant shall say in his heart: My lord delayeth his coming, <sub>52</sub> and shall begin to smite his fellow-servants, and to eat and drink with the drunken, <sub>53</sub> the lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of, <sub>54</sub> and shall cut him asunder, and shall appoint him his portion with the hypocrites; there shall be weeping and gnashing of teeth. <sub>55</sub> And thus cometh the end of the wicked, according to the prophecy of Moses, saying: They shall be cut off from among the people; but the end of the earth is not yet, but by and by.
 
+<h1>Joseph Smith—History 1</h1>
+
 <header class="book-intro">
 Joseph Smith—History
 
 Extracts from the History of Joseph Smith, the Prophet
 </header>
 
-<h1>Joseph Smith—History 1</h1><sub>1</sub> Owing to the many reports which have been put in circulation by evil-disposed and designing persons, in relation to the rise and progress of The Church of Jesus Christ of Latter-day Saints, all of which have been designed by the authors thereof to militate against its character as a Church and its progress in the world—I have been induced to write this history, to disabuse the public mind, and put all inquirers after truth in possession of the facts, as they have transpired, in relation both to myself and the Church, so far as I have such facts in my possession.
+<sub>1</sub> Owing to the many reports which have been put in circulation by evil-disposed and designing persons, in relation to the rise and progress of The Church of Jesus Christ of Latter-day Saints, all of which have been designed by the authors thereof to militate against its character as a Church and its progress in the world—I have been induced to write this history, to disabuse the public mind, and put all inquirers after truth in possession of the facts, as they have transpired, in relation both to myself and the Church, so far as I have such facts in my possession.
 
 <sub>2</sub> In this history I shall present the various events in relation to this Church, in truth and righteousness, as they have transpired, or as they at present exist, being now [1838] the eighth year since the organization of the said Church.
 
@@ -688,11 +716,13 @@ While preparing to start—being very poor, and the persecution so heavy upon us
 
 In the meantime we were forced to keep secret the circumstances of having received the Priesthood and our having been baptized, owing to a spirit of persecution which had already manifested itself in the neighborhood. <sub>75</sub> We had been threatened with being mobbed, from time to time, and this, too, by professors of religion. And their intentions of mobbing us were only counteracted by the influence of my wife’s father’s family (under Divine providence), who had become very friendly to me, and who were opposed to mobs, and were willing that I should be allowed to continue the work of translation without interruption; and therefore offered and promised us protection from all unlawful proceedings, as far as in them lay.
 
+<h1>Articles of Faith 1</h1>
+
 <header class="book-intro">
 The Articles of Faith of The Church of Jesus Christ of Latter-day Saints
 </header>
 
-<h1>Articles of Faith 1</h1><sub>1</sub> We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the Holy Ghost.
+<sub>1</sub> We believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the Holy Ghost.
 
 <sub>2</sub> We believe that men will be punished for their own sins, and not for Adam’s transgression.
 

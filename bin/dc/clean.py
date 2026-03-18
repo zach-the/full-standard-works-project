@@ -121,14 +121,16 @@ def clean(in_path, out_path):
         if prev_mtype == 'sub' and mtype == 'h1':
             verse_content, processed = process_dc_gap(gap)
             result.append(verse_content)
+            result.append('\n\n')
+            result.append(content[start:end])  # <h1> first
             if processed:
                 result.append('\n\n')
                 result.append(processed)
             result.append('\n\n')
         else:
             result.append(gap)
+            result.append(content[start:end])
 
-        result.append(content[start:end])
         prev_end = end
         prev_mtype = mtype
 

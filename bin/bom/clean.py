@@ -3,14 +3,13 @@
 bin/bom/clean.py — removes BOM outlying text and tags book intros.
 
 Categories handled:
-  1. Front matter: everything before first <h1> → strip
+  1. Front matter: testimonies and title page → strip; 1 Nephi intro → keep and tag
   2. Bare chapter refs (e.g. "1 Nephi 2"): short lines ending in a number → delete
-  3. Book intro prose (e.g. "The Second Book of Nephi\n\nAn account...") → wrap
-     in <header class="book-intro">
+  3. Book title lines (e.g. "The Second Book of Nephi"): → delete (handled by \\chapter{})
+  4. Book subtitles (e.g. "His Reign and Ministry"): short lines without period → <book-heading>
+  5. Book intro prose (summary paragraphs): → <header class="book-intro">
+  6. Intro content placed AFTER the <h1> tag (consistent with DC/PoGP ordering)
   9. Trailing "The End" colophon → strip
-
-False-positive verse content (text spanning a paragraph break that doesn't
-match any known pattern) is left untouched.
 
 Usage:
     python3 bin/bom/clean.py [input.md] [output.md]
@@ -29,25 +28,38 @@ BARE_REF = re.compile(
     r'Helaman|Mormon|Ether|Moroni)\s+\d+\s*$'
 )
 
-# Verse continuations: a paragraph spanning a paragraph break still reads as
-# verse text. These start with "And [pronoun/subject]" — the characteristic
-# opening of a BOM verse continuation. Paragraphs matching this are left alone.
+# Book title lines — skip these (the \chapter{} heading handles them)
+BOOK_TITLE = re.compile(
+    r'^(?:Third|Fourth) Nephi\s*$'
+    r'|^(?:The )?(?:First |Second |Third |Fourth |Fifth )?Book of \w.*$'
+    r'|^The Words of Mormon\s*$',
+    re.IGNORECASE,
+)
+
+# Verse continuations: paragraph spanning a blank line that is still verse content.
 VERSE_CONTINUATION = re.compile(
     r'^And (?:they|I|he|she|we|it|ye|him|them)\b', re.IGNORECASE
 )
 
+# Short subtitle threshold (no trailing period = it's a heading, not a summary)
+HEADING_MAX_CHARS = 100
 
-def process_outlying(text):
+
+def process_bom_intro(text):
     """
-    Process the trailing outlying portion of a chapter-boundary gap.
+    Process BOM book intro text from a chapter-boundary gap (the portion after
+    the first blank line — i.e. after the verse tail).
 
-    Bare chapter refs are deleted. Paragraphs starting with 'And [pronoun]'
-    are left verbatim (they are verse content spanning a paragraph break).
-    Everything else is wrapped in <header class="book-intro">.
+    - Book title lines → deleted (already in \\chapter{})
+    - Bare refs → deleted
+    - Short lines without trailing period → <book-heading>
+    - Longer paragraphs (summaries) → <header class="book-intro">
+    - Paragraphs starting with 'And [pronoun]' → verse content, preserved verbatim
     """
     paragraphs = re.split(r'\n[ \t]*\n', text)
-    intro_paras = []
-    verse_paras = []
+    heading_paras = []
+    intro_paras   = []
+    verse_paras   = []
 
     for para in paragraphs:
         stripped = para.strip()
@@ -55,12 +67,18 @@ def process_outlying(text):
             continue
         if BARE_REF.match(stripped):
             pass  # delete
+        elif BOOK_TITLE.match(stripped):
+            pass  # delete — handled by \chapter{}
         elif VERSE_CONTINUATION.match(stripped):
-            verse_paras.append(stripped)  # preserve verbatim
+            verse_paras.append(stripped)
+        elif len(stripped) <= HEADING_MAX_CHARS and not stripped.endswith('.'):
+            heading_paras.append(stripped)
         else:
-            intro_paras.append(stripped)  # book intro content
+            intro_paras.append(stripped)
 
     result_parts = []
+    for h in heading_paras:
+        result_parts.append(f'<book-heading>{h}</book-heading>')
     if intro_paras:
         inner = '\n\n'.join(intro_paras)
         result_parts.append(f'<header class="book-intro">\n{inner}\n</header>')
@@ -72,10 +90,24 @@ def process_outlying(text):
 def clean(in_path, out_path):
     content = Path(in_path).read_text()
 
-    # 1. Strip front matter (everything before first <h1>)
+    # 1. Extract and tag the 1 Nephi intro from the front matter, then strip front matter.
     first_h1 = content.find('<h1>')
+    nephi_intro_tagged = ''
     if first_h1 > 0:
+        front_matter = content[:first_h1]
+        intro_start = front_matter.find('The First Book of Nephi')
+        if intro_start > 0:
+            intro_text = front_matter[intro_start:].strip()
+            nephi_intro_tagged = process_bom_intro(intro_text)
         content = content[first_h1:]
+
+    # If we have 1 Nephi intro, insert it between <h1>1 Nephi 1</h1> and <sub>1</sub>
+    if nephi_intro_tagged:
+        content = content.replace(
+            '<h1>1 Nephi 1</h1>',
+            f'<h1>1 Nephi 1</h1>\n\n{nephi_intro_tagged}\n\n',
+            1,
+        )
 
     # 2. Collect all structural markers (sub + h1 only)
     markers = []
@@ -85,7 +117,7 @@ def clean(in_path, out_path):
         markers.append(('h1', m.start(), m.end()))
     markers.sort(key=lambda x: x[1])
 
-    # 3. Walk gaps, processing only sub→h1 chapter-boundary gaps
+    # 3. Walk gaps
     result = []
     prev_end = 0
     prev_mtype = None
@@ -94,24 +126,23 @@ def clean(in_path, out_path):
         gap = content[prev_end:start]
 
         if prev_mtype == 'sub' and mtype == 'h1':
-            # Split on first blank line: verse tail | outlying content
+            # Split on first blank line: verse tail | intro content
             parts = re.split(r'\n[ \t]*\n', gap, maxsplit=1)
-            result.append(parts[0])  # verse tail preserved verbatim
+            result.append(parts[0])   # verse tail verbatim
+            result.append('\n\n')
+            result.append(content[start:end])  # <h1> first
 
             if len(parts) > 1:
-                processed = process_outlying(parts[1])
+                processed = process_bom_intro(parts[1])
                 if processed:
                     result.append('\n\n')
                     result.append(processed)
-                result.append('\n\n')
-            else:
-                result.append('\n\n')
+            result.append('\n\n')
 
         elif prev_mtype == 'sub' and mtype == 'sub':
-            # Mid-chapter gap: usually just verse text, but may contain a
-            # mid-chapter reader's-edition label (e.g. "1 Nephi 6" mid-chapter).
+            # Mid-chapter gap: verse text ± a mid-chapter bare ref label
             parts = re.split(r'\n[ \t]*\n', gap, maxsplit=1)
-            result.append(parts[0])  # verse text preserved verbatim
+            result.append(parts[0])
             if len(parts) > 1:
                 trailing = parts[1].strip()
                 if BARE_REF.match(trailing):
@@ -119,12 +150,13 @@ def clean(in_path, out_path):
                 elif trailing:
                     result.append('\n\n')
                     result.append(trailing)
-                result.append('\n\n')
+            result.append('\n\n')
+            result.append(content[start:end])
 
         else:
             result.append(gap)
+            result.append(content[start:end])
 
-        result.append(content[start:end])  # marker verbatim
         prev_end = end
         prev_mtype = mtype
 

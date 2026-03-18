@@ -1,0 +1,170 @@
+% bin/quad/margin.tex — preamble for the LDS quad PDF
+
+% ============================================================
+% Page geometry
+% ============================================================
+\usepackage[
+  a4paper,
+  top=0.85in,
+  bottom=0.85in,
+  inner=1.0in,
+  outer=1.25in,
+  marginparwidth=1.0in,
+  marginparsep=0.15in,
+  headheight=14pt
+]{geometry}
+
+% ============================================================
+% Running headers (page number in gutter, chapter ref in outer)
+% ============================================================
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+% Gutter: page number (LO = left on odd/recto, RE = right on even/verso)
+\fancyhead[LO,RE]{\small\thepage}
+% Outer: current chapter reference (RO = right on odd, LE = left on even)
+\fancyhead[RO,LE]{\small\scshape\rightmark}
+\renewcommand{\headrulewidth}{0.3pt}
+
+% Plain style for chapter-opening pages
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyhead[LO,RE]{\small\thepage}%
+  \renewcommand{\headrulewidth}{0pt}%
+}
+
+% ============================================================
+% Fonts (mainfont set via Pandoc -V)
+% ============================================================
+\usepackage{fontspec}
+
+% ============================================================
+% Chapter / book title formatting
+% ============================================================
+\usepackage{titlesec}
+
+% \chapter{} — book title (TOC entry, new page, large centered caps)
+\titleformat{\chapter}
+  [block]
+  {\normalfont\Large\bfseries\centering}
+  {}
+  {0pt}
+  {\MakeUppercase}
+\titlespacing*{\chapter}{0pt}{1.5em}{1.0em}
+
+% \section — not used; suppress numbering
+\titleformat{\section}[block]
+  {\normalfont\normalsize\bfseries\centering}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\section}{0pt}{1.0em}{0.5em}
+
+% \subsection* — chapter/section heading within a book (Chapter N / Section N)
+\titleformat{\subsection}[block]
+  {\normalfont\normalsize\bfseries}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\subsection}{0pt}{0.8em}{0.3em}
+
+% ============================================================
+% Margin labels — BOM only (\invisiblechapter), rotated like old BOM project
+% ============================================================
+\usepackage{marginnote}
+\usepackage{graphicx}   % for \rotatebox
+\reversemarginpar  % margin notes on outer (binding) edge
+\setlength{\marginparsep}{0.3em}
+
+% BOM: running head mark (placed at <h1> position in the flow)
+\newcommand{\chapmark}[1]{%
+  \markboth{#1}{#1}%
+  \ignorespaces
+}
+
+% BOM: rotated margin label placed right before verse 1 (no mark — chapmark already set it)
+\newcommand{\bommarginlabel}[1]{%
+  \marginnote{%
+    \rotatebox{90}{\scriptsize\scshape #1}%
+  }[0pt]%
+  \ignorespaces
+}
+
+% Legacy — not emitted by current pipeline but kept for safety
+\newcommand{\invisiblechapter}[1]{%
+  \markboth{#1}{#1}%
+  \marginnote{%
+    \rotatebox{90}{\scriptsize\scshape #1}%
+  }[0pt]%
+  \ignorespaces
+}
+
+% ============================================================
+% Paragraph spacing
+% ============================================================
+\setlength{\parskip}{0.25em}
+\setlength{\parindent}{1.5em}
+
+% ============================================================
+% Environments
+% ============================================================
+
+% Poetry: ragged right, no indent, slight left margin
+\newenvironment{poetry}{%
+  \par\addvspace{0.3em}%
+  \setlength{\parindent}{0pt}%
+  \setlength{\leftskip}{1.5em}%
+  \raggedright
+}{%
+  \par\addvspace{0.3em}%
+  \setlength{\leftskip}{0pt}%
+}
+
+% Book intro / section header (italic)
+\newenvironment{bookintro}{%
+  \par\addvspace{0.4em}%
+  \small\itshape
+  \setlength{\parindent}{0pt}%
+  \setlength{\leftskip}{1.5em}%
+  \setlength{\rightskip}{1.5em}%
+}{%
+  \par\addvspace{0.4em}%
+  \normalsize\upshape
+  \setlength{\leftskip}{0pt}%
+  \setlength{\rightskip}{0pt}%
+}
+
+% ============================================================
+% Inline commands
+% ============================================================
+
+% Dateline (PoGP: parenthetical date/place lines)
+\newcommand{\dateline}[1]{%
+  \par{\centering\small\itshape #1\par}%
+  \addvspace{0.2em}%
+}
+
+% Psalm superscription (KJV psalm title before verse 1)
+\newcommand{\psalmsuper}[1]{%
+  \par\addvspace{0.2em}%
+  {\small\itshape #1}%
+  \par\addvspace{0.2em}%
+}
+
+% Verse number — inline superscript, no extra space
+\newcommand{\vnum}[1]{{\scriptsize #1}}
+
+% Book heading — centered small caps subtitle (e.g. "His Reign and Ministry")
+\newcommand{\bookheading}[1]{%
+  \par\addvspace{0.3em}%
+  {\centering\small\scshape #1\par}%
+  \addvspace{0.3em}%
+}
+
+% ============================================================
+% Miscellaneous
+% ============================================================
+\usepackage{indentfirst} % indent first paragraph after headings
+\usepackage{microtype}   % better paragraph breaking
+\setcounter{tocdepth}{1} % TOC: \chapter entries only (DC sections added manually via \addcontentsline)

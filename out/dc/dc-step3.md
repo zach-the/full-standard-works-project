@@ -28,21 +28,25 @@
 
 
 
+<h1>D&C 2</h1>
+
 <header class="book-intro">
 An extract from Joseph Smith’s history relating the words of the angel Moroni to Joseph Smith the Prophet, while in the house of the Prophet’s father at Manchester, New York, on the evening of September 21, 1823. Moroni was the last of a long line of historians who had made the record that is now before the world as the Book of Mormon. (Compare Malachi 4:5–6; also sections 27:9; 110:13–16; and 128:18.)
 </header>
 
-<h1>D&C 2</h1><sub>1</sub> Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord. <sub>2</sub> And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers. <sub>3</sub> If it were not so, the whole earth would be utterly wasted at his coming.
+<sub>1</sub> Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord. <sub>2</sub> And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers. <sub>3</sub> If it were not so, the whole earth would be utterly wasted at his coming.
 
 
 
 
+
+<h1>D&C 3</h1>
 
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, at Harmony, Pennsylvania, July 1828, relating to the loss of 116 pages of manuscript translated from the first part of the Book of Mormon, which was called the book of Lehi. The Prophet had reluctantly allowed these pages to pass from his custody to that of Martin Harris, who had served for a brief period as scribe in the translation of the Book of Mormon. The revelation was given through the Urim and Thummim. (See section 10.)
 </header>
 
-<h1>D&C 3</h1><sub>1</sub> The works, and the designs, and the purposes of God cannot be frustrated, neither can they come to naught. <sub>2</sub> For God doth not walk in crooked paths, neither doth he turn to the right hand nor to the left, neither doth he vary from that which he hath said, therefore his paths are straight, and his course is one eternal round.
+<sub>1</sub> The works, and the designs, and the purposes of God cannot be frustrated, neither can they come to naught. <sub>2</sub> For God doth not walk in crooked paths, neither doth he turn to the right hand nor to the left, neither doth he vary from that which he hath said, therefore his paths are straight, and his course is one eternal round.
 
 <sub>3</sub> Remember, remember that it is not the work of God that is frustrated, but the work of men; <sub>4</sub> for although a man may have many revelations, and have power to do many mighty works, yet if he boasts in his own strength, and sets at naught the counsels of God, and follows after the dictates of his own will and carnal desires, he must fall and incur the vengeance of a just God upon him.
 
@@ -60,11 +64,13 @@ Revelation given to Joseph Smith the Prophet, at Harmony, Pennsylvania, July 182
 
 
 
+<h1>D&C 4</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to his father, Joseph Smith Sr., at Harmony, Pennsylvania, February 1829.
 </header>
 
-<h1>D&C 4</h1><sub>1</sub> Now behold, a marvelous work is about to come forth among the children of men.
+<sub>1</sub> Now behold, a marvelous work is about to come forth among the children of men.
 
 <sub>2</sub> Therefore, O ye that embark in the service of God, see that ye serve him with all your heart, might, mind and strength, that ye may stand blameless before God at the last day.
 
@@ -76,11 +82,13 @@ Revelation given through Joseph Smith the Prophet to his father, Joseph Smith Sr
 
 
 
+<h1>D&C 5</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Harmony, Pennsylvania, March 1829, at the request of Martin Harris.
 </header>
 
-<h1>D&C 5</h1><sub>1</sub> Behold, I say unto you, that as my servant Martin Harris has desired a witness at my hand, that you, my servant Joseph Smith, Jun., have got the plates of which you have testified and borne record that you have received of me; <sub>2</sub> and now, behold, this shall you say unto him—he who spake unto you, said unto you: I, the Lord, am God, and have given these things unto you, my servant Joseph Smith, Jun., and have commanded you that you should stand as a witness of these things; <sub>3</sub> and I have caused you that you should enter into a covenant with me, that you should not show them except to those persons to whom I commanded you; and you have no power over them except I grant it unto you.
+<sub>1</sub> Behold, I say unto you, that as my servant Martin Harris has desired a witness at my hand, that you, my servant Joseph Smith, Jun., have got the plates of which you have testified and borne record that you have received of me; <sub>2</sub> and now, behold, this shall you say unto him—he who spake unto you, said unto you: I, the Lord, am God, and have given these things unto you, my servant Joseph Smith, Jun., and have commanded you that you should stand as a witness of these things; <sub>3</sub> and I have caused you that you should enter into a covenant with me, that you should not show them except to those persons to whom I commanded you; and you have no power over them except I grant it unto you.
 
 <sub>4</sub> And you have a gift to translate the plates; and this is the first gift that I bestowed upon you; and I have commanded that you should pretend to no other gift until my purpose is fulfilled in this; for I will grant unto you no other gift until it is finished.
 
@@ -116,11 +124,13 @@ Revelation given through Joseph Smith the Prophet, at Harmony, Pennsylvania, Mar
 
 
 
+<h1>D&C 6</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet and Oliver Cowdery, at Harmony, Pennsylvania, April 1829. Oliver Cowdery began his labors as scribe in the translation of the Book of Mormon, April 7, 1829. He had already received a divine manifestation of the truth of the Prophet’s testimony respecting the plates on which was engraved the Book of Mormon record. The Prophet inquired of the Lord through the Urim and Thummim and received this response.
 </header>
 
-<h1>D&C 6</h1><sub>1</sub> A great and marvelous work is about to come forth unto the children of men.
+<sub>1</sub> A great and marvelous work is about to come forth unto the children of men.
 
 <sub>2</sub> Behold, I am God; give heed unto my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my words.
 
@@ -168,11 +178,13 @@ Revelation given to Joseph Smith the Prophet and Oliver Cowdery, at Harmony, Pen
 
 
 
+<h1>D&C 7</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet and Oliver Cowdery, at Harmony, Pennsylvania, April 1829, when they inquired through the Urim and Thummim as to whether John, the beloved disciple, tarried in the flesh or had died. The revelation is a translated version of the record made on parchment by John and hidden up by himself.
 </header>
 
-<h1>D&C 7</h1><sub>1</sub> And the Lord said unto me: John, my beloved, what desirest thou? For if you shall ask what you will, it shall be granted unto you.
+<sub>1</sub> And the Lord said unto me: John, my beloved, what desirest thou? For if you shall ask what you will, it shall be granted unto you.
 
 <sub>2</sub> And I said unto him: Lord, give unto me power over death, that I may live and bring souls unto thee.
 
@@ -190,11 +202,13 @@ Revelation given to Joseph Smith the Prophet and Oliver Cowdery, at Harmony, Pen
 
 
 
+<h1>D&C 8</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Oliver Cowdery, at Harmony, Pennsylvania, April 1829. In the course of the translation of the Book of Mormon, Oliver, who continued to serve as scribe, writing at the Prophet’s dictation, desired to be endowed with the gift of translation. The Lord responded to his supplication by granting this revelation.
 </header>
 
-<h1>D&C 8</h1><sub>1</sub> Oliver Cowdery, verily, verily, I say unto you, that assuredly as the Lord liveth, who is your God and your Redeemer, even so surely shall you receive a knowledge of whatsoever things you shall ask in faith, with an honest heart, believing that you shall receive a knowledge concerning the engravings of old records, which are ancient, which contain those parts of my scripture of which has been spoken by the manifestation of my Spirit.
+<sub>1</sub> Oliver Cowdery, verily, verily, I say unto you, that assuredly as the Lord liveth, who is your God and your Redeemer, even so surely shall you receive a knowledge of whatsoever things you shall ask in faith, with an honest heart, believing that you shall receive a knowledge concerning the engravings of old records, which are ancient, which contain those parts of my scripture of which has been spoken by the manifestation of my Spirit.
 
 <sub>2</sub> Yea, behold, I will tell you in your mind and in your heart, by the Holy Ghost, which shall come upon you and which shall dwell in your heart. <sub>3</sub> Now, behold, this is the spirit of revelation; behold, this is the spirit by which Moses brought the children of Israel through the Red Sea on dry ground.
 
@@ -210,11 +224,13 @@ Revelation given through Joseph Smith the Prophet to Oliver Cowdery, at Harmony,
 
 
 
+<h1>D&C 9</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Oliver Cowdery, at Harmony, Pennsylvania, April 1829. Oliver is admonished to be patient and is urged to be content to write, for the time being, at the dictation of the translator, rather than to attempt to translate.
 </header>
 
-<h1>D&C 9</h1><sub>1</sub> Behold, I say unto you, my son, that because you did not translate according to that which you desired of me, and did commence again to write for my servant, Joseph Smith, Jun., even so I would that ye should continue until you have finished this record, which I have entrusted unto him. <sub>2</sub> And then, behold, other records have I, that I will give unto you power that you may assist to translate.
+<sub>1</sub> Behold, I say unto you, my son, that because you did not translate according to that which you desired of me, and did commence again to write for my servant, Joseph Smith, Jun., even so I would that ye should continue until you have finished this record, which I have entrusted unto him. <sub>2</sub> And then, behold, other records have I, that I will give unto you power that you may assist to translate.
 
 <sub>3</sub> Be patient, my son, for it is wisdom in me, and it is not expedient that you should translate at this present time. <sub>4</sub> Behold, the work which you are called to do is to write for my servant Joseph.
 
@@ -232,11 +248,13 @@ And neither of you have I condemned. <sub>13</sub> Do this thing which I have co
 
 
 
+<h1>D&C 10</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, at Harmony, Pennsylvania, likely around April 1829, though portions may have been received as early as the summer of 1828. Herein the Lord informs Joseph of alterations made by wicked men in the 116 manuscript pages from the translation of the book of Lehi, in the Book of Mormon. These manuscript pages had been lost from the possession of Martin Harris, to whom the sheets had been temporarily entrusted. (See the heading to section 3.) The evil design was to await the expected retranslation of the matter covered by the stolen pages and then to discredit the translator by showing discrepancies created by the alterations. That this wicked purpose had been conceived by the evil one and was known to the Lord even while Mormon, the ancient Nephite historian, was making his abridgment of the accumulated plates, is shown in the Book of Mormon (see Words of Mormon 1:3–7).
 </header>
 
-<h1>D&C 10</h1><sub>1</sub> Now, behold, I say unto you, that because you delivered up those writings which you had power given unto you to translate by the means of the Urim and Thummim, into the hands of a wicked man, you have lost them. <sub>2</sub> And you also lost your gift at the same time, and your mind became darkened.
+<sub>1</sub> Now, behold, I say unto you, that because you delivered up those writings which you had power given unto you to translate by the means of the Urim and Thummim, into the hands of a wicked man, you have lost them. <sub>2</sub> And you also lost your gift at the same time, and your mind became darkened.
 
 <sub>3</sub> Nevertheless, it is now restored unto you again; therefore see that you are faithful and continue on unto the finishing of the remainder of the work of translation as you have begun. <sub>4</sub> Do not run faster or labor more than you have strength and means provided to enable you to translate; but be diligent unto the end.
 
@@ -304,11 +322,13 @@ And thus he flattereth them, and telleth them that it is no sin to lie that they
 
 
 
+<h1>D&C 11</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to his brother Hyrum Smith, at Harmony, Pennsylvania, May 1829. This revelation was received through the Urim and Thummim in answer to Joseph’s supplication and inquiry. Joseph Smith’s history suggests that this revelation was received after the restoration of the Aaronic Priesthood.
 </header>
 
-<h1>D&C 11</h1><sub>1</sub> A great and marvelous work is about to come forth among the children of men.
+<sub>1</sub> A great and marvelous work is about to come forth among the children of men.
 
 <sub>2</sub> Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my word.
 
@@ -342,11 +362,13 @@ Revelation given through Joseph Smith the Prophet to his brother Hyrum Smith, at
 
 
 
+<h1>D&C 12</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Joseph Knight Sr., at Harmony, Pennsylvania, May 1829. Joseph Knight believed the declarations of Joseph Smith concerning his possession of the Book of Mormon plates and the work of translation then in progress and several times had given material assistance to Joseph Smith and his scribe, which enabled them to continue translating. At Joseph Knight’s request, the Prophet inquired of the Lord and received the revelation.
 </header>
 
-<h1>D&C 12</h1><sub>1</sub> A great and marvelous work is about to come forth among the children of men.
+<sub>1</sub> A great and marvelous work is about to come forth among the children of men.
 
 <sub>2</sub> Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore, give heed unto my word.
 
@@ -364,21 +386,25 @@ Revelation given through Joseph Smith the Prophet to Joseph Knight Sr., at Harmo
 
 
 
+<h1>D&C 13</h1>
+
 <header class="book-intro">
 An extract from Joseph Smith’s history recounting the ordination of the Prophet and Oliver Cowdery to the Aaronic Priesthood near Harmony, Pennsylvania, May 15, 1829. The ordination was done by the hands of an angel who announced himself as John, the same that is called John the Baptist in the New Testament. The angel explained that he was acting under the direction of Peter, James, and John, the ancient Apostles, who held the keys of the higher priesthood, which was called the Priesthood of Melchizedek. The promise was given to Joseph and Oliver that in due time this higher priesthood would be conferred upon them. (See section 27:7–8, 12.)
 </header>
 
-<h1>D&C 13</h1><sub>1</sub> Upon you my fellow servants, in the name of Messiah I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth, until the sons of Levi do offer again an offering unto the Lord in righteousness.
+<sub>1</sub> Upon you my fellow servants, in the name of Messiah I confer the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins; and this shall never be taken again from the earth, until the sons of Levi do offer again an offering unto the Lord in righteousness.
 
 
 
 
+
+<h1>D&C 14</h1>
 
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to David Whitmer, at Fayette, New York, June 1829. The Whitmer family had become greatly interested in the translating of the Book of Mormon. The Prophet established his residence at the home of Peter Whitmer Sr., where he dwelt until the work of translation was carried to completion and the copyright on the forthcoming book was secured. Three of the Whitmer sons, each having received a testimony as to the genuineness of the work, became deeply concerned over the matter of their individual duty. This revelation and the two following (sections 15 and 16) were given in answer to an inquiry through the Urim and Thummim. David Whitmer later became one of the Three Witnesses to the Book of Mormon.
 </header>
 
-<h1>D&C 14</h1><sub>1</sub> A great and marvelous work is about to come forth unto the children of men.
+<sub>1</sub> A great and marvelous work is about to come forth unto the children of men.
 
 <sub>2</sub> Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my word.
 
@@ -398,11 +424,13 @@ Revelation given through Joseph Smith the Prophet to David Whitmer, at Fayette, 
 
 
 
+<h1>D&C 15</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to John Whitmer, at Fayette, New York, June 1829 (see the heading to section 14). The message is intimately and impressively personal in that the Lord tells of what was known only to John Whitmer and Himself. John Whitmer later became one of the Eight Witnesses to the Book of Mormon.
 </header>
 
-<h1>D&C 15</h1><sub>1</sub> Hearken, my servant John, and listen to the words of Jesus Christ, your Lord and your Redeemer. <sub>2</sub> For behold, I speak unto you with sharpness and with power, for mine arm is over all the earth.
+<sub>1</sub> Hearken, my servant John, and listen to the words of Jesus Christ, your Lord and your Redeemer. <sub>2</sub> For behold, I speak unto you with sharpness and with power, for mine arm is over all the earth.
 
 <sub>3</sub> And I will tell you that which no man knoweth save me and thee alone—<sub>4</sub> for many times you have desired of me to know that which would be of the most worth unto you. <sub>5</sub> Behold, blessed are you for this thing, and for speaking my words which I have given you according to my commandments.
 
@@ -412,11 +440,13 @@ Revelation given through Joseph Smith the Prophet to John Whitmer, at Fayette, N
 
 
 
+<h1>D&C 16</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Peter Whitmer Jr., at Fayette, New York, June 1829 (see the heading to section 14). Peter Whitmer Jr. later became one of the Eight Witnesses to the Book of Mormon.
 </header>
 
-<h1>D&C 16</h1><sub>1</sub> Hearken, my servant Peter, and listen to the words of Jesus Christ, your Lord and your Redeemer. <sub>2</sub> For behold, I speak unto you with sharpness and with power, for mine arm is over all the earth.
+<sub>1</sub> Hearken, my servant Peter, and listen to the words of Jesus Christ, your Lord and your Redeemer. <sub>2</sub> For behold, I speak unto you with sharpness and with power, for mine arm is over all the earth.
 
 <sub>3</sub> And I will tell you that which no man knoweth save me and thee alone—<sub>4</sub> for many times you have desired of me to know that which would be of the most worth unto you. <sub>5</sub> Behold, blessed are you for this thing, and for speaking my words which I have given unto you according to my commandments.
 
@@ -426,11 +456,13 @@ Revelation given through Joseph Smith the Prophet to Peter Whitmer Jr., at Fayet
 
 
 
+<h1>D&C 17</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Oliver Cowdery, David Whitmer, and Martin Harris, at Fayette, New York, June 1829, prior to their viewing the engraved plates that contained the Book of Mormon record. Joseph and his scribe, Oliver Cowdery, had learned from the translation of the Book of Mormon plates that three special witnesses would be designated (see Ether 5:2–4; 2 Nephi 11:3; 27:12). Oliver Cowdery, David Whitmer, and Martin Harris were moved upon by an inspired desire to be the three special witnesses. The Prophet inquired of the Lord, and this revelation was given in answer through the Urim and Thummim.
 </header>
 
-<h1>D&C 17</h1><sub>1</sub> Behold, I say unto you, that you must rely upon my word, which if you do with full purpose of heart, you shall have a view of the plates, and also of the breastplate, the sword of Laban, the Urim and Thummim, which were given to the brother of Jared upon the mount, when he talked with the Lord face to face, and the miraculous directors which were given to Lehi while in the wilderness, on the borders of the Red Sea.
+<sub>1</sub> Behold, I say unto you, that you must rely upon my word, which if you do with full purpose of heart, you shall have a view of the plates, and also of the breastplate, the sword of Laban, the Urim and Thummim, which were given to the brother of Jared upon the mount, when he talked with the Lord face to face, and the miraculous directors which were given to Lehi while in the wilderness, on the borders of the Red Sea.
 
 <sub>2</sub> And it is by your faith that you shall obtain a view of them, even by that faith which was had by the prophets of old. <sub>3</sub> And after that you have obtained faith, and have seen them with your eyes, you shall testify of them, by the power of God; <sub>4</sub> and this you shall do that my servant Joseph Smith, Jun., may not be destroyed, that I may bring about my righteous purposes unto the children of men in this work.
 
@@ -444,11 +476,13 @@ Revelation given through Joseph Smith the Prophet to Oliver Cowdery, David Whitm
 
 
 
+<h1>D&C 18</h1>
+
 <header class="book-intro">
 Revelation to Joseph Smith the Prophet, Oliver Cowdery, and David Whitmer, given at Fayette, New York, June 1829. According to the Prophet, this revelation made known “the calling of twelve apostles in these last days, and also instructions relative to building up the Church.”
 </header>
 
-<h1>D&C 18</h1><sub>1</sub> Now, behold, because of the thing which you, my servant Oliver Cowdery, have desired to know of me, I give unto you these words: <sub>2</sub> Behold, I have manifested unto you, by my Spirit in many instances, that the things which you have written are true; wherefore you know that they are true. <sub>3</sub> And if you know that they are true, behold, I give unto you a commandment, that you rely upon the things which are written; <sub>4</sub> for in them are all things written concerning the foundation of my church, my gospel, and my rock.
+<sub>1</sub> Now, behold, because of the thing which you, my servant Oliver Cowdery, have desired to know of me, I give unto you these words: <sub>2</sub> Behold, I have manifested unto you, by my Spirit in many instances, that the things which you have written are true; wherefore you know that they are true. <sub>3</sub> And if you know that they are true, behold, I give unto you a commandment, that you rely upon the things which are written; <sub>4</sub> for in them are all things written concerning the foundation of my church, my gospel, and my rock.
 
 <sub>5</sub> Wherefore, if you shall build up my church, upon the foundation of my gospel and my rock, the gates of hell shall not prevail against you.
 
@@ -492,11 +526,13 @@ Revelation to Joseph Smith the Prophet, Oliver Cowdery, and David Whitmer, given
 
 
 
+<h1>D&C 19</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith, at Manchester, New York, likely in the summer of 1829. In his history, the Prophet introduces it as “a commandment of God and not of man, to Martin Harris, given by him who is Eternal.”
 </header>
 
-<h1>D&C 19</h1><sub>1</sub> I am Alpha and Omega, Christ the Lord; yea, even I am he, the beginning and the end, the Redeemer of the world.
+<sub>1</sub> I am Alpha and Omega, Christ the Lord; yea, even I am he, the beginning and the end, the Redeemer of the world.
 
 <sub>2</sub> I, having accomplished and finished the will of him whose I am, even the Father, concerning me—having done this that I might subdue all things unto myself—<sub>3</sub> retaining all power, even to the destroying of Satan and his works at the end of the world, and the last great day of judgment, which I shall pass upon the inhabitants thereof, judging every man according to his works and the deeds which he hath done. <sub>4</sub> And surely every man must repent or suffer, for I, God, am endless.
 
@@ -532,11 +568,13 @@ For, behold, I am endless, and the punishment which is given from my hand is end
 
 
 
+<h1>D&C 20</h1>
+
 <header class="book-intro">
 Revelation on Church organization and government, given through Joseph Smith the Prophet, at or near Fayette, New York. Portions of this revelation may have been given as early as summer 1829. The complete revelation, known at the time as the Articles and Covenants, was likely recorded soon after April 6, 1830 (the day the Church was organized). The Prophet wrote, “We obtained of Him [Jesus Christ] the following, by the spirit of prophecy and revelation; which not only gave us much information, but also pointed out to us the precise day upon which, according to His will and commandment, we should proceed to organize His Church once more here upon the earth.”
 </header>
 
-<h1>D&C 20</h1><sub>1</sub> The rise of the Church of Christ in these last days, being one thousand eight hundred and thirty years since the coming of our Lord and Savior Jesus Christ in the flesh, it being regularly organized and established agreeable to the laws of our country, by the will and commandments of God, in the fourth month, and on the sixth day of the month which is called April—<sub>2</sub> which commandments were given to Joseph Smith, Jun., who was called of God, and ordained an apostle of Jesus Christ, to be the first elder of this church; <sub>3</sub> and to Oliver Cowdery, who was also called of God, an apostle of Jesus Christ, to be the second elder of this church, and ordained under his hand; <sub>4</sub> and this according to the grace of our Lord and Savior Jesus Christ, to whom be all glory, both now and forever. Amen.
+<sub>1</sub> The rise of the Church of Christ in these last days, being one thousand eight hundred and thirty years since the coming of our Lord and Savior Jesus Christ in the flesh, it being regularly organized and established agreeable to the laws of our country, by the will and commandments of God, in the fourth month, and on the sixth day of the month which is called April—<sub>2</sub> which commandments were given to Joseph Smith, Jun., who was called of God, and ordained an apostle of Jesus Christ, to be the first elder of this church; <sub>3</sub> and to Oliver Cowdery, who was also called of God, an apostle of Jesus Christ, to be the second elder of this church, and ordained under his hand; <sub>4</sub> and this according to the grace of our Lord and Savior Jesus Christ, to whom be all glory, both now and forever. Amen.
 
 <sub>5</sub> After it was truly manifested unto this first elder that he had received a remission of his sins, he was entangled again in the vanities of the world; <sub>6</sub> but after repenting, and humbling himself sincerely, through faith, God ministered unto him by an holy angel, whose countenance was as lightning, and whose garments were pure and white above all other whiteness; <sub>7</sub> and gave unto him commandments which inspired him; <sub>8</sub> and gave him power from on high, by the means which were before prepared, to translate the Book of Mormon; <sub>9</sub> which contains a record of a fallen people, and the fulness of the gospel of Jesus Christ to the Gentiles and to the Jews also; <sub>10</sub> which was given by inspiration, and is confirmed to others by the ministering of angels, and is declared unto the world by them—<sub>11</sub> proving to the world that the holy scriptures are true, and that God does inspire men and call them to his holy work in this age and generation, as well as in generations of old; <sub>12</sub> thereby showing that he is the same God yesterday, today, and forever. Amen.
 
@@ -598,11 +636,13 @@ Revelation on Church organization and government, given through Joseph Smith the
 
 
 
+<h1>D&C 21</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, at Fayette, New York, April 6, 1830. This revelation was given at the organization of the Church, on the date named, in the home of Peter Whitmer Sr. Six men, who had previously been baptized, participated. By unanimous vote these persons expressed their desire and determination to organize, according to the commandment of God (see section 20). They also voted to accept and sustain Joseph Smith Jr. and Oliver Cowdery as the presiding officers of the Church. With the laying on of hands, Joseph then ordained Oliver an elder of the Church, and Oliver similarly ordained Joseph. After administration of the sacrament, Joseph and Oliver laid hands upon the participants individually for the bestowal of the Holy Ghost and for the confirmation of each as a member of the Church.
 </header>
 
-<h1>D&C 21</h1><sub>1</sub> Behold, there shall be a record kept among you; and in it thou shalt be called a seer, a translator, a prophet, an apostle of Jesus Christ, an elder of the church through the will of God the Father, and the grace of your Lord Jesus Christ, <sub>2</sub> being inspired of the Holy Ghost to lay the foundation thereof, and to build it up unto the most holy faith. <sub>3</sub> Which church was organized and established in the year of your Lord eighteen hundred and thirty, in the fourth month, and on the sixth day of the month which is called April.
+<sub>1</sub> Behold, there shall be a record kept among you; and in it thou shalt be called a seer, a translator, a prophet, an apostle of Jesus Christ, an elder of the church through the will of God the Father, and the grace of your Lord Jesus Christ, <sub>2</sub> being inspired of the Holy Ghost to lay the foundation thereof, and to build it up unto the most holy faith. <sub>3</sub> Which church was organized and established in the year of your Lord eighteen hundred and thirty, in the fourth month, and on the sixth day of the month which is called April.
 
 <sub>4</sub> Wherefore, meaning the church, thou shalt give heed unto all his words and commandments which he shall give unto you as he receiveth them, walking in all holiness before me; <sub>5</sub> for his word ye shall receive, as if from mine own mouth, in all patience and faith. <sub>6</sub> For by doing these things the gates of hell shall not prevail against you; yea, and the Lord God will disperse the powers of darkness from before you, and cause the heavens to shake for your good, and his name’s glory.
 
@@ -616,11 +656,13 @@ Revelation given to Joseph Smith the Prophet, at Fayette, New York, April 6, 183
 
 
 
+<h1>D&C 22</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Manchester, New York, April 16, 1830. This revelation was given to the Church in consequence of some who had previously been baptized desiring to unite with the Church without rebaptism.
 </header>
 
-<h1>D&C 22</h1><sub>1</sub> Behold, I say unto you that all old covenants have I caused to be done away in this thing; and this is a new and an everlasting covenant, even that which was from the beginning.
+<sub>1</sub> Behold, I say unto you that all old covenants have I caused to be done away in this thing; and this is a new and an everlasting covenant, even that which was from the beginning.
 
 <sub>2</sub> Wherefore, although a man should be baptized an hundred times it availeth him nothing, for you cannot enter in at the strait gate by the law of Moses, neither by your dead works. <sub>3</sub> For it is because of your dead works that I have caused this last covenant and this church to be built up unto me, even as in days of old.
 
@@ -630,11 +672,13 @@ Revelation given through Joseph Smith the Prophet, at Manchester, New York, Apri
 
 
 
+<h1>D&C 23</h1>
+
 <header class="book-intro">
 A series of five revelations given through Joseph Smith the Prophet, at Manchester, New York, April 1830, to Oliver Cowdery, Hyrum Smith, Samuel H. Smith, Joseph Smith Sr., and Joseph Knight Sr. As the result of earnest desire on the part of the five persons named to know of their respective duties, the Prophet inquired of the Lord and received a revelation for each person.
 </header>
 
-<h1>D&C 23</h1><sub>1</sub> Behold, I speak unto you, Oliver, a few words. Behold, thou art blessed, and art under no condemnation. But beware of pride, lest thou shouldst enter into temptation. <sub>2</sub> Make known thy calling unto the church, and also before the world, and thy heart shall be opened to preach the truth from henceforth and forever. Amen.
+<sub>1</sub> Behold, I speak unto you, Oliver, a few words. Behold, thou art blessed, and art under no condemnation. But beware of pride, lest thou shouldst enter into temptation. <sub>2</sub> Make known thy calling unto the church, and also before the world, and thy heart shall be opened to preach the truth from henceforth and forever. Amen.
 
 <sub>3</sub> Behold, I speak unto you, Hyrum, a few words; for thou also art under no condemnation, and thy heart is opened, and thy tongue loosed; and thy calling is to exhortation, and to strengthen the church continually. Wherefore thy duty is unto the church forever, and this because of thy family. Amen.
 
@@ -648,11 +692,13 @@ A series of five revelations given through Joseph Smith the Prophet, at Manchest
 
 
 
+<h1>D&C 24</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet and Oliver Cowdery, at Harmony, Pennsylvania, July 1830. Though less than four months had elapsed since the Church was organized, persecution had become intense, and the leaders had to seek safety in partial seclusion. The following three revelations were given at this time to strengthen, encourage, and instruct them.
 </header>
 
-<h1>D&C 24</h1><sub>1</sub> Behold, thou wast called and chosen to write the Book of Mormon, and to my ministry; and I have lifted thee up out of thine afflictions, and have counseled thee, that thou hast been delivered from all thine enemies, and thou hast been delivered from the powers of Satan and from darkness!
+<sub>1</sub> Behold, thou wast called and chosen to write the Book of Mormon, and to my ministry; and I have lifted thee up out of thine afflictions, and have counseled thee, that thou hast been delivered from all thine enemies, and thou hast been delivered from the powers of Satan and from darkness!
 
 <sub>2</sub> Nevertheless, thou art not excusable in thy transgressions; nevertheless, go thy way and sin no more. <sub>3</sub> Magnify thine office; and after thou hast sowed thy fields and secured them, go speedily unto the church which is in Colesville, Fayette, and Manchester, and they shall support thee; and I will bless them both spiritually and temporally; <sub>4</sub> but if they receive thee not, I will send upon them a cursing instead of a blessing.
 
@@ -678,11 +724,13 @@ Revelation given to Joseph Smith the Prophet and Oliver Cowdery, at Harmony, Pen
 
 
 
+<h1>D&C 25</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Harmony, Pennsylvania, July 1830 (see the heading to section 24). This revelation manifests the will of the Lord to Emma Smith, the Prophet’s wife.
 </header>
 
-<h1>D&C 25</h1><sub>1</sub> Hearken unto the voice of the Lord your God, while I speak unto you, Emma Smith, my daughter; for verily I say unto you, all those who receive my gospel are sons and daughters in my kingdom. <sub>2</sub> A revelation I give unto you concerning my will; and if thou art faithful and walk in the paths of virtue before me, I will preserve thy life, and thou shalt receive an inheritance in Zion.
+<sub>1</sub> Hearken unto the voice of the Lord your God, while I speak unto you, Emma Smith, my daughter; for verily I say unto you, all those who receive my gospel are sons and daughters in my kingdom. <sub>2</sub> A revelation I give unto you concerning my will; and if thou art faithful and walk in the paths of virtue before me, I will preserve thy life, and thou shalt receive an inheritance in Zion.
 
 <sub>3</sub> Behold, thy sins are forgiven thee, and thou art an elect lady, whom I have called. <sub>4</sub> Murmur not because of the things which thou hast not seen, for they are withheld from thee and from the world, which is wisdom in me in a time to come.
 
@@ -702,11 +750,13 @@ Revelation given through Joseph Smith the Prophet, at Harmony, Pennsylvania, Jul
 
 
 
+<h1>D&C 26</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, Oliver Cowdery, and John Whitmer, at Harmony, Pennsylvania, July 1830 (see the heading to section 24).
 </header>
 
-<h1>D&C 26</h1><sub>1</sub> Behold, I say unto you that you shall let your time be devoted to the studying of the scriptures, and to preaching, and to confirming the church at Colesville, and to performing your labors on the land, such as is required, until after you shall go to the west to hold the next conference; and then it shall be made known what you shall do.
+<sub>1</sub> Behold, I say unto you that you shall let your time be devoted to the studying of the scriptures, and to preaching, and to confirming the church at Colesville, and to performing your labors on the land, such as is required, until after you shall go to the west to hold the next conference; and then it shall be made known what you shall do.
 
 <sub>2</sub> And all things shall be done by common consent in the church, by much prayer and faith, for all things you shall receive by faith. Amen.
 
@@ -714,11 +764,13 @@ Revelation given to Joseph Smith the Prophet, Oliver Cowdery, and John Whitmer, 
 
 
 
+<h1>D&C 27</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, at Harmony, Pennsylvania, August 1830. In preparation for a religious service at which the sacrament of bread and wine was to be administered, Joseph set out to procure wine. He was met by a heavenly messenger and received this revelation, a portion of which was written at the time and the remainder in the September following. Water is now used instead of wine in the sacramental services of the Church.
 </header>
 
-<h1>D&C 27</h1><sub>1</sub> Listen to the voice of Jesus Christ, your Lord, your God, and your Redeemer, whose word is quick and powerful.
+<sub>1</sub> Listen to the voice of Jesus Christ, your Lord, your God, and your Redeemer, whose word is quick and powerful.
 
 <sub>2</sub> For, behold, I say unto you, that it mattereth not what ye shall eat or what ye shall drink when ye partake of the sacrament, if it so be that ye do it with an eye single to my glory—remembering unto the Father my body which was laid down for you, and my blood which was shed for the remission of your sins.
 
@@ -734,11 +786,13 @@ Revelation given to Joseph Smith the Prophet, at Harmony, Pennsylvania, August 1
 
 
 
+<h1>D&C 28</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Oliver Cowdery, at Fayette, New York, September 1830. Hiram Page, a member of the Church, had a certain stone and professed to be receiving revelations by its aid concerning the upbuilding of Zion and the order of the Church. Several members had been deceived by these claims, and even Oliver Cowdery was wrongly influenced thereby. Just prior to an appointed conference, the Prophet inquired earnestly of the Lord concerning the matter, and this revelation followed.
 </header>
 
-<h1>D&C 28</h1><sub>1</sub> Behold, I say unto thee, Oliver, that it shall be given unto thee that thou shalt be heard by the church in all things whatsoever thou shalt teach them by the Comforter, concerning the revelations and commandments which I have given.
+<sub>1</sub> Behold, I say unto thee, Oliver, that it shall be given unto thee that thou shalt be heard by the church in all things whatsoever thou shalt teach them by the Comforter, concerning the revelations and commandments which I have given.
 
 <sub>2</sub> But, behold, verily, verily, I say unto thee, no one shall be appointed to receive commandments and revelations in this church excepting my servant Joseph Smith, Jun., for he receiveth them even as Moses. <sub>3</sub> And thou shalt be obedient unto the things which I shall give unto him, even as Aaron, to declare faithfully the commandments and the revelations, with power and authority unto the church.
 
@@ -756,11 +810,13 @@ Revelation given through Joseph Smith the Prophet to Oliver Cowdery, at Fayette,
 
 
 
+<h1>D&C 29</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, in the presence of six elders, at Fayette, New York, September 1830. This revelation was given some days prior to the conference, beginning September 26, 1830.
 </header>
 
-<h1>D&C 29</h1><sub>1</sub> Listen to the voice of Jesus Christ, your Redeemer, the Great I Am, whose arm of mercy hath atoned for your sins; <sub>2</sub> who will gather his people even as a hen gathereth her chickens under her wings, even as many as will hearken to my voice and humble themselves before me, and call upon me in mighty prayer.
+<sub>1</sub> Listen to the voice of Jesus Christ, your Redeemer, the Great I Am, whose arm of mercy hath atoned for your sins; <sub>2</sub> who will gather his people even as a hen gathereth her chickens under her wings, even as many as will hearken to my voice and humble themselves before me, and call upon me in mighty prayer.
 
 <sub>3</sub> Behold, verily, verily, I say unto you, that at this time your sins are forgiven you, therefore ye receive these things; but remember to sin no more, lest perils shall come upon you.
 
@@ -804,11 +860,13 @@ Revelation given through Joseph Smith the Prophet, in the presence of six elders
 
 
 
+<h1>D&C 30</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to David Whitmer, Peter Whitmer Jr., and John Whitmer, at Fayette, New York, September 1830, following the three-day conference at Fayette, but before the elders of the Church had separated. Originally this material was published as three revelations; it was combined into one section by the Prophet for the 1835 edition of the Doctrine and Covenants.
 </header>
 
-<h1>D&C 30</h1><sub>1</sub> Behold, I say unto you, David, that you have feared man and have not relied on me for strength as you ought. <sub>2</sub> But your mind has been on the things of the earth more than on the things of me, your Maker, and the ministry whereunto you have been called; and you have not given heed unto my Spirit, and to those who were set over you, but have been persuaded by those whom I have not commanded. <sub>3</sub> Wherefore, you are left to inquire for yourself at my hand, and ponder upon the things which you have received.
+<sub>1</sub> Behold, I say unto you, David, that you have feared man and have not relied on me for strength as you ought. <sub>2</sub> But your mind has been on the things of the earth more than on the things of me, your Maker, and the ministry whereunto you have been called; and you have not given heed unto my Spirit, and to those who were set over you, but have been persuaded by those whom I have not commanded. <sub>3</sub> Wherefore, you are left to inquire for yourself at my hand, and ponder upon the things which you have received.
 
 <sub>4</sub> And your home shall be at your father’s house, until I give unto you further commandments. And you shall attend to the ministry in the church, and before the world, and in the regions round about. Amen.
 
@@ -824,11 +882,13 @@ Revelation given through Joseph Smith the Prophet to David Whitmer, Peter Whitme
 
 
 
+<h1>D&C 31</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Thomas B. Marsh, September 1830. The occasion was immediately following a conference of the Church (see the heading to section 30). Thomas B. Marsh had been baptized earlier in the month and had been ordained an elder in the Church before this revelation was given.
 </header>
 
-<h1>D&C 31</h1><sub>1</sub> Thomas, my son, blessed are you because of your faith in my work. <sub>2</sub> Behold, you have had many afflictions because of your family; nevertheless, I will bless you and your family, yea, your little ones; and the day cometh that they will believe and know the truth and be one with you in my church.
+<sub>1</sub> Thomas, my son, blessed are you because of your faith in my work. <sub>2</sub> Behold, you have had many afflictions because of your family; nevertheless, I will bless you and your family, yea, your little ones; and the day cometh that they will believe and know the truth and be one with you in my church.
 
 <sub>3</sub> Lift up your heart and rejoice, for the hour of your mission is come; and your tongue shall be loosed, and you shall declare glad tidings of great joy unto this generation. <sub>4</sub> You shall declare the things which have been revealed to my servant, Joseph Smith, Jun. You shall begin to preach from this time forth, yea, to reap in the field which is white already to be burned.
 
@@ -846,11 +906,13 @@ These words are not of man nor of men, but of me, even Jesus Christ, your Redeem
 
 
 
+<h1>D&C 32</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Parley P. Pratt and Ziba Peterson, in Manchester, New York, early October 1830. Great interest and desires were felt by the elders respecting the Lamanites, of whose predicted blessings the Church had learned from the Book of Mormon. In consequence, supplication was made that the Lord would indicate His will as to whether elders should be sent at that time to the Indian tribes in the West. The revelation followed.
 </header>
 
-<h1>D&C 32</h1><sub>1</sub> And now concerning my servant Parley P. Pratt, behold, I say unto him that as I live I will that he shall declare my gospel and learn of me, and be meek and lowly of heart.
+<sub>1</sub> And now concerning my servant Parley P. Pratt, behold, I say unto him that as I live I will that he shall declare my gospel and learn of me, and be meek and lowly of heart.
 
 <sub>2</sub> And that which I have appointed unto him is that he shall go with my servants, Oliver Cowdery and Peter Whitmer, Jun., into the wilderness among the Lamanites. <sub>3</sub> And Ziba Peterson also shall go with them; and I myself will go with them and be in their midst; and I am their advocate with the Father, and nothing shall prevail against them.
 
@@ -860,11 +922,13 @@ Revelation given through Joseph Smith the Prophet to Parley P. Pratt and Ziba Pe
 
 
 
+<h1>D&C 33</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Ezra Thayre and Northrop Sweet, at Fayette, New York, October 1830. In introducing this revelation, Joseph Smith’s history affirms that “the Lord … is ever ready to instruct such as diligently seek in faith.”
 </header>
 
-<h1>D&C 33</h1><sub>1</sub> Behold, I say unto you, my servants Ezra and Northrop, open ye your ears and hearken to the voice of the Lord your God, whose word is quick and powerful, sharper than a two-edged sword, to the dividing asunder of the joints and marrow, soul and spirit; and is a discerner of the thoughts and intents of the heart.
+<sub>1</sub> Behold, I say unto you, my servants Ezra and Northrop, open ye your ears and hearken to the voice of the Lord your God, whose word is quick and powerful, sharper than a two-edged sword, to the dividing asunder of the joints and marrow, soul and spirit; and is a discerner of the thoughts and intents of the heart.
 
 <sub>2</sub> For verily, verily, I say unto you that ye are called to lift up your voices as with the sound of a trump, to declare my gospel unto a crooked and perverse generation.
 
@@ -886,11 +950,13 @@ Revelation given through Joseph Smith the Prophet to Ezra Thayre and Northrop Sw
 
 
 
+<h1>D&C 34</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Orson Pratt, at Fayette, New York, November 4, 1830. Brother Pratt was nineteen years old at the time. He had been converted and baptized when he first heard the preaching of the restored gospel by his older brother, Parley P. Pratt, six weeks before. This revelation was received in the Peter Whitmer Sr. home.
 </header>
 
-<h1>D&C 34</h1><sub>1</sub> My son Orson, hearken and hear and behold what I, the Lord God, shall say unto you, even Jesus Christ your Redeemer; <sub>2</sub> the light and the life of the world, a light which shineth in darkness and the darkness comprehendeth it not; <sub>3</sub> who so loved the world that he gave his own life, that as many as would believe might become the sons of God. Wherefore you are my son; <sub>4</sub> and blessed are you because you have believed; <sub>5</sub> and more blessed are you because you are called of me to preach my gospel—<sub>6</sub> to lift up your voice as with the sound of a trump, both long and loud, and cry repentance unto a crooked and perverse generation, preparing the way of the Lord for his second coming.
+<sub>1</sub> My son Orson, hearken and hear and behold what I, the Lord God, shall say unto you, even Jesus Christ your Redeemer; <sub>2</sub> the light and the life of the world, a light which shineth in darkness and the darkness comprehendeth it not; <sub>3</sub> who so loved the world that he gave his own life, that as many as would believe might become the sons of God. Wherefore you are my son; <sub>4</sub> and blessed are you because you have believed; <sub>5</sub> and more blessed are you because you are called of me to preach my gospel—<sub>6</sub> to lift up your voice as with the sound of a trump, both long and loud, and cry repentance unto a crooked and perverse generation, preparing the way of the Lord for his second coming.
 
 <sub>7</sub> For behold, verily, verily, I say unto you, the time is soon at hand that I shall come in a cloud with power and great glory. <sub>8</sub> And it shall be a great day at the time of my coming, for all nations shall tremble.
 
@@ -902,11 +968,13 @@ Revelation given through Joseph Smith the Prophet to Orson Pratt, at Fayette, Ne
 
 
 
+<h1>D&C 35</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at or near Fayette, New York, December 7, 1830. At this time, the Prophet was engaged almost daily in making a translation of the Bible. The translation was begun as early as June 1830, and both Oliver Cowdery and John Whitmer had served as scribes. Since they had now been called to other duties, Sidney Rigdon was called by divine appointment to serve as the Prophet’s scribe in this work (see verse 20). As a preface to the record of this revelation, Joseph Smith’s history states: “In December Sidney Rigdon came [from Ohio] to inquire of the Lord, and with him came Edward Partridge. … Shortly after the arrival of these two brethren, thus spake the Lord.”
 </header>
 
-<h1>D&C 35</h1><sub>1</sub> Listen to the voice of the Lord your God, even Alpha and Omega, the beginning and the end, whose course is one eternal round, the same today as yesterday, and forever.
+<sub>1</sub> Listen to the voice of the Lord your God, even Alpha and Omega, the beginning and the end, whose course is one eternal round, the same today as yesterday, and forever.
 
 <sub>2</sub> I am Jesus Christ, the Son of God, who was crucified for the sins of the world, even as many as will believe on my name, that they may become the sons of God, even one in me as I am one in the Father, as the Father is one in me, that we may be one.
 
@@ -938,11 +1006,13 @@ Behold thou wast sent forth, even as John, to prepare the way before me, and bef
 
 
 
+<h1>D&C 36</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Edward Partridge, near Fayette, New York, December 9, 1830 (see the heading to section 35). Joseph Smith’s history states that Edward Partridge “was a pattern of piety, and one of the Lord’s great men.”
 </header>
 
-<h1>D&C 36</h1><sub>1</sub> Thus saith the Lord God, the Mighty One of Israel: Behold, I say unto you, my servant Edward, that you are blessed, and your sins are forgiven you, and you are called to preach my gospel as with the voice of a trump; <sub>2</sub> and I will lay my hand upon you by the hand of my servant Sidney Rigdon, and you shall receive my Spirit, the Holy Ghost, even the Comforter, which shall teach you the peaceable things of the kingdom; <sub>3</sub> and you shall declare it with a loud voice, saying: Hosanna, blessed be the name of the most high God.
+<sub>1</sub> Thus saith the Lord God, the Mighty One of Israel: Behold, I say unto you, my servant Edward, that you are blessed, and your sins are forgiven you, and you are called to preach my gospel as with the voice of a trump; <sub>2</sub> and I will lay my hand upon you by the hand of my servant Sidney Rigdon, and you shall receive my Spirit, the Holy Ghost, even the Comforter, which shall teach you the peaceable things of the kingdom; <sub>3</sub> and you shall declare it with a loud voice, saying: Hosanna, blessed be the name of the most high God.
 
 <sub>4</sub> And now this calling and commandment give I unto you concerning all men—<sub>5</sub> that as many as shall come before my servants Sidney Rigdon and Joseph Smith, Jun., embracing this calling and commandment, shall be ordained and sent forth to preach the everlasting gospel among the nations—<sub>6</sub> crying repentance, saying: Save yourselves from this untoward generation, and come forth out of the fire, hating even the garments spotted with the flesh.
 
@@ -954,11 +1024,13 @@ Revelation given through Joseph Smith the Prophet to Edward Partridge, near Faye
 
 
 
+<h1>D&C 37</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet and Sidney Rigdon, near Fayette, New York, December 1830. Herein is given the first commandment concerning a gathering in this dispensation.
 </header>
 
-<h1>D&C 37</h1><sub>1</sub> Behold, I say unto you that it is not expedient in me that ye should translate any more until ye shall go to the Ohio, and this because of the enemy and for your sakes. <sub>2</sub> And again, I say unto you that ye shall not go until ye have preached my gospel in those parts, and have strengthened up the church whithersoever it is found, and more especially in Colesville; for, behold, they pray unto me in much faith.
+<sub>1</sub> Behold, I say unto you that it is not expedient in me that ye should translate any more until ye shall go to the Ohio, and this because of the enemy and for your sakes. <sub>2</sub> And again, I say unto you that ye shall not go until ye have preached my gospel in those parts, and have strengthened up the church whithersoever it is found, and more especially in Colesville; for, behold, they pray unto me in much faith.
 
 <sub>3</sub> And again, a commandment I give unto the church, that it is expedient in me that they should assemble together at the Ohio, against the time that my servant Oliver Cowdery shall return unto them. <sub>4</sub> Behold, here is wisdom, and let every man choose for himself until I come. Even so. Amen.
 
@@ -966,11 +1038,13 @@ Revelation given to Joseph Smith the Prophet and Sidney Rigdon, near Fayette, Ne
 
 
 
+<h1>D&C 38</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Fayette, New York, January 2, 1831. The occasion was a conference of the Church.
 </header>
 
-<h1>D&C 38</h1><sub>1</sub> Thus saith the Lord your God, even Jesus Christ, the Great I Am, Alpha and Omega, the beginning and the end, the same which looked upon the wide expanse of eternity, and all the seraphic hosts of heaven, before the world was made; <sub>2</sub> the same which knoweth all things, for all things are present before mine eyes; <sub>3</sub> I am the same which spake, and the world was made, and all things came by me. <sub>4</sub> I am the same which have taken the Zion of Enoch into mine own bosom; and verily, I say, even as many as have believed in my name, for I am Christ, and in mine own name, by the virtue of the blood which I have spilt, have I pleaded before the Father for them.
+<sub>1</sub> Thus saith the Lord your God, even Jesus Christ, the Great I Am, Alpha and Omega, the beginning and the end, the same which looked upon the wide expanse of eternity, and all the seraphic hosts of heaven, before the world was made; <sub>2</sub> the same which knoweth all things, for all things are present before mine eyes; <sub>3</sub> I am the same which spake, and the world was made, and all things came by me. <sub>4</sub> I am the same which have taken the Zion of Enoch into mine own bosom; and verily, I say, even as many as have believed in my name, for I am Christ, and in mine own name, by the virtue of the blood which I have spilt, have I pleaded before the Father for them.
 
 <sub>5</sub> But behold, the residue of the wicked have I kept in chains of darkness until the judgment of the great day, which shall come at the end of the earth; <sub>6</sub> and even so will I cause the wicked to be kept, that will not hear my voice but harden their hearts, and wo, wo, wo, is their doom.
 
@@ -1014,11 +1088,13 @@ Revelation given through Joseph Smith the Prophet, at Fayette, New York, January
 
 
 
+<h1>D&C 39</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to James Covel, at Fayette, New York, January 5, 1831. James Covel, who had been a Methodist minister for about forty years, covenanted with the Lord that he would obey any command that the Lord would give to him through Joseph the Prophet.
 </header>
 
-<h1>D&C 39</h1><sub>1</sub> Hearken and listen to the voice of him who is from all eternity to all eternity, the Great I Am, even Jesus Christ—<sub>2</sub> the light and the life of the world; a light which shineth in darkness and the darkness comprehendeth it not; <sub>3</sub> the same which came in the meridian of time unto mine own, and mine own received me not; <sub>4</sub> but to as many as received me, gave I power to become my sons; and even so will I give unto as many as will receive me, power to become my sons.
+<sub>1</sub> Hearken and listen to the voice of him who is from all eternity to all eternity, the Great I Am, even Jesus Christ—<sub>2</sub> the light and the life of the world; a light which shineth in darkness and the darkness comprehendeth it not; <sub>3</sub> the same which came in the meridian of time unto mine own, and mine own received me not; <sub>4</sub> but to as many as received me, gave I power to become my sons; and even so will I give unto as many as will receive me, power to become my sons.
 
 <sub>5</sub> And verily, verily, I say unto you, he that receiveth my gospel receiveth me; and he that receiveth not my gospel receiveth not me. <sub>6</sub> And this is my gospel—repentance and baptism by water, and then cometh the baptism of fire and the Holy Ghost, even the Comforter, which showeth all things, and teacheth the peaceable things of the kingdom.
 
@@ -1044,21 +1120,25 @@ Revelation given through Joseph Smith the Prophet to James Covel, at Fayette, Ne
 
 
 
+<h1>D&C 40</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Fayette, New York, January 6, 1831. Preceding the record of this revelation, the Prophet’s history states, “As James [Covel] rejected the word of the Lord, and returned to his former principles and people, the Lord gave unto me and Sidney Rigdon the following revelation” (see section 39).
 </header>
 
-<h1>D&C 40</h1><sub>1</sub> Behold, verily I say unto you, that the heart of my servant James Covel was right before me, for he covenanted with me that he would obey my word. <sub>2</sub> And he received the word with gladness, but straightway Satan tempted him; and the fear of persecution and the cares of the world caused him to reject the word. <sub>3</sub> Wherefore he broke my covenant, and it remaineth with me to do with him as seemeth me good. Amen.
+<sub>1</sub> Behold, verily I say unto you, that the heart of my servant James Covel was right before me, for he covenanted with me that he would obey my word. <sub>2</sub> And he received the word with gladness, but straightway Satan tempted him; and the fear of persecution and the cares of the world caused him to reject the word. <sub>3</sub> Wherefore he broke my covenant, and it remaineth with me to do with him as seemeth me good. Amen.
 
 
 
 
+
+<h1>D&C 41</h1>
 
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to the Church, at Kirtland, Ohio, February 4, 1831. This revelation instructs the Prophet and Church elders to pray to receive God’s “law” (see section 42). Joseph Smith had just arrived in Kirtland from New York, and Leman Copley, a Church member in nearby Thompson, Ohio, “requested Brother Joseph and Sidney [Rigdon] … live with him and he would furnish them houses and provisions.” The following revelation clarifies where Joseph and Sidney should live and also calls Edward Partridge to be the Church’s first bishop.
 </header>
 
-<h1>D&C 41</h1><sub>1</sub> Hearken and hear, O ye my people, saith the Lord and your God, ye whom I delight to bless with the greatest of all blessings, ye that hear me; and ye that hear me not will I curse, that have professed my name, with the heaviest of all cursings.
+<sub>1</sub> Hearken and hear, O ye my people, saith the Lord and your God, ye whom I delight to bless with the greatest of all blessings, ye that hear me; and ye that hear me not will I curse, that have professed my name, with the heaviest of all cursings.
 
 <sub>2</sub> Hearken, O ye elders of my church whom I have called, behold I give unto you a commandment, that ye shall assemble yourselves together to agree upon my word; <sub>3</sub> and by the prayer of your faith ye shall receive my law, that ye may know how to govern my church and have all things right before me.
 
@@ -1076,11 +1156,13 @@ Revelation given through Joseph Smith the Prophet to the Church, at Kirtland, Oh
 
 
 
+<h1>D&C 42</h1>
+
 <header class="book-intro">
 Revelation given in two parts through Joseph Smith the Prophet, at Kirtland, Ohio, February 9 and 23, 1831. The first part, consisting of verses 1 through 72, was received in the presence of twelve elders and in fulfillment of the Lord’s promise previously made that the “law” would be given in Ohio (see section 38:32). The second portion consists of verses 73 through 93. The Prophet specifies this revelation as “embracing the law of the Church.”
 </header>
 
-<h1>D&C 42</h1><sub>1</sub> Hearken, O ye elders of my church, who have assembled yourselves together in my name, even Jesus Christ the Son of the living God, the Savior of the world; inasmuch as ye believe on my name and keep my commandments.
+<sub>1</sub> Hearken, O ye elders of my church, who have assembled yourselves together in my name, even Jesus Christ the Son of the living God, the Savior of the world; inasmuch as ye believe on my name and keep my commandments.
 
 <sub>2</sub> Again I say unto you, hearken and hear and obey the law which I shall give unto you. <sub>3</sub> For verily I say, as ye have assembled yourselves together according to the commandment wherewith I commanded you, and are agreed as touching this one thing, and have asked the Father in my name, even so ye shall receive.
 
@@ -1170,11 +1252,13 @@ Revelation given in two parts through Joseph Smith the Prophet, at Kirtland, Ohi
 
 
 
+<h1>D&C 43</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, in February 1831. At this time some members of the Church were disturbed by people making false claims as revelators. The Prophet inquired of the Lord and received this communication addressed to the elders of the Church. The first part deals with matters of Church polity; the latter part contains a warning that the elders are to give to the nations of the earth.
 </header>
 
-<h1>D&C 43</h1><sub>1</sub> O hearken, ye elders of my church, and give ear to the words which I shall speak unto you. <sub>2</sub> For behold, verily, verily, I say unto you, that ye have received a commandment for a law unto my church, through him whom I have appointed unto you to receive commandments and revelations from my hand.
+<sub>1</sub> O hearken, ye elders of my church, and give ear to the words which I shall speak unto you. <sub>2</sub> For behold, verily, verily, I say unto you, that ye have received a commandment for a law unto my church, through him whom I have appointed unto you to receive commandments and revelations from my hand.
 
 <sub>3</sub> And this ye shall know assuredly—that there is none other appointed unto you to receive commandments and revelations until he be taken, if he abide in me. <sub>4</sub> But verily, verily, I say unto you, that none else shall be appointed unto this gift except it be through him; for if it be taken from him he shall not have power except to appoint another in his stead.
 
@@ -1210,11 +1294,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, in Februar
 
 
 
+<h1>D&C 44</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Kirtland, Ohio, in the latter part of February 1831. In compliance with the requirement herein set forth, the Church appointed a conference to be held early in the month of June following.
 </header>
 
-<h1>D&C 44</h1><sub>1</sub> Behold, thus saith the Lord unto you my servants, it is expedient in me that the elders of my church should be called together, from the east and from the west, and from the north and from the south, by letter or some other way. <sub>2</sub> And it shall come to pass, that inasmuch as they are faithful, and exercise faith in me, I will pour out my Spirit upon them in the day that they assemble themselves together.
+<sub>1</sub> Behold, thus saith the Lord unto you my servants, it is expedient in me that the elders of my church should be called together, from the east and from the west, and from the north and from the south, by letter or some other way. <sub>2</sub> And it shall come to pass, that inasmuch as they are faithful, and exercise faith in me, I will pour out my Spirit upon them in the day that they assemble themselves together.
 
 <sub>3</sub> And it shall come to pass that they shall go forth into the regions round about, and preach repentance unto the people. <sub>4</sub> And many shall be converted, insomuch that ye shall obtain power to organize yourselves according to the laws of man; <sub>5</sub> that your enemies may not have power over you; that you may be preserved in all things; that you may be enabled to keep my laws; that every bond may be broken wherewith the enemy seeketh to destroy my people.
 
@@ -1224,11 +1310,13 @@ Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Kirtland, Ohi
 
 
 
+<h1>D&C 45</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to the Church, at Kirtland, Ohio, March 7, 1831. Prefacing the record of this revelation, Joseph Smith’s history states that “at this age of the Church … many false reports … and foolish stories, were published … and circulated, … to prevent people from investigating the work, or embracing the faith. … But to the joy of the Saints, … I received the following.”
 </header>
 
-<h1>D&C 45</h1><sub>1</sub> Hearken, O ye people of my church, to whom the kingdom has been given; hearken ye and give ear to him who laid the foundation of the earth, who made the heavens and all the hosts thereof, and by whom all things were made which live, and move, and have a being.
+<sub>1</sub> Hearken, O ye people of my church, to whom the kingdom has been given; hearken ye and give ear to him who laid the foundation of the earth, who made the heavens and all the hosts thereof, and by whom all things were made which live, and move, and have a being.
 
 <sub>2</sub> And again I say, hearken unto my voice, lest death shall overtake you; in an hour when ye think not the summer shall be past, and the harvest ended, and your souls not saved. <sub>3</sub> Listen to him who is the advocate with the Father, who is pleading your cause before him—<sub>4</sub> saying: Father, behold the sufferings and death of him who did no sin, in whom thou wast well pleased; behold the blood of thy Son which was shed, the blood of him whom thou gavest that thyself might be glorified; <sub>5</sub> wherefore, Father, spare these my brethren that believe on my name, that they may come unto me and have everlasting life.
 
@@ -1292,11 +1380,13 @@ Revelation given through Joseph Smith the Prophet to the Church, at Kirtland, Oh
 
 
 
+<h1>D&C 46</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to the Church, at Kirtland, Ohio, March 8, 1831. In this early time of the Church, a unified pattern for the conducting of Church services had not yet developed. However, a custom of admitting only members and earnest investigators to the sacrament meetings and other assemblies of the Church had become somewhat general. This revelation expresses the will of the Lord relative to governing and conducting meetings and His direction on seeking and discerning the gifts of the Spirit.
 </header>
 
-<h1>D&C 46</h1><sub>1</sub> Hearken, O ye people of my church; for verily I say unto you that these things were spoken unto you for your profit and learning. <sub>2</sub> But notwithstanding those things which are written, it always has been given to the elders of my church from the beginning, and ever shall be, to conduct all meetings as they are directed and guided by the Holy Spirit.
+<sub>1</sub> Hearken, O ye people of my church; for verily I say unto you that these things were spoken unto you for your profit and learning. <sub>2</sub> But notwithstanding those things which are written, it always has been given to the elders of my church from the beginning, and ever shall be, to conduct all meetings as they are directed and guided by the Holy Spirit.
 
 <sub>3</sub> Nevertheless ye are commanded never to cast any one out from your public meetings, which are held before the world. <sub>4</sub> Ye are also commanded not to cast any one who belongeth to the church out of your sacrament meetings; nevertheless, if any have trespassed, let him not partake until he makes reconciliation.
 
@@ -1334,11 +1424,13 @@ Revelation given through Joseph Smith the Prophet to the Church, at Kirtland, Oh
 
 
 
+<h1>D&C 47</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 8, 1831. John Whitmer, who had already served as a clerk to the Prophet, initially hesitated when he was asked to serve as the Church historian and recorder, replacing Oliver Cowdery. He wrote, “I would rather not do it but observed that the will of the Lord be done, and if he desires it, I desire that he would manifest it through Joseph the Seer.” After Joseph Smith received this revelation, John Whitmer accepted and served in his appointed office.
 </header>
 
-<h1>D&C 47</h1><sub>1</sub> Behold, it is expedient in me that my servant John should write and keep a regular history, and assist you, my servant Joseph, in transcribing all things which shall be given you, until he is called to further duties.
+<sub>1</sub> Behold, it is expedient in me that my servant John should write and keep a regular history, and assist you, my servant Joseph, in transcribing all things which shall be given you, until he is called to further duties.
 
 <sub>2</sub> Again, verily I say unto you that he can also lift up his voice in meetings, whenever it shall be expedient.
 
@@ -1348,11 +1440,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 8, 1
 
 
 
+<h1>D&C 48</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 10, 1831. The Prophet had inquired of the Lord as to the mode of procedure in procuring lands for the settlement of the Saints. This was an important matter in view of the migration of members of the Church from the eastern United States, in obedience to the Lord’s command that they should assemble in Ohio (see sections 37:1–3; 45:64).
 </header>
 
-<h1>D&C 48</h1><sub>1</sub> It is necessary that ye should remain for the present time in your places of abode, as it shall be suitable to your circumstances.
+<sub>1</sub> It is necessary that ye should remain for the present time in your places of abode, as it shall be suitable to your circumstances.
 
 <sub>2</sub> And inasmuch as ye have lands, ye shall impart to the eastern brethren; <sub>3</sub> and inasmuch as ye have not lands, let them buy for the present time in those regions round about, as seemeth them good, for it must needs be necessary that they have places to live for the present time.
 
@@ -1364,11 +1458,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 10, 
 
 
 
+<h1>D&C 49</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Sidney Rigdon, Parley P. Pratt, and Leman Copley, at Kirtland, Ohio, May 7, 1831. Leman Copley had embraced the gospel but still held to some of the teachings of the Shakers (United Society of Believers in Christ’s Second Appearing), to which he had formerly belonged. Some of the beliefs of the Shakers were that Christ’s Second Coming had already occurred and that He had appeared in the form of a woman, Ann Lee. They did not consider baptism by water essential. They rejected marriage and believed in a life of total celibacy. Some Shakers also forbade the eating of meat. In prefacing this revelation, Joseph Smith’s history states, “In order to have [a] more perfect understanding on the subject, I inquired of the Lord, and received the following.” The revelation refutes some of the basic concepts of the Shaker group. The aforementioned brethren took a copy of the revelation to the Shaker community (near Cleveland, Ohio) and read it to them in its entirety, but it was rejected.
 </header>
 
-<h1>D&C 49</h1><sub>1</sub> Hearken unto my word, my servants Sidney, and Parley, and Leman; for behold, verily I say unto you, that I give unto you a commandment that you shall go and preach my gospel which ye have received, even as ye have received it, unto the Shakers. <sub>2</sub> Behold, I say unto you, that they desire to know the truth in part, but not all, for they are not right before me and must needs repent. <sub>3</sub> Wherefore, I send you, my servants Sidney and Parley, to preach the gospel unto them.
+<sub>1</sub> Hearken unto my word, my servants Sidney, and Parley, and Leman; for behold, verily I say unto you, that I give unto you a commandment that you shall go and preach my gospel which ye have received, even as ye have received it, unto the Shakers. <sub>2</sub> Behold, I say unto you, that they desire to know the truth in part, but not all, for they are not right before me and must needs repent. <sub>3</sub> Wherefore, I send you, my servants Sidney and Parley, to preach the gospel unto them.
 
 <sub>4</sub> And my servant Leman shall be ordained unto this work, that he may reason with them, not according to that which he has received of them, but according to that which shall be taught him by you my servants; and by so doing I will bless him, otherwise he shall not prosper.
 
@@ -1396,11 +1492,13 @@ Revelation given through Joseph Smith the Prophet to Sidney Rigdon, Parley P. Pr
 
 
 
+<h1>D&C 50</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, May 9, 1831. Joseph Smith’s history states that some of the elders did not understand the manifestations of different spirits abroad in the earth and that this revelation was given in response to his special inquiry on the matter. So-called spiritual phenomena were not uncommon among the members, some of whom claimed to be receiving visions and revelations.
 </header>
 
-<h1>D&C 50</h1><sub>1</sub> Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.
+<sub>1</sub> Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.
 
 <sub>2</sub> Behold, verily I say unto you, that there are many spirits which are false spirits, which have gone forth in the earth, deceiving the world. <sub>3</sub> And also Satan hath sought to deceive you, that he might overthrow you.
 
@@ -1446,11 +1544,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, May 9, 183
 
 
 
+<h1>D&C 51</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Thompson, Ohio, May 20, 1831. At this time the Saints migrating from the eastern states began to arrive in Ohio, and it became necessary to make definite arrangements for their settlement. As this undertaking belonged particularly to the bishop’s office, Bishop Edward Partridge sought instruction on the matter, and the Prophet inquired of the Lord.
 </header>
 
-<h1>D&C 51</h1><sub>1</sub> Hearken unto me, saith the Lord your God, and I will speak unto my servant Edward Partridge, and give unto him directions; for it must needs be that he receive directions how to organize this people. <sub>2</sub> For it must needs be that they be organized according to my laws; if otherwise, they will be cut off.
+<sub>1</sub> Hearken unto me, saith the Lord your God, and I will speak unto my servant Edward Partridge, and give unto him directions; for it must needs be that he receive directions how to organize this people. <sub>2</sub> For it must needs be that they be organized according to my laws; if otherwise, they will be cut off.
 
 <sub>3</sub> Wherefore, let my servant Edward Partridge, and those whom he has chosen, in whom I am well pleased, appoint unto this people their portions, every man equal according to his family, according to his circumstances and his wants and needs. <sub>4</sub> And let my servant Edward Partridge, when he shall appoint a man his portion, give unto him a writing that shall secure unto him his portion, that he shall hold it, even this right and this inheritance in the church, until he transgresses and is not accounted worthy by the voice of the church, according to the laws and covenants of the church, to belong to the church. <sub>5</sub> And if he shall transgress and is not accounted worthy to belong to the church, he shall not have power to claim that portion which he has consecrated unto the bishop for the poor and needy of my church; therefore, he shall not retain the gift, but shall only have claim on that portion that is deeded unto him. <sub>6</sub> And thus all things shall be made sure, according to the laws of the land.
 
@@ -1472,11 +1572,13 @@ Revelation given through Joseph Smith the Prophet, at Thompson, Ohio, May 20, 18
 
 
 
+<h1>D&C 52</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to the elders of the Church, at Kirtland, Ohio, June 6, 1831. A conference had been held at Kirtland, beginning on the 3rd and closing on the 6th of June. At this conference the first distinctive ordinations to the office of high priest were made, and certain manifestations of false and deceiving spirits were discerned and rebuked.
 </header>
 
-<h1>D&C 52</h1><sub>1</sub> Behold, thus saith the Lord unto the elders whom he hath called and chosen in these last days, by the voice of his Spirit—<sub>2</sub> saying: I, the Lord, will make known unto you what I will that ye shall do from this time until the next conference, which shall be held in Missouri, upon the land which I will consecrate unto my people, which are a remnant of Jacob, and those who are heirs according to the covenant.
+<sub>1</sub> Behold, thus saith the Lord unto the elders whom he hath called and chosen in these last days, by the voice of his Spirit—<sub>2</sub> saying: I, the Lord, will make known unto you what I will that ye shall do from this time until the next conference, which shall be held in Missouri, upon the land which I will consecrate unto my people, which are a remnant of Jacob, and those who are heirs according to the covenant.
 
 <sub>3</sub> Wherefore, verily I say unto you, let my servants Joseph Smith, Jun., and Sidney Rigdon take their journey as soon as preparations can be made to leave their homes, and journey to the land of Missouri.
 
@@ -1516,11 +1618,13 @@ Revelation given through Joseph Smith the Prophet to the elders of the Church, a
 
 
 
+<h1>D&C 53</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Algernon Sidney Gilbert, at Kirtland, Ohio, June 8, 1831. At Sidney Gilbert’s request, the Prophet inquired of the Lord as to Brother Gilbert’s work and appointment in the Church.
 </header>
 
-<h1>D&C 53</h1><sub>1</sub> Behold, I say unto you, my servant Sidney Gilbert, that I have heard your prayers; and you have called upon me that it should be made known unto you, of the Lord your God, concerning your calling and election in the church, which I, the Lord, have raised up in these last days.
+<sub>1</sub> Behold, I say unto you, my servant Sidney Gilbert, that I have heard your prayers; and you have called upon me that it should be made known unto you, of the Lord your God, concerning your calling and election in the church, which I, the Lord, have raised up in these last days.
 
 <sub>2</sub> Behold, I, the Lord, who was crucified for the sins of the world, give unto you a commandment that you shall forsake the world.
 
@@ -1536,11 +1640,13 @@ Revelation given through Joseph Smith the Prophet to Algernon Sidney Gilbert, at
 
 
 
+<h1>D&C 54</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Newel Knight, at Kirtland, Ohio, June 10, 1831. Members of the Church living in Thompson, Ohio, were divided on questions having to do with the consecration of properties. Selfishness and greed were manifest. Following his mission to the Shakers (see the heading to section 49), Leman Copley had broken his covenant to consecrate his large farm as a place of inheritance for the Saints arriving from Colesville, New York. As a consequence, Newel Knight (leader of the members living in Thompson) and other elders had come to the Prophet asking how to proceed. The Prophet inquired of the Lord and received this revelation, which commands the members in Thompson to leave Leman Copley’s farm and journey to Missouri.
 </header>
 
-<h1>D&C 54</h1><sub>1</sub> Behold, thus saith the Lord, even Alpha and Omega, the beginning and the end, even he who was crucified for the sins of the world—<sub>2</sub> behold, verily, verily, I say unto you, my servant Newel Knight, you shall stand fast in the office whereunto I have appointed you.
+<sub>1</sub> Behold, thus saith the Lord, even Alpha and Omega, the beginning and the end, even he who was crucified for the sins of the world—<sub>2</sub> behold, verily, verily, I say unto you, my servant Newel Knight, you shall stand fast in the office whereunto I have appointed you.
 
 <sub>3</sub> And if your brethren desire to escape their enemies, let them repent of all their sins, and become truly humble before me and contrite.
 
@@ -1556,11 +1662,13 @@ Revelation given through Joseph Smith the Prophet to Newel Knight, at Kirtland, 
 
 
 
+<h1>D&C 55</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to William W. Phelps, at Kirtland, Ohio, June 14, 1831. William W. Phelps, a printer, and his family had just arrived at Kirtland, and the Prophet sought the Lord for information concerning him.
 </header>
 
-<h1>D&C 55</h1><sub>1</sub> Behold, thus saith the Lord unto you, my servant William, yea, even the Lord of the whole earth, thou art called and chosen; and after thou hast been baptized by water, which if you do with an eye single to my glory, you shall have a remission of your sins and a reception of the Holy Spirit by the laying on of hands; <sub>2</sub> and then thou shalt be ordained by the hand of my servant Joseph Smith, Jun., to be an elder unto this church, to preach repentance and remission of sins by way of baptism in the name of Jesus Christ, the Son of the living God. <sub>3</sub> And on whomsoever you shall lay your hands, if they are contrite before me, you shall have power to give the Holy Spirit.
+<sub>1</sub> Behold, thus saith the Lord unto you, my servant William, yea, even the Lord of the whole earth, thou art called and chosen; and after thou hast been baptized by water, which if you do with an eye single to my glory, you shall have a remission of your sins and a reception of the Holy Spirit by the laying on of hands; <sub>2</sub> and then thou shalt be ordained by the hand of my servant Joseph Smith, Jun., to be an elder unto this church, to preach repentance and remission of sins by way of baptism in the name of Jesus Christ, the Son of the living God. <sub>3</sub> And on whomsoever you shall lay your hands, if they are contrite before me, you shall have power to give the Holy Spirit.
 
 <sub>4</sub> And again, you shall be ordained to assist my servant Oliver Cowdery to do the work of printing, and of selecting and writing books for schools in this church, that little children also may receive instruction before me as is pleasing unto me.
 
@@ -1570,11 +1678,13 @@ Revelation given through Joseph Smith the Prophet to William W. Phelps, at Kirtl
 
 
 
+<h1>D&C 56</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, June 15, 1831. This revelation chastises Ezra Thayre for not obeying a former revelation (the “commandment” referred to in verse 8), which Joseph Smith had received for him, instructing Thayre concerning his duties on Frederick G. Williams’ farm, where he lived. The following revelation also revokes Thayre’s call to travel to Missouri with Thomas B. Marsh (see section 52:22).
 </header>
 
-<h1>D&C 56</h1><sub>1</sub> Hearken, O ye people who profess my name, saith the Lord your God; for behold, mine anger is kindled against the rebellious, and they shall know mine arm and mine indignation, in the day of visitation and of wrath upon the nations.
+<sub>1</sub> Hearken, O ye people who profess my name, saith the Lord your God; for behold, mine anger is kindled against the rebellious, and they shall know mine arm and mine indignation, in the day of visitation and of wrath upon the nations.
 
 <sub>2</sub> And he that will not take up his cross and follow me, and keep my commandments, the same shall not be saved. <sub>3</sub> Behold, I, the Lord, command; and he that will not obey shall be cut off in mine own due time, after I have commanded and the commandment is broken.
 
@@ -1596,11 +1706,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, June 15, 1
 
 
 
+<h1>D&C 57</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, in Zion, Jackson County, Missouri, July 20, 1831. In compliance with the Lord’s command to travel to Missouri, where He would reveal “the land of your inheritance” (section 52), the elders had journeyed from Ohio to Missouri’s western border. Joseph Smith contemplated the state of the Lamanites and wondered: “When will the wilderness blossom as the rose? When will Zion be built up in her glory, and where will Thy temple stand, unto which all nations shall come in the last days?” Subsequently he received this revelation.
 </header>
 
-<h1>D&C 57</h1><sub>1</sub> Hearken, O ye elders of my church, saith the Lord your God, who have assembled yourselves together, according to my commandments, in this land, which is the land of Missouri, which is the land which I have appointed and consecrated for the gathering of the saints. <sub>2</sub> Wherefore, this is the land of promise, and the place for the city of Zion.
+<sub>1</sub> Hearken, O ye elders of my church, saith the Lord your God, who have assembled yourselves together, according to my commandments, in this land, which is the land of Missouri, which is the land which I have appointed and consecrated for the gathering of the saints. <sub>2</sub> Wherefore, this is the land of promise, and the place for the city of Zion.
 
 <sub>3</sub> And thus saith the Lord your God, if you will receive wisdom here is wisdom. Behold, the place which is now called Independence is the center place; and a spot for the temple is lying westward, upon a lot which is not far from the courthouse.
 
@@ -1622,11 +1734,13 @@ Revelation given through Joseph Smith the Prophet, in Zion, Jackson County, Miss
 
 
 
+<h1>D&C 58</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, in Zion, Jackson County, Missouri, August 1, 1831. Earlier, on the first Sabbath after the arrival of the Prophet and his party in Jackson County, Missouri, a religious service had been held, and two members had been received by baptism. During that week, some of the Colesville Saints from the Thompson Branch and others arrived (see section 54). Many were eager to learn the will of the Lord concerning them in the new place of gathering.
 </header>
 
-<h1>D&C 58</h1><sub>1</sub> Hearken, O ye elders of my church, and give ear to my word, and learn of me what I will concerning you, and also concerning this land unto which I have sent you. <sub>2</sub> For verily I say unto you, blessed is he that keepeth my commandments, whether in life or in death; and he that is faithful in tribulation, the reward of the same is greater in the kingdom of heaven.
+<sub>1</sub> Hearken, O ye elders of my church, and give ear to my word, and learn of me what I will concerning you, and also concerning this land unto which I have sent you. <sub>2</sub> For verily I say unto you, blessed is he that keepeth my commandments, whether in life or in death; and he that is faithful in tribulation, the reward of the same is greater in the kingdom of heaven.
 
 <sub>3</sub> Ye cannot behold with your natural eyes, for the present time, the design of your God concerning those things which shall come hereafter, and the glory which shall follow after much tribulation. <sub>4</sub> For after much tribulation come the blessings. Wherefore the day cometh that ye shall be crowned with much glory; the hour is not yet, but is nigh at hand. <sub>5</sub> Remember this, which I tell you before, that you may lay it to heart, and receive that which is to follow.
 
@@ -1686,11 +1800,13 @@ Revelation given through Joseph Smith the Prophet, in Zion, Jackson County, Miss
 
 
 
+<h1>D&C 59</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, in Zion, Jackson County, Missouri, August 7, 1831. Preceding this revelation, the land was consecrated, as the Lord had directed, and the site for the future temple was dedicated. On the day this revelation was received, Polly Knight, the wife of Joseph Knight Sr., died, the first Church member to die in Zion. Early members characterized this revelation as “instructing the Saints how to keep the sabbath and how to fast and pray.”
 </header>
 
-<h1>D&C 59</h1><sub>1</sub> Behold, blessed, saith the Lord, are they who have come up unto this land with an eye single to my glory, according to my commandments. <sub>2</sub> For those that live shall inherit the earth, and those that die shall rest from all their labors, and their works shall follow them; and they shall receive a crown in the mansions of my Father, which I have prepared for them.
+<sub>1</sub> Behold, blessed, saith the Lord, are they who have come up unto this land with an eye single to my glory, according to my commandments. <sub>2</sub> For those that live shall inherit the earth, and those that die shall rest from all their labors, and their works shall follow them; and they shall receive a crown in the mansions of my Father, which I have prepared for them.
 
 <sub>3</sub> Yea, blessed are they whose feet stand upon the land of Zion, who have obeyed my gospel; for they shall receive for their reward the good things of the earth, and it shall bring forth in its strength. <sub>4</sub> And they shall also be crowned with blessings from above, yea, and with commandments not a few, and with revelations in their time—they that are faithful and diligent before me.
 
@@ -1710,11 +1826,13 @@ Revelation given through Joseph Smith the Prophet, in Zion, Jackson County, Miss
 
 
 
+<h1>D&C 60</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, in Independence, Jackson County, Missouri, August 8, 1831. On this occasion the elders who had traveled to Jackson County and participated in the dedication of the land and the temple site desired to know what they were to do.
 </header>
 
-<h1>D&C 60</h1><sub>1</sub> Behold, thus saith the Lord unto the elders of his church, who are to return speedily to the land from whence they came: Behold, it pleaseth me, that you have come up hither; <sub>2</sub> but with some I am not well pleased, for they will not open their mouths, but they hide the talent which I have given unto them, because of the fear of man. Wo unto such, for mine anger is kindled against them.
+<sub>1</sub> Behold, thus saith the Lord unto the elders of his church, who are to return speedily to the land from whence they came: Behold, it pleaseth me, that you have come up hither; <sub>2</sub> but with some I am not well pleased, for they will not open their mouths, but they hide the talent which I have given unto them, because of the fear of man. Wo unto such, for mine anger is kindled against them.
 
 <sub>3</sub> And it shall come to pass, if they are not more faithful unto me, it shall be taken away, even that which they have. <sub>4</sub> For I, the Lord, rule in the heavens above, and among the armies of the earth; and in the day when I shall make up my jewels, all men shall know what it is that bespeaketh the power of God.
 
@@ -1736,11 +1854,13 @@ Revelation given through Joseph Smith the Prophet, in Independence, Jackson Coun
 
 
 
+<h1>D&C 61</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, on the bank of the Missouri River, McIlwaine’s Bend, August 12, 1831. On their return trip to Kirtland, the Prophet and ten elders had traveled down the Missouri River in canoes. On the third day of the journey, many dangers were experienced. Elder William W. Phelps, in a daylight vision, saw the destroyer riding in power upon the face of the waters.
 </header>
 
-<h1>D&C 61</h1><sub>1</sub> Behold, and hearken unto the voice of him who has all power, who is from everlasting to everlasting, even Alpha and Omega, the beginning and the end.
+<sub>1</sub> Behold, and hearken unto the voice of him who has all power, who is from everlasting to everlasting, even Alpha and Omega, the beginning and the end.
 
 <sub>2</sub> Behold, verily thus saith the Lord unto you, O ye elders of my church, who are assembled upon this spot, whose sins are now forgiven you, for I, the Lord, forgive sins, and am merciful unto those who confess their sins with humble hearts; <sub>3</sub> but verily I say unto you, that it is not needful for this whole company of mine elders to be moving swiftly upon the waters, whilst the inhabitants on either side are perishing in unbelief.
 
@@ -1778,11 +1898,13 @@ Wherefore let my servants Sidney Gilbert and William W. Phelps take their former
 
 
 
+<h1>D&C 62</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, on the bank of the Missouri River at Chariton, Missouri, August 13, 1831. On this day the Prophet and his group, who were on their way from Independence to Kirtland, met several elders who were on their way to the land of Zion, and, after joyful salutations, received this revelation.
 </header>
 
-<h1>D&C 62</h1><sub>1</sub> Behold, and hearken, O ye elders of my church, saith the Lord your God, even Jesus Christ, your advocate, who knoweth the weakness of man and how to succor them who are tempted.
+<sub>1</sub> Behold, and hearken, O ye elders of my church, saith the Lord your God, even Jesus Christ, your advocate, who knoweth the weakness of man and how to succor them who are tempted.
 
 <sub>2</sub> And verily mine eyes are upon those who have not as yet gone up unto the land of Zion; wherefore your mission is not yet full. <sub>3</sub> Nevertheless, ye are blessed, for the testimony which ye have borne is recorded in heaven for the angels to look upon; and they rejoice over you, and your sins are forgiven you.
 
@@ -1798,11 +1920,13 @@ Revelation given through Joseph Smith the Prophet, on the bank of the Missouri R
 
 
 
+<h1>D&C 63</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 30, 1831. The Prophet, Sidney Rigdon, and Oliver Cowdery had arrived in Kirtland on August 27 from their visit to Missouri. Joseph Smith’s history describes this revelation: “In these infant days of the Church, there was a great anxiety to obtain the word of the Lord upon every subject that in any way concerned our salvation; and as the land of Zion was now the most important temporal object in view, I enquired of the Lord for further information upon the gathering of the Saints, and the purchase of the land, and other matters.”
 </header>
 
-<h1>D&C 63</h1><sub>1</sub> Hearken, O ye people, and open your hearts and give ear from afar; and listen, you that call yourselves the people of the Lord, and hear the word of the Lord and his will concerning you.
+<sub>1</sub> Hearken, O ye people, and open your hearts and give ear from afar; and listen, you that call yourselves the people of the Lord, and hear the word of the Lord and his will concerning you.
 
 <sub>2</sub> Yea, verily, I say, hear the word of him whose anger is kindled against the wicked and rebellious; <sub>3</sub> who willeth to take even them whom he will take, and preserveth in life them whom he will preserve; <sub>4</sub> who buildeth up at his own will and pleasure; and destroyeth when he pleases, and is able to cast the soul down to hell. <sub>5</sub> Behold, I, the Lord, utter my voice, and it shall be obeyed.
 
@@ -1870,11 +1994,13 @@ Behold, this is my will, obtaining moneys even as I have directed. <sub>47</sub>
 
 
 
+<h1>D&C 64</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to the elders of the Church, at Kirtland, Ohio, September 11, 1831. The Prophet was preparing to move to Hiram, Ohio, to renew his work on the translation of the Bible, which had been laid aside while he had been in Missouri. A company of brethren who had been commanded to journey to Zion (Missouri) was earnestly engaged in making preparations to leave in October. At this busy time, the revelation was received.
 </header>
 
-<h1>D&C 64</h1><sub>1</sub> Behold, thus saith the Lord your God unto you, O ye elders of my church, hearken ye and hear, and receive my will concerning you.
+<sub>1</sub> Behold, thus saith the Lord your God unto you, O ye elders of my church, hearken ye and hear, and receive my will concerning you.
 
 <sub>2</sub> For verily I say unto you, I will that ye should overcome the world; wherefore I will have compassion upon you. <sub>3</sub> There are those among you who have sinned; but verily I say, for this once, for mine own glory, and for the salvation of souls, I have forgiven you your sins. <sub>4</sub> I will be merciful unto you, for I have given unto you the kingdom.
 
@@ -1912,11 +2038,13 @@ Revelation given through Joseph Smith the Prophet to the elders of the Church, a
 
 
 
+<h1>D&C 65</h1>
+
 <header class="book-intro">
 Revelation on prayer given through Joseph Smith the Prophet, at Hiram, Ohio, October 30, 1831.
 </header>
 
-<h1>D&C 65</h1><sub>1</sub> Hearken, and lo, a voice as of one sent down from on high, who is mighty and powerful, whose going forth is unto the ends of the earth, yea, whose voice is unto men—Prepare ye the way of the Lord, make his paths straight. <sub>2</sub> The keys of the kingdom of God are committed unto man on the earth, and from thence shall the gospel roll forth unto the ends of the earth, as the stone which is cut out of the mountain without hands shall roll forth, until it has filled the whole earth.
+<sub>1</sub> Hearken, and lo, a voice as of one sent down from on high, who is mighty and powerful, whose going forth is unto the ends of the earth, yea, whose voice is unto men—Prepare ye the way of the Lord, make his paths straight. <sub>2</sub> The keys of the kingdom of God are committed unto man on the earth, and from thence shall the gospel roll forth unto the ends of the earth, as the stone which is cut out of the mountain without hands shall roll forth, until it has filled the whole earth.
 
 <sub>3</sub> Yea, a voice crying—Prepare ye the way of the Lord, prepare ye the supper of the Lamb, make ready for the Bridegroom. <sub>4</sub> Pray unto the Lord, call upon his holy name, make known his wonderful works among the people. <sub>5</sub> Call upon the Lord, that his kingdom may go forth upon the earth, that the inhabitants thereof may receive it, and be prepared for the days to come, in the which the Son of Man shall come down in heaven, clothed in the brightness of his glory, to meet the kingdom of God which is set up on the earth. <sub>6</sub> Wherefore, may the kingdom of God go forth, that the kingdom of heaven may come, that thou, O God, mayest be glorified in heaven so on earth, that thine enemies may be subdued; for thine is the honor, power and glory, forever and ever. Amen.
 
@@ -1924,11 +2052,13 @@ Revelation on prayer given through Joseph Smith the Prophet, at Hiram, Ohio, Oct
 
 
 
+<h1>D&C 66</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, October 29, 1831. William E. McLellin had petitioned the Lord in secret to make known through the Prophet the answer to five questions, which were unknown to Joseph Smith. At McLellin’s request, the Prophet inquired of the Lord and received this revelation.
 </header>
 
-<h1>D&C 66</h1><sub>1</sub> Behold, thus saith the Lord unto my servant William E. McLellin—Blessed are you, inasmuch as you have turned away from your iniquities, and have received my truths, saith the Lord your Redeemer, the Savior of the world, even of as many as believe on my name.
+<sub>1</sub> Behold, thus saith the Lord unto my servant William E. McLellin—Blessed are you, inasmuch as you have turned away from your iniquities, and have received my truths, saith the Lord your Redeemer, the Savior of the world, even of as many as believe on my name.
 
 <sub>2</sub> Verily I say unto you, blessed are you for receiving mine everlasting covenant, even the fulness of my gospel, sent forth unto the children of men, that they might have life and be made partakers of the glories which are to be revealed in the last days, as it was written by the prophets and apostles in days of old.
 
@@ -1946,11 +2076,13 @@ Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, October 29, 1
 
 
 
+<h1>D&C 67</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, early November 1831. The occasion was that of a special conference, and the publication of the revelations already received from the Lord through the Prophet was considered and acted upon (see the heading to section 1). William W. Phelps had recently established the Church printing press in Independence, Missouri. The conference decided to publish the revelations in the Book of Commandments and to print 10,000 copies (which because of unforeseen difficulties was later reduced to 3,000 copies). Many of the brethren bore solemn testimony that the revelations then compiled for publication were verily true, as was witnessed by the Holy Ghost shed forth upon them. Joseph Smith’s history records that after the revelation known as section 1 had been received, some conversation was had concerning the language used in the revelations. The present revelation followed.
 </header>
 
-<h1>D&C 67</h1><sub>1</sub> Behold and hearken, O ye elders of my church, who have assembled yourselves together, whose prayers I have heard, and whose hearts I know, and whose desires have come up before me. <sub>2</sub> Behold and lo, mine eyes are upon you, and the heavens and the earth are in mine hands, and the riches of eternity are mine to give.
+<sub>1</sub> Behold and hearken, O ye elders of my church, who have assembled yourselves together, whose prayers I have heard, and whose hearts I know, and whose desires have come up before me. <sub>2</sub> Behold and lo, mine eyes are upon you, and the heavens and the earth are in mine hands, and the riches of eternity are mine to give.
 
 <sub>3</sub> Ye endeavored to believe that ye should receive the blessing which was offered unto you; but behold, verily I say unto you there were fears in your hearts, and verily this is the reason that ye did not receive.
 
@@ -1966,11 +2098,13 @@ Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, early Novembe
 
 
 
+<h1>D&C 68</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 1, 1831, in response to prayer that the mind of the Lord be made known concerning Orson Hyde, Luke S. Johnson, Lyman E. Johnson, and William E. McLellin. Although part of this revelation was directed toward these four men, much of the content pertains to the whole Church. This revelation was expanded under Joseph Smith’s direction when it was published in the 1835 edition of the Doctrine and Covenants.
 </header>
 
-<h1>D&C 68</h1><sub>1</sub> My servant, Orson Hyde, was called by his ordination to proclaim the everlasting gospel, by the Spirit of the living God, from people to people, and from land to land, in the congregations of the wicked, in their synagogues, reasoning with and expounding all scriptures unto them.
+<sub>1</sub> My servant, Orson Hyde, was called by his ordination to proclaim the everlasting gospel, by the Spirit of the living God, from people to people, and from land to land, in the congregations of the wicked, in their synagogues, reasoning with and expounding all scriptures unto them.
 
 <sub>2</sub> And, behold, and lo, this is an ensample unto all those who were ordained unto this priesthood, whose mission is appointed unto them to go forth—<sub>3</sub> and this is the ensample unto them, that they shall speak as they are moved upon by the Holy Ghost. <sub>4</sub> And whatsoever they shall speak when moved upon by the Holy Ghost shall be scripture, shall be the will of the Lord, shall be the mind of the Lord, shall be the word of the Lord, shall be the voice of the Lord, and the power of God unto salvation. <sub>5</sub> Behold, this is the promise of the Lord unto you, O ye my servants.
 
@@ -2002,11 +2136,13 @@ Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 1, 1
 
 
 
+<h1>D&C 69</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 11, 1831. The compilation of revelations intended for early publication had been passed upon at the special conference of November 1–2. On November 3, the revelation herein appearing as section 133, later called the Appendix, was added. Oliver Cowdery had previously been appointed to carry the manuscript of the compiled revelations and commandments to Independence, Missouri, for printing. He was also to take with him money that had been contributed for the building up of the Church in Missouri. This revelation instructs John Whitmer to accompany Oliver Cowdery and also directs Whitmer to travel and collect historical material in his calling as Church historian and recorder.
 </header>
 
-<h1>D&C 69</h1><sub>1</sub> Hearken unto me, saith the Lord your God, for my servant Oliver Cowdery’s sake. It is not wisdom in me that he should be entrusted with the commandments and the moneys which he shall carry unto the land of Zion, except one go with him who will be true and faithful.
+<sub>1</sub> Hearken unto me, saith the Lord your God, for my servant Oliver Cowdery’s sake. It is not wisdom in me that he should be entrusted with the commandments and the moneys which he shall carry unto the land of Zion, except one go with him who will be true and faithful.
 
 <sub>2</sub> Wherefore, I, the Lord, will that my servant, John Whitmer, should go with my servant Oliver Cowdery; <sub>3</sub> and also that he shall continue in writing and making a history of all the important things which he shall observe and know concerning my church; <sub>4</sub> and also that he receive counsel and assistance from my servant Oliver Cowdery and others.
 
@@ -2018,11 +2154,13 @@ Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 11, 
 
 
 
+<h1>D&C 70</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 12, 1831. The Prophet’s history states that four special conferences were held from the 1st to the 12th of November, inclusive. In the last of these assemblies, the great importance of the revelations that would later be published as the Book of Commandments and then the Doctrine and Covenants was considered. This revelation was given after the conference voted that the revelations were “worth to the Church the riches of the whole Earth.” Joseph Smith’s history refers to the revelations as “the foundation of the Church in these last days, and a benefit to the world, showing that the keys of the mysteries of the kingdom of our Savior are again entrusted to man.”
 </header>
 
-<h1>D&C 70</h1><sub>1</sub> Behold, and hearken, O ye inhabitants of Zion, and all ye people of my church who are afar off, and hear the word of the Lord which I give unto my servant Joseph Smith, Jun., and also unto my servant Martin Harris, and also unto my servant Oliver Cowdery, and also unto my servant John Whitmer, and also unto my servant Sidney Rigdon, and also unto my servant William W. Phelps, by the way of commandment unto them.
+<sub>1</sub> Behold, and hearken, O ye inhabitants of Zion, and all ye people of my church who are afar off, and hear the word of the Lord which I give unto my servant Joseph Smith, Jun., and also unto my servant Martin Harris, and also unto my servant Oliver Cowdery, and also unto my servant John Whitmer, and also unto my servant Sidney Rigdon, and also unto my servant William W. Phelps, by the way of commandment unto them.
 
 <sub>2</sub> For I give unto them a commandment; wherefore hearken and hear, for thus saith the Lord unto them—<sub>3</sub> I, the Lord, have appointed them, and ordained them to be stewards over the revelations and commandments which I have given unto them, and which I shall hereafter give unto them; <sub>4</sub> and an account of this stewardship will I require of them in the day of judgment.
 
@@ -2044,11 +2182,13 @@ Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 12, 
 
 
 
+<h1>D&C 71</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Hiram, Ohio, December 1, 1831. The Prophet had continued to translate the Bible with Sidney Rigdon as his scribe until this revelation was received, at which time it was temporarily laid aside so as to enable them to fulfill the instruction given herein. The brethren were to go forth to preach in order to allay the unfriendly feelings that had developed against the Church as a result of the publication of letters written by Ezra Booth, who had apostatized.
 </header>
 
-<h1>D&C 71</h1><sub>1</sub> Behold, thus saith the Lord unto you my servants Joseph Smith, Jun., and Sidney Rigdon, that the time has verily come that it is necessary and expedient in me that you should open your mouths in proclaiming my gospel, the things of the kingdom, expounding the mysteries thereof out of the scriptures, according to that portion of Spirit and power which shall be given unto you, even as I will.
+<sub>1</sub> Behold, thus saith the Lord unto you my servants Joseph Smith, Jun., and Sidney Rigdon, that the time has verily come that it is necessary and expedient in me that you should open your mouths in proclaiming my gospel, the things of the kingdom, expounding the mysteries thereof out of the scriptures, according to that portion of Spirit and power which shall be given unto you, even as I will.
 
 <sub>2</sub> Verily I say unto you, proclaim unto the world in the regions round about, and in the church also, for the space of a season, even until it shall be made known unto you. <sub>3</sub> Verily this is a mission for a season, which I give unto you.
 
@@ -2064,11 +2204,13 @@ Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Hiram, Ohio, 
 
 
 
+<h1>D&C 72</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, December 4, 1831. Several elders and members had assembled to learn their duty and to be further edified in the teachings of the Church. This section is a compilation of three revelations received on the same day. Verses 1 through 8 make known the calling of Newel K. Whitney as a bishop. He was then called and ordained, after which verses 9 through 23 were received, giving additional information as to a bishop’s duties. Thereafter, verses 24 through 26 were given, providing instructions concerning the gathering to Zion.
 </header>
 
-<h1>D&C 72</h1><sub>1</sub> Hearken, and listen to the voice of the Lord, O ye who have assembled yourselves together, who are the high priests of my church, to whom the kingdom and power have been given.
+<sub>1</sub> Hearken, and listen to the voice of the Lord, O ye who have assembled yourselves together, who are the high priests of my church, to whom the kingdom and power have been given.
 
 <sub>2</sub> For verily thus saith the Lord, it is expedient in me for a bishop to be appointed unto you, or of you, unto the church in this part of the Lord’s vineyard.
 
@@ -2096,11 +2238,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, December 4
 
 
 
+<h1>D&C 73</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Hiram, Ohio, January 10, 1832. Since the early part of the preceding December, the Prophet and Sidney had been engaged in preaching, and by this means much was accomplished in diminishing the unfavorable feelings that had arisen against the Church (see the heading to section 71).
 </header>
 
-<h1>D&C 73</h1><sub>1</sub> For verily, thus saith the Lord, it is expedient in me that they should continue preaching the gospel, and in exhortation to the churches in the regions round about, until conference; <sub>2</sub> and then, behold, it shall be made known unto them, by the voice of the conference, their several missions.
+<sub>1</sub> For verily, thus saith the Lord, it is expedient in me that they should continue preaching the gospel, and in exhortation to the churches in the regions round about, until conference; <sub>2</sub> and then, behold, it shall be made known unto them, by the voice of the conference, their several missions.
 
 <sub>3</sub> Now, verily I say unto you my servants, Joseph Smith, Jun., and Sidney Rigdon, saith the Lord, it is expedient to translate again; <sub>4</sub> and, inasmuch as it is practicable, to preach in the regions round about until conference; and after that it is expedient to continue the work of translation until it be finished. <sub>5</sub> And let this be a pattern unto the elders until further knowledge, even as it is written.
 
@@ -2110,11 +2254,13 @@ Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Hiram, Ohio, 
 
 
 
+<h1>D&C 74</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, at Wayne County, New York, in 1830. Even before the organization of the Church, questions had arisen about the proper mode of baptism, leading the Prophet to seek answers on the subject. Joseph Smith’s history states that this revelation is an explanation of 1 Corinthians 7:14, a scripture that had often been used to justify infant baptism.
 </header>
 
-<h1>D&C 74</h1><sub>1</sub> For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband; else were your children unclean, but now are they holy.
+<sub>1</sub> For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband; else were your children unclean, but now are they holy.
 
 <sub>2</sub> Now, in the days of the apostles the law of circumcision was had among all the Jews who believed not the gospel of Jesus Christ.
 
@@ -2128,11 +2274,13 @@ Revelation given to Joseph Smith the Prophet, at Wayne County, New York, in 1830
 
 
 
+<h1>D&C 75</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Amherst, Ohio, January 25, 1832. This section comprises two separate revelations (the first in verses 1 through 22 and the second in verses 23 through 36) given on the same day. The occasion was a conference at which Joseph Smith was sustained and ordained President of the High Priesthood. Certain elders desired to learn more about their immediate duties. These revelations followed.
 </header>
 
-<h1>D&C 75</h1><sub>1</sub> Verily, verily, I say unto you, I who speak even by the voice of my Spirit, even Alpha and Omega, your Lord and your God—<sub>2</sub> hearken, O ye who have given your names to go forth to proclaim my gospel, and to prune my vineyard.
+<sub>1</sub> Verily, verily, I say unto you, I who speak even by the voice of my Spirit, even Alpha and Omega, your Lord and your God—<sub>2</sub> hearken, O ye who have given your names to go forth to proclaim my gospel, and to prune my vineyard.
 
 <sub>3</sub> Behold, I say unto you that it is my will that you should go forth and not tarry, neither be idle but labor with your might—<sub>4</sub> lifting up your voices as with the sound of a trump, proclaiming the truth according to the revelations and commandments which I have given you.
 
@@ -2164,11 +2312,13 @@ Revelation given through Joseph Smith the Prophet, at Amherst, Ohio, January 25,
 
 
 
+<h1>D&C 76</h1>
+
 <header class="book-intro">
 A vision given to Joseph Smith the Prophet and Sidney Rigdon, at Hiram, Ohio, February 16, 1832. Prefacing the record of this vision, Joseph Smith’s history states: “Upon my return from Amherst conference, I resumed the translation of the Scriptures. From sundry revelations which had been received, it was apparent that many important points touching the salvation of man had been taken from the Bible, or lost before it was compiled. It appeared self-evident from what truths were left, that if God rewarded every one according to the deeds done in the body the term ‘Heaven,’ as intended for the Saints’ eternal home, must include more kingdoms than one. Accordingly, … while translating St. John’s Gospel, myself and Elder Rigdon saw the following vision.” At the time this vision was given, the Prophet was translating John 5:29.
 </header>
 
-<h1>D&C 76</h1><sub>1</sub> Hear, O ye heavens, and give ear, O earth, and rejoice ye inhabitants thereof, for the Lord is God, and beside him there is no Savior. <sub>2</sub> Great is his wisdom, marvelous are his ways, and the extent of his doings none can find out. <sub>3</sub> His purposes fail not, neither are there any who can stay his hand. <sub>4</sub> From eternity to eternity he is the same, and his years never fail.
+<sub>1</sub> Hear, O ye heavens, and give ear, O earth, and rejoice ye inhabitants thereof, for the Lord is God, and beside him there is no Savior. <sub>2</sub> Great is his wisdom, marvelous are his ways, and the extent of his doings none can find out. <sub>3</sub> His purposes fail not, neither are there any who can stay his hand. <sub>4</sub> From eternity to eternity he is the same, and his years never fail.
 
 <sub>5</sub> For thus saith the Lord—I, the Lord, am merciful and gracious unto those who fear me, and delight to honor those who serve me in righteousness and in truth unto the end. <sub>6</sub> Great shall be their reward and eternal shall be their glory.
 
@@ -2252,11 +2402,13 @@ A vision given to Joseph Smith the Prophet and Sidney Rigdon, at Hiram, Ohio, Fe
 
 
 
+<h1>D&C 77</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, at Hiram, Ohio, about March 1832. Joseph Smith’s history states, “In connection with the translation of the Scriptures, I received the following explanation of the Revelation of St. John.”
 </header>
 
-<h1>D&C 77</h1><sub>1</sub> Q. What is the sea of glass spoken of by John, 4th chapter, and 6th verse of the Revelation? A. It is the earth, in its sanctified, immortal, and eternal state.
+<sub>1</sub> Q. What is the sea of glass spoken of by John, 4th chapter, and 6th verse of the Revelation? A. It is the earth, in its sanctified, immortal, and eternal state.
 
 <sub>2</sub> Q. What are we to understand by the four beasts, spoken of in the same verse? A. They are figurative expressions, used by the Revelator, John, in describing heaven, the paradise of God, the happiness of man, and of beasts, and of creeping things, and of the fowls of the air; that which is spiritual being in the likeness of that which is temporal; and that which is temporal in the likeness of that which is spiritual; the spirit of man in the likeness of his person, as also the spirit of the beast, and every other creature which God has created.
 
@@ -2290,11 +2442,13 @@ Revelation given to Joseph Smith the Prophet, at Hiram, Ohio, about March 1832. 
 
 
 
+<h1>D&C 78</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 1, 1832. On that day, the Prophet and other leaders had assembled to discuss Church business. This revelation originally instructed the Prophet, Sidney Rigdon, and Newel K. Whitney to travel to Missouri and organize the Church’s mercantile and publishing endeavors by creating a “firm” that would oversee these efforts, generating funds for the establishment of Zion and for the benefit of the poor. This firm, known as the United Firm, was organized in April 1832 and disbanded in 1834 (see section 82). Sometime after its dissolution, under the direction of Joseph Smith, the phrase “the affairs of the storehouse for the poor” replaced “mercantile and publishing establishments” in the revelation, and the word “order” replaced the word “firm.”
 </header>
 
-<h1>D&C 78</h1><sub>1</sub> The Lord spake unto Joseph Smith, Jun., saying: Hearken unto me, saith the Lord your God, who are ordained unto the high priesthood of my church, who have assembled yourselves together; <sub>2</sub> and listen to the counsel of him who has ordained you from on high, who shall speak in your ears the words of wisdom, that salvation may be unto you in that thing which you have presented before me, saith the Lord God.
+<sub>1</sub> The Lord spake unto Joseph Smith, Jun., saying: Hearken unto me, saith the Lord your God, who are ordained unto the high priesthood of my church, who have assembled yourselves together; <sub>2</sub> and listen to the counsel of him who has ordained you from on high, who shall speak in your ears the words of wisdom, that salvation may be unto you in that thing which you have presented before me, saith the Lord God.
 
 <sub>3</sub> For verily I say unto you, the time has come, and is now at hand; and behold, and lo, it must needs be that there be an organization of my people, in regulating and establishing the affairs of the storehouse for the poor of my people, both in this place and in the land of Zion—<sub>4</sub> for a permanent and everlasting establishment and order unto my church, to advance the cause, which ye have espoused, to the salvation of man, and to the glory of your Father who is in heaven; <sub>5</sub> that you may be equal in the bonds of heavenly things, yea, and earthly things also, for the obtaining of heavenly things. <sub>6</sub> For if ye are not equal in earthly things ye cannot be equal in obtaining heavenly things; <sub>7</sub> for if you will that I give unto you a place in the celestial world, you must prepare yourselves by doing the things which I have commanded you and required of you.
 
@@ -2314,11 +2468,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 1, 1
 
 
 
+<h1>D&C 79</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, March 12, 1832.
 </header>
 
-<h1>D&C 79</h1><sub>1</sub> Verily I say unto you, that it is my will that my servant Jared Carter should go again into the eastern countries, from place to place, and from city to city, in the power of the ordination wherewith he has been ordained, proclaiming glad tidings of great joy, even the everlasting gospel.
+<sub>1</sub> Verily I say unto you, that it is my will that my servant Jared Carter should go again into the eastern countries, from place to place, and from city to city, in the power of the ordination wherewith he has been ordained, proclaiming glad tidings of great joy, even the everlasting gospel.
 
 <sub>2</sub> And I will send upon him the Comforter, which shall teach him the truth and the way whither he shall go; <sub>3</sub> and inasmuch as he is faithful, I will crown him again with sheaves.
 
@@ -2328,11 +2484,13 @@ Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, March 12, 183
 
 
 
+<h1>D&C 80</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Stephen Burnett, at Hiram, Ohio, March 7, 1832.
 </header>
 
-<h1>D&C 80</h1><sub>1</sub> Verily, thus saith the Lord unto you my servant Stephen Burnett: Go ye, go ye into the world and preach the gospel to every creature that cometh under the sound of your voice. <sub>2</sub> And inasmuch as you desire a companion, I will give unto you my servant Eden Smith.
+<sub>1</sub> Verily, thus saith the Lord unto you my servant Stephen Burnett: Go ye, go ye into the world and preach the gospel to every creature that cometh under the sound of your voice. <sub>2</sub> And inasmuch as you desire a companion, I will give unto you my servant Eden Smith.
 
 <sub>3</sub> Wherefore, go ye and preach my gospel, whether to the north or to the south, to the east or to the west, it mattereth not, for ye cannot go amiss.
 
@@ -2342,11 +2500,13 @@ Revelation given through Joseph Smith the Prophet to Stephen Burnett, at Hiram, 
 
 
 
+<h1>D&C 81</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, March 15, 1832. Frederick G. Williams is called to be a high priest and a counselor in the Presidency of the High Priesthood. The historical records show that when this revelation was received in March 1832, it called Jesse Gause to the office of counselor to Joseph Smith in the Presidency. However, when he failed to continue in a manner consistent with this appointment, the call was subsequently transferred to Frederick G. Williams. The revelation (dated March 1832) should be regarded as a step toward the formal organization of the First Presidency, specifically calling for the office of counselor in that body and explaining the dignity of the appointment. Brother Gause served for a time but was excommunicated from the Church in December 1832. Brother Williams was ordained to the specified office on March 18, 1833.
 </header>
 
-<h1>D&C 81</h1><sub>1</sub> Verily, verily, I say unto you my servant Frederick G. Williams: Listen to the voice of him who speaketh, to the word of the Lord your God, and hearken to the calling wherewith you are called, even to be a high priest in my church, and a counselor unto my servant Joseph Smith, Jun.; <sub>2</sub> unto whom I have given the keys of the kingdom, which belong always unto the Presidency of the High Priesthood: <sub>3</sub> therefore, verily I acknowledge him and will bless him, and also thee, inasmuch as thou art faithful in counsel, in the office which I have appointed unto you, in prayer always, vocally and in thy heart, in public and in private, also in thy ministry in proclaiming the gospel in the land of the living, and among thy brethren. <sub>4</sub> And in doing these things thou wilt do the greatest good unto thy fellow beings, and wilt promote the glory of him who is your Lord.
+<sub>1</sub> Verily, verily, I say unto you my servant Frederick G. Williams: Listen to the voice of him who speaketh, to the word of the Lord your God, and hearken to the calling wherewith you are called, even to be a high priest in my church, and a counselor unto my servant Joseph Smith, Jun.; <sub>2</sub> unto whom I have given the keys of the kingdom, which belong always unto the Presidency of the High Priesthood: <sub>3</sub> therefore, verily I acknowledge him and will bless him, and also thee, inasmuch as thou art faithful in counsel, in the office which I have appointed unto you, in prayer always, vocally and in thy heart, in public and in private, also in thy ministry in proclaiming the gospel in the land of the living, and among thy brethren. <sub>4</sub> And in doing these things thou wilt do the greatest good unto thy fellow beings, and wilt promote the glory of him who is your Lord.
 
 <sub>5</sub> Wherefore, be faithful; stand in the office which I have appointed unto you; succor the weak, lift up the hands which hang down, and strengthen the feeble knees. <sub>6</sub> And if thou art faithful unto the end thou shalt have a crown of immortality, and eternal life in the mansions which I have prepared in the house of my Father.
 
@@ -2356,11 +2516,13 @@ Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, March 15, 183
 
 
 
+<h1>D&C 82</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, in Independence, Jackson County, Missouri, April 26, 1832. The occasion was a council of high priests and elders of the Church. At the council, Joseph Smith was sustained as the President of the High Priesthood, to which office he had previously been ordained at a conference of high priests, elders, and members, at Amherst, Ohio, January 25, 1832 (see the heading to section 75). This revelation reiterates instructions given in an earlier revelation (section 78) to establish a firm—known as the United Firm (under Joseph Smith’s direction, the term “order” later replaced “firm”)—to govern the Church’s mercantile and publishing endeavors.
 </header>
 
-<h1>D&C 82</h1><sub>1</sub> Verily, verily, I say unto you, my servants, that inasmuch as you have forgiven one another your trespasses, even so I, the Lord, forgive you.
+<sub>1</sub> Verily, verily, I say unto you, my servants, that inasmuch as you have forgiven one another your trespasses, even so I, the Lord, forgive you.
 
 <sub>2</sub> Nevertheless, there are those among you who have sinned exceedingly; yea, even all of you have sinned; but verily I say unto you, beware from henceforth, and refrain from sin, lest sore judgments fall upon your heads. <sub>3</sub> For of him unto whom much is given much is required; and he who sins against the greater light shall receive the greater condemnation.
 
@@ -2388,11 +2550,13 @@ Revelation given to Joseph Smith the Prophet, in Independence, Jackson County, M
 
 
 
+<h1>D&C 83</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Independence, Missouri, April 30, 1832. This revelation was received as the Prophet sat in council with his brethren.
 </header>
 
-<h1>D&C 83</h1><sub>1</sub> Verily, thus saith the Lord, in addition to the laws of the church concerning women and children, those who belong to the church, who have lost their husbands or fathers: <sub>2</sub> Women have claim on their husbands for their maintenance, until their husbands are taken; and if they are not found transgressors they shall have fellowship in the church. <sub>3</sub> And if they are not faithful they shall not have fellowship in the church; yet they may remain upon their inheritances according to the laws of the land.
+<sub>1</sub> Verily, thus saith the Lord, in addition to the laws of the church concerning women and children, those who belong to the church, who have lost their husbands or fathers: <sub>2</sub> Women have claim on their husbands for their maintenance, until their husbands are taken; and if they are not found transgressors they shall have fellowship in the church. <sub>3</sub> And if they are not faithful they shall not have fellowship in the church; yet they may remain upon their inheritances according to the laws of the land.
 
 <sub>4</sub> All children have claim upon their parents for their maintenance until they are of age. <sub>5</sub> And after that, they have claim upon the church, or in other words upon the Lord’s storehouse, if their parents have not wherewith to give them inheritances.
 
@@ -2402,11 +2566,13 @@ Revelation given through Joseph Smith the Prophet, at Independence, Missouri, Ap
 
 
 
+<h1>D&C 84</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, September 22 and 23, 1832. During the month of September, elders had begun to return from their missions in the eastern states and to make reports of their labors. It was while they were together in this season of joy that the following communication was received. The Prophet designated it a revelation on priesthood.
 </header>
 
-<h1>D&C 84</h1><sub>1</sub> A revelation of Jesus Christ unto his servant Joseph Smith, Jun., and six elders, as they united their hearts and lifted their voices on high.
+<sub>1</sub> A revelation of Jesus Christ unto his servant Joseph Smith, Jun., and six elders, as they united their hearts and lifted their voices on high.
 
 <sub>2</sub> Yea, the word of the Lord concerning his church, established in the last days for the restoration of his people, as he has spoken by the mouth of his prophets, and for the gathering of his saints to stand upon Mount Zion, which shall be the city of New Jerusalem. <sub>3</sub> Which city shall be built, beginning at the temple lot, which is appointed by the finger of the Lord, in the western boundaries of the State of Missouri, and dedicated by the hand of Joseph Smith, Jun., and others with whom the Lord was well pleased.
 
@@ -2508,11 +2674,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, September 
 
 
 
+<h1>D&C 85</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, November 27, 1832. This section is an extract from a letter of the Prophet to William W. Phelps, who was living in Independence, Missouri. It answers questions about those Saints who had moved to Zion but who had not followed the commandment to consecrate their properties and had thus not received their inheritances according to the established order in the Church.
 </header>
 
-<h1>D&C 85</h1><sub>1</sub> It is the duty of the Lord’s clerk, whom he has appointed, to keep a history, and a general church record of all things that transpire in Zion, and of all those who consecrate properties, and receive inheritances legally from the bishop; <sub>2</sub> and also their manner of life, their faith, and works; and also of the apostates who apostatize after receiving their inheritances.
+<sub>1</sub> It is the duty of the Lord’s clerk, whom he has appointed, to keep a history, and a general church record of all things that transpire in Zion, and of all those who consecrate properties, and receive inheritances legally from the bishop; <sub>2</sub> and also their manner of life, their faith, and works; and also of the apostates who apostatize after receiving their inheritances.
 
 <sub>3</sub> It is contrary to the will and commandment of God that those who receive not their inheritance by consecration, agreeable to his law, which he has given, that he may tithe his people, to prepare them against the day of vengeance and burning, should have their names enrolled with the people of God. <sub>4</sub> Neither is their genealogy to be kept, or to be had where it may be found on any of the records or history of the church. <sub>5</sub> Their names shall not be found, neither the names of the fathers, nor the names of the children written in the book of the law of God, saith the Lord of Hosts.
 
@@ -2526,11 +2694,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, November 2
 
 
 
+<h1>D&C 86</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, December 6, 1832. This revelation was received while the Prophet was reviewing and editing the manuscript of the translation of the Bible.
 </header>
 
-<h1>D&C 86</h1><sub>1</sub> Verily, thus saith the Lord unto you my servants, concerning the parable of the wheat and of the tares: <sub>2</sub> Behold, verily I say, the field was the world, and the apostles were the sowers of the seed; <sub>3</sub> and after they have fallen asleep the great persecutor of the church, the apostate, the whore, even Babylon, that maketh all nations to drink of her cup, in whose hearts the enemy, even Satan, sitteth to reign—behold he soweth the tares; wherefore, the tares choke the wheat and drive the church into the wilderness.
+<sub>1</sub> Verily, thus saith the Lord unto you my servants, concerning the parable of the wheat and of the tares: <sub>2</sub> Behold, verily I say, the field was the world, and the apostles were the sowers of the seed; <sub>3</sub> and after they have fallen asleep the great persecutor of the church, the apostate, the whore, even Babylon, that maketh all nations to drink of her cup, in whose hearts the enemy, even Satan, sitteth to reign—behold he soweth the tares; wherefore, the tares choke the wheat and drive the church into the wilderness.
 
 <sub>4</sub> But behold, in the last days, even now while the Lord is beginning to bring forth the word, and the blade is springing up and is yet tender—<sub>5</sub> behold, verily I say unto you, the angels are crying unto the Lord day and night, who are ready and waiting to be sent forth to reap down the fields; <sub>6</sub> but the Lord saith unto them, pluck not up the tares while the blade is yet tender (for verily your faith is weak), lest you destroy the wheat also.
 
@@ -2544,11 +2714,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, December 6
 
 
 
+<h1>D&C 87</h1>
+
 <header class="book-intro">
 Revelation and prophecy on war, given through Joseph Smith the Prophet, at or near Kirtland, Ohio, December 25, 1832. At this time disputes in the United States over slavery and South Carolina’s nullification of federal tariffs were prevalent. Joseph Smith’s history states that “appearances of troubles among the nations” were becoming “more visible” to the Prophet “than they had previously been since the Church began her journey out of the wilderness.”
 </header>
 
-<h1>D&C 87</h1><sub>1</sub> Verily, thus saith the Lord concerning the wars that will shortly come to pass, beginning at the rebellion of South Carolina, which will eventually terminate in the death and misery of many souls; <sub>2</sub> and the time will come that war will be poured out upon all nations, beginning at this place.
+<sub>1</sub> Verily, thus saith the Lord concerning the wars that will shortly come to pass, beginning at the rebellion of South Carolina, which will eventually terminate in the death and misery of many souls; <sub>2</sub> and the time will come that war will be poured out upon all nations, beginning at this place.
 
 <sub>3</sub> For behold, the Southern States shall be divided against the Northern States, and the Southern States will call on other nations, even the nation of Great Britain, as it is called, and they shall also call upon other nations, in order to defend themselves against other nations; and then war shall be poured out upon all nations.
 
@@ -2562,11 +2734,13 @@ Revelation and prophecy on war, given through Joseph Smith the Prophet, at or ne
 
 
 
+<h1>D&C 88</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet at Kirtland, Ohio, December 27 and 28, 1832, and January 3, 1833. The Prophet designated it as the “‘olive leaf’ … plucked from the Tree of Paradise, the Lord’s message of peace to us.” The revelation was given after high priests at a conference prayed “separately and vocally to the Lord to reveal his will unto us concerning the upbuilding of Zion.”
 </header>
 
-<h1>D&C 88</h1><sub>1</sub> Verily, thus saith the Lord unto you who have assembled yourselves together to receive his will concerning you: <sub>2</sub> Behold, this is pleasing unto your Lord, and the angels rejoice over you; the alms of your prayers have come up into the ears of the Lord of Sabaoth, and are recorded in the book of the names of the sanctified, even them of the celestial world.
+<sub>1</sub> Verily, thus saith the Lord unto you who have assembled yourselves together to receive his will concerning you: <sub>2</sub> Behold, this is pleasing unto your Lord, and the angels rejoice over you; the alms of your prayers have come up into the ears of the Lord of Sabaoth, and are recorded in the book of the names of the sanctified, even them of the celestial world.
 
 <sub>3</sub> Wherefore, I now send upon you another Comforter, even upon you my friends, that it may abide in your hearts, even the Holy Spirit of promise; which other Comforter is the same that I promised unto my disciples, as is recorded in the testimony of John. <sub>4</sub> This Comforter is the promise which I give unto you of eternal life, even the glory of the celestial kingdom; <sub>5</sub> which glory is that of the church of the Firstborn, even of God, the holiest of all, through Jesus Christ his Son—<sub>6</sub> he that ascended up on high, as also he descended below all things, in that he comprehended all things, that he might be in all and through all things, the light of truth; <sub>7</sub> which truth shineth. This is the light of Christ.
 
@@ -2692,11 +2866,13 @@ Verily, I say unto you, let those who are not the first elders continue in the v
 
 
 
+<h1>D&C 89</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, February 27, 1833. As a consequence of the early brethren using tobacco in their meetings, the Prophet was led to ponder upon the matter; consequently, he inquired of the Lord concerning it. This revelation, known as the Word of Wisdom, was the result.
 </header>
 
-<h1>D&C 89</h1><sub>1</sub> A Word of Wisdom, for the benefit of the council of high priests, assembled in Kirtland, and the church, and also the saints in Zion—<sub>2</sub> to be sent greeting; not by commandment or constraint, but by revelation and the word of wisdom, showing forth the order and will of God in the temporal salvation of all saints in the last days—<sub>3</sub> given for a principle with promise, adapted to the capacity of the weak and the weakest of all saints, who are or can be called saints.
+<sub>1</sub> A Word of Wisdom, for the benefit of the council of high priests, assembled in Kirtland, and the church, and also the saints in Zion—<sub>2</sub> to be sent greeting; not by commandment or constraint, but by revelation and the word of wisdom, showing forth the order and will of God in the temporal salvation of all saints in the last days—<sub>3</sub> given for a principle with promise, adapted to the capacity of the weak and the weakest of all saints, who are or can be called saints.
 
 <sub>4</sub> Behold, verily, thus saith the Lord unto you: In consequence of evils and designs which do and will exist in the hearts of conspiring men in the last days, I have warned you, and forewarn you, by giving unto you this word of wisdom by revelation—<sub>5</sub> that inasmuch as any man drinketh wine or strong drink among you, behold it is not good, neither meet in the sight of your Father, only in assembling yourselves together to offer up your sacraments before him. <sub>6</sub> And, behold, this should be wine, yea, pure wine of the grape of the vine, of your own make.
 
@@ -2718,11 +2894,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, February 2
 
 
 
+<h1>D&C 90</h1>
+
 <header class="book-intro">
 Revelation to Joseph Smith the Prophet, given at Kirtland, Ohio, March 8, 1833. This revelation is a continuing step in the establishment of the First Presidency (see the heading to section 81); as a consequence thereof, the counselors mentioned were ordained on March 18, 1833.
 </header>
 
-<h1>D&C 90</h1><sub>1</sub> Thus saith the Lord, verily, verily I say unto you my son, thy sins are forgiven thee, according to thy petition, for thy prayers and the prayers of thy brethren have come up into my ears.
+<sub>1</sub> Thus saith the Lord, verily, verily I say unto you my son, thy sins are forgiven thee, according to thy petition, for thy prayers and the prayers of thy brethren have come up into my ears.
 
 <sub>2</sub> Therefore, thou art blessed from henceforth that bear the keys of the kingdom given unto you; which kingdom is coming forth for the last time. <sub>3</sub> Verily I say unto you, the keys of this kingdom shall never be taken from you, while thou art in the world, neither in the world to come; <sub>4</sub> nevertheless, through you shall the oracles be given to another, yea, even unto the church. <sub>5</sub> And all they who receive the oracles of God, let them beware how they hold them lest they are accounted as a light thing, and are brought under condemnation thereby, and stumble and fall when the storms descend, and the winds blow, and the rains descend, and beat upon their house.
 
@@ -2760,11 +2938,13 @@ Revelation to Joseph Smith the Prophet, given at Kirtland, Ohio, March 8, 1833. 
 
 
 
+<h1>D&C 91</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 9, 1833. The Prophet was at this time engaged in the translation of the Old Testament. Having come to that portion of the ancient writings called the Apocrypha, he inquired of the Lord and received this instruction.
 </header>
 
-<h1>D&C 91</h1><sub>1</sub> Verily, thus saith the Lord unto you concerning the Apocrypha—There are many things contained therein that are true, and it is mostly translated correctly; <sub>2</sub> there are many things contained therein that are not true, which are interpolations by the hands of men.
+<sub>1</sub> Verily, thus saith the Lord unto you concerning the Apocrypha—There are many things contained therein that are true, and it is mostly translated correctly; <sub>2</sub> there are many things contained therein that are not true, which are interpolations by the hands of men.
 
 <sub>3</sub> Verily, I say unto you, that it is not needful that the Apocrypha should be translated. <sub>4</sub> Therefore, whoso readeth it, let him understand, for the Spirit manifesteth truth; <sub>5</sub> and whoso is enlightened by the Spirit shall obtain benefit therefrom; <sub>6</sub> and whoso receiveth not by the Spirit, cannot be benefited. Therefore it is not needful that it should be translated. Amen.
 
@@ -2772,11 +2952,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, March 9, 1
 
 
 
+<h1>D&C 92</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, at Kirtland, Ohio, March 15, 1833. The revelation instructs Frederick G. Williams, who had recently been appointed a counselor to Joseph Smith, on his duties in the United Firm (see the headings to sections 78 and 82).
 </header>
 
-<h1>D&C 92</h1><sub>1</sub> Verily, thus saith the Lord, I give unto the united order, organized agreeable to the commandment previously given, a revelation and commandment concerning my servant Frederick G. Williams, that ye shall receive him into the order. What I say unto one I say unto all.
+<sub>1</sub> Verily, thus saith the Lord, I give unto the united order, organized agreeable to the commandment previously given, a revelation and commandment concerning my servant Frederick G. Williams, that ye shall receive him into the order. What I say unto one I say unto all.
 
 <sub>2</sub> And again, I say unto you my servant Frederick G. Williams, you shall be a lively member in this order; and inasmuch as you are faithful in keeping all former commandments you shall be blessed forever. Amen.
 
@@ -2784,11 +2966,13 @@ Revelation given to Joseph Smith the Prophet, at Kirtland, Ohio, March 15, 1833.
 
 
 
+<h1>D&C 93</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, May 6, 1833.
 </header>
 
-<h1>D&C 93</h1><sub>1</sub> Verily, thus saith the Lord: It shall come to pass that every soul who forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my voice, and keepeth my commandments, shall see my face and know that I am; <sub>2</sub> and that I am the true light that lighteth every man that cometh into the world; <sub>3</sub> and that I am in the Father, and the Father in me, and the Father and I are one—<sub>4</sub> the Father because he gave me of his fulness, and the Son because I was in the world and made flesh my tabernacle, and dwelt among the sons of men. <sub>5</sub> I was in the world and received of my Father, and the works of him were plainly manifest.
+<sub>1</sub> Verily, thus saith the Lord: It shall come to pass that every soul who forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my voice, and keepeth my commandments, shall see my face and know that I am; <sub>2</sub> and that I am the true light that lighteth every man that cometh into the world; <sub>3</sub> and that I am in the Father, and the Father in me, and the Father and I are one—<sub>4</sub> the Father because he gave me of his fulness, and the Son because I was in the world and made flesh my tabernacle, and dwelt among the sons of men. <sub>5</sub> I was in the world and received of my Father, and the works of him were plainly manifest.
 
 <sub>6</sub> And John saw and bore record of the fulness of my glory, and the fulness of John’s record is hereafter to be revealed. <sub>7</sub> And he bore record, saying: I saw his glory, that he was in the beginning, before the world was; <sub>8</sub> therefore, in the beginning the Word was, for he was the Word, even the messenger of salvation—<sub>9</sub> the light and the Redeemer of the world; the Spirit of truth, who came into the world, because the world was made by him, and in him was the life of men and the light of men. <sub>10</sub> The worlds were made by him; men were made by him; all things were made by him, and through him, and of him.
 
@@ -2834,11 +3018,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, May 6, 183
 
 
 
+<h1>D&C 94</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 2, 1833. Hyrum Smith, Reynolds Cahoon, and Jared Carter are appointed as a Church building committee.
 </header>
 
-<h1>D&C 94</h1><sub>1</sub> And again, verily I say unto you, my friends, a commandment I give unto you, that ye shall commence a work of laying out and preparing a beginning and foundation of the city of the stake of Zion, here in the land of Kirtland, beginning at my house. <sub>2</sub> And behold, it must be done according to the pattern which I have given unto you.
+<sub>1</sub> And again, verily I say unto you, my friends, a commandment I give unto you, that ye shall commence a work of laying out and preparing a beginning and foundation of the city of the stake of Zion, here in the land of Kirtland, beginning at my house. <sub>2</sub> And behold, it must be done according to the pattern which I have given unto you.
 
 <sub>3</sub> And let the first lot on the south be consecrated unto me for the building of a house for the presidency, for the work of the presidency, in obtaining revelations; and for the work of the ministry of the presidency, in all things pertaining to the church and kingdom. <sub>4</sub> Verily I say unto you, that it shall be built fifty-five by sixty-five feet in the width thereof and in the length thereof, in the inner court. <sub>5</sub> And there shall be a lower court and a higher court, according to the pattern which shall be given unto you hereafter.
 
@@ -2852,11 +3038,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 2, 
 
 
 
+<h1>D&C 95</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, June 1, 1833. This revelation is a continuation of divine directions to build a house for worship and instruction, the house of the Lord (see section 88:119–36).
 </header>
 
-<h1>D&C 95</h1><sub>1</sub> Verily, thus saith the Lord unto you whom I love, and whom I love I also chasten that their sins may be forgiven, for with the chastisement I prepare a way for their deliverance in all things out of temptation, and I have loved you—<sub>2</sub> wherefore, ye must needs be chastened and stand rebuked before my face; <sub>3</sub> for ye have sinned against me a very grievous sin, in that ye have not considered the great commandment in all things, that I have given unto you concerning the building of mine house; <sub>4</sub> for the preparation wherewith I design to prepare mine apostles to prune my vineyard for the last time, that I may bring to pass my strange act, that I may pour out my Spirit upon all flesh—<sub>5</sub> but behold, verily I say unto you, that there are many who have been ordained among you, whom I have called but few of them are chosen. <sub>6</sub> They who are not chosen have sinned a very grievous sin, in that they are walking in darkness at noon-day.
+<sub>1</sub> Verily, thus saith the Lord unto you whom I love, and whom I love I also chasten that their sins may be forgiven, for with the chastisement I prepare a way for their deliverance in all things out of temptation, and I have loved you—<sub>2</sub> wherefore, ye must needs be chastened and stand rebuked before my face; <sub>3</sub> for ye have sinned against me a very grievous sin, in that ye have not considered the great commandment in all things, that I have given unto you concerning the building of mine house; <sub>4</sub> for the preparation wherewith I design to prepare mine apostles to prune my vineyard for the last time, that I may bring to pass my strange act, that I may pour out my Spirit upon all flesh—<sub>5</sub> but behold, verily I say unto you, that there are many who have been ordained among you, whom I have called but few of them are chosen. <sub>6</sub> They who are not chosen have sinned a very grievous sin, in that they are walking in darkness at noon-day.
 
 <sub>7</sub> And for this cause I gave unto you a commandment that you should call your solemn assembly, that your fastings and your mourning might come up into the ears of the Lord of Sabaoth, which is by interpretation, the creator of the first day, the beginning and the end.
 
@@ -2874,11 +3062,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, June 1, 18
 
 
 
+<h1>D&C 96</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, showing the order of the city or stake of Zion at Kirtland, Ohio, June 4, 1833, as an example to the Saints in Kirtland. The occasion was a conference of high priests, and the chief subject of consideration was the disposal of certain lands, known as the French farm, possessed by the Church near Kirtland. Since the conference could not agree who should take charge of the farm, all agreed to inquire of the Lord concerning the matter.
 </header>
 
-<h1>D&C 96</h1><sub>1</sub> Behold, I say unto you, here is wisdom, whereby ye may know how to act concerning this matter, for it is expedient in me that this stake that I have set for the strength of Zion should be made strong.
+<sub>1</sub> Behold, I say unto you, here is wisdom, whereby ye may know how to act concerning this matter, for it is expedient in me that this stake that I have set for the strength of Zion should be made strong.
 
 <sub>2</sub> Therefore, let my servant Newel K. Whitney take charge of the place which is named among you, upon which I design to build mine holy house. <sub>3</sub> And again, let it be divided into lots, according to wisdom, for the benefit of those who seek inheritances, as it shall be determined in council among you.
 
@@ -2890,11 +3080,13 @@ Revelation given to Joseph Smith the Prophet, showing the order of the city or s
 
 
 
+<h1>D&C 97</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 2, 1833. This revelation deals particularly with the affairs of the Saints in Zion, Jackson County, Missouri, in response to the Prophet’s inquiry of the Lord for information. Members of the Church in Missouri were at this time subjected to severe persecution and, on July 23, 1833, had been forced to sign an agreement to leave Jackson County.
 </header>
 
-<h1>D&C 97</h1><sub>1</sub> Verily I say unto you my friends, I speak unto you with my voice, even the voice of my Spirit, that I may show unto you my will concerning your brethren in the land of Zion, many of whom are truly humble and are seeking diligently to learn wisdom and to find truth. <sub>2</sub> Verily, verily I say unto you, blessed are such, for they shall obtain; for I, the Lord, show mercy unto all the meek, and upon all whomsoever I will, that I may be justified when I shall bring them unto judgment.
+<sub>1</sub> Verily I say unto you my friends, I speak unto you with my voice, even the voice of my Spirit, that I may show unto you my will concerning your brethren in the land of Zion, many of whom are truly humble and are seeking diligently to learn wisdom and to find truth. <sub>2</sub> Verily, verily I say unto you, blessed are such, for they shall obtain; for I, the Lord, show mercy unto all the meek, and upon all whomsoever I will, that I may be justified when I shall bring them unto judgment.
 
 <sub>3</sub> Behold, I say unto you, concerning the school in Zion, I, the Lord, am well pleased that there should be a school in Zion, and also with my servant Parley P. Pratt, for he abideth in me. <sub>4</sub> And inasmuch as he continueth to abide in me he shall continue to preside over the school in the land of Zion until I shall give unto him other commandments. <sub>5</sub> And I will bless him with a multiplicity of blessings, in expounding all scriptures and mysteries to the edification of the school, and of the church in Zion.
 
@@ -2916,11 +3108,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 2, 
 
 
 
+<h1>D&C 98</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 6, 1833. This revelation came in consequence of the persecution upon the Saints in Missouri. Increased settlement of Church members in Missouri troubled some other settlers, who felt threatened by the Saints’ numbers, political and economic influence, and cultural and religious differences. In July 1833, a mob destroyed Church property, tarred and feathered two Church members, and demanded that the Saints leave Jackson County. Although some news of the problems in Missouri had no doubt reached the Prophet in Kirtland (nine hundred miles away), the seriousness of the situation could have been known to him at this date only by revelation.
 </header>
 
-<h1>D&C 98</h1><sub>1</sub> Verily I say unto you my friends, fear not, let your hearts be comforted; yea, rejoice evermore, and in everything give thanks; <sub>2</sub> waiting patiently on the Lord, for your prayers have entered into the ears of the Lord of Sabaoth, and are recorded with this seal and testament—the Lord hath sworn and decreed that they shall be granted. <sub>3</sub> Therefore, he giveth this promise unto you, with an immutable covenant that they shall be fulfilled; and all things wherewith you have been afflicted shall work together for your good, and to my name’s glory, saith the Lord.
+<sub>1</sub> Verily I say unto you my friends, fear not, let your hearts be comforted; yea, rejoice evermore, and in everything give thanks; <sub>2</sub> waiting patiently on the Lord, for your prayers have entered into the ears of the Lord of Sabaoth, and are recorded with this seal and testament—the Lord hath sworn and decreed that they shall be granted. <sub>3</sub> Therefore, he giveth this promise unto you, with an immutable covenant that they shall be fulfilled; and all things wherewith you have been afflicted shall work together for your good, and to my name’s glory, saith the Lord.
 
 <sub>4</sub> And now, verily I say unto you concerning the laws of the land, it is my will that my people should observe to do all things whatsoever I command them. <sub>5</sub> And that law of the land which is constitutional, supporting that principle of freedom in maintaining rights and privileges, belongs to all mankind, and is justifiable before me. <sub>6</sub> Therefore, I, the Lord, justify you, and your brethren of my church, in befriending that law which is the constitutional law of the land; <sub>7</sub> and as pertaining to law of man, whatsoever is more or less than this, cometh of evil. <sub>8</sub> I, the Lord God, make you free, therefore ye are free indeed; and the law also maketh you free.
 
@@ -2956,11 +3150,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, August 6, 
 
 
 
+<h1>D&C 99</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to John Murdock, August 29, 1832, at Hiram, Ohio. For over a year, John Murdock had been preaching the gospel while his children—motherless after the death of his wife, Julia Clapp, in April 1831—resided with other families in Ohio.
 </header>
 
-<h1>D&C 99</h1><sub>1</sub> Behold, thus saith the Lord unto my servant John Murdock—thou art called to go into the eastern countries from house to house, from village to village, and from city to city, to proclaim mine everlasting gospel unto the inhabitants thereof, in the midst of persecution and wickedness.
+<sub>1</sub> Behold, thus saith the Lord unto my servant John Murdock—thou art called to go into the eastern countries from house to house, from village to village, and from city to city, to proclaim mine everlasting gospel unto the inhabitants thereof, in the midst of persecution and wickedness.
 
 <sub>2</sub> And who receiveth you receiveth me; and you shall have power to declare my word in the demonstration of my Holy Spirit. <sub>3</sub> And who receiveth you as a little child, receiveth my kingdom; and blessed are they, for they shall obtain mercy.
 
@@ -2972,11 +3168,13 @@ Revelation given through Joseph Smith the Prophet to John Murdock, August 29, 18
 
 
 
+<h1>D&C 100</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Perrysburg, New York, October 12, 1833. The two brethren, having been absent from their families for several days, felt some concern about them.
 </header>
 
-<h1>D&C 100</h1><sub>1</sub> Verily, thus saith the Lord unto you, my friends Sidney and Joseph, your families are well; they are in mine hands, and I will do with them as seemeth me good; for in me there is all power. <sub>2</sub> Therefore, follow me, and listen to the counsel which I shall give unto you.
+<sub>1</sub> Verily, thus saith the Lord unto you, my friends Sidney and Joseph, your families are well; they are in mine hands, and I will do with them as seemeth me good; for in me there is all power. <sub>2</sub> Therefore, follow me, and listen to the counsel which I shall give unto you.
 
 <sub>3</sub> Behold, and lo, I have much people in this place, in the regions round about; and an effectual door shall be opened in the regions round about in this eastern land. <sub>4</sub> Therefore, I, the Lord, have suffered you to come unto this place; for thus it was expedient in me for the salvation of souls.
 
@@ -2992,11 +3190,13 @@ Revelation given to Joseph Smith the Prophet and Sidney Rigdon, at Perrysburg, N
 
 
 
+<h1>D&C 101</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, at Kirtland, Ohio, December 16 and 17, 1833. At this time the Saints who had gathered in Missouri were suffering great persecution. Mobs had driven them from their homes in Jackson County; and some of the Saints had tried to establish themselves in Van Buren, Lafayette, and Ray Counties, but persecution followed them. The main body of the Saints was at that time in Clay County, Missouri. Threats of death against individuals of the Church were many. The Saints in Jackson County had lost household furniture, clothing, livestock, and other personal property; and many of their crops had been destroyed.
 </header>
 
-<h1>D&C 101</h1><sub>1</sub> Verily I say unto you, concerning your brethren who have been afflicted, and persecuted, and cast out from the land of their inheritance—<sub>2</sub> I, the Lord, have suffered the affliction to come upon them, wherewith they have been afflicted, in consequence of their transgressions; <sub>3</sub> yet I will own them, and they shall be mine in that day when I shall come to make up my jewels. <sub>4</sub> Therefore, they must needs be chastened and tried, even as Abraham, who was commanded to offer up his only son. <sub>5</sub> For all those who will not endure chastening, but deny me, cannot be sanctified.
+<sub>1</sub> Verily I say unto you, concerning your brethren who have been afflicted, and persecuted, and cast out from the land of their inheritance—<sub>2</sub> I, the Lord, have suffered the affliction to come upon them, wherewith they have been afflicted, in consequence of their transgressions; <sub>3</sub> yet I will own them, and they shall be mine in that day when I shall come to make up my jewels. <sub>4</sub> Therefore, they must needs be chastened and tried, even as Abraham, who was commanded to offer up his only son. <sub>5</sub> For all those who will not endure chastening, but deny me, cannot be sanctified.
 
 <sub>6</sub> Behold, I say unto you, there were jarrings, and contentions, and envyings, and strifes, and lustful and covetous desires among them; therefore by these things they polluted their inheritances. <sub>7</sub> They were slow to hearken unto the voice of the Lord their God; therefore, the Lord their God is slow to hearken unto their prayers, to answer them in the day of their trouble. <sub>8</sub> In the day of their peace they esteemed lightly my counsel; but, in the day of their trouble, of necessity they feel after me.
 
@@ -3074,11 +3274,13 @@ Revelation given to Joseph Smith the Prophet, at Kirtland, Ohio, December 16 and
 
 
 
+<h1>D&C 102</h1>
+
 <header class="book-intro">
 Minutes of the organization of the first high council of the Church, at Kirtland, Ohio, February 17, 1834. The original minutes were recorded by Elders Oliver Cowdery and Orson Hyde. The Prophet revised the minutes the following day, and the next day the corrected minutes were unanimously accepted by the high council as “a form and constitution of the high council” of the Church. Verses 30 through 32, having to do with the Council of the Twelve Apostles, were added in 1835 under Joseph Smith’s direction when this section was prepared for publication in the Doctrine and Covenants.
 </header>
 
-<h1>D&C 102</h1><sub>1</sub> This day a general council of twenty-four high priests assembled at the house of Joseph Smith, Jun., by revelation, and proceeded to organize the high council of the church of Christ, which was to consist of twelve high priests, and one or three presidents as the case might require. <sub>2</sub> The high council was appointed by revelation for the purpose of settling important difficulties which might arise in the church, which could not be settled by the church or the bishop’s council to the satisfaction of the parties.
+<sub>1</sub> This day a general council of twenty-four high priests assembled at the house of Joseph Smith, Jun., by revelation, and proceeded to organize the high council of the church of Christ, which was to consist of twelve high priests, and one or three presidents as the case might require. <sub>2</sub> The high council was appointed by revelation for the purpose of settling important difficulties which might arise in the church, which could not be settled by the church or the bishop’s council to the satisfaction of the parties.
 
 <sub>3</sub> Joseph Smith, Jun., Sidney Rigdon and Frederick G. Williams were acknowledged presidents by the voice of the council; and Joseph Smith, Sen., John Smith, Joseph Coe, John Johnson, Martin Harris, John S. Carter, Jared Carter, Oliver Cowdery, Samuel H. Smith, Orson Hyde, Sylvester Smith, and Luke Johnson, high priests, were chosen to be a standing council for the church, by the unanimous voice of the council.
 
@@ -3116,11 +3318,13 @@ Clerks
 
 
 
+<h1>D&C 103</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, February 24, 1834. This revelation was received after the arrival in Kirtland, Ohio, of Parley P. Pratt and Lyman Wight, who had come from Missouri to counsel with the Prophet as to the relief and restoration of the Saints to their lands in Jackson County.
 </header>
 
-<h1>D&C 103</h1><sub>1</sub> Verily I say unto you, my friends, behold, I will give unto you a revelation and commandment, that you may know how to act in the discharge of your duties concerning the salvation and redemption of your brethren, who have been scattered on the land of Zion; <sub>2</sub> being driven and smitten by the hands of mine enemies, on whom I will pour out my wrath without measure in mine own time. <sub>3</sub> For I have suffered them thus far, that they might fill up the measure of their iniquities, that their cup might be full; <sub>4</sub> and that those who call themselves after my name might be chastened for a little season with a sore and grievous chastisement, because they did not hearken altogether unto the precepts and commandments which I gave unto them.
+<sub>1</sub> Verily I say unto you, my friends, behold, I will give unto you a revelation and commandment, that you may know how to act in the discharge of your duties concerning the salvation and redemption of your brethren, who have been scattered on the land of Zion; <sub>2</sub> being driven and smitten by the hands of mine enemies, on whom I will pour out my wrath without measure in mine own time. <sub>3</sub> For I have suffered them thus far, that they might fill up the measure of their iniquities, that their cup might be full; <sub>4</sub> and that those who call themselves after my name might be chastened for a little season with a sore and grievous chastisement, because they did not hearken altogether unto the precepts and commandments which I gave unto them.
 
 <sub>5</sub> But verily I say unto you, that I have decreed a decree which my people shall realize, inasmuch as they hearken from this very hour unto the counsel which I, the Lord their God, shall give unto them.
 
@@ -3156,11 +3360,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, February 2
 
 
 
+<h1>D&C 104</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, at or near Kirtland, Ohio, April 23, 1834, concerning the United Firm (see the headings to sections 78 and 82). The occasion was likely that of a council meeting of members of the United Firm, which discussed the pressing temporal needs of the Church. An earlier meeting of the firm on April 10 had resolved that the organization be dissolved. This revelation directs that the firm instead be reorganized; its properties were to be divided among members of the firm as their stewardships. Under Joseph Smith’s direction, the phrase “United Firm” was later replaced with “United Order” in the revelation.
 </header>
 
-<h1>D&C 104</h1><sub>1</sub> Verily I say unto you, my friends, I give unto you counsel, and a commandment, concerning all the properties which belong to the order which I commanded to be organized and established, to be a united order, and an everlasting order for the benefit of my church, and for the salvation of men until I come—<sub>2</sub> with promise immutable and unchangeable, that inasmuch as those whom I commanded were faithful they should be blessed with a multiplicity of blessings; <sub>3</sub> but inasmuch as they were not faithful they were nigh unto cursing.
+<sub>1</sub> Verily I say unto you, my friends, I give unto you counsel, and a commandment, concerning all the properties which belong to the order which I commanded to be organized and established, to be a united order, and an everlasting order for the benefit of my church, and for the salvation of men until I come—<sub>2</sub> with promise immutable and unchangeable, that inasmuch as those whom I commanded were faithful they should be blessed with a multiplicity of blessings; <sub>3</sub> but inasmuch as they were not faithful they were nigh unto cursing.
 
 <sub>4</sub> Therefore, inasmuch as some of my servants have not kept the commandment, but have broken the covenant through covetousness, and with feigned words, I have cursed them with a very sore and grievous curse. <sub>5</sub> For I, the Lord, have decreed in my heart, that inasmuch as any man belonging to the order shall be found a transgressor, or, in other words, shall break the covenant with which ye are bound, he shall be cursed in his life, and shall be trodden down by whom I will; <sub>6</sub> for I, the Lord, am not to be mocked in these things—<sub>7</sub> and all this that the innocent among you may not be condemned with the unjust; and that the guilty among you may not escape; because I, the Lord, have promised unto you a crown of glory at my right hand. <sub>8</sub> Therefore, inasmuch as you are found transgressors, you cannot escape my wrath in your lives. <sub>9</sub> Inasmuch as ye are cut off for transgression, ye cannot escape the buffetings of Satan until the day of redemption.
 
@@ -3210,11 +3416,13 @@ Revelation given to Joseph Smith the Prophet, at or near Kirtland, Ohio, April 2
 
 
 
+<h1>D&C 105</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, on Fishing River, Missouri, June 22, 1834. Under the leadership of the Prophet, Saints from Ohio and other areas marched to Missouri in an expedition later known as Zion’s Camp. Their purpose was to escort the expelled Missouri Saints back to their lands in Jackson County. Missourians who had previously persecuted the Saints feared retaliation from Zion’s Camp and preemptively attacked some Saints living in Clay County, Missouri. After the Missouri governor withdrew his promise to support the Saints, Joseph Smith received this revelation.
 </header>
 
-<h1>D&C 105</h1><sub>1</sub> Verily I say unto you who have assembled yourselves together that you may learn my will concerning the redemption of mine afflicted people—<sub>2</sub> behold, I say unto you, were it not for the transgressions of my people, speaking concerning the church and not individuals, they might have been redeemed even now.
+<sub>1</sub> Verily I say unto you who have assembled yourselves together that you may learn my will concerning the redemption of mine afflicted people—<sub>2</sub> behold, I say unto you, were it not for the transgressions of my people, speaking concerning the church and not individuals, they might have been redeemed even now.
 
 <sub>3</sub> But behold, they have not learned to be obedient to the things which I required at their hands, but are full of all manner of evil, and do not impart of their substance, as becometh saints, to the poor and afflicted among them; <sub>4</sub> and are not united according to the union required by the law of the celestial kingdom; <sub>5</sub> and Zion cannot be built up unless it is by the principles of the law of the celestial kingdom; otherwise I cannot receive her unto myself. <sub>6</sub> And my people must needs be chastened until they learn obedience, if it must needs be, by the things which they suffer.
 
@@ -3250,11 +3458,13 @@ Revelation given through Joseph Smith the Prophet, on Fishing River, Missouri, J
 
 
 
+<h1>D&C 106</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, November 25, 1834. This revelation is directed to Warren A. Cowdery, an older brother of Oliver Cowdery.
 </header>
 
-<h1>D&C 106</h1><sub>1</sub> It is my will that my servant Warren A. Cowdery should be appointed and ordained a presiding high priest over my church, in the land of Freedom and the regions round about; <sub>2</sub> and should preach my everlasting gospel, and lift up his voice and warn the people, not only in his own place, but in the adjoining counties; <sub>3</sub> and devote his whole time to this high and holy calling, which I now give unto him, seeking diligently the kingdom of heaven and its righteousness, and all things necessary shall be added thereunto; for the laborer is worthy of his hire.
+<sub>1</sub> It is my will that my servant Warren A. Cowdery should be appointed and ordained a presiding high priest over my church, in the land of Freedom and the regions round about; <sub>2</sub> and should preach my everlasting gospel, and lift up his voice and warn the people, not only in his own place, but in the adjoining counties; <sub>3</sub> and devote his whole time to this high and holy calling, which I now give unto him, seeking diligently the kingdom of heaven and its righteousness, and all things necessary shall be added thereunto; for the laborer is worthy of his hire.
 
 <sub>4</sub> And again, verily I say unto you, the coming of the Lord draweth nigh, and it overtaketh the world as a thief in the night—<sub>5</sub> therefore, gird up your loins, that you may be the children of light, and that day shall not overtake you as a thief.
 
@@ -3264,11 +3474,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, November 2
 
 
 
+<h1>D&C 107</h1>
+
 <header class="book-intro">
 Revelation on the priesthood, given through Joseph Smith the Prophet, at Kirtland, Ohio, about April 1835. Although this section was recorded in 1835, the historical records affirm that most of verses 60 through 100 incorporate a revelation given through Joseph Smith on November 11, 1831. This section was associated with the organization of the Quorum of the Twelve in February and March 1835. The Prophet likely delivered it in the presence of those who were preparing to depart May 3, 1835, on their first quorum mission.
 </header>
 
-<h1>D&C 107</h1><sub>1</sub> There are, in the church, two priesthoods, namely, the Melchizedek and Aaronic, including the Levitical Priesthood. <sub>2</sub> Why the first is called the Melchizedek Priesthood is because Melchizedek was such a great high priest. <sub>3</sub> Before his day it was called the Holy Priesthood, after the Order of the Son of God. <sub>4</sub> But out of respect or reverence to the name of the Supreme Being, to avoid the too frequent repetition of his name, they, the church, in ancient days, called that priesthood after Melchizedek, or the Melchizedek Priesthood. <sub>5</sub> All other authorities or offices in the church are appendages to this priesthood.
+<sub>1</sub> There are, in the church, two priesthoods, namely, the Melchizedek and Aaronic, including the Levitical Priesthood. <sub>2</sub> Why the first is called the Melchizedek Priesthood is because Melchizedek was such a great high priest. <sub>3</sub> Before his day it was called the Holy Priesthood, after the Order of the Son of God. <sub>4</sub> But out of respect or reverence to the name of the Supreme Being, to avoid the too frequent repetition of his name, they, the church, in ancient days, called that priesthood after Melchizedek, or the Melchizedek Priesthood. <sub>5</sub> All other authorities or offices in the church are appendages to this priesthood.
 
 <sub>6</sub> But there are two divisions or grand heads—one is the Melchizedek Priesthood, and the other is the Aaronic or Levitical Priesthood. <sub>7</sub> The office of an elder comes under the priesthood of Melchizedek.
 
@@ -3362,11 +3574,13 @@ Revelation on the priesthood, given through Joseph Smith the Prophet, at Kirtlan
 
 
 
+<h1>D&C 108</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, December 26, 1835. This section was received at the request of Lyman Sherman, who had previously been ordained a seventy and who had come to the Prophet with a request for a revelation to make known his duty.
 </header>
 
-<h1>D&C 108</h1><sub>1</sub> Verily thus saith the Lord unto you, my servant Lyman: Your sins are forgiven you, because you have obeyed my voice in coming up hither this morning to receive counsel of him whom I have appointed.
+<sub>1</sub> Verily thus saith the Lord unto you, my servant Lyman: Your sins are forgiven you, because you have obeyed my voice in coming up hither this morning to receive counsel of him whom I have appointed.
 
 <sub>2</sub> Therefore, let your soul be at rest concerning your spiritual standing, and resist no more my voice. <sub>3</sub> And arise up and be more careful henceforth in observing your vows, which you have made and do make, and you shall be blessed with exceeding great blessings.
 
@@ -3380,11 +3594,13 @@ Revelation given through Joseph Smith the Prophet, at Kirtland, Ohio, December 2
 
 
 
+<h1>D&C 109</h1>
+
 <header class="book-intro">
 Prayer offered at the dedication of the temple at Kirtland, Ohio, March 27, 1836. According to the Prophet’s written statement, this prayer was given to him by revelation.
 </header>
 
-<h1>D&C 109</h1><sub>1</sub> Thanks be to thy name, O Lord God of Israel, who keepest covenant and showest mercy unto thy servants who walk uprightly before thee, with all their hearts—<sub>2</sub> thou who hast commanded thy servants to build a house to thy name in this place [Kirtland]. <sub>3</sub> And now thou beholdest, O Lord, that thy servants have done according to thy commandment.
+<sub>1</sub> Thanks be to thy name, O Lord God of Israel, who keepest covenant and showest mercy unto thy servants who walk uprightly before thee, with all their hearts—<sub>2</sub> thou who hast commanded thy servants to build a house to thy name in this place [Kirtland]. <sub>3</sub> And now thou beholdest, O Lord, that thy servants have done according to thy commandment.
 
 <sub>4</sub> And now we ask thee, Holy Father, in the name of Jesus Christ, the Son of thy bosom, in whose name alone salvation can be administered to the children of men, we ask thee, O Lord, to accept of this house, the workmanship of the hands of us, thy servants, which thou didst command us to build.
 
@@ -3436,11 +3652,13 @@ And help us by the power of thy Spirit, that we may mingle our voices with those
 
 
 
+<h1>D&C 110</h1>
+
 <header class="book-intro">
 Visions manifested to Joseph Smith the Prophet and Oliver Cowdery in the temple at Kirtland, Ohio, April 3, 1836. The occasion was that of a Sabbath day meeting. Joseph Smith’s history states: “In the afternoon, I assisted the other Presidents in distributing the Lord’s Supper to the Church, receiving it from the Twelve, whose privilege it was to officiate at the sacred desk this day. After having performed this service to my brethren, I retired to the pulpit, the veils being dropped, and bowed myself, with Oliver Cowdery, in solemn and silent prayer. After rising from prayer, the following vision was opened to both of us.”
 </header>
 
-<h1>D&C 110</h1><sub>1</sub> The veil was taken from our minds, and the eyes of our understanding were opened. <sub>2</sub> We saw the Lord standing upon the breastwork of the pulpit, before us; and under his feet was a paved work of pure gold, in color like amber. <sub>3</sub> His eyes were as a flame of fire; the hair of his head was white like the pure snow; his countenance shone above the brightness of the sun; and his voice was as the sound of the rushing of great waters, even the voice of Jehovah, saying: <sub>4</sub> I am the first and the last; I am he who liveth, I am he who was slain; I am your advocate with the Father.
+<sub>1</sub> The veil was taken from our minds, and the eyes of our understanding were opened. <sub>2</sub> We saw the Lord standing upon the breastwork of the pulpit, before us; and under his feet was a paved work of pure gold, in color like amber. <sub>3</sub> His eyes were as a flame of fire; the hair of his head was white like the pure snow; his countenance shone above the brightness of the sun; and his voice was as the sound of the rushing of great waters, even the voice of Jehovah, saying: <sub>4</sub> I am the first and the last; I am he who liveth, I am he who was slain; I am your advocate with the Father.
 
 <sub>5</sub> Behold, your sins are forgiven you; you are clean before me; therefore, lift up your heads and rejoice. <sub>6</sub> Let the hearts of your brethren rejoice, and let the hearts of all my people rejoice, who have, with their might, built this house to my name.
 
@@ -3458,11 +3676,13 @@ Visions manifested to Joseph Smith the Prophet and Oliver Cowdery in the temple 
 
 
 
+<h1>D&C 111</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Salem, Massachusetts, August 6, 1836. At this time the leaders of the Church were heavily in debt due to their labors in the ministry. Hearing that a large amount of money would be available to them in Salem, the Prophet, Sidney Rigdon, Hyrum Smith, and Oliver Cowdery traveled there from Kirtland, Ohio, to investigate this claim, along with preaching the gospel. The brethren transacted several items of Church business and did some preaching. When it became apparent that no money was to be forthcoming, they returned to Kirtland. Several of the factors prominent in the background are reflected in the wording of this revelation.
 </header>
 
-<h1>D&C 111</h1><sub>1</sub> I, the Lord your God, am not displeased with your coming this journey, notwithstanding your follies. <sub>2</sub> I have much treasure in this city for you, for the benefit of Zion, and many people in this city, whom I will gather out in due time for the benefit of Zion, through your instrumentality.
+<sub>1</sub> I, the Lord your God, am not displeased with your coming this journey, notwithstanding your follies. <sub>2</sub> I have much treasure in this city for you, for the benefit of Zion, and many people in this city, whom I will gather out in due time for the benefit of Zion, through your instrumentality.
 
 <sub>3</sub> Therefore, it is expedient that you should form acquaintance with men in this city, as you shall be led, and as it shall be given you. <sub>4</sub> And it shall come to pass in due time that I will give this city into your hands, that you shall have power over it, insomuch that they shall not discover your secret parts; and its wealth pertaining to gold and silver shall be yours.
 
@@ -3476,11 +3696,13 @@ And inquire diligently concerning the more ancient inhabitants and founders of t
 
 
 
+<h1>D&C 112</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet to Thomas B. Marsh, at Kirtland, Ohio, July 23, 1837, concerning the Twelve Apostles of the Lamb. This revelation was received on the day Elders Heber C. Kimball and Orson Hyde first preached the gospel in England. Thomas B. Marsh was at this time President of the Quorum of the Twelve Apostles.
 </header>
 
-<h1>D&C 112</h1><sub>1</sub> Verily thus saith the Lord unto you my servant Thomas: I have heard thy prayers; and thine alms have come up as a memorial before me, in behalf of those, thy brethren, who were chosen to bear testimony of my name and to send it abroad among all nations, kindreds, tongues, and people, and ordained through the instrumentality of my servants.
+<sub>1</sub> Verily thus saith the Lord unto you my servant Thomas: I have heard thy prayers; and thine alms have come up as a memorial before me, in behalf of those, thy brethren, who were chosen to bear testimony of my name and to send it abroad among all nations, kindreds, tongues, and people, and ordained through the instrumentality of my servants.
 
 <sub>2</sub> Verily I say unto you, there have been some few things in thine heart and with thee with which I, the Lord, was not well pleased. <sub>3</sub> Nevertheless, inasmuch as thou hast abased thyself thou shalt be exalted; therefore, all thy sins are forgiven thee.
 
@@ -3516,11 +3738,13 @@ Let thy feet be shod also, for thou art chosen, and thy path lieth among the mou
 
 
 
+<h1>D&C 113</h1>
+
 <header class="book-intro">
 Answers to certain questions on the writings of Isaiah, given by Joseph Smith the Prophet, at or near Far West, Missouri, March 1838.
 </header>
 
-<h1>D&C 113</h1><sub>1</sub> Who is the Stem of Jesse spoken of in the 1st, 2d, 3d, 4th, and 5th verses of the 11th chapter of Isaiah? <sub>2</sub> Verily thus saith the Lord: It is Christ.
+<sub>1</sub> Who is the Stem of Jesse spoken of in the 1st, 2d, 3d, 4th, and 5th verses of the 11th chapter of Isaiah? <sub>2</sub> Verily thus saith the Lord: It is Christ.
 
 <sub>3</sub> What is the rod spoken of in the first verse of the 11th chapter of Isaiah, that should come of the Stem of Jesse? <sub>4</sub> Behold, thus saith the Lord: It is a servant in the hands of Christ, who is partly a descendant of Jesse as well as of Ephraim, or of the house of Joseph, on whom there is laid much power.
 
@@ -3534,11 +3758,13 @@ Answers to certain questions on the writings of Isaiah, given by Joseph Smith th
 
 
 
+<h1>D&C 114</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Far West, Missouri, April 11, 1838.
 </header>
 
-<h1>D&C 114</h1><sub>1</sub> Verily thus saith the Lord: It is wisdom in my servant David W. Patten, that he settle up all his business as soon as he possibly can, and make a disposition of his merchandise, that he may perform a mission unto me next spring, in company with others, even twelve including himself, to testify of my name and bear glad tidings unto all the world.
+<sub>1</sub> Verily thus saith the Lord: It is wisdom in my servant David W. Patten, that he settle up all his business as soon as he possibly can, and make a disposition of his merchandise, that he may perform a mission unto me next spring, in company with others, even twelve including himself, to testify of my name and bear glad tidings unto all the world.
 
 <sub>2</sub> For verily thus saith the Lord, that inasmuch as there are those among you who deny my name, others shall be planted in their stead and receive their bishopric. Amen.
 
@@ -3546,11 +3772,13 @@ Revelation given through Joseph Smith the Prophet, at Far West, Missouri, April 
 
 
 
+<h1>D&C 115</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Far West, Missouri, April 26, 1838, making known the will of God concerning the building up of that place and of the Lord’s house. This revelation is addressed to the presiding officers and the members of the Church.
 </header>
 
-<h1>D&C 115</h1><sub>1</sub> Verily thus saith the Lord unto you, my servant Joseph Smith, Jun., and also my servant Sidney Rigdon, and also my servant Hyrum Smith, and your counselors who are and shall be appointed hereafter; <sub>2</sub> and also unto you, my servant Edward Partridge, and his counselors; <sub>3</sub> and also unto my faithful servants who are of the high council of my church in Zion, for thus it shall be called, and unto all the elders and people of my Church of Jesus Christ of Latter-day Saints, scattered abroad in all the world; <sub>4</sub> for thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints.
+<sub>1</sub> Verily thus saith the Lord unto you, my servant Joseph Smith, Jun., and also my servant Sidney Rigdon, and also my servant Hyrum Smith, and your counselors who are and shall be appointed hereafter; <sub>2</sub> and also unto you, my servant Edward Partridge, and his counselors; <sub>3</sub> and also unto my faithful servants who are of the high council of my church in Zion, for thus it shall be called, and unto all the elders and people of my Church of Jesus Christ of Latter-day Saints, scattered abroad in all the world; <sub>4</sub> for thus shall my church be called in the last days, even The Church of Jesus Christ of Latter-day Saints.
 
 <sub>5</sub> Verily I say unto you all: Arise and shine forth, that thy light may be a standard for the nations; <sub>6</sub> and that the gathering together upon the land of Zion, and upon her stakes, may be for a defense, and for a refuge from the storm, and from wrath when it shall be poured out without mixture upon the whole earth.
 
@@ -3566,21 +3794,25 @@ Revelation given through Joseph Smith the Prophet, at Far West, Missouri, April 
 
 
 
+<h1>D&C 116</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, near Wight’s Ferry, at a place called Spring Hill, Daviess County, Missouri, May 19, 1838.
 </header>
 
-<h1>D&C 116</h1><sub>1</sub> Spring Hill is named by the Lord Adam-ondi-Ahman, because, said he, it is the place where Adam shall come to visit his people, or the Ancient of Days shall sit, as spoken of by Daniel the prophet.
+<sub>1</sub> Spring Hill is named by the Lord Adam-ondi-Ahman, because, said he, it is the place where Adam shall come to visit his people, or the Ancient of Days shall sit, as spoken of by Daniel the prophet.
 
 
 
 
+
+<h1>D&C 117</h1>
 
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8, 1838, concerning the immediate duties of William Marks, Newel K. Whitney, and Oliver Granger.
 </header>
 
-<h1>D&C 117</h1><sub>1</sub> Verily thus saith the Lord unto my servant William Marks, and also unto my servant Newel K. Whitney, let them settle up their business speedily and journey from the land of Kirtland, before I, the Lord, send again the snows upon the earth.
+<sub>1</sub> Verily thus saith the Lord unto my servant William Marks, and also unto my servant Newel K. Whitney, let them settle up their business speedily and journey from the land of Kirtland, before I, the Lord, send again the snows upon the earth.
 
 <sub>2</sub> Let them awake, and arise, and come forth, and not tarry, for I, the Lord, command it. <sub>3</sub> Therefore, if they tarry it shall not be well with them.
 
@@ -3598,11 +3830,13 @@ Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8
 
 
 
+<h1>D&C 118</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8, 1838, in response to the supplication, “Show us thy will, O Lord, concerning the Twelve.”
 </header>
 
-<h1>D&C 118</h1><sub>1</sub> Verily, thus saith the Lord: Let a conference be held immediately; let the Twelve be organized; and let men be appointed to supply the place of those who are fallen.
+<sub>1</sub> Verily, thus saith the Lord: Let a conference be held immediately; let the Twelve be organized; and let men be appointed to supply the place of those who are fallen.
 
 <sub>2</sub> Let my servant Thomas remain for a season in the land of Zion, to publish my word. <sub>3</sub> Let the residue continue to preach from that hour, and if they will do this in all lowliness of heart, in meekness and humility, and long-suffering, I, the Lord, give unto them a promise that I will provide for their families; and an effectual door shall be opened for them, from henceforth.
 
@@ -3614,11 +3848,13 @@ Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8
 
 
 
+<h1>D&C 119</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8, 1838, in answer to his supplication: “O Lord! Show unto thy servants how much thou requirest of the properties of thy people for a tithing.” The law of tithing, as understood today, had not been given to the Church previous to this revelation. The term tithing in the prayer just quoted and in previous revelations (64:23; 85:3; 97:11) had meant not just one-tenth, but all free-will offerings, or contributions, to the Church funds. The Lord had previously given to the Church the law of consecration and stewardship of property, which members (chiefly the leading elders) entered into by a covenant that was to be everlasting. Because of failure on the part of many to abide by this covenant, the Lord withdrew it for a time and gave instead the law of tithing to the whole Church. The Prophet asked the Lord how much of their property He required for sacred purposes. The answer was this revelation.
 </header>
 
-<h1>D&C 119</h1><sub>1</sub> Verily, thus saith the Lord, I require all their surplus property to be put into the hands of the bishop of my church in Zion, <sub>2</sub> for the building of mine house, and for the laying of the foundation of Zion and for the priesthood, and for the debts of the Presidency of my Church. <sub>3</sub> And this shall be the beginning of the tithing of my people.
+<sub>1</sub> Verily, thus saith the Lord, I require all their surplus property to be put into the hands of the bishop of my church in Zion, <sub>2</sub> for the building of mine house, and for the laying of the foundation of Zion and for the priesthood, and for the debts of the Presidency of my Church. <sub>3</sub> And this shall be the beginning of the tithing of my people.
 
 <sub>4</sub> And after that, those who have thus been tithed shall pay one-tenth of all their interest annually; and this shall be a standing law unto them forever, for my holy priesthood, saith the Lord.
 
@@ -3630,21 +3866,25 @@ Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8
 
 
 
+<h1>D&C 120</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Far West, Missouri, July 8, 1838, making known the disposition of the properties tithed as named in the preceding revelation, section 119.
 </header>
 
-<h1>D&C 120</h1><sub>1</sub> Verily, thus saith the Lord, the time is now come, that it shall be disposed of by a council, composed of the First Presidency of my Church, and of the bishop and his council, and by my high council; and by mine own voice unto them, saith the Lord. Even so. Amen.
+<sub>1</sub> Verily, thus saith the Lord, the time is now come, that it shall be disposed of by a council, composed of the First Presidency of my Church, and of the bishop and his council, and by my high council; and by mine own voice unto them, saith the Lord. Even so. Amen.
 
 
 
 
+
+<h1>D&C 121</h1>
 
 <header class="book-intro">
 Prayer and prophecies written by Joseph Smith the Prophet in an epistle to the Church while he was a prisoner in the jail at Liberty, Missouri, dated March 20, 1839. The Prophet and several companions had been months in prison. Their petitions and appeals directed to the executive officers and the judiciary had failed to bring them relief.
 </header>
 
-<h1>D&C 121</h1><sub>1</sub> O God, where art thou? And where is the pavilion that covereth thy hiding place? <sub>2</sub> How long shall thy hand be stayed, and thine eye, yea thy pure eye, behold from the eternal heavens the wrongs of thy people and of thy servants, and thine ear be penetrated with their cries?
+<sub>1</sub> O God, where art thou? And where is the pavilion that covereth thy hiding place? <sub>2</sub> How long shall thy hand be stayed, and thine eye, yea thy pure eye, behold from the eternal heavens the wrongs of thy people and of thy servants, and thine ear be penetrated with their cries?
 
 <sub>3</sub> Yea, O Lord, how long shall they suffer these wrongs and unlawful oppressions, before thine heart shall be softened toward them, and thy bowels be moved with compassion toward them?
 
@@ -3682,11 +3922,13 @@ Prayer and prophecies written by Joseph Smith the Prophet in an epistle to the C
 
 
 
+<h1>D&C 122</h1>
+
 <header class="book-intro">
 The word of the Lord to Joseph Smith the Prophet, while a prisoner in the jail at Liberty, Missouri. This section is an excerpt from an epistle to the Church dated March 20, 1839 (see the heading to section 121).
 </header>
 
-<h1>D&C 122</h1><sub>1</sub> The ends of the earth shall inquire after thy name, and fools shall have thee in derision, and hell shall rage against thee; <sub>2</sub> while the pure in heart, and the wise, and the noble, and the virtuous, shall seek counsel, and authority, and blessings constantly from under thy hand.
+<sub>1</sub> The ends of the earth shall inquire after thy name, and fools shall have thee in derision, and hell shall rage against thee; <sub>2</sub> while the pure in heart, and the wise, and the noble, and the virtuous, shall seek counsel, and authority, and blessings constantly from under thy hand.
 
 <sub>3</sub> And thy people shall never be turned against thee by the testimony of traitors. <sub>4</sub> And although their influence shall cast thee into trouble, and into bars and walls, thou shalt be had in honor; and but for a small moment and thy voice shall be more terrible in the midst of thine enemies than the fierce lion, because of thy righteousness; and thy God shall stand by thee forever and ever.
 
@@ -3698,11 +3940,13 @@ The word of the Lord to Joseph Smith the Prophet, while a prisoner in the jail a
 
 
 
+<h1>D&C 123</h1>
+
 <header class="book-intro">
 Duty of the Saints in relation to their persecutors, as written by Joseph Smith the Prophet while a prisoner in the jail at Liberty, Missouri. This section is an excerpt from an epistle to the Church dated March 20, 1839 (see the heading to section 121).
 </header>
 
-<h1>D&C 123</h1><sub>1</sub> And again, we would suggest for your consideration the propriety of all the saints gathering up a knowledge of all the facts, and sufferings and abuses put upon them by the people of this State; <sub>2</sub> and also of all the property and amount of damages which they have sustained, both of character and personal injuries, as well as real property; <sub>3</sub> and also the names of all persons that have had a hand in their oppressions, as far as they can get hold of them and find them out.
+<sub>1</sub> And again, we would suggest for your consideration the propriety of all the saints gathering up a knowledge of all the facts, and sufferings and abuses put upon them by the people of this State; <sub>2</sub> and also of all the property and amount of damages which they have sustained, both of character and personal injuries, as well as real property; <sub>3</sub> and also the names of all persons that have had a hand in their oppressions, as far as they can get hold of them and find them out.
 
 <sub>4</sub> And perhaps a committee can be appointed to find out these things, and to take statements and affidavits; and also to gather up the libelous publications that are afloat; <sub>5</sub> and all that are in the magazines, and in the encyclopedias, and all the libelous histories that are published, and are writing, and by whom, and present the whole concatenation of diabolical rascality and nefarious and murderous impositions that have been practiced upon this people—<sub>6</sub> that we may not only publish to all the world, but present them to the heads of government in all their dark and hellish hue, as the last effort which is enjoined on us by our Heavenly Father, before we can fully and completely claim that promise which shall call him forth from his hiding place; and also that the whole nation may be left without excuse before he can send forth the power of his mighty arm.
 
@@ -3720,11 +3964,13 @@ Duty of the Saints in relation to their persecutors, as written by Joseph Smith 
 
 
 
+<h1>D&C 124</h1>
+
 <header class="book-intro">
 Revelation given to Joseph Smith the Prophet, at Nauvoo, Illinois, January 19, 1841. Because of increasing persecutions and illegal procedures against them by public officers, the Saints had been compelled to leave Missouri. The exterminating order issued by Lilburn W. Boggs, governor of Missouri, dated October 27, 1838, had left them no alternative. In 1841, when this revelation was given, the city of Nauvoo, occupying the site of the former village of Commerce, Illinois, had been built up by the Saints, and here the headquarters of the Church had been established.
 </header>
 
-<h1>D&C 124</h1><sub>1</sub> Verily, thus saith the Lord unto you, my servant Joseph Smith, I am well pleased with your offering and acknowledgments, which you have made; for unto this end have I raised you up, that I might show forth my wisdom through the weak things of the earth.
+<sub>1</sub> Verily, thus saith the Lord unto you, my servant Joseph Smith, I am well pleased with your offering and acknowledgments, which you have made; for unto this end have I raised you up, that I might show forth my wisdom through the weak things of the earth.
 
 <sub>2</sub> Your prayers are acceptable before me; and in answer to them I say unto you, that you are now called immediately to make a solemn proclamation of my gospel, and of this stake which I have planted to be a cornerstone of Zion, which shall be polished with the refinement which is after the similitude of a palace.
 
@@ -3868,11 +4114,13 @@ Revelation given to Joseph Smith the Prophet, at Nauvoo, Illinois, January 19, 1
 
 
 
+<h1>D&C 125</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Nauvoo, Illinois, March 1841, concerning the Saints in the territory of Iowa.
 </header>
 
-<h1>D&C 125</h1><sub>1</sub> What is the will of the Lord concerning the saints in the Territory of Iowa? <sub>2</sub> Verily, thus saith the Lord, I say unto you, if those who call themselves by my name and are essaying to be my saints, if they will do my will and keep my commandments concerning them, let them gather themselves together unto the places which I shall appoint unto them by my servant Joseph, and build up cities unto my name, that they may be prepared for that which is in store for a time to come.
+<sub>1</sub> What is the will of the Lord concerning the saints in the Territory of Iowa? <sub>2</sub> Verily, thus saith the Lord, I say unto you, if those who call themselves by my name and are essaying to be my saints, if they will do my will and keep my commandments concerning them, let them gather themselves together unto the places which I shall appoint unto them by my servant Joseph, and build up cities unto my name, that they may be prepared for that which is in store for a time to come.
 
 <sub>3</sub> Let them build up a city unto my name upon the land opposite the city of Nauvoo, and let the name of Zarahemla be named upon it. <sub>4</sub> And let all those who come from the east, and the west, and the north, and the south, that have desires to dwell therein, take up their inheritance in the same, as well as in the city of Nashville, or in the city of Nauvoo, and in all the stakes which I have appointed, saith the Lord.
 
@@ -3880,11 +4128,13 @@ Revelation given through Joseph Smith the Prophet, at Nauvoo, Illinois, March 18
 
 
 
+<h1>D&C 126</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, in the house of Brigham Young, at Nauvoo, Illinois, July 9, 1841. At this time Brigham Young was President of the Quorum of the Twelve Apostles.
 </header>
 
-<h1>D&C 126</h1><sub>1</sub> Dear and well-beloved brother, Brigham Young, verily thus saith the Lord unto you:
+<sub>1</sub> Dear and well-beloved brother, Brigham Young, verily thus saith the Lord unto you:
 
 My servant Brigham, it is no more required at your hand to leave your family as in times past, for your offering is acceptable to me. <sub>2</sub> I have seen your labor and toil in journeyings for my name. <sub>3</sub> I therefore command you to send my word abroad, and take especial care of your family from this time, henceforth and forever. Amen.
 
@@ -3892,11 +4142,13 @@ My servant Brigham, it is no more required at your hand to leave your family as 
 
 
 
+<h1>D&C 127</h1>
+
 <header class="book-intro">
 An epistle from Joseph Smith the Prophet to the Latter-day Saints at Nauvoo, Illinois, containing directions on baptism for the dead, dated at Nauvoo, September 1, 1842.
 </header>
 
-<h1>D&C 127</h1><sub>1</sub> Forasmuch as the Lord has revealed unto me that my enemies, both in Missouri and this State, were again in the pursuit of me; and inasmuch as they pursue me without a cause, and have not the least shadow or coloring of justice or right on their side in the getting up of their prosecutions against me; and inasmuch as their pretensions are all founded in falsehood of the blackest dye, I have thought it expedient and wisdom in me to leave the place for a short season, for my own safety and the safety of this people.
+<sub>1</sub> Forasmuch as the Lord has revealed unto me that my enemies, both in Missouri and this State, were again in the pursuit of me; and inasmuch as they pursue me without a cause, and have not the least shadow or coloring of justice or right on their side in the getting up of their prosecutions against me; and inasmuch as their pretensions are all founded in falsehood of the blackest dye, I have thought it expedient and wisdom in me to leave the place for a short season, for my own safety and the safety of this people.
 
 I would say to all those with whom I have business, that I have left my affairs with agents and clerks who will transact all business in a prompt and proper manner, and will see that all my debts are canceled in due time, by turning out property, or otherwise, as the case may require, or as the circumstances may admit of. When I learn that the storm is fully blown over, then I will return to you again.
 
@@ -3922,11 +4174,13 @@ Joseph Smith.
 
 
 
+<h1>D&C 128</h1>
+
 <header class="book-intro">
 An epistle from Joseph Smith the Prophet to The Church of Jesus Christ of Latter-day Saints, containing further directions on baptism for the dead, dated at Nauvoo, Illinois, September 6, 1842.
 </header>
 
-<h1>D&C 128</h1><sub>1</sub> As I stated to you in my letter before I left my place, that I would write to you from time to time and give you information in relation to many subjects, I now resume the subject of the baptism for the dead, as that subject seems to occupy my mind, and press itself upon my feelings the strongest, since I have been pursued by my enemies. <sub>2</sub> I wrote a few words of revelation to you concerning a recorder. I have had a few additional views in relation to this matter, which I now certify. That is, it was declared in my former letter that there should be a recorder, who should be eye-witness, and also to hear with his ears, that he might make a record of a truth before the Lord.
+<sub>1</sub> As I stated to you in my letter before I left my place, that I would write to you from time to time and give you information in relation to many subjects, I now resume the subject of the baptism for the dead, as that subject seems to occupy my mind, and press itself upon my feelings the strongest, since I have been pursued by my enemies. <sub>2</sub> I wrote a few words of revelation to you concerning a recorder. I have had a few additional views in relation to this matter, which I now certify. That is, it was declared in my former letter that there should be a recorder, who should be eye-witness, and also to hear with his ears, that he might make a record of a truth before the Lord.
 
 <sub>3</sub> Now, in relation to this matter, it would be very difficult for one recorder to be present at all times, and to do all the business. To obviate this difficulty, there can be a recorder appointed in each ward of the city, who is well qualified for taking accurate minutes; and let him be very particular and precise in taking the whole proceedings, certifying in his record that he saw with his eyes, and heard with his ears, giving the date, and names, and so forth, and the history of the whole transaction; naming also some three individuals that are present, if there be any present, who can at any time when called upon certify to the same, that in the mouth of two or three witnesses every word may be established.
 
@@ -3992,11 +4246,13 @@ Joseph Smith.
 
 
 
+<h1>D&C 129</h1>
+
 <header class="book-intro">
 Instructions given by Joseph Smith the Prophet, at Nauvoo, Illinois, February 9, 1843, making known three grand keys by which the correct nature of ministering angels and spirits may be distinguished.
 </header>
 
-<h1>D&C 129</h1><sub>1</sub> There are two kinds of beings in heaven, namely: Angels, who are resurrected personages, having bodies of flesh and bones—<sub>2</sub> for instance, Jesus said: Handle me and see, for a spirit hath not flesh and bones, as ye see me have.
+<sub>1</sub> There are two kinds of beings in heaven, namely: Angels, who are resurrected personages, having bodies of flesh and bones—<sub>2</sub> for instance, Jesus said: Handle me and see, for a spirit hath not flesh and bones, as ye see me have.
 
 <sub>3</sub> Secondly: the spirits of just men made perfect, they who are not resurrected, but inherit the same glory.
 
@@ -4008,11 +4264,13 @@ Instructions given by Joseph Smith the Prophet, at Nauvoo, Illinois, February 9,
 
 
 
+<h1>D&C 130</h1>
+
 <header class="book-intro">
 Items of instruction given by Joseph Smith the Prophet, at Ramus, Illinois, April 2, 1843.
 </header>
 
-<h1>D&C 130</h1><sub>1</sub> When the Savior shall appear we shall see him as he is. We shall see that he is a man like ourselves. <sub>2</sub> And that same sociality which exists among us here will exist among us there, only it will be coupled with eternal glory, which glory we do not now enjoy.
+<sub>1</sub> When the Savior shall appear we shall see him as he is. We shall see that he is a man like ourselves. <sub>2</sub> And that same sociality which exists among us here will exist among us there, only it will be coupled with eternal glory, which glory we do not now enjoy.
 
 <sub>3</sub> John 14:23—The appearing of the Father and the Son, in that verse, is a personal appearance; and the idea that the Father and the Son dwell in a man’s heart is an old sectarian notion, and is false.
 
@@ -4038,11 +4296,13 @@ Items of instruction given by Joseph Smith the Prophet, at Ramus, Illinois, Apri
 
 
 
+<h1>D&C 131</h1>
+
 <header class="book-intro">
 Instructions by Joseph Smith the Prophet, given at Ramus, Illinois, May 16 and 17, 1843.
 </header>
 
-<h1>D&C 131</h1><sub>1</sub> In the celestial glory there are three heavens or degrees; <sub>2</sub> and in order to obtain the highest, a man must enter into this order of the priesthood [meaning the new and everlasting covenant of marriage]; <sub>3</sub> and if he does not, he cannot obtain it. <sub>4</sub> He may enter into the other, but that is the end of his kingdom; he cannot have an increase.
+<sub>1</sub> In the celestial glory there are three heavens or degrees; <sub>2</sub> and in order to obtain the highest, a man must enter into this order of the priesthood [meaning the new and everlasting covenant of marriage]; <sub>3</sub> and if he does not, he cannot obtain it. <sub>4</sub> He may enter into the other, but that is the end of his kingdom; he cannot have an increase.
 
 (<sub>5</sub> May 17th, 1843.) The more sure word of prophecy means a man’s knowing that he is sealed up unto eternal life, by revelation and the spirit of prophecy, through the power of the Holy Priesthood. <sub>6</sub> It is impossible for a man to be saved in ignorance.
 
@@ -4052,11 +4312,13 @@ Instructions by Joseph Smith the Prophet, given at Ramus, Illinois, May 16 and 1
 
 
 
+<h1>D&C 132</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Nauvoo, Illinois, recorded July 12, 1843, relating to the new and everlasting covenant, including the eternity of the marriage covenant and the principle of plural marriage. Although the revelation was recorded in 1843, evidence indicates that some of the principles involved in this revelation were known by the Prophet as early as 1831. See Official Declaration 1.
 </header>
 
-<h1>D&C 132</h1><sub>1</sub> Verily, thus saith the Lord unto you my servant Joseph, that inasmuch as you have inquired of my hand to know and understand wherein I, the Lord, justified my servants Abraham, Isaac, and Jacob, as also Moses, David and Solomon, my servants, as touching the principle and doctrine of their having many wives and concubines—<sub>2</sub> behold, and lo, I am the Lord thy God, and will answer thee as touching this matter. <sub>3</sub> Therefore, prepare thy heart to receive and obey the instructions which I am about to give unto you; for all those who have this law revealed unto them must obey the same.
+<sub>1</sub> Verily, thus saith the Lord unto you my servant Joseph, that inasmuch as you have inquired of my hand to know and understand wherein I, the Lord, justified my servants Abraham, Isaac, and Jacob, as also Moses, David and Solomon, my servants, as touching the principle and doctrine of their having many wives and concubines—<sub>2</sub> behold, and lo, I am the Lord thy God, and will answer thee as touching this matter. <sub>3</sub> Therefore, prepare thy heart to receive and obey the instructions which I am about to give unto you; for all those who have this law revealed unto them must obey the same.
 
 <sub>4</sub> For behold, I reveal unto you a new and an everlasting covenant; and if ye abide not that covenant, then are ye damned; for no one can reject this covenant and be permitted to enter into my glory. <sub>5</sub> For all who will have a blessing at my hands shall abide the law which was appointed for that blessing, and the conditions thereof, as were instituted from before the foundation of the world.
 
@@ -4124,11 +4386,13 @@ Go, therefore, and I make a way for your escape, as I accepted the offering of A
 
 
 
+<h1>D&C 133</h1>
+
 <header class="book-intro">
 Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 3, 1831. Prefacing this revelation, Joseph Smith’s history states, “At this time there were many things which the Elders desired to know relative to preaching the Gospel to the inhabitants of the earth, and concerning the gathering; and in order to walk by the true light, and be instructed from on high, on the 3rd of November, 1831, I inquired of the Lord and received the following important revelation.” This section was first added to the book of Doctrine and Covenants as an appendix and was subsequently assigned a section number.
 </header>
 
-<h1>D&C 133</h1><sub>1</sub> Hearken, O ye people of my church, saith the Lord your God, and hear the word of the Lord concerning you—<sub>2</sub> the Lord who shall suddenly come to his temple; the Lord who shall come down upon the world with a curse to judgment; yea, upon all the nations that forget God, and upon all the ungodly among you. <sub>3</sub> For he shall make bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of their God.
+<sub>1</sub> Hearken, O ye people of my church, saith the Lord your God, and hear the word of the Lord concerning you—<sub>2</sub> the Lord who shall suddenly come to his temple; the Lord who shall come down upon the world with a curse to judgment; yea, upon all the nations that forget God, and upon all the ungodly among you. <sub>3</sub> For he shall make bare his holy arm in the eyes of all the nations, and all the ends of the earth shall see the salvation of their God.
 
 <sub>4</sub> Wherefore, prepare ye, prepare ye, O my people; sanctify yourselves; gather ye together, O ye people of my church, upon the land of Zion, all you that have not been commanded to tarry. <sub>5</sub> Go ye out from Babylon. Be ye clean that bear the vessels of the Lord. <sub>6</sub> Call your solemn assemblies, and speak often one to another. And let every man call upon the name of the Lord.
 
@@ -4196,11 +4460,13 @@ Revelation given through Joseph Smith the Prophet, at Hiram, Ohio, November 3, 1
 
 
 
+<h1>D&C 134</h1>
+
 <header class="book-intro">
 A declaration of belief regarding governments and laws in general, adopted by unanimous vote at a general assembly of the Church held at Kirtland, Ohio, August 17, 1835. Many Saints gathered together to consider the proposed contents of the first edition of the Doctrine and Covenants. At that time, this declaration was given the following preamble: “That our belief with regard to earthly governments and laws in general may not be misinterpreted nor misunderstood, we have thought proper to present, at the close of this volume, our opinion concerning the same.”
 </header>
 
-<h1>D&C 134</h1><sub>1</sub> We believe that governments were instituted of God for the benefit of man; and that he holds men accountable for their acts in relation to them, both in making laws and administering them, for the good and safety of society.
+<sub>1</sub> We believe that governments were instituted of God for the benefit of man; and that he holds men accountable for their acts in relation to them, both in making laws and administering them, for the good and safety of society.
 
 <sub>2</sub> We believe that no government can exist in peace, except such laws are framed and held inviolate as will secure to each individual the free exercise of conscience, the right and control of property, and the protection of life.
 
@@ -4228,11 +4494,13 @@ A declaration of belief regarding governments and laws in general, adopted by un
 
 
 
+<h1>D&C 135</h1>
+
 <header class="book-intro">
 Announcement of the martyrdom of Joseph Smith the Prophet and his brother, Hyrum Smith the Patriarch, at Carthage, Illinois, June 27, 1844. This document was included at the end of the 1844 edition of the Doctrine and Covenants, which was nearly ready for publication when Joseph and Hyrum Smith were murdered.
 </header>
 
-<h1>D&C 135</h1><sub>1</sub> To seal the testimony of this book and the Book of Mormon, we announce the martyrdom of Joseph Smith the Prophet, and Hyrum Smith the Patriarch. They were shot in Carthage jail, on the 27th of June, 1844, about five o’clock p.m., by an armed mob—painted black—of from 150 to 200 persons.
+<sub>1</sub> To seal the testimony of this book and the Book of Mormon, we announce the martyrdom of Joseph Smith the Prophet, and Hyrum Smith the Patriarch. They were shot in Carthage jail, on the 27th of June, 1844, about five o’clock p.m., by an armed mob—painted black—of from 150 to 200 persons.
 
 Hyrum was shot first and fell calmly, exclaiming: I am a dead man! Joseph leaped from the window, and was shot dead in the attempt, exclaiming: O Lord my God! They were both shot after they were dead, in a brutal manner, and both received four balls. <sub>2</sub> John Taylor and Willard Richards, two of the Twelve, were the only persons in the room at the time; the former was wounded in a savage manner with four balls, but has since recovered; the latter, through the providence of God, escaped, without even a hole in his robe.
 
@@ -4254,11 +4522,13 @@ They lived for glory; they died for glory; and glory is their eternal reward. Fr
 
 
 
+<h1>D&C 136</h1>
+
 <header class="book-intro">
 The word and will of the Lord, given through President Brigham Young at Winter Quarters, the camp of Israel, Omaha Nation, on the west bank of the Missouri River, near Council Bluffs, Iowa.
 </header>
 
-<h1>D&C 136</h1><sub>1</sub> The Word and Will of the Lord concerning the Camp of Israel in their journeyings to the West: <sub>2</sub> Let all the people of The Church of Jesus Christ of Latter-day Saints, and those who journey with them, be organized into companies, with a covenant and promise to keep all the commandments and statutes of the Lord our God.
+<sub>1</sub> The Word and Will of the Lord concerning the Camp of Israel in their journeyings to the West: <sub>2</sub> Let all the people of The Church of Jesus Christ of Latter-day Saints, and those who journey with them, be organized into companies, with a covenant and promise to keep all the commandments and statutes of the Lord our God.
 
 <sub>3</sub> Let the companies be organized with captains of hundreds, captains of fifties, and captains of tens, with a president and his two counselors at their head, under the direction of the Twelve Apostles. <sub>4</sub> And this shall be our covenant—that we will walk in all the ordinances of the Lord.
 
@@ -4298,11 +4568,13 @@ The word and will of the Lord, given through President Brigham Young at Winter Q
 
 
 
+<h1>D&C 137</h1>
+
 <header class="book-intro">
 A vision given to Joseph Smith the Prophet, in the temple at Kirtland, Ohio, January 21, 1836. The occasion was the administration of ordinances in preparation for the dedication of the temple.
 </header>
 
-<h1>D&C 137</h1><sub>1</sub> The heavens were opened upon us, and I beheld the celestial kingdom of God, and the glory thereof, whether in the body or out I cannot tell.
+<sub>1</sub> The heavens were opened upon us, and I beheld the celestial kingdom of God, and the glory thereof, whether in the body or out I cannot tell.
 
 <sub>2</sub> I saw the transcendent beauty of the gate through which the heirs of that kingdom will enter, which was like unto circling flames of fire; <sub>3</sub> also the blazing throne of God, whereon was seated the Father and the Son. <sub>4</sub> I saw the beautiful streets of that kingdom, which had the appearance of being paved with gold.
 
@@ -4316,11 +4588,13 @@ A vision given to Joseph Smith the Prophet, in the temple at Kirtland, Ohio, Jan
 
 
 
+<h1>D&C 138</h1>
+
 <header class="book-intro">
 A vision given to President Joseph F. Smith in Salt Lake City, Utah, on October 3, 1918. In his opening address at the 89th Semiannual General Conference of the Church, on October 4, 1918, President Smith declared that he had received several divine communications during the previous months. One of these, concerning the Savior’s visit to the spirits of the dead while His body was in the tomb, President Smith had received the previous day. It was written immediately following the close of the conference. On October 31, 1918, it was submitted to the counselors in the First Presidency, the Council of the Twelve, and the Patriarch, and it was unanimously accepted by them.
 </header>
 
-<h1>D&C 138</h1><sub>1</sub> On the third of October, in the year nineteen hundred and eighteen, I sat in my room pondering over the scriptures; <sub>2</sub> and reflecting upon the great atoning sacrifice that was made by the Son of God, for the redemption of the world; <sub>3</sub> and the great and wonderful love made manifest by the Father and the Son in the coming of the Redeemer into the world; <sub>4</sub> that through his atonement, and by obedience to the principles of the gospel, mankind might be saved.
+<sub>1</sub> On the third of October, in the year nineteen hundred and eighteen, I sat in my room pondering over the scriptures; <sub>2</sub> and reflecting upon the great atoning sacrifice that was made by the Son of God, for the redemption of the world; <sub>3</sub> and the great and wonderful love made manifest by the Father and the Son in the coming of the Redeemer into the world; <sub>4</sub> that through his atonement, and by obedience to the principles of the gospel, mankind might be saved.
 
 <sub>5</sub> While I was thus engaged, my mind reverted to the writings of the apostle Peter, to the primitive saints scattered abroad throughout Pontus, Galatia, Cappadocia, and other parts of Asia, where the gospel had been preached after the crucifixion of the Lord. <sub>6</sub> I opened the Bible and read the third and fourth chapters of the first epistle of Peter, and as I read I was greatly impressed, more than I had ever been before, with the following passages: “<sub>7</sub> For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit: <sub>8</sub> by which also he went and preached unto the spirits in prison; <sub>9</sub> which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.” (1 Peter 3:18–20.) “<sub>10</sub> For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.” (1 Peter 4:6.)
 

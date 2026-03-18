@@ -81,19 +81,19 @@ def clean(in_path, out_path):
         if prev_mtype == 'sub' and mtype == 'h1':
             parts = re.split(r'\n[ \t]*\n', gap, maxsplit=1)
             result.append(parts[0])
+            result.append('\n\n')
+            result.append(content[start:end])  # <h1> first
 
             if len(parts) > 1:
                 processed = process_outlying(parts[1])
                 if processed:
                     result.append('\n\n')
                     result.append(processed)
-                result.append('\n\n')
-            else:
-                result.append('\n\n')
+            result.append('\n\n')
         else:
             result.append(gap)
+            result.append(content[start:end])
 
-        result.append(content[start:end])
         prev_end = end
         prev_mtype = mtype
 
