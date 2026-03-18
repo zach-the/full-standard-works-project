@@ -1,0 +1,127 @@
+% margin.tex - margin styling for chapter numbers & verse numbers
+
+\usepackage{marginnote} % for margin notes
+\usepackage{graphicx}   % for \rotatebox
+\usepackage{etoolbox}   % for patching commands
+\usepackage{lipsum}     % for testing (can remove later)
+\usepackage{calc}       % for calculations
+
+% ----------------------------
+% Chapter numbers in outer margin
+% ----------------------------
+
+% Place chapters in the outer margin, rotated vertically
+\makeatletter
+\newcommand{\invisiblechapter}[1]{%
+  \refstepcounter{chapter}%
+  \marginnote[
+    \rotatebox{90}{\scriptsize\scshape #1}
+  ]{
+    \rotatebox{90}{\scriptsize\scshape #1}
+  }[0pt]%
+  \ignorespaces % remove any space immediately following the command
+}
+\makeatother
+
+% Ensure margin notes appear on outer edge of the page
+\reversemarginpar
+
+% ----------------------------
+% Styled \chapter{} headings
+% ----------------------------
+\usepackage{titlesec} % allows chapter title formatting
+
+% Define chapter title format:
+\titleformat{\chapter}
+  [display]                               % display style (chapter on its own line)
+  {\normalfont\bfseries\centering\LARGE}        % format: bold + centered
+  {\thechapter}                           % label (chapter number)
+  {1em}                                   % space between label and title
+  {\MakeUppercase}                        % convert title to all caps
+  []                                      % code after the title text
+
+% Optional: add spacing before/after
+\titlespacing*{\chapter}
+  {0pt}   % left margin
+  {0pt}   % space before
+  {1.5em} % space after
+
+% ----------------------------
+% Styled \subsection{} headings
+% ----------------------------
+\usepackage{titlesec}
+
+\titleformat{\subsection}
+  [display]
+  {\normalfont\bfseries\centering\normalsize}
+  {}
+  {0pt}
+  {\MakeUppercase}
+  []
+
+\titlespacing*{\subsection}
+  {0pt}
+  {0.75em}
+  {0.75em}
+
+% ----------------------------
+% Page breaks / spacing
+% ----------------------------
+
+% Preserve standard book layout, don't interfere with Pandoc spacing
+\setlength{\parskip}{0.3em}
+\setlength{\parindent}{1.5em}
+
+% ----------------------------
+% Optional: tweak margin note placement for better visual
+% ----------------------------
+
+%\setlength{\marginparsep}{1em}   % distance between text and margin
+%\setlength{\marginparwidth}{3em} % width of margin note box
+
+% --- Page layout ---
+%\usepackage[a4paper,inner=1in,outer=1.25in,top=1in,bottom=1in]{geometry}
+% --- Page layout: Centered Margins ---
+\usepackage[
+  a4paper,
+  margin=1.125in, % Sets all four margins to a single, centered value
+  % Alternatively, you can specify individual symmetric margins:
+  left=1.125in, 
+  right=1.125in, 
+  top=.75in, 
+  bottom=.75in
+]{geometry}
+% --- Margin note spacing (for chapter numbers) ---
+\setlength{\marginparwidth}{2em}
+\setlength{\marginparsep}{0.75em}
+
+% ----------------------------
+% Custom text styles
+% ----------------------------
+
+% \centered{text} → all caps, centered text
+\newcommand{\centered}[1]{%
+  \begin{center}
+    \MakeUppercase{#1}%
+  \end{center}%
+}
+
+\newcommand{\centeredlarge}[1]{
+  \begin{center}
+    \Huge
+    \MakeUppercase{#1}
+  \end{center}
+}
+
+\newcommand{\centeredmedium}[1]{
+  \begin{center}
+    \LARGE
+    \MakeUppercase{#1}
+  \end{center}
+}
+
+% \italicized{text} → italicized paragraph, no indent, slightly smaller
+\newcommand{\italicized}[1]{%
+  \par\noindent
+  {\small\itshape #1}\par
+}
