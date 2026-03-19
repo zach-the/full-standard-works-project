@@ -60,457 +60,406 @@
 
 \begin{poetry}
 
-
-
 Adah and Zillah, Hear my voice;\\
-Ye wives of Lamech, hearken unto my speech:\\
+\hspace*{2.5em}Ye wives of Lamech, hearken unto my speech:\\
 For I have slain a man to my wounding,\\
-And a young man to my hurt.\\
+\hspace*{2.5em}And a young man to my hurt.
+
 \vnum{₂₄} If Cain shall be avenged sevenfold,\\
-Truly Lamech seventy and sevenfold.
-
-
+\hspace*{2.5em}Truly Lamech seventy and sevenfold.
 
 \end{poetry}
 
 
 
-\chapter{Psalms}
-
-
-
-
-
-\subsection*{Chapter 1}
-
-\chapmark{Psalms 1} 
+\chapmark{Psalms 37} 
 
 
 
 \begin{poetry}
 
+\psalmsuper{A Psalm of David.}
 
+\vnum{₁}  Fret not thyself because of evildoers,\\
+\hspace*{2.5em}Neither be thou envious against the workers of iniquity.
 
-\vnum{₁} Blessed is the man\\
-That walketh not in the counsel of the ungodly,\\
-Nor standeth in the way of sinners,\\
-Nor sitteth in the seat of the scornful.\\
-\vnum{₂} But his delight is in the law of the Lord;\\
-And in his law doth he meditate day and night.\\
-\vnum{₃} And he shall be like a tree planted by the rivers of water,\\
-That bringeth forth his fruit in his season;\\
-His leaf also shall not wither;\\
-And whatsoever he doeth shall prosper.\\
-\vnum{₄} The ungodly are not so:\\
-But are like the chaff which the wind driveth away.\\
-\vnum{₅} Therefore the ungodly shall not stand in the judgment,\\
-Nor sinners in the congregation of the righteous.\\
-\vnum{₆} For the Lord knoweth the way of the righteous:\\
-But the way of the ungodly shall perish.
-
-
+\vnum{₂} For they shall soon be cut down like the grass,\\
+\hspace*{2.5em}And wither as the green herb.
 
 \end{poetry}
 
+\vspace{0.1em}
 
 
 
 
-\subsection*{Chapter 2}
-
-\chapmark{Psalms 2} 
 
 
 
 \begin{poetry}
 
+\vnum{₃}  Trust in the Lord, and do good;\\
+\hspace*{2.5em}So shalt thou dwell in the land, and verily thou shalt be fed.
 
-
-\vnum{₁} Why do the heathen rage,\\
-And the people imagine a vain thing?\\
-\vnum{₂} The kings of the earth set themselves,\\
-And the rulers take counsel together,\\
-Against the Lord, and against his anointed, saying,\\
-\vnum{₃} Let us break their bands asunder,\\
-And cast away their cords from us.\\
-\vnum{₄} He that sitteth in the heavens shall laugh:\\
-The Lord shall have them in derision.\\
-\vnum{₅} Then shall he speak unto them in his wrath,\\
-And vex them in his sore displeasure.\\
-\vnum{₆} Yet have I set my king\\
-Upon my holy hill of Zion.\\
-\vnum{₇} I will declare the decree:\\
-The Lord hath said unto me, Thou art my Son;\\
-This day have I begotten thee.\\
-\vnum{₈} Ask of me,\\
-And I shall give thee the heathen for thine inheritance,\\
-And the uttermost parts of the earth for thy possession.\\
-\vnum{₉} Thou shalt break them with a rod of iron;\\
-Thou shalt dash them in pieces like a potter's vessel.\\
-\vnum{₁₀} Be wise now therefore, O ye kings:\\
-Be instructed, ye judges of the earth.\\
-\vnum{₁₁} Serve the Lord with fear,\\
-And rejoice with trembling.\\
-\vnum{₁₂} Kiss the Son, lest he be angry,\\
-And ye perish from the way,\\
-When his wrath is kindled but a little:\\
-Blessed are all they that put their trust in him.
-
-
+\vnum{₄} Delight thyself also in the Lord;\\
+\hspace*{2.5em}And he shall give thee the desires of thine heart.
 
 \end{poetry}
 
+\vspace{0.1em}
 
 
 
 
-\subsection*{Chapter 3}
-
-\chapmark{Psalms 3} 
 
 
 
 \begin{poetry}
 
+\vnum{₅}  Commit thy way unto the Lord;\\
+\hspace*{2.5em}Trust also in him; and he shall bring it to pass.
 
-
-
-
-\psalmsuper{A Psalm of David, when he fled from Absalom his son.}
-
-
-\vnum{₁} Lord, how are they increased that trouble me!\\
-Many are they that rise up against me.\\
-\vnum{₂} Many there be which say of my soul,\\
-There is no help for him in God. Selah.\\
-\vnum{₃} But thou, O Lord, art a shield for me;\\
-My glory, and the lifter up of mine head.\\
-\vnum{₄} I cried unto the Lord with my voice,\\
-And he heard me out of his holy hill. Selah.\\
-\vnum{₅} I laid me down and slept;\\
-I awaked; for the Lord sustained me.\\
-\vnum{₆} I will not be afraid of ten thousands of people,\\
-That have set themselves against me round about.\\
-\vnum{₇} Arise, O Lord; save me, O my God:\\
-For thou hast smitten all mine enemies upon the cheek bone;\\
-Thou hast broken the teeth of the ungodly.\\
-\vnum{₈} Salvation belongeth unto the Lord:\\
-Thy blessing is upon thy people. Selah.
-
-
+\vnum{₆} And he shall bring forth thy righteousness as the light,\\
+\hspace*{2.5em}And thy judgment as the noonday.
 
 \end{poetry}
 
+\vspace{0.1em}
 
 
 
 
-\subsection*{Chapter 4}
-
-\chapmark{Psalms 4} 
 
 
 
 \begin{poetry}
 
-
-
-
-
-\psalmsuper{To the chief Musician on Neginoth, A Psalm of David.}
-
-
-\vnum{₁} Hear me when I call, O God of my righteousness:\\
-Thou hast enlarged me when I was in distress;\\
-Have mercy upon me, and hear my prayer.\\
-\vnum{₂} O ye sons of men, how long will ye turn my glory into shame?\\
-How long will ye love vanity, and seek after leasing? Selah.\\
-\vnum{₃} But know that the Lord hath set apart him that is godly for himself:\\
-The Lord will hear when I call unto him.\\
-\vnum{₄} Stand in awe, and sin not:\\
-Commune with your own heart upon your bed, and be still. Selah.\\
-\vnum{₅} Offer the sacrifices of righteousness,\\
-And put your trust in the Lord.\\
-\vnum{₆} There be many that say, Who will shew us any good?\\
-Lord, lift thou up the light of thy countenance upon us.\\
-\vnum{₇} Thou hast put gladness in my heart,\\
-More than in the time that their corn and their wine increased.\\
-\vnum{₈} I will both lay me down in peace, and sleep:\\
-For thou, Lord, only makest me dwell in safety.
-
-
+\vnum{₇}  Rest in the Lord, and wait patiently for him:\\
+\hspace*{2.5em}Fret not thyself because of him who prospereth in his way,\\
+Because of the man who bringeth wicked devices to pass.
 
 \end{poetry}
 
+\vspace{0.1em}
 
 
 
 
-\subsection*{Chapter 5}
-
-\chapmark{Psalms 5} 
 
 
 
 \begin{poetry}
 
+\vnum{₈}  Cease from anger, and forsake wrath:\\
+\hspace*{2.5em}Fret not thyself in any wise to do evil.
 
-
-
-
-\psalmsuper{To the chief Musician upon Nehiloth, A Psalm of David.}
-
-
-\vnum{₁} Give ear to my words, O Lord,\\
-Consider my meditation.\\
-\vnum{₂} Hearken unto the voice of my cry, my King, and my God:\\
-For unto thee will I pray.\\
-\vnum{₃} My voice shalt thou hear in the morning, O Lord;\\
-In the morning will I direct my prayer unto thee, and will look up.\\
-\vnum{₄} For thou art not a God that hath pleasure in wickedness:\\
-Neither shall evil dwell with thee.\\
-\vnum{₅} The foolish shall not stand in thy sight:\\
-Thou hatest all workers of iniquity.\\
-\vnum{₆} Thou shalt destroy them that speak leasing:\\
-The Lord will abhor the bloody and deceitful man.\\
-\vnum{₇} But as for me, I will come into thy house in the multitude of thy mercy:\\
-And in thy fear will I worship toward thy holy temple.\\
-\vnum{₈} Lead me, O Lord, in thy righteousness because of mine enemies;\\
-Make thy way straight before my face.\\
-\vnum{₉} For there is no faithfulness in their mouth;\\
-Their inward part is very wickedness;\\
-Their throat is an open sepulchre;\\
-They flatter with their tongue.\\
-\vnum{₁₀} Destroy thou them, O God;\\
-Let them fall by their own counsels;\\
-Cast them out in the multitude of their transgressions;\\
-For they have rebelled against thee.\\
-\vnum{₁₁} But let all those that put their trust in thee rejoice:\\
-Let them ever shout for joy, because thou defendest them:\\
-Let them also that love thy name be joyful in thee.\\
-\vnum{₁₂} For thou, Lord, wilt bless the righteous;\\
-With favour wilt thou compass him as with a shield.
-
-
+\vnum{₉} For evildoers shall be cut off:\\
+\hspace*{2.5em}But those that wait upon the Lord, they shall inherit the earth.
 
 \end{poetry}
 
+\vspace{0.1em}
 
 
 
 
-\subsection*{Chapter 6}
-
-\chapmark{Psalms 6} 
 
 
 
 \begin{poetry}
 
+\vnum{₁₀}  For yet a little while, and the wicked shall not be:\\
+\hspace*{2.5em}Yea, thou shalt diligently consider his place, and it shall not be.
 
-
-
-
-\psalmsuper{To the chief Musician on Neginoth upon Sheminith, A Psalm of David.}
-
-
-\vnum{₁} O Lord, rebuke me not in thine anger,\\
-Neither chasten me in thy hot displeasure.\\
-\vnum{₂} Have mercy upon me, O Lord; for I am weak:\\
-O Lord, heal me; for my bones are vexed.\\
-\vnum{₃} My soul is also sore vexed:\\
-But thou, O Lord, how long?\\
-\vnum{₄} Return, O Lord, deliver my soul:\\
-Oh save me for thy mercies sake.\\
-\vnum{₅} For in death there is no remembrance of thee:\\
-In the grave who shall give thee thanks?\\
-\vnum{₆} I am weary with my groaning;\\
-All the night make I my bed to swim;\\
-I water my couch with my tears.\\
-\vnum{₇} Mine eye is consumed because of grief;\\
-It waxeth old because of all mine enemies.\\
-\vnum{₈} Depart from me, all ye workers of iniquity;\\
-For the Lord hath heard the voice of my weeping.\\
-\vnum{₉} The Lord hath heard my supplication;\\
-The Lord will receive my prayer.\\
-\vnum{₁₀} Let all mine enemies be ashamed and sore vexed:\\
-Let them return and be ashamed suddenly.
-
-
+\vnum{₁₁} But the meek shall inherit the earth;\\
+\hspace*{2.5em}And shall delight themselves in the abundance of peace.
 
 \end{poetry}
 
+\vspace{0.1em}
 
 
 
 
-\subsection*{Chapter 7}
-
-\chapmark{Psalms 7} 
 
 
 
 \begin{poetry}
 
+\vnum{₁₂}  The wicked plotteth against the just,\\
+\hspace*{2.5em}And gnasheth upon him with his teeth.
 
-
-
-
-\psalmsuper{Shiggaion of David, which he sang unto the Lord, concerning the words of Cush the Benjamite.}
-
-
-\vnum{₁} O Lord my God, in thee do I put my trust:\\
-Save me from all them that persecute me, and deliver me:\\
-\vnum{₂} Lest he tear my soul like a lion,\\
-Rending it in pieces, while there is none to deliver.\\
-\vnum{₃} O Lord my God, if I have done this;\\
-If there be iniquity in my hands;\\
-\vnum{₄} If I have rewarded evil unto him that was at peace with me;\\
-(Yea, I have delivered him that without cause is mine enemy:)\\
-\vnum{₅} Let the enemy persecute my soul, and take it;\\
-Yea, let him tread down my life upon the earth,\\
-And lay mine honour in the dust. Selah.\\
-\vnum{₆} Arise, O Lord, in thine anger,\\
-Lift up thyself because of the rage of mine enemies:\\
-And awake for me to the judgment that thou hast commanded.\\
-\vnum{₇} So shall the congregation of the people compass thee about:\\
-For their sakes therefore return thou on high.\\
-\vnum{₈} The Lord shall judge the people:\\
-Judge me, O Lord, according to my righteousness,\\
-And according to mine integrity that is in me.\\
-\vnum{₉} Oh let the wickedness of the wicked come to an end; but establish the just:\\
-For the righteous God trieth the hearts and reins.\\
-\vnum{₁₀} My defence is of God,\\
-Which saveth the upright in heart.\\
-\vnum{₁₁} God judgeth the righteous,\\
-And God is angry with the wicked every day.\\
-\vnum{₁₂} If he turn not, he will whet his sword;\\
-He hath bent his bow, and made it ready.\\
-\vnum{₁₃} He hath also prepared for him the instruments of death;\\
-He ordaineth his arrows against the persecutors.\\
-\vnum{₁₄} Behold, he travaileth with iniquity,\\
-And hath conceived mischief,\\
-And brought forth falsehood.\\
-\vnum{₁₅} He made a pit, and digged it,\\
-And is fallen into the ditch which he made.\\
-\vnum{₁₆} His mischief shall return upon his own head,\\
-And his violent dealing shall come down upon his own pate.\\
-\vnum{₁₇} I will praise the Lord according to his righteousness:\\
-And will sing praise to the name of the Lord most High.
-
-
+\vnum{₁₃} The Lord shall laugh at him:\\
+\hspace*{2.5em}For he seeth that his day is coming.
 
 \end{poetry}
 
+\vspace{0.1em}
 
 
 
 
-\subsection*{Chapter 8}
-
-\chapmark{Psalms 8} 
 
 
 
 \begin{poetry}
 
+\vnum{₁₄}  The wicked have drawn out the sword, and have bent their bow,\\
+\hspace*{2.5em}To cast down the poor and needy,\\
+\hspace*{2.5em}And to slay such as be of upright conversation.
 
-
-
-
-\psalmsuper{To the chief Musician upon Gittith, A Psalm of David.}
-
-
-\vnum{₁} O Lord our Lord,\\
-How excellent is thy name in all the earth!\\
-Who hast set thy glory above the heavens.\\
-\vnum{₂} Out of the mouth of babes and sucklings hast thou ordained strength\\
-Because of thine enemies,\\
-That thou mightest still the enemy and the avenger.\\
-\vnum{₃} When I consider thy heavens, the work of thy fingers,\\
-The moon and the stars, which thou hast ordained;\\
-\vnum{₄} What is man, that thou art mindful of him?\\
-And the son of man, that thou visitest him?\\
-\vnum{₅} For thou hast made him a little lower than the angels,\\
-And hast crowned him with glory and honour.\\
-\vnum{₆} Thou madest him to have dominion over the works of thy hands;\\
-Thou hast put all things under his feet:\\
-\vnum{₇} All sheep and oxen,\\
-Yea, and the beasts of the field;\\
-\vnum{₈} The fowl of the air, and the fish of the sea,\\
-And whatsoever passeth through the paths of the seas.\\
-\vnum{₉} O Lord our Lord,\\
-How excellent is thy name in all the earth!
-
-
+\vnum{₁₅} Their sword shall enter into their own heart,\\
+\hspace*{2.5em}And their bows shall be broken.
 
 \end{poetry}
 
+\vspace{0.1em}
 
 
 
 
-\subsection*{Chapter 9}
-
-\chapmark{Psalms 9} 
 
 
 
 \begin{poetry}
 
+\vnum{₁₆}  A little that a righteous man hath\\
+\hspace*{2.5em}Is better than the riches of many wicked.
+
+\vnum{₁₇} For the arms of the wicked shall be broken:\\
+\hspace*{2.5em}But the Lord upholdeth the righteous.
+
+\end{poetry}
+
+\vspace{0.1em}
 
 
 
 
-\psalmsuper{To the chief Musician upon Muth-labben, A Psalm of David.}
 
 
-\vnum{₁}  I will praise thee, O Lord, with my whole heart;\\
-I will shew forth all thy marvellous works.\\
-\vnum{₂} I will be glad and rejoice in thee:\\
-I will sing praise to thy name, O thou most High.\\
-\vnum{₃}  When mine enemies are turned back,\\
-They shall fall and perish at thy presence.\\
-\vnum{₄} For thou hast maintained my right and my cause;\\
-Thou satest in the throne judging right.\\
-\vnum{₅}  Thou hast rebuked the heathen, thou hast destroyed the wicked,\\
-Thou hast put out their name for ever and ever.\\
-\vnum{₆}  O thou enemy, destructions are come to a perpetual end:\\
-And thou hast destroyed cities;\\
-Their memorial is perished with them.\\
-\vnum{₇}  But the Lord shall endure for ever:\\
-He hath prepared his throne for judgment.\\
-\vnum{₈} And he shall judge the world in righteousness,\\
-He shall minister judgment to the people in uprightness.\\
-\vnum{₉} The Lord also will be a refuge for the oppressed,\\
-A refuge in times of trouble.\\
-\vnum{₁₀} And they that know thy name will put their trust in thee:\\
-For thou, Lord, hast not forsaken them that seek thee.\\
-\vnum{₁₁}  Sing praises to the Lord, which dwelleth in Zion:\\
-Declare among the people his doings.\\
-\vnum{₁₂} When he maketh inquisition for blood, he remembereth them:\\
-He forgetteth not the cry of the humble.\\
-\vnum{₁₃}  Have mercy upon me, O Lord;\\
-Consider my trouble which I suffer of them that hate me,\\
-Thou that liftest me up from the gates of death:\\
-\vnum{₁₄} That I may shew forth all thy praise\\
-In the gates of the daughter of Zion:\\
-I will rejoice in thy salvation.\\
-\vnum{₁₅}  The heathen are sunk down in the pit that they made:\\
-In the net which they hid is their own foot taken.\\
-\vnum{₁₆} The Lord is known by the judgment which he executeth:\\
-The wicked is snared in the work of his own hands.\\
-Higgaion. Selah.\\
-\vnum{₁₇}  The wicked shall be turned into hell,\\
-And all the nations that forget God.\\
-\vnum{₁₈}  For the needy shall not alway be forgotten:\\
-The expectation of the poor shall not perish for ever.\\
-\vnum{₁₉} Arise, O Lord; let not man prevail:\\
-Let the heathen be judged in thy sight.\\
-\vnum{₂₀} Put them in fear, O Lord:\\
-That the nations may know themselves to be but men. Selah.
+
+\begin{poetry}
+
+\vnum{₁₈}  The Lord knoweth the days of the upright:\\
+\hspace*{2.5em}And their inheritance shall be for ever.
+
+\vnum{₁₉} They shall not be ashamed in the evil time:\\
+\hspace*{2.5em}And in the days of famine they shall be satisfied.
+
+\end{poetry}
+
+\vspace{0.1em}
 
 
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₂₀}  But the wicked shall perish,\\
+\hspace*{2.5em}And the enemies of the Lord shall be as the fat of lambs:\\
+They shall consume; into smoke shall they consume away.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₂₁}  The wicked borroweth, and payeth not again:\\
+\hspace*{2.5em}But the righteous sheweth mercy, and giveth.
+
+\vnum{₂₂} For such as be blessed of him shall inherit the earth;\\
+\hspace*{2.5em}And they that be cursed of him shall be cut off.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₂₃}  The steps of a good man are ordered by the Lord:\\
+\hspace*{2.5em}And he delighteth in his way.
+
+\vnum{₂₄} Though he fall, he shall not be utterly cast down:\\
+\hspace*{2.5em}For the Lord upholdeth him with his hand.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₂₅}  I have been young, and now am old;\\
+\hspace*{2.5em}Yet have I not seen the righteous forsaken,\\
+\hspace*{2.5em}Nor his seed begging bread.
+
+\vnum{₂₆} He is ever merciful, and lendeth;\\
+\hspace*{2.5em}And his seed is blessed.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₂₇}  Depart from evil, and do good;\\
+\hspace*{2.5em}And dwell for evermore.
+
+\vnum{₂₈} For the Lord loveth judgment,\\
+\hspace*{2.5em}And forsaketh not his saints;
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+They are preserved for ever:\\
+\hspace*{2.5em}But the seed of the wicked shall be cut off.
+
+\vnum{₂₉} The righteous shall inherit the land,\\
+\hspace*{2.5em}And dwell therein for ever.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₃₀}  The mouth of the righteous speaketh wisdom,\\
+\hspace*{2.5em}And his tongue talketh of judgment.
+
+\vnum{₃₁} The law of his God is in his heart;\\
+\hspace*{2.5em}None of his steps shall slide.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₃₂}  The wicked watcheth the righteous,\\
+\hspace*{2.5em}And seeketh to slay him.
+
+\vnum{₃₃} The Lord will not leave him in his hand,\\
+\hspace*{2.5em}Nor condemn him when he is judged.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₃₄}  Wait on the Lord, and keep his way,\\
+\hspace*{2.5em}And he shall exalt thee to inherit the land:\\
+When the wicked are cut off, thou shalt see it.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₃₅}  I have seen the wicked in great power,\\
+\hspace*{2.5em}And spreading himself like a green bay tree.
+
+\vnum{₃₆} Yet he passed away, and lo, he was not:\\
+\hspace*{2.5em}Yea, I sought him, but he could not be found.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₃₇}  Mark the perfect man, and behold the upright:\\
+\hspace*{2.5em}For the end of that man is peace.
+
+\vnum{₃₈} But the transgressors shall be destroyed together:\\
+\hspace*{2.5em}The end of the wicked shall be cut off.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₃₉}  But the salvation of the righteous is of the Lord:\\
+\hspace*{2.5em}He is their strength in the time of trouble.
+
+\vnum{₄₀} And the Lord shall help them, and deliver them:\\
+\hspace*{2.5em}He shall deliver them from the wicked,\\
+And save them, because they trust in him.
 
 \end{poetry}
 
@@ -518,59 +467,82 @@ That the nations may know themselves to be but men. Selah.
 
 
 
-\subsection*{Chapter 10}
+\subsection*{Chapter 38}
 
-\chapmark{Psalms 10} 
+\chapmark{Psalms 38} 
 
 
 
 \begin{poetry}
 
+\psalmsuper{A Psalm of David, to bring to remembrance.}
 
+\vnum{₁} O Lord, rebuke me not in thy wrath:\\
+\hspace*{2.5em}Neither chasten me in thy hot displeasure.
 
-\vnum{₁}  Why standest thou afar off, O Lord?\\
-Why hidest thou thyself in times of trouble?\\
-\vnum{₂} The wicked in his pride doth persecute the poor:\\
-Let them be taken in the devices that they have imagined.\\
-\vnum{₃} For the wicked boasteth of his heart's desire,\\
-And blesseth the covetous, whom the Lord abhorreth.\\
-\vnum{₄} The wicked, through the pride of his countenance, will not seek after God:\\
-God is not in all his thoughts.\\
-\vnum{₅} His ways are always grievous;\\
-Thy judgments are far above out of his sight:\\
-As for all his enemies, he puffeth at them.\\
-\vnum{₆} He hath said in his heart, I shall not be moved:\\
-For I shall never be in adversity.\\
-\vnum{₇} His mouth is full of cursing and deceit and fraud:\\
-Under his tongue is mischief and vanity.\\
-\vnum{₈} He sitteth in the lurking places of the villages:\\
-In the secret places doth he murder the innocent:\\
-His eyes are privily set against the poor.\\
-\vnum{₉} He lieth in wait secretly as a lion in his den:\\
-He lieth in wait to catch the poor:\\
-He doth catch the poor, when he draweth him into his net.\\
-\vnum{₁₀} He croucheth, and humbleth himself,\\
-That the poor may fall by his strong ones.\\
-\vnum{₁₁} He hath said in his heart, God hath forgotten:\\
-He hideth his face; he will never see it.\\
-\vnum{₁₂}  Arise, O Lord; O God, lift up thine hand:\\
-Forget not the humble.\\
-\vnum{₁₃} Wherefore doth the wicked contemn God?\\
-He hath said in his heart, Thou wilt not require it.\\
-\vnum{₁₄}  Thou hast seen it; for thou beholdest mischief and spite,\\
-To requite it with thy hand:\\
-The poor committeth himself unto thee;\\
-Thou art the helper of the fatherless.\\
-\vnum{₁₅}  Break thou the arm of the wicked and the evil man:\\
-Seek out his wickedness till thou find none.\\
-\vnum{₁₆} The Lord is King for ever and ever:\\
-The heathen are perished out of his land.\\
-\vnum{₁₇}  Lord, thou hast heard the desire of the humble:\\
-Thou wilt prepare their heart, thou wilt cause thine ear to hear:\\
-\vnum{₁₈} To judge the fatherless and the oppressed,\\
-That the man of the earth may no more oppress.
+\vnum{₂} For thine arrows stick fast in me,\\
+\hspace*{2.5em}And thy hand presseth me sore.
 
+\vnum{₃} There is no soundness in my flesh because of thine anger;\\
+\hspace*{2.5em}Neither is there any rest in my bones because of my sin.
 
+\vnum{₄} For mine iniquities are gone over mine head:\\
+\hspace*{2.5em}As an heavy burden they are too heavy for me.
+
+\vnum{₅} My wounds stink and are corrupt\\
+\hspace*{2.5em}Because of my foolishness.
+
+\vnum{₆} I am troubled; I am bowed down greatly;\\
+\hspace*{2.5em}I go mourning all the day long.
+
+\vnum{₇} For my loins are filled with a loathsome disease:\\
+\hspace*{2.5em}And there is no soundness in my flesh.
+
+\vnum{₈} I am feeble and sore broken:\\
+\hspace*{2.5em}I have roared by reason of the disquietness of my heart.
+
+\vnum{₉} Lord, all my desire is before thee;\\
+\hspace*{2.5em}And my groaning is not hid from thee.
+
+\vnum{₁₀} My heart panteth, my strength faileth me:\\
+\hspace*{2.5em}As for the light of mine eyes, it also is gone from me.
+
+\vnum{₁₁} My lovers and my friends stand aloof from my sore;\\
+\hspace*{2.5em}And my kinsmen stand afar off.
+
+\vnum{₁₂} They also that seek after my life lay snares for me:\\
+\hspace*{2.5em}And they that seek my hurt speak mischievous things,\\
+\hspace*{2.5em}And imagine deceits all the day long.
+
+\vnum{₁₃} But I, as a deaf man, heard not;\\
+\hspace*{2.5em}And I was as a dumb man that openeth not his mouth.
+
+\vnum{₁₄} Thus I was as a man that heareth not,\\
+\hspace*{2.5em}And in whose mouth are no reproofs.
+
+\vnum{₁₅} For in thee, O Lord, do I hope:\\
+\hspace*{2.5em}Thou wilt hear, O Lord my God.
+
+\vnum{₁₆} For I said, Hear me, lest otherwise they should rejoice over me:\\
+\hspace*{2.5em}When my foot slippeth, they magnify themselves against me.
+
+\vnum{₁₇} For I am ready to halt,\\
+\hspace*{2.5em}And my sorrow is continually before me.
+
+\vnum{₁₈} For I will declare mine iniquity;\\
+\hspace*{2.5em}I will be sorry for my sin.
+
+\vnum{₁₉} But mine enemies are lively, and they are strong:\\
+\hspace*{2.5em}And they that hate me wrongfully are multiplied.
+
+\vnum{₂₀} They also that render evil for good are mine adversaries;\\
+\hspace*{2.5em}Because I follow the thing that good is.
+
+\vnum{₂₁} Forsake me not, O Lord:\\
+\hspace*{2.5em}O my God, be not far from me.
+
+\vnum{₂₂} Make haste to help me,\\
+\hspace*{2.5em}O Lord my salvation.
 
 \end{poetry}
 
@@ -578,17 +550,224 @@ That the man of the earth may no more oppress.
 
 
 
-\subsection*{Chapter 11}
+\subsection*{Chapter 39}
 
-\chapmark{Psalms 11} 
+\chapmark{Psalms 39} 
 
 
 
 \begin{poetry}
 
+\psalmsuper{To the chief Musician, even to Jeduthun, A Psalm of David.}
+
+\vnum{₁} I said, I will take heed to my ways,\\
+\hspace*{2.5em}That I sin not with my tongue:\\
+I will keep my mouth with a bridle,\\
+\hspace*{2.5em}While the wicked is before me.
+
+\vnum{₂} I was dumb with silence, I held my peace, even from good;\\
+\hspace*{2.5em}And my sorrow was stirred.
+
+\vnum{₃} My heart was hot within me,\\
+\hspace*{2.5em}While I was musing the fire burned:\\
+Then spake I with my tongue,
+
+\end{poetry}
+
+\vspace{0.1em}
 
 
 
+
+
+
+
+\begin{poetry}
+
+\vnum{₄} Lord, make me to know mine end,\\
+\hspace*{2.5em}And the measure of my days, what it is;\\
+\hspace*{2.5em}That I may know how frail I am.
+
+\vnum{₅} Behold, thou hast made my days as an handbreadth;\\
+\hspace*{2.5em}And mine age is as nothing before thee:\\
+Verily every man at his best state is altogether vanity. Selah.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₆} Surely every man walketh in a vain shew:\\
+\hspace*{2.5em}Surely they are disquieted in vain:\\
+\hspace*{2.5em}He heapeth up riches, and knoweth not who shall gather them.
+
+\vnum{₇} And now, Lord, what wait I for?\\
+\hspace*{2.5em}My hope is in thee.
+
+\vnum{₈} Deliver me from all my transgressions:\\
+\hspace*{2.5em}Make me not the reproach of the foolish.
+
+\vnum{₉} I was dumb, I opened not my mouth;\\
+\hspace*{2.5em}Because thou didst it.
+
+\vnum{₁₀} Remove thy stroke away from me:\\
+\hspace*{2.5em}I am consumed by the blow of thine hand.
+
+\vnum{₁₁} When thou with rebukes dost correct man for iniquity,\\
+\hspace*{2.5em}Thou makest his beauty to consume away like a moth:\\
+Surely every man is vanity. Selah.
+
+\end{poetry}
+
+\vspace{0.1em}
+
+
+
+
+
+
+
+\begin{poetry}
+
+\vnum{₁₂} Hear my prayer, O Lord,\\
+\hspace*{2.5em}And give ear unto my cry;\\
+Hold not thy peace at my tears:\\
+\hspace*{2.5em}For I am a stranger with thee,\\
+\hspace*{2.5em}And a sojourner, as all my fathers were.
+
+\vnum{₁₃} O spare me, that I may recover strength,\\
+\hspace*{2.5em}Before I go hence, and be no more.
+
+\end{poetry}
+
+
+
+
+
+\subsection*{Chapter 40}
+
+\chapmark{Psalms 40} 
+
+
+
+\begin{poetry}
+
+\psalmsuper{To the chief Musician, A Psalm of David.}
+
+\vnum{₁} I waited patiently for the Lord;\\
+\hspace*{2.5em}And he inclined unto me, and heard my cry.
+
+\vnum{₂} He brought me up also out of an horrible pit, out of the miry clay,\\
+\hspace*{2.5em}And set my feet upon a rock, and established my goings.
+
+\vnum{₃} And he hath put a new song in my mouth, even praise unto our God:\\
+\hspace*{2.5em}Many shall see it, and fear, and shall trust in the Lord.
+
+\vnum{₄} Blessed is that man that maketh the Lord his trust,\\
+\hspace*{2.5em}And respecteth not the proud, nor such as turn aside to lies.
+
+\vnum{₅} Many, O Lord my God, are thy wonderful works which thou hast done,\\
+\hspace*{2.5em}And thy thoughts which are to us-ward:\\
+They cannot be reckoned up in order unto thee:\\
+\hspace*{2.5em}If I would declare and speak of them,\\
+\hspace*{2.5em}They are more than can be numbered.
+
+\vnum{₆} Sacrifice and offering thou didst not desire;\\
+\hspace*{2.5em}Mine ears hast thou opened:\\
+\hspace*{2.5em}Burnt offering and sin offering hast thou not required.
+
+\vnum{₇} Then said I, Lo, I come:\\
+\hspace*{2.5em}In the volume of the book it is written of me,
+
+\vnum{₈} I delight to do thy will, O my God:\\
+\hspace*{2.5em}Yea, thy law is within my heart.
+
+\vnum{₉} I have preached righteousness in the great congregation:\\
+\hspace*{2.5em}Lo, I have not refrained my lips,\\
+\hspace*{2.5em}O Lord, thou knowest.
+
+\vnum{₁₀} I have not hid thy righteousness within my heart;\\
+\hspace*{2.5em}I have declared thy faithfulness and thy salvation:\\
+\hspace*{2.5em}I have not concealed thy lovingkindness and thy truth from the great congregation.
+
+\vnum{₁₁} Withhold not thou thy tender mercies from me, O Lord:\\
+\hspace*{2.5em}Let thy lovingkindness and thy truth continually preserve me.
+
+\vnum{₁₂} For innumerable evils have compassed me about:\\
+\hspace*{2.5em}Mine iniquities have taken hold upon me, so that I am not able to look up;\\
+\hspace*{2.5em}They are more than the hairs of mine head, therefore my heart faileth me.
+
+\vnum{₁₃} Be pleased, O Lord, to deliver me:\\
+\hspace*{2.5em}O Lord, make haste to help me.
+
+\vnum{₁₄} Let them be ashamed and confounded together that seek after my soul to destroy it;\\
+\hspace*{2.5em}Let them be driven backward and put to shame that wish me evil.
+
+\vnum{₁₅} Let them be desolate for a reward of their shame\\
+\hspace*{2.5em}That say unto me, Aha, aha!
+
+\vnum{₁₆} Let all those that seek thee rejoice and be glad in thee:\\
+\hspace*{2.5em}Let such as love thy salvation say continually, The Lord be magnified.
+
+\vnum{₁₇} But I am poor and needy; yet the Lord thinketh upon me:\\
+\hspace*{2.5em}Thou art my help and my deliverer;\\
+Make no tarrying, O my God.
+
+\end{poetry}
+
+
+
+
+
+\subsection*{Chapter 41}
+
+\chapmark{Psalms 41} 
+
+
+
+\begin{poetry}
+
+\psalmsuper{To the chief Musician, A Psalm of David.}
+
+\vnum{₁} Blessed is he that considereth the poor:\\
+\hspace*{2.5em}The Lord will deliver him in time of trouble.
+
+\vnum{₂} The Lord will preserve him, and keep him alive;\\
+\hspace*{2.5em}And he shall be blessed upon the earth:\\
+\hspace*{2.5em}And thou wilt not deliver him unto the will of his enemies.
+
+\vnum{₃} The Lord will strengthen him upon the bed of languishing:\\
+\hspace*{2.5em}Thou wilt make all his bed in his sickness.
+
+\vnum{₄} I said, Lord, be merciful unto me:\\
+\hspace*{2.5em}Heal my soul; for I have sinned against thee.
+
+\vnum{₅} Mine enemies speak evil of me,\\
+\hspace*{2.5em}When shall he die, and his name perish?
+
+\vnum{₆} And if he come to see me, he speaketh vanity:\\
+\hspace*{2.5em}His heart gathereth iniquity to itself;\\
+\hspace*{2.5em}When he goeth abroad, he telleth it.
+
+\vnum{₇} All that hate me whisper together against me:\\
+\hspace*{2.5em}Against me do they devise my hurt.
+
+\vnum{₈} An evil disease, say they, cleaveth fast unto him:\\
+\hspace*{2.5em}And now that he lieth he shall rise up no more.
+
+\vnum{₉} Yea, mine own familiar friend, in whom I trusted,\\
+\hspace*{2.5em}Which did eat of my bread,\\
+\hspace*{2.5em}Hath lifted up his heel against me.
+
+\vnum{₁₀} But thou, O Lord, be merciful unto me,\\
+\hspace*{2.5em}And raise me up, that I may requite them.
 \end{poetry}
 
 
@@ -653,18 +832,21 @@ That the man of the earth may no more oppress.
 
 \begin{poetry}
 
+\vnum{₃} Blessed are the poor in spirit: for theirs is the kingdom of heaven.
 
+\vnum{₄} Blessed are they that mourn: for they shall be comforted.
 
-\vnum{₃} Blessed are the poor in spirit: for theirs is the kingdom of heaven.\\
-\vnum{₄} Blessed are they that mourn: for they shall be comforted.\\
-\vnum{₅} Blessed are the meek: for they shall inherit the earth.\\
-\vnum{₆} Blessed are they which do hunger and thirst after righteousness: for they shall be filled.\\
-\vnum{₇} Blessed are the merciful: for they shall obtain mercy.\\
-\vnum{₈} Blessed are the pure in heart: for they shall see God.\\
-\vnum{₉} Blessed are the peacemakers: for they shall be called the children of God.\\
+\vnum{₅} Blessed are the meek: for they shall inherit the earth.
+
+\vnum{₆} Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
+
+\vnum{₇} Blessed are the merciful: for they shall obtain mercy.
+
+\vnum{₈} Blessed are the pure in heart: for they shall see God.
+
+\vnum{₉} Blessed are the peacemakers: for they shall be called the children of God.
+
 \vnum{₁₀} Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.
-
-
 
 \end{poetry}
 

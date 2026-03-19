@@ -18,6 +18,11 @@ python3 bin/quad/tag_books.py out/dc/dc-step3.md   out/dc/dc-step4.md
 python3 bin/quad/tag_books.py out/pogp/pogp-step3.md out/pogp/pogp-step4.md
 
 echo ""
+echo "=== Stage 1b: epub_stanza (OT + NT) ==="
+python3 bin/epub_stanza.py in/epub/engkjvcpb.epub out/ot/ot-step4.md out/ot/ot-step5.md
+python3 bin/epub_stanza.py in/epub/engkjvcpb.epub out/nt/nt-step4.md out/nt/nt-step5.md
+
+echo ""
 echo "=== Stage 2: concat ==="
 python3 bin/quad/concat.py out/quad/quad-raw.md
 

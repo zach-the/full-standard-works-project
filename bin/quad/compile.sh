@@ -18,9 +18,9 @@ echo "(running twice for TOC and cross-references)"
 # First pass (LaTeX needs two runs for TOC page numbers)
 pandoc "$INPUT" \
   -o "$OUTPUT" \
-  --pdf-engine=xelatex \
+  --pdf-engine=/Library/TeX/texbin/xelatex \
   --pdf-engine-opt="-interaction=nonstopmode" \
-  -V mainfont="Noto Serif" \
+  -V mainfont="Palatino" \
   -V documentclass=book \
   -V fontsize=11pt \
   -V lang=en \
@@ -32,9 +32,9 @@ echo "First pass done. Running second pass for correct TOC page numbers..."
 # Second pass
 pandoc "$INPUT" \
   -o "$OUTPUT" \
-  --pdf-engine=xelatex \
+  --pdf-engine=/Library/TeX/texbin/xelatex \
   --pdf-engine-opt="-interaction=nonstopmode" \
-  -V mainfont="Noto Serif" \
+  -V mainfont="Palatino" \
   -V documentclass=book \
   -V fontsize=11pt \
   -V lang=en \

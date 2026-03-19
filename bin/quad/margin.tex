@@ -110,15 +110,17 @@
 % Environments
 % ============================================================
 
-% Poetry: ragged right, no indent, slight left margin
+% Poetry: ragged right, no paragraph indent. Continuation lines receive explicit
+% \hspace*{2.5em} from convert.py so they are indented relative to verse-number lines.
+% The larger bottom addvspace (0.9em) creates a visible stanza gap between
+% consecutive poetry blocks, which represent separate stanzas.
 \newenvironment{poetry}{%
   \par\addvspace{0.3em}%
   \setlength{\parindent}{0pt}%
-  \setlength{\leftskip}{1.5em}%
   \raggedright
 }{%
   \par\addvspace{0.3em}%
-  \setlength{\leftskip}{0pt}%
+  \setlength{\parindent}{1.5em}%
 }
 
 % Book intro / section header (italic)

@@ -126,11 +126,72 @@ def extract_chapter_num(h1_text):
 
 
 def fix_poetry_linebreaks(text):
-    """Convert single newlines within poetry blocks to LaTeX forced line breaks."""
+    """Format poetry blocks with the hanging-indent indentation logic.
+
+    Within each \\begin{poetry}...\\end{poetry} block, lines are assigned
+    an indent level:
+
+      - Line 1 of each verse (the \\vnum{N} line): normal (no indent)
+      - Lines at even positions within a verse (2nd, 4th, ...): always indented
+      - Lines at odd positions > 1 (3rd, 5th, ...): normal, UNLESS the line
+        is the last line of its verse AND the verse is not the last verse in
+        the poetry block → force indented.
+
+    Verses are delimited by lines starting with \\vnum{.
+    Each poetry block is treated as one stanza.
+    """
+    INDENT = '\\hspace*{2.5em}'
+
     def process_block(m):
         inner = m.group(1)
-        fixed = re.sub(r'(?<!\n)\n(?!\n)', r'\\\\\n', inner)
-        return '\\begin{poetry}\n' + fixed + '\n\\end{poetry}'
+        raw_lines = [l.strip() for l in inner.split('\n') if l.strip()]
+        if not raw_lines:
+            return '\\begin{poetry}\n\\end{poetry}'
+
+        # Group lines into verses; lines before the first \vnum form verse 0.
+        verses = []
+        current = []
+        for line in raw_lines:
+            if line.startswith(r'\vnum{') and current:
+                verses.append(current)
+                current = [line]
+            else:
+                current.append(line)
+        if current:
+            verses.append(current)
+
+        n_verses = len(verses)
+        out_parts = []
+
+        for vi, verse_lines in enumerate(verses):
+            is_last_verse = (vi == n_verses - 1)
+            n_lines = len(verse_lines)
+            parts = []
+
+            for li, line in enumerate(verse_lines):
+                position = li + 1   # 1-indexed within this verse
+                is_last_line = (li == n_lines - 1)
+
+                if position == 1:
+                    do_indent = False
+                elif position % 2 == 0:
+                    do_indent = True
+                else:
+                    # Odd position > 1: force indent if last-in-verse but
+                    # not last-in-stanza (i.e., more verses follow).
+                    do_indent = is_last_line and not is_last_verse
+
+                if not parts:
+                    parts.append(line)
+                elif do_indent:
+                    parts.append(f'\\\\\n{INDENT}{line}')
+                else:
+                    parts.append(f'\\\\\n{line}')
+
+            out_parts.append(''.join(parts))
+
+        return '\\begin{poetry}\n\n' + '\n\n'.join(out_parts) + '\n\n\\end{poetry}'
+
     return re.sub(
         r'\\begin\{poetry\}(.*?)\\end\{poetry\}',
         process_block,
@@ -243,6 +304,15 @@ def convert(in_path, out_path):
     result.append(content[pos:])
 
     final = fix_poetry_linebreaks(''.join(result))
+
+    # Insert explicit \vspace between consecutive poetry stanza blocks.
+    # \addvspace in the environment end-code gets absorbed by Pandoc's \par
+    # injections; \vspace between the blocks is reliable.
+    final = re.sub(
+        r'(\\end\{poetry\})(\s*\\begin\{poetry\})',
+        r'\1\n\n\\vspace{0.1em}\2',
+        final,
+    )
 
     Path(out_path).write_text(final)
     print(f'Wrote {out_path}')
